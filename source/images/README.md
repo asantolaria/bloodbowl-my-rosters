@@ -8,16 +8,16 @@ Imágenes de equipos obtenidas desde [Nuffle Zone](https://nufflezone.com/equipo
 
 ## Cómo descargar las imágenes
 
-Desde la raíz del repositorio, con Python 3 y `requests` instalado:
+Si existe en el repo un script de descarga (p. ej. en `scripts/`), desde la raíz del repositorio:
 
 ```bash
 pip install requests
 python scripts/download_nufflezone_images.py
 ```
 
-El script descarga la [página índice de equipos](https://nufflezone.com/equipos-blood-bowl/) de Nuffle Zone, extrae la imagen (logo) asociada a cada equipo y la guarda en `source/images/equipos/<slug>.<ext>`.
+Ese script descargaría la [página índice de equipos](https://nufflezone.com/equipos-blood-bowl/) de Nuffle Zone y guardaría cada logo en `source/images/equipos/<slug>.<ext>`.
 
-Si no usas Python, puedes descargar manualmente desde la página de equipos de Nuffle Zone y guardar cada logo con el nombre del slug (ej. `altos-elfos.jpg`) en `source/images/equipos/`.
+**Alternativa:** descargar manualmente desde la página de equipos de Nuffle Zone y guardar cada logo con el nombre del slug (ej. `altos-elfos.jpg`) en `source/images/equipos/`.
 
 ## Uso en fichas y rosters
 
