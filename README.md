@@ -9,14 +9,16 @@ Repositorio para guardar y consultar **rosters de Blood Bowl** en Markdown, enfo
 Los rosters están en **[`rosters/`](rosters/)**. Índice completo: [rosters/README.md](rosters/README.md).
 
 | Equipo | Nombre del equipo | TV | Archivo |
-|--------|------------------|-----|---------|
-| Elegidos del Caos | Bollychaos | 1.080k | [elegidos-del-caos-bollychaos-1080k.md](rosters/elegidos-del-caos-bollychaos-1080k.md) |
-| Hombres Lagarto | Pandora | 1.060k | [hombres-lagarto-pandora-1060k.md](rosters/hombres-lagarto-pandora-1060k.md) |
+|--------|-------------------|-----|---------|
+| Nobleza Imperial | Barones Bigotudos | 1.070k | [barones-bigotudos-nobleza-imperial-1070k.md](rosters/barones-bigotudos-nobleza-imperial-1070k.md) |
+| Nobleza Imperial | Barones Bigotudos | 1.205k | [barones-bigotudos-nobleza-imperial-1205k.md](rosters/barones-bigotudos-nobleza-imperial-1205k.md) |
+| Elegidos del Caos | Bollychaos | 1.285k | [bollychaos-elegidos-del-caos-1285k.md](rosters/bollychaos-elegidos-del-caos-1285k.md) |
+| Orcos Negros | Brutorcos | 1.230k | [brutorcos-orcos-negros-1230k.md](rosters/brutorcos-orcos-negros-1230k.md) |
+| Unión Élfica | Elven Thunders | 1.200k | [elven-thunders-union-elfica-1200k.md](rosters/elven-thunders-union-elfica-1200k.md) |
+| Unión Élfica | Sugerencia torneo | 1.160k | [sugerencia-torneo-union-elfica-1160k.md](rosters/sugerencia-torneo-union-elfica-1160k.md) |
+| No Muertos | Muertos de Risa | 1.100k | [muertos-de-risa-no-muertos-1100k.md](rosters/muertos-de-risa-no-muertos-1100k.md) |
 | No Muertos | Muertos de Risa | 1.040k | [no-muertos-muertos-de-risa-1040k.md](rosters/no-muertos-muertos-de-risa-1040k.md) |
-| Nobleza Imperial | Barones Bigotudos | 1.040k | [nobleza-imperial-barones-bigotudos-1040k.md](rosters/nobleza-imperial-barones-bigotudos-1040k.md) |
-| Nobleza Imperial | Barones Bigotudos | 1.205k | [nobleza-imperial-barones-bigotudos-1205k.md](rosters/nobleza-imperial-barones-bigotudos-1205k.md) |
-| Orcos Negros | Brutorcos | 1.060k | [orcos-negros-brutorcos-1060k.md](rosters/orcos-negros-brutorcos-1060k.md) |
-| Unión Élfica | Elven Thunders | 1.060k | [union-elfica-elven-thunders-1060k.md](rosters/union-elfica-elven-thunders-1060k.md) |
+| Hombres Lagarto | Pandora | 1.140k | [pandora-hombres-lagarto-1140k.md](rosters/pandora-hombres-lagarto-1140k.md) |
 
 ---
 

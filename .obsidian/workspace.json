@@ -13,21 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/tiers/oro-presupuesto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "oro-presupuesto"
-            }
-          },
-          {
-            "id": "949dce9563c80897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,16 +183,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "949dce9563c80897",
+  "active": "d23ad81652fea89d",
   "lastOpenFiles": [
+    "rosters/muertos-de-risa-no-muertos-1100k.md",
+    "README.md",
+    "source/tiers/oro-presupuesto.md",
+    "rosters/no-muertos-muertos-de-risa-1040k.md",
+    "source/README.md",
     "rosters/sugerencia-torneo-union-elfica-1160k.md",
     "source/teams.md",
     "source/referencias-rosters-torneos.md",
-    "source/README.md",
     "rosters/bollychaos-elegidos-del-caos-1285k.md",
     "rosters/brutorcos-orcos-negros-1230k.md",
     "rosters/pandora-hombres-lagarto-1140k.md",
-    "rosters/muertos-de-risa-no-muertos-1100k.md",
     "rosters/barones-bigotudos-nobleza-imperial-1205k.md",
     "rosters/barones-bigotudos-nobleza-imperial-1070k.md",
     "rosters/elven-thunders-union-elfica-1200k.md",
@@ -217,15 +205,12 @@
     "rosters/union-elfica-orejas-picudas-1160k.md",
     "rosters/union-elfica-orejas-picudas-1060k.md",
     "rosters/elegidos-del-caos-bollychaos-1115k.md",
-    "source/tiers/oro-presupuesto.md",
     "rosters/elegidos-del-caos-bollychaos-1180k.md",
     "source/tiers/README.md",
     "habilidades.md",
-    "README.md",
     "source/tablas/README.md",
     "source/habilidades/README.md",
     "source/teams/README.md",
-    "source/index.md",
     "source/images/equipos/union-elfica.webp",
     "source/images/equipos/snotlings.webp",
     "source/images/equipos/slann.webp",
