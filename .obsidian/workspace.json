@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "b63337b15d972530",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8ccb29f05505daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23ad81652fea89d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/tiers/oro-presupuesto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "oro-presupuesto"
+            }
+          },
+          {
+            "id": "949dce9563c80897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0209f98039c5b5c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3380c146eb70cb07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f40eb96d0e3a9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "4498ec54c3cc5437",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "03bd312d5823a2a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55388d16d5346991",
+    "type": "split",
+    "children": [
+      {
+        "id": "36a36fa4bef047e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "971974a72ad926bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de README"
+            }
+          },
+          {
+            "id": "eda4cb8923e66ad5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de README"
+            }
+          },
+          {
+            "id": "a28c33be5578f440",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "9963e01e8479d50c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "e1731973a734e45e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "949dce9563c80897",
+  "lastOpenFiles": [
+    "rosters/sugerencia-torneo-union-elfica-1160k.md",
+    "source/teams.md",
+    "source/referencias-rosters-torneos.md",
+    "source/README.md",
+    "rosters/bollychaos-elegidos-del-caos-1285k.md",
+    "rosters/brutorcos-orcos-negros-1230k.md",
+    "rosters/pandora-hombres-lagarto-1140k.md",
+    "rosters/muertos-de-risa-no-muertos-1100k.md",
+    "rosters/barones-bigotudos-nobleza-imperial-1205k.md",
+    "rosters/barones-bigotudos-nobleza-imperial-1070k.md",
+    "rosters/elven-thunders-union-elfica-1200k.md",
+    "rosters/union-elfica-elven-thunders-1160k.md",
+    "rosters/elegidos-del-caos-asdf2-1180k.md",
+    "rosters/union-elfica-asdf-1160k.md",
+    "rosters/union-elfica-orejas-picudas-1160k.md",
+    "rosters/union-elfica-orejas-picudas-1060k.md",
+    "rosters/elegidos-del-caos-bollychaos-1115k.md",
+    "source/tiers/oro-presupuesto.md",
+    "rosters/elegidos-del-caos-bollychaos-1180k.md",
+    "source/tiers/README.md",
+    "habilidades.md",
+    "README.md",
+    "source/tablas/README.md",
+    "source/habilidades/README.md",
+    "source/teams/README.md",
+    "source/index.md",
+    "source/images/equipos/union-elfica.webp",
+    "source/images/equipos/snotlings.webp",
+    "source/images/equipos/slann.webp",
+    "source/images/equipos/skavens.webp",
+    "source/images/equipos/reyes-funerarios.webp",
+    "source/images/equipos/orcos-negros.webp",
+    "source/images/equipos/ogros.webp",
+    "source/images/equipos/nordicos.webp",
+    "source/images/equipos/no-muertos.webp",
+    "source/images/equipos/nobleza-imperial.webp",
+    "scripts/download_nufflezone_images.ps1",
+    "source/images/equipos",
+    "source/images",
+    "scripts/download_nufflezone_images.py",
+    "source/tiers",
+    "scripts/add-star-descriptions.py",
+    "scripts",
+    "source/tablas",
+    "source/jugadores-estrella",
+    "source/habilidades"
+  ]
+}
