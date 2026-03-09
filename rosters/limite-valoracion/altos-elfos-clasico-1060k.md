@@ -24,17 +24,17 @@
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Blitzer  | 100k  | 7  | 3  | 2+ | 4+ | 9  | El Balón es Mío, Equilibrio Firme, Placar |
-| 2  | —      | Blitzer  | 100k  | 7  | 3  | 2+ | 4+ | 9  | El Balón es Mío, Equilibrio Firme, Placar |
-| 3  | —      | Thrower  | 100k  | 6  | 3  | 2+ | 2+ | 9  | Partenubes, Pasar, Pase Seguro |
-| 4  | —      | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| 5  | —      | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| 6  | —      | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| 7  | —      | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| 8  | —      | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| 9  | —      | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| 10 | —      | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| 11 | —      | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
+| ____ | ____________________ | Blitzer  | 100k  | 7  | 3  | 2+ | 4+ | 9  | El Balón es Mío, Equilibrio Firme, Placar |
+| ____ | ____________________ | Blitzer  | 100k  | 7  | 3  | 2+ | 4+ | 9  | El Balón es Mío, Equilibrio Firme, Placar |
+| ____ | ____________________ | Thrower  | 100k  | 6  | 3  | 2+ | 2+ | 9  | Partenubes, Pasar, Pase Seguro |
+| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
 
 **Total jugadores:** 11 | **TV:** 1.060k
 

@@ -24,18 +24,18 @@
 
 | Nº | Nombre | Posición      | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|---------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Minotauro     | 150k  | 5  | 5  | 4+ | 6+ | 9  | Frenesí, Cuernos, Solitario (4+), Golpe Contundente, Cráneo Duro, Furia Desatada, **Imparable** |
-| 2  | —      | Guerrero Caos | 100k  | 5  | 4  | 3+ | —  | 10 | Brazo Armado, **Bloqueo** |
-| 3  | —      | Guerrero Caos | 100k  | 5  | 4  | 3+ | —  | 10 | Brazo Armado, **Bloqueo** |
-| 4  | —      | Guerrero Caos | 100k  | 5  | 4  | 3+ | —  | 10 | Brazo Armado, **Guardia** |
-| 5  | —      | Guerrero Caos | 100k  | 5  | 4  | 3+ | —  | 10 | Brazo Armado, **Guardia** |
-| 6  | —      | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro, **Bloqueo** |
-| 7  | —      | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro, **Manos Seguras** |
-| 8  | —      | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro |
-| 9  | —      | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro |
-| 10 | —      | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro |
-| 11 | —      | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro |
-| 12 | —      | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro |
+| ____ | ____________________ | Minotauro     | 150k  | 5  | 5  | 4+ | 6+ | 9  | Frenesí, Cuernos, Solitario (4+), Golpe Contundente, Cráneo Duro, Furia Desatada, **Imparable** |
+| ____ | ____________________ | Guerrero Caos | 100k  | 5  | 4  | 3+ | —  | 10 | Brazo Armado, **Bloqueo** |
+| ____ | ____________________ | Guerrero Caos | 100k  | 5  | 4  | 3+ | —  | 10 | Brazo Armado, **Bloqueo** |
+| ____ | ____________________ | Guerrero Caos | 100k  | 5  | 4  | 3+ | —  | 10 | Brazo Armado, **Guardia** |
+| ____ | ____________________ | Guerrero Caos | 100k  | 5  | 4  | 3+ | —  | 10 | Brazo Armado, **Guardia** |
+| ____ | ____________________ | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro, **Bloqueo** |
+| ____ | ____________________ | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro, **Manos Seguras** |
+| ____ | ____________________ | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro |
+| ____ | ____________________ | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro |
+| ____ | ____________________ | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro |
+| ____ | ____________________ | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro |
+| ____ | ____________________ | Beastman      | 55k   | 6  | 3  | 3+ | —  | 9  | Cuernos, Cráneo Duro |
 
 **Total jugadores:** 12 | **TV:** 1.275k
 

@@ -24,18 +24,18 @@
 
 | Nº | Nombre | Posición      | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|---------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Kroxigor      | 140k  | 6  | 5  | 5+ | 6+ | 10 | Cabeza Dura, Estúpido, Cola Prensil, Golpe Mortífero, Solitario (4+), **Guardia** |
-| 2  | —      | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Placar** |
-| 3  | —      | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Placar** |
-| 4  | —      | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Placar** |
-| 5  | —      | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Placar** |
-| 6  | —      | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Guardia** |
-| 7  | —      | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Guardia**, **Golpe Mortífero** |
-| 8  | —      | Eslizón Línea | 60k   | 8  | 2  | 3+ | 4+ | 8  | Esquivar, Escurridizo, **Pies Seguros** |
-| 9  | —      | Eslizón Línea | 60k   | 8  | 2  | 3+ | 4+ | 8  | Esquivar, Escurridizo, **Echarse a un Lado** |
-| 10 | —      | Eslizón Línea | 60k   | 8  | 2  | 3+ | 4+ | 8  | Esquivar, Escurridizo |
-| 11 | —      | Eslizón Línea | 60k   | 8  | 2  | 3+ | 4+ | 8  | Esquivar, Escurridizo |
-| 12 | —      | Eslizón Línea | 60k   | 8  | 2  | 3+ | 4+ | 8  | Esquivar, Escurridizo |
+| ____ | ____________________ | Kroxigor      | 140k  | 6  | 5  | 5+ | 6+ | 10 | Cabeza Dura, Estúpido, Cola Prensil, Golpe Mortífero, Solitario (4+), **Guardia** |
+| ____ | ____________________ | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Placar** |
+| ____ | ____________________ | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Placar** |
+| ____ | ____________________ | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Placar** |
+| ____ | ____________________ | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Placar** |
+| ____ | ____________________ | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Guardia** |
+| ____ | ____________________ | Saurio        | 90k   | 6  | 4  | 5+ | 6+ | 10 | Imparable, Tembloroso, **Guardia**, **Golpe Mortífero** |
+| ____ | ____________________ | Eslizón Línea | 60k   | 8  | 2  | 3+ | 4+ | 8  | Esquivar, Escurridizo, **Pies Seguros** |
+| ____ | ____________________ | Eslizón Línea | 60k   | 8  | 2  | 3+ | 4+ | 8  | Esquivar, Escurridizo, **Echarse a un Lado** |
+| ____ | ____________________ | Eslizón Línea | 60k   | 8  | 2  | 3+ | 4+ | 8  | Esquivar, Escurridizo |
+| ____ | ____________________ | Eslizón Línea | 60k   | 8  | 2  | 3+ | 4+ | 8  | Esquivar, Escurridizo |
+| ____ | ____________________ | Eslizón Línea | 60k   | 8  | 2  | 3+ | 4+ | 8  | Esquivar, Escurridizo |
 
 **Total jugadores:** 12 | **TV:** 1.280k
 

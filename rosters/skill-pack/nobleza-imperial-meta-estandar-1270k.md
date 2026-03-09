@@ -24,19 +24,19 @@
 
 | Nº | Nombre | Posición          | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|-------------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Ogre              | 140k  | 5  | 5  | 4+ | 5+ | 10 | Estúpido, Solitario (3+), Golpe Mortífero, Cabeza Dura, Lanzar Compañero, **Guardia** |
-| 2  | —      | Bodyguard         | 85k   | 5  | 3  | 3+ | 4+ | 9  | Mantenerse Firme, Forcejeo, **Guardia** |
-| 3  | —      | Bodyguard         | 85k   | 5  | 3  | 3+ | 4+ | 9  | Mantenerse Firme, Forcejeo, **Guardia** |
-| 4  | —      | Bodyguard         | 85k   | 5  | 3  | 3+ | 4+ | 9  | Mantenerse Firme, Forcejeo |
-| 5  | —      | Bodyguard         | 85k   | 5  | 3  | 3+ | 4+ | 9  | Mantenerse Firme, Forcejeo |
-| 6  | —      | Noble Blitzer     | 90k   | 7  | 3  | 3+ | 4+ | 9  | Placar, Atrapar, Profesional, **Esquivar**, **Golpe Mortífero** (sec) |
-| 7  | —      | Noble Blitzer     | 90k   | 7  | 3  | 3+ | 4+ | 9  | Placar, Atrapar, Profesional, **Placaje Defensivo** |
-| 8  | —      | Imperial Thrower  | 75k   | 6  | 3  | 3+ | 2+ | 9  | Pasar, Pasar y seguir, Profesional |
-| 9  | —      | Retainer Línea     | 45k   | 6  | 3  | 3+ | 4+ | 8  | Zafarse, **Patada** |
-| 10 | —      | Retainer Línea     | 45k   | 6  | 3  | 3+ | 4+ | 8  | Zafarse |
-| 11 | —      | Retainer Línea     | 45k   | 6  | 3  | 3+ | 4+ | 8  | Zafarse |
-| 12 | —      | Retainer Línea     | 45k   | 6  | 3  | 3+ | 4+ | 8  | Zafarse |
-| 13 | —      | Retainer Línea     | 45k   | 6  | 3  | 3+ | 4+ | 8  | Zafarse |
+| ____ | ____________________ | Ogre              | 140k  | 5  | 5  | 4+ | 5+ | 10 | Estúpido, Solitario (3+), Golpe Mortífero, Cabeza Dura, Lanzar Compañero, **Guardia** |
+| ____ | ____________________ | Bodyguard         | 85k   | 5  | 3  | 3+ | 4+ | 9  | Mantenerse Firme, Forcejeo, **Guardia** |
+| ____ | ____________________ | Bodyguard         | 85k   | 5  | 3  | 3+ | 4+ | 9  | Mantenerse Firme, Forcejeo, **Guardia** |
+| ____ | ____________________ | Bodyguard         | 85k   | 5  | 3  | 3+ | 4+ | 9  | Mantenerse Firme, Forcejeo |
+| ____ | ____________________ | Bodyguard         | 85k   | 5  | 3  | 3+ | 4+ | 9  | Mantenerse Firme, Forcejeo |
+| ____ | ____________________ | Noble Blitzer     | 90k   | 7  | 3  | 3+ | 4+ | 9  | Placar, Atrapar, Profesional, **Esquivar**, **Golpe Mortífero** (sec) |
+| ____ | ____________________ | Noble Blitzer     | 90k   | 7  | 3  | 3+ | 4+ | 9  | Placar, Atrapar, Profesional, **Placaje Defensivo** |
+| ____ | ____________________ | Imperial Thrower  | 75k   | 6  | 3  | 3+ | 2+ | 9  | Pasar, Pasar y seguir, Profesional |
+| ____ | ____________________ | Retainer Línea     | 45k   | 6  | 3  | 3+ | 4+ | 8  | Zafarse, **Patada** |
+| ____ | ____________________ | Retainer Línea     | 45k   | 6  | 3  | 3+ | 4+ | 8  | Zafarse |
+| ____ | ____________________ | Retainer Línea     | 45k   | 6  | 3  | 3+ | 4+ | 8  | Zafarse |
+| ____ | ____________________ | Retainer Línea     | 45k   | 6  | 3  | 3+ | 4+ | 8  | Zafarse |
+| ____ | ____________________ | Retainer Línea     | 45k   | 6  | 3  | 3+ | 4+ | 8  | Zafarse |
 
 **Total jugadores:** 13 | **TV:** 1.270k
 

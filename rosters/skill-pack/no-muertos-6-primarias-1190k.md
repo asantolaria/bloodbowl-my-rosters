@@ -24,17 +24,17 @@
 
 | Nº | Nombre | Posición   | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Momia      | 125k  | 3  | 5  | 5+ | 6+ | 10 | Golpe Mortífero, Regeneración, **Guardia** |
-| 2  | —      | Momia      | 125k  | 3  | 5  | 5+ | 6+ | 10 | Golpe Mortífero, Regeneración, **Guardia** |
-| 3  | —      | Caballero  | 95k   | 6  | 3  | 3+ | 5+ | 9  | Cabeza Dura, Placar, Placaje Defensivo, Regeneración, **Golpe Mortífero** |
-| 4  | —      | Caballero  | 95k   | 6  | 3  | 3+ | 5+ | 9  | Cabeza Dura, Placar, Placaje Defensivo, Regeneración |
-| 5  | —      | Necrófago  | 75k   | 7  | 3  | 3+ | 3+ | 8  | Esquivar, Regeneración, **Pies Seguros** |
-| 6  | —      | Necrófago  | 75k   | 7  | 3  | 3+ | 3+ | 8  | Esquivar, Regeneración, **Placar** |
-| 7  | —      | Necrófago  | 75k   | 7  | 3  | 3+ | 3+ | 8  | Esquivar, Regeneración |
-| 8  | —      | Necrófago  | 75k   | 7  | 3  | 3+ | 3+ | 8  | Esquivar, Regeneración |
-| 9  | —      | Zombie     | 40k   | 4  | 3  | 4+ | 6+ | 9  | Piquete de Ojos, Inestable, Regeneración |
-| 10 | —      | Zombie     | 40k   | 4  | 3  | 4+ | 6+ | 9  | Piquete de Ojos, Inestable, Regeneración |
-| 11 | —      | Zombie     | 40k   | 4  | 3  | 4+ | 6+ | 9  | Piquete de Ojos, Inestable, Regeneración |
+| ____ | ____________________ | Momia      | 125k  | 3  | 5  | 5+ | 6+ | 10 | Golpe Mortífero, Regeneración, **Guardia** |
+| ____ | ____________________ | Momia      | 125k  | 3  | 5  | 5+ | 6+ | 10 | Golpe Mortífero, Regeneración, **Guardia** |
+| ____ | ____________________ | Caballero  | 95k   | 6  | 3  | 3+ | 5+ | 9  | Cabeza Dura, Placar, Placaje Defensivo, Regeneración, **Golpe Mortífero** |
+| ____ | ____________________ | Caballero  | 95k   | 6  | 3  | 3+ | 5+ | 9  | Cabeza Dura, Placar, Placaje Defensivo, Regeneración |
+| ____ | ____________________ | Necrófago  | 75k   | 7  | 3  | 3+ | 3+ | 8  | Esquivar, Regeneración, **Pies Seguros** |
+| ____ | ____________________ | Necrófago  | 75k   | 7  | 3  | 3+ | 3+ | 8  | Esquivar, Regeneración, **Placar** |
+| ____ | ____________________ | Necrófago  | 75k   | 7  | 3  | 3+ | 3+ | 8  | Esquivar, Regeneración |
+| ____ | ____________________ | Necrófago  | 75k   | 7  | 3  | 3+ | 3+ | 8  | Esquivar, Regeneración |
+| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 4+ | 6+ | 9  | Piquete de Ojos, Inestable, Regeneración |
+| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 4+ | 6+ | 9  | Piquete de Ojos, Inestable, Regeneración |
+| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 4+ | 6+ | 9  | Piquete de Ojos, Inestable, Regeneración |
 
 **Total jugadores:** 11 | **TV:** 1.190k
 

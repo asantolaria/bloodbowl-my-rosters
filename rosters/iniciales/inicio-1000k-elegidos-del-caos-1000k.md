@@ -24,16 +24,16 @@
 
 | Nº | Nombre | Posición     | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|--------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Troll del Caos | 115k | 4 | 5 | 1 | — | 10 | Siempre Hambriento, Solitario (4+), Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero |
-| 2  | —      | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
-| 3  | —      | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
-| 4  | —      | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
-| 5  | —      | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
-| 6  | —      | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
-| 7  | —      | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
-| 8  | —      | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
-| 9  | —      | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
-| 10 | —      | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
+| ____ | ____________________ | Troll del Caos | 115k | 4 | 5 | 1 | — | 10 | Siempre Hambriento, Solitario (4+), Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero |
+| ____ | ____________________ | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
+| ____ | ____________________ | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
+| ____ | ____________________ | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
+| ____ | ____________________ | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
+| ____ | ____________________ | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
+| ____ | ____________________ | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
+| ____ | ____________________ | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
+| ____ | ____________________ | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
+| ____ | ____________________ | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
 
 **Total jugadores:** 10 | **TV:** 1.000k
 

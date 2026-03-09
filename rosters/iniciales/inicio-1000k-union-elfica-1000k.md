@@ -24,17 +24,17 @@
 
 | Nº | Nombre | Posición   | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Elfo Blitzer | 115k | 7 | 3 | 2+ | — | 9 | Placar, Echarse a un Lado |
-| 2  | —      | Elfo Blitzer | 115k | 7 | 3 | 2+ | — | 9 | Placar, Echarse a un Lado |
-| 3  | —      | Elfo Catcher | 100k | 8 | 3 | 2+ | — | 8 | Atrapar, Nervios de Acero, Recepción Heroica |
-| 4  | —      | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| 5  | —      | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| 6  | —      | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| 7  | —      | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| 8  | —      | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| 9  | —      | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| 10 | —      | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| 11 | —      | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
+| ____ | ____________________ | Elfo Blitzer | 115k | 7 | 3 | 2+ | — | 9 | Placar, Echarse a un Lado |
+| ____ | ____________________ | Elfo Blitzer | 115k | 7 | 3 | 2+ | — | 9 | Placar, Echarse a un Lado |
+| ____ | ____________________ | Elfo Catcher | 100k | 8 | 3 | 2+ | — | 8 | Atrapar, Nervios de Acero, Recepción Heroica |
+| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
+| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
+| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
+| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
+| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
+| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
+| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
+| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
 
 **Total jugadores:** 11 | **TV:** 1.000k
 

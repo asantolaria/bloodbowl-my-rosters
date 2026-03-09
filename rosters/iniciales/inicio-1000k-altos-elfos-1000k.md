@@ -24,16 +24,16 @@
 
 | Nº | Nombre | Posición     | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|--------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Blitzer      | 105k  | 7  | 3  | 2+ | —  | 9  | Placar, Equilibrio Firme |
-| 2  | —      | Blitzer      | 105k  | 7  | 3  | 2+ | —  | 9  | Placar, Equilibrio Firme |
-| 3  | —      | Catcher      | 90k   | 7  | 3  | 2+ | —  | 8  | Garras, Forcejear |
-| 4  | —      | Catcher      | 90k   | 7  | 3  | 2+ | —  | 8  | Garras, Forcejear |
-| 5  | —      | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
-| 6  | —      | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
-| 7  | —      | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
-| 8  | —      | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
-| 9  | —      | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
-| 10 | —      | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
+| ____ | ____________________ | Blitzer      | 105k  | 7  | 3  | 2+ | —  | 9  | Placar, Equilibrio Firme |
+| ____ | ____________________ | Blitzer      | 105k  | 7  | 3  | 2+ | —  | 9  | Placar, Equilibrio Firme |
+| ____ | ____________________ | Catcher      | 90k   | 7  | 3  | 2+ | —  | 8  | Garras, Forcejear |
+| ____ | ____________________ | Catcher      | 90k   | 7  | 3  | 2+ | —  | 8  | Garras, Forcejear |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
 
 **Total jugadores:** 10 | **TV:** 1.000k
 

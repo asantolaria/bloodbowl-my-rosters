@@ -24,17 +24,17 @@
 
 | Nº | Nombre | Posición           | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|-------------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | White Lion Blitzer| 90k   | 8  | 3  | 2+ | 5+ | 9  | Atrapar, Forcejear, Garras, **Esquivar** |
-| 2  | —      | White Lion Blitzer| 90k   | 8  | 3  | 2+ | 5+ | 9  | Atrapar, Forcejear, Garras, **Guardia** secundaria |
-| 3  | —      | Phoenix Thrower   | 100k  | 6  | 3  | 2+ | 2+ | 9  | Partenubes, Pasar, Pase Seguro, **Líder** |
-| 4  | —      | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | **Forcejear** |
-| 5  | —      | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | **Forcejear** |
-| 6  | —      | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | **Patada** |
-| 7  | —      | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | - |
-| 8  | —      | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | - |
-| 9  | —      | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | - |
-| 10 | —      | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | - |
-| 11 | —      | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | - |
+| ____ | ____________________ | White Lion Blitzer| 90k   | 8  | 3  | 2+ | 5+ | 9  | Atrapar, Forcejear, Garras, **Esquivar** |
+| ____ | ____________________ | White Lion Blitzer| 90k   | 8  | 3  | 2+ | 5+ | 9  | Atrapar, Forcejear, Garras, **Guardia** secundaria |
+| ____ | ____________________ | Phoenix Thrower   | 100k  | 6  | 3  | 2+ | 2+ | 9  | Partenubes, Pasar, Pase Seguro, **Líder** |
+| ____ | ____________________ | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | **Forcejear** |
+| ____ | ____________________ | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | **Forcejear** |
+| ____ | ____________________ | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | **Patada** |
+| ____ | ____________________ | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | - |
+| ____ | ____________________ | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | - |
+| ____ | ____________________ | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | - |
+| ____ | ____________________ | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | - |
+| ____ | ____________________ | Alto Elfo Línea   | 70k   | 6  | 3  | 2+ | 4+ | 9  | - |
 
 **Total jugadores:** 11 | **TV:** 1.150k
 

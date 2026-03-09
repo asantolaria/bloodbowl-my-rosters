@@ -24,20 +24,20 @@
 
 | Nº | Nombre | Posición         | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|------------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Troll Adiestrado | 115k  | 4  | 5  | 5+ | 5+ | 10 | Siempre Hambriento, Solitario (3+), Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero, **Guardia** |
-| 2  | —      | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Bloqueo** |
-| 3  | —      | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Bloqueo** |
-| 4  | —      | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Guardia** |
-| 5  | —      | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Guardia** |
-| 6  | —      | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Golpe Mortífero** |
-| 7  | —      | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar |
-| 8  | —      | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura, **Jugador Sucio**, **Canalla** |
-| 9  | —      | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
-| 10 | —      | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
-| 11 | —      | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
-| 12 | —      | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
-| 13 | —      | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
-| 14 | —      | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Troll Adiestrado | 115k  | 4  | 5  | 5+ | 5+ | 10 | Siempre Hambriento, Solitario (3+), Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero, **Guardia** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Bloqueo** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Bloqueo** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Guardia** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Guardia** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Golpe Mortífero** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura, **Jugador Sucio**, **Canalla** |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
 
 **Total jugadores:** 14 | **TV:** 1.310k
 

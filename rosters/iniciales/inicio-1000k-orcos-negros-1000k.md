@@ -24,18 +24,18 @@
 
 | Nº | Nombre | Posición   | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Troll Adiestrado | 115k | 4 | 5 | 1 | — | 10 | Siempre Hambriento, Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero |
-| 2  | —      | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| 3  | —      | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| 4  | —      | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| 5  | —      | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| 6  | —      | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| 7  | —      | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| 8  | —      | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
-| 9  | —      | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
-| 10 | —      | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
-| 11 | —      | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
-| 12 | —      | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Troll Adiestrado | 115k | 4 | 5 | 1 | — | 10 | Siempre Hambriento, Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero |
+| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
+| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
+| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
+| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
+| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
+| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
+| ____ | ____________________ | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
 
 **Total jugadores:** 12 | **TV:** 1.000k
 

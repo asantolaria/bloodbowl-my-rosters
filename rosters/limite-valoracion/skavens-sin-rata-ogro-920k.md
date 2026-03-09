@@ -24,17 +24,17 @@
 
 | Nº | Nombre | Posición      | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|---------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Blitzer       | 90k   | 8  | 3  | 3+ | 4+ | 9  | Placar, Robar Balón |
-| 2  | —      | Blitzer       | 90k   | 8  | 3  | 3+ | 4+ | 9  | Placar, Robar Balón |
-| 3  | —      | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
-| 4  | —      | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
-| 5  | —      | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
-| 6  | —      | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
-| 7  | —      | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | - |
-| 8  | —      | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | - |
-| 9  | —      | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | - |
-| 10 | —      | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | - |
-| 11 | —      | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | - |
+| ____ | ____________________ | Blitzer       | 90k   | 8  | 3  | 3+ | 4+ | 9  | Placar, Robar Balón |
+| ____ | ____________________ | Blitzer       | 90k   | 8  | 3  | 3+ | 4+ | 9  | Placar, Robar Balón |
+| ____ | ____________________ | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
+| ____ | ____________________ | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
+| ____ | ____________________ | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
+| ____ | ____________________ | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
+| ____ | ____________________ | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | - |
+| ____ | ____________________ | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | - |
+| ____ | ____________________ | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | - |
+| ____ | ____________________ | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | - |
+| ____ | ____________________ | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | - |
 
 **Total jugadores:** 11 | **TV:** 920k
 

@@ -24,17 +24,17 @@
 
 | Nº | Nombre | Posición     | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|--------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Elfo Blitzer  | 115k  | 7  | 3  | 2+ | 3+ | 9  | Echarse a un Lado, Placar, **Esquivar** |
-| 2  | —      | Elfo Blitzer  | 115k  | 7  | 3  | 2+ | 3+ | 9  | Echarse a un Lado, Placar, **Esquivar** |
-| 3  | —      | Elfo Catcher  | 100k  | 8  | 3  | 2+ | 4+ | 8  | Atrapar, Nervios de Acero, Recepción Heroica, **Placar** |
-| 4  | —      | Elfo Catcher  | 100k  | 8  | 3  | 2+ | 4+ | 8  | Atrapar, Nervios de Acero, Recepción Heroica, **Forcejear** |
-| 5  | —      | Elfo Lanzador | 75k   | 6  | 3  | 2+ | 2+ | 8  | Pasar, Pase a lo Loco, **Líder** |
-| 6  | —      | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada, **Patada** |
-| 7  | —      | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada, **Placaje Defensivo** |
-| 8  | —      | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada, **Forcejear** |
-| 9  | —      | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada |
-| 10 | —      | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada |
-| 11 | —      | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada |
+| ____ | ____________________ | Elfo Blitzer  | 115k  | 7  | 3  | 2+ | 3+ | 9  | Echarse a un Lado, Placar, **Esquivar** |
+| ____ | ____________________ | Elfo Blitzer  | 115k  | 7  | 3  | 2+ | 3+ | 9  | Echarse a un Lado, Placar, **Esquivar** |
+| ____ | ____________________ | Elfo Catcher  | 100k  | 8  | 3  | 2+ | 4+ | 8  | Atrapar, Nervios de Acero, Recepción Heroica, **Placar** |
+| ____ | ____________________ | Elfo Catcher  | 100k  | 8  | 3  | 2+ | 4+ | 8  | Atrapar, Nervios de Acero, Recepción Heroica, **Forcejear** |
+| ____ | ____________________ | Elfo Lanzador | 75k   | 6  | 3  | 2+ | 2+ | 8  | Pasar, Pase a lo Loco, **Líder** |
+| ____ | ____________________ | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada, **Patada** |
+| ____ | ____________________ | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada, **Placaje Defensivo** |
+| ____ | ____________________ | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada, **Forcejear** |
+| ____ | ____________________ | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada |
+| ____ | ____________________ | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada |
+| ____ | ____________________ | Elfo Línea    | 65k   | 6  | 3  | 2+ | 3+ | 8  | Dejada |
 
 **Total jugadores:** 11 | **TV:** 1.205k
 

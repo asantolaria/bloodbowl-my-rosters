@@ -24,16 +24,16 @@
 
 | Nº | Nombre | Posición      | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|---------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Rata Ogro     | 150k  | 6  | 5  | 4+ | –  | 9  | Ferocidad Animal, Cola Prensil, Furia, Golpe Mortífero, Solitario (4+) |
-| 2  | —      | Blitzer       | 90k   | 8  | 3  | 3+ | 4+ | 9  | Placar, Robar Balón |
-| 3  | —      | Blitzer       | 90k   | 8  | 3  | 3+ | 4+ | 9  | Placar, Robar Balón |
-| 4  | —      | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
-| 5  | —      | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
-| 6  | —      | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
-| 7  | —      | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
-| 8  | —      | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | – |
-| 9  | —      | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | – |
-| 10 | —      | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | – |
+| ____ | ____________________ | Rata Ogro     | 150k  | 6  | 5  | 4+ | –  | 9  | Ferocidad Animal, Cola Prensil, Furia, Golpe Mortífero, Solitario (4+) |
+| ____ | ____________________ | Blitzer       | 90k   | 8  | 3  | 3+ | 4+ | 9  | Placar, Robar Balón |
+| ____ | ____________________ | Blitzer       | 90k   | 8  | 3  | 3+ | 4+ | 9  | Placar, Robar Balón |
+| ____ | ____________________ | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
+| ____ | ____________________ | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
+| ____ | ____________________ | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
+| ____ | ____________________ | Gutter Runner | 85k   | 9  | 2  | 2+ | 4+ | 8  | Apuñalar, Esquivar |
+| ____ | ____________________ | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | – |
+| ____ | ____________________ | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | – |
+| ____ | ____________________ | Linemen       | 50k   | 7  | 3  | 3+ | 4+ | 8  | – |
 
 **Total jugadores:** 10 | **TV:** 970k
 

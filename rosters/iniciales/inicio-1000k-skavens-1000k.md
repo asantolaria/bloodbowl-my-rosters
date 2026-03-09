@@ -24,17 +24,17 @@
 
 | Nº | Nombre | Posición    | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|-------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Rata Ogro   | 150k  | 6  | 5  | 2  | —  | 9  | Ferocidad Animal, Furia, Solitario (4+), Golpe Mortífero, Cola Prensil |
-| 2  | —      | Thrower     | 80k   | 7  | 3  | 3  | 2+ | 8  | Manos Seguras, Pasar |
-| 3  | —      | Blitzer     | 90k   | 8  | 3  | 3  | —  | 9  | Placar, Robar Balón |
-| 4  | —      | Blitzer     | 90k   | 8  | 3  | 3  | —  | 9  | Placar, Robar Balón |
-| 5  | —      | Gutter Runner | 85k  | 9  | 2  | 2+ | —  | 8  | Esquivar, Apuñalar |
-| 6  | —      | Gutter Runner | 85k  | 9  | 2  | 2+ | —  | 8  | Esquivar, Apuñalar |
-| 7  | —      | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
-| 8  | —      | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
-| 9  | —      | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
-| 10 | —      | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
-| 11 | —      | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
+| ____ | ____________________ | Rata Ogro   | 150k  | 6  | 5  | 2  | —  | 9  | Ferocidad Animal, Furia, Solitario (4+), Golpe Mortífero, Cola Prensil |
+| ____ | ____________________ | Thrower     | 80k   | 7  | 3  | 3  | 2+ | 8  | Manos Seguras, Pasar |
+| ____ | ____________________ | Blitzer     | 90k   | 8  | 3  | 3  | —  | 9  | Placar, Robar Balón |
+| ____ | ____________________ | Blitzer     | 90k   | 8  | 3  | 3  | —  | 9  | Placar, Robar Balón |
+| ____ | ____________________ | Gutter Runner | 85k  | 9  | 2  | 2+ | —  | 8  | Esquivar, Apuñalar |
+| ____ | ____________________ | Gutter Runner | 85k  | 9  | 2  | 2+ | —  | 8  | Esquivar, Apuñalar |
+| ____ | ____________________ | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
+| ____ | ____________________ | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
+| ____ | ____________________ | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
+| ____ | ____________________ | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
+| ____ | ____________________ | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
 
 **Total jugadores:** 11 | **TV:** 1.000k
 

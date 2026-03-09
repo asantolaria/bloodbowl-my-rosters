@@ -24,17 +24,17 @@
 
 | Nº | Nombre | Posición        | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|-----------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Ogre            | 140k  | 5  | 5  | 2  | —  | 10 | Estúpido, Solitario (3+), Golpe Mortífero, Cabeza Dura, Lanzar Compañero |
-| 2  | —      | Noble Blitzer   | 90k   | 7  | 3  | 3  | —  | 9  | Placar, Atrapar, Profesional |
-| 3  | —      | Noble Blitzer   | 90k   | 7  | 3  | 3  | —  | 9  | Placar, Atrapar, Profesional |
-| 4  | —      | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
-| 5  | —      | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
-| 6  | —      | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
-| 7  | —      | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
-| 8  | —      | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
-| 9  | —      | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
-| 10 | —      | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
-| 11 | —      | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
+| ____ | ____________________ | Ogre            | 140k  | 5  | 5  | 2  | —  | 10 | Estúpido, Solitario (3+), Golpe Mortífero, Cabeza Dura, Lanzar Compañero |
+| ____ | ____________________ | Noble Blitzer   | 90k   | 7  | 3  | 3  | —  | 9  | Placar, Atrapar, Profesional |
+| ____ | ____________________ | Noble Blitzer   | 90k   | 7  | 3  | 3  | —  | 9  | Placar, Atrapar, Profesional |
+| ____ | ____________________ | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
+| ____ | ____________________ | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
+| ____ | ____________________ | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
+| ____ | ____________________ | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
+| ____ | ____________________ | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
+| ____ | ____________________ | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
+| ____ | ____________________ | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
+| ____ | ____________________ | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
 
 **Total jugadores:** 11 | **TV:** 1.000k
 

@@ -24,17 +24,17 @@
 
 | Nº | Nombre | Posición     | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|--------------|-------|----|----|----|----|----|-------------|
-| 1  | —      | Kroxigor     | 140k  | 6  | 5  | 1  | —  | 10 | Cabeza Dura, Estúpido, Cola Prensil, Golpe Mortífero, Solitario (4+) |
-| 2  | —      | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| 3  | —      | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| 4  | —      | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| 5  | —      | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| 6  | —      | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| 7  | —      | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| 8  | —      | Camaleón     | 70k   | 7  | 2  | 3  | —  | 8  | Esquivar, Atento al Balón, Perseguir, Escurridizo |
-| 9  | —      | Eslizón Línea| 60k   | 8  | 2  | 3  | —  | 8  | Esquivar, Escurridizo |
-| 10 | —      | Eslizón Línea| 60k   | 8  | 2  | 3  | —  | 8  | Esquivar, Escurridizo |
-| 11 | —      | Eslizón Línea| 60k   | 8  | 2  | 3  | —  | 8  | Esquivar, Escurridizo |
+| ____ | ____________________ | Kroxigor     | 140k  | 6  | 5  | 1  | —  | 10 | Cabeza Dura, Estúpido, Cola Prensil, Golpe Mortífero, Solitario (4+) |
+| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
+| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
+| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
+| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
+| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
+| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
+| ____ | ____________________ | Camaleón     | 70k   | 7  | 2  | 3  | —  | 8  | Esquivar, Atento al Balón, Perseguir, Escurridizo |
+| ____ | ____________________ | Eslizón Línea| 60k   | 8  | 2  | 3  | —  | 8  | Esquivar, Escurridizo |
+| ____ | ____________________ | Eslizón Línea| 60k   | 8  | 2  | 3  | —  | 8  | Esquivar, Escurridizo |
+| ____ | ____________________ | Eslizón Línea| 60k   | 8  | 2  | 3  | —  | 8  | Esquivar, Escurridizo |
 
 **Total jugadores:** 11 | **TV:** 1.000k
 
