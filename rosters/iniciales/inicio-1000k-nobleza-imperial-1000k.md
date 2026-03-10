@@ -4,20 +4,6 @@
 
 > Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Imperial Nobility Set Up](https://fumbbl.com/help:BB25ImperialSetUp). Third Season 2025. Todos los positionals; se puede comprar Apotecario tras el primer partido.
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.000k |
-| **Total plantilla** | 11 jugadores (sin Thrower; se puede añadir tras primer partido) |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 2 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 4 |
-| **Apotecario** | No (objetivo tras primer partido) |
-
 ## Alineación
 
 *Roster inicial sin habilidades de progresión. Orden: Big Guy (Ogre) → Blitzers → Bodyguards → Retainers. Sin Thrower para cerrar a 1000k (FUMBBL: Apo tras primer partido).*
@@ -46,6 +32,21 @@
 | Rerolls (2 × 60.000) | 120.000 |
 | Fans dedicados (4 × 10.000) | 40.000 |
 | **Total TV** | **1.000.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.000k |
+| **Total plantilla** | 11 jugadores (sin Thrower; se puede añadir tras primer partido) |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 2 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 4 |
+| **Apotecario** | No (objetivo tras primer partido) |
+
 
 ## Descripción oficial de las habilidades
 

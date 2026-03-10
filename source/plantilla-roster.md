@@ -22,20 +22,6 @@ Regla: todo lo que tenga precio debe aparecer al lado del nombre (o en la misma 
 
 > [Nota opcional: ej. "Roster inicial torneo NAF" o "Datos desde BB Roster (bbrosters)".]
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | [Tier 1 / Tier 2 / Tier 3 / Tier 4] |
-| **Valoración del equipo (TV)** | [TV]k (incl. coste de habilidades; ver desglose) |
-| **Total plantilla** | [N] jugadores |
-| **Tesorería actual** | [0 / positivo / negativo; ej. -60.000] |
-| **Rerolls** | [N] |
-| **Asistentes de entrenador** | [N] |
-| **Cheerleaders** | [N] |
-| **Fans dedicados** | [N] |
-| **Apotecario** | [Sí / No / No aplica + motivo si procede] |
-
 ## Alineación
 
 *En **negrita**, las habilidades ganadas por progresión. Orden: [indicar orden usado, ej. Big Guy → Throwers → Blitzers → Catchers → Linemen].*
@@ -59,9 +45,23 @@ Regla: todo lo que tenga precio debe aparecer al lado del nombre (o en la misma 
 | Habilidades progresión (listar o total) | [XXX].000 |
 | **Total TV** | **[TV].000** |
 
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | [Tier 1 / Tier 2 / Tier 3 / Tier 4] |
+| **Valoración del equipo (TV)** | [TV]k (incl. coste de habilidades; ver desglose) |
+| **Total plantilla** | [N] jugadores |
+| **Tesorería actual** | [0 / positivo / negativo; ej. -60.000] |
+| **Rerolls** | [N] |
+| **Asistentes de entrenador** | [N] |
+| **Cheerleaders** | [N] |
+| **Fans dedicados** | [N] |
+| **Apotecario** | [Sí / No / No aplica + motivo si procede] |
+
 ## Descripción oficial de las habilidades
 
-* Una línea por cada habilidad distinta. **Incluir siempre el coste en TV al lado del nombre:** **Nombre (English) — Xk:** descripción. Usar 20k (primaria elegida), 40k (secundaria elegida) o **incl.** si la habilidad viene de la posición (ya en el coste del jugador). Textos en `source/habilidades/` o `source/teams/<raza>.md`.
+* **Todas las habilidades que aparecen en la tabla de jugadores (columna Habilidades) deben tener aquí su descripción.** Una línea por cada habilidad distinta. **Incluir siempre el coste en TV al lado del nombre:** **Nombre (English) — Xk:** descripción. Usar 20k (primaria elegida), 40k (secundaria elegida) o **incl.** si la habilidad viene de la posición (ya en el coste del jugador). Textos en `source/habilidades/` o `source/teams/<raza>.md`.
 
 * **[Habilidad 1] ([English]) — [20k / 40k / incl.]:**
 * **[Habilidad 2] ([English]) — [20k / 40k / incl.]:**

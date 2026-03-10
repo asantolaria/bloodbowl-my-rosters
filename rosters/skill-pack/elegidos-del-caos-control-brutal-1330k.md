@@ -4,20 +4,6 @@
 
 > Build Control brutal (8 skills). Ver [elegidos-del-caos-skill-pack.md](elegidos-del-caos-skill-pack.md). Equipo: [elegidos-del-caos.md](../../source/teams/elegidos-del-caos.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 3 |
-| **Valoración del equipo (TV)** | 1.330k |
-| **Total plantilla** | 13 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack 8 skills. Habilidades del pack en **negrita**.*
@@ -48,6 +34,21 @@
 | Rerolls (3 x 60.000) | 180.000 |
 | Habilidades (8 x 20.000) | 160.000 |
 | **Total TV** | **1.330.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 3 |
+| **Valoración del equipo (TV)** | 1.330k |
+| **Total plantilla** | 13 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción
 

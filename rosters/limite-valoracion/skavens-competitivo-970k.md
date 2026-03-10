@@ -4,20 +4,6 @@
 
 > Roster con Apotecario. Sin Rata Ogro. Ver [skavens-valoracion-limitada.md](skavens-valoracion-limitada.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 970k |
-| **Total plantilla** | 11 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | Sí |
-
 ## Alineación
 
 *Roster torneo. Orden: Blitzers, Gutter Runners, Linemen.*
@@ -46,6 +32,21 @@
 | Rerolls (3 x 50.000) | 150.000 |
 | Apotecario | 50.000 |
 | **Total TV** | **970.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 970k |
+| **Total plantilla** | 11 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | Sí |
+
 
 ## Descripción oficial de las habilidades
 

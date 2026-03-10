@@ -4,20 +4,6 @@
 
 > Build 7 primarias (Tier 2 o torneos que lo permitan). Ver [hombres-lagarto-skill-pack.md](hombres-lagarto-skill-pack.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 1 |
-| **Valoración del equipo (TV)** | 1.260k |
-| **Total plantilla** | 12 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 2 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack 7 primarias. Habilidades de progresión en **negrita**.*
@@ -47,6 +33,21 @@
 | Rerolls (2 x 70.000) | 140.000 |
 | Habilidades progresión (7 x 20.000) | 140.000 |
 | **Total TV** | **1.260.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 1 |
+| **Valoración del equipo (TV)** | 1.260k |
+| **Total plantilla** | 12 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 2 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción oficial de las habilidades
 

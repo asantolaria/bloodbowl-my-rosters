@@ -4,20 +4,6 @@
 
 > Roster de torneo con 3 Catchers. Ver [union-elfica-valoracion-limitada.md](union-elfica-valoracion-limitada.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.145k |
-| **Total plantilla** | 12 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 2 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | Sí |
-
 ## Alineación
 
 *Roster torneo. Orden: Blitzers → Catchers → Lanzador → Línea.*
@@ -48,9 +34,31 @@
 | Apotecario | 50.000 |
 | **Total TV** | **1.145.000** |
 
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.145k |
+| **Total plantilla** | 12 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 2 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | Sí |
+
+
 ## Descripción oficial de las habilidades
 
-* Ver [union-elfica.md](../../source/teams/union-elfica.md).
+* **Atrapar (Catch) — incl.:** Puede repetir chequeo de AG fallido al atrapar el balón.
+* **Dejada (Fumblerooskie) — incl.:** Si es portador y hace Movimiento puede «dejar el balón» en una casilla que abandone durante el movimiento (no cambio de turno).
+* **Echarse a un Lado (Side Step) — incl.:** Si es empujado, su entrenador elige la casilla de destino (adyacente desocupada).
+* **Nervios de Acero (Nerves Of Steel) — incl.:** Ignora modificadores por estar marcado al atrapar o al hacer chequeo de Pase para pasar.
+* **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
+* **Pase a lo Loco (Hail Mary Pass) — incl.:** Puede declarar cualquier casilla como objetivo; se tira como bomba larga, preciso = impreciso; no puede interceptarse.
+* **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
+* **Recepción Heroica (Diving Catch) — incl.:** Puede intentar atrapar si el balón cae en su zona de defensa por pase/patada inicial/devolución; +1 AG para atrapar en casilla objetivo de un pase.
 
 ## Inducements
 

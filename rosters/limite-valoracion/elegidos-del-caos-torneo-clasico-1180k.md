@@ -4,20 +4,6 @@
 
 > Roster de torneo con valoración limitada por tier. Tier 3 → 1.180k. Sin habilidades de progresión (clásico). Datos 3ª Temporada 2025. Ver [elegidos-del-caos-valoracion-limitada.md](elegidos-del-caos-valoracion-limitada.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 3 |
-| **Valoración del equipo (TV)** | 1.180k |
-| **Total plantilla** | 13 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 4 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | Sí |
-
 ## Alineación
 
 *Roster torneo sin habilidades de progresión. Orden: Big Guy (Ogro del Caos) → Guerreros Caos → Beastmen.*
@@ -49,6 +35,20 @@
 | **Total TV** | **1.180.000** |
 
 *Apotecario: Sí (inducible en torneo; 50.000 si se incluye en reglamento).*
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 3 |
+| **Valoración del equipo (TV)** | 1.180k |
+| **Total plantilla** | 13 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 4 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | Sí |
 
 ## Descripción oficial de las habilidades
 

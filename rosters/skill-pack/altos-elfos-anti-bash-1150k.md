@@ -4,20 +4,6 @@
 
 > Build Anti bash. Ver [altos-elfos-skill-pack.md](altos-elfos-skill-pack.md). Equipo: [altos-elfos.md](../../source/teams/altos-elfos.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 1 |
-| **Valoracion del equipo (TV)** | 1.150k |
-| **Total plantilla** | 11 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack. Habilidades del pack en **negrita**.*
@@ -46,6 +32,21 @@
 | Rerolls (3 x 50.000) | 150.000 |
 | Habilidades (6 primarias x 20.000 + 1 secundaria x 40.000) | 160.000 |
 | **Total TV** | **1.150.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 1 |
+| **Valoracion del equipo (TV)** | 1.150k |
+| **Total plantilla** | 11 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción
 

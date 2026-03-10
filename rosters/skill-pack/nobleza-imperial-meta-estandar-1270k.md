@@ -4,20 +4,6 @@
 
 > Build Meta estándar. Ver [nobleza-imperial-skill-pack.md](nobleza-imperial-skill-pack.md). Equipo: [nobleza-imperial.md](../../source/teams/nobleza-imperial.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.270k |
-| **Total plantilla** | 13 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack. Habilidades del pack en **negrita**.*
@@ -48,6 +34,21 @@
 | Rerolls (3 x 50.000) | 150.000 |
 | Habilidades (6 primarias x 20.000 + 1 secundaria x 40.000) | 160.000 |
 | **Total TV** | **1.270.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.270k |
+| **Total plantilla** | 13 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción
 

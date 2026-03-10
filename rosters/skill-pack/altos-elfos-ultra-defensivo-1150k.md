@@ -4,20 +4,6 @@
 
 > Build Ultra defensivo (8 skills). Ver [altos-elfos-skill-pack.md](altos-elfos-skill-pack.md). Equipo: [altos-elfos.md](../../source/teams/altos-elfos.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 1 |
-| **Valoración del equipo (TV)** | 1.150k |
-| **Total plantilla** | 11 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack 8 skills. Habilidades del pack en **negrita**.*
@@ -46,6 +32,21 @@
 | Rerolls (3 x 50.000) | 150.000 |
 | Habilidades (8 x 20.000) | 160.000 |
 | **Total TV** | **1.150.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 1 |
+| **Valoración del equipo (TV)** | 1.150k |
+| **Total plantilla** | 11 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción
 

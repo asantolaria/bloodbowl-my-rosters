@@ -4,20 +4,6 @@
 
 > Roster de torneo con Big Guy. Ver [skavens-valoracion-limitada.md](skavens-valoracion-limitada.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 970k |
-| **Total plantilla** | 10 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster torneo. Orden: Rata Ogro, Blitzers, Gutter Runners, Linemen.*
@@ -44,6 +30,21 @@
 | Jugadores (1 Rata Ogro 150k, 2 Blitzer 180k, 4 Gutter 340k, 3 Linemen 150k) | 820.000 |
 | Rerolls (3 × 50.000) | 150.000 |
 | **Total TV** | **970.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 970k |
+| **Total plantilla** | 10 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción oficial de las habilidades
 

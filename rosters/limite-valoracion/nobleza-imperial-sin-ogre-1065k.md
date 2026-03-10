@@ -4,20 +4,6 @@
 
 > Roster de torneo con valoración limitada por tier. Enfoque más fiable (sin Bone-head). Ver [nobleza-imperial-valoracion-limitada.md](nobleza-imperial-valoracion-limitada.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.065k |
-| **Total plantilla** | 13 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | Sí |
-
 ## Alineación
 
 *Roster torneo sin Ogre. Orden: Blitzers → Bodyguards → Thrower → Retainers.*
@@ -49,9 +35,31 @@
 | Apotecario | 50.000 |
 | **Total TV** | **1.065.000** |
 
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.065k |
+| **Total plantilla** | 13 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | Sí |
+
+
 ## Descripción oficial de las habilidades
 
-* Ver [nobleza-imperial.md](../../source/teams/nobleza-imperial.md).
+* **Atrapar (Catch) — incl.:** Puede repetir chequeo de AG fallido al atrapar el balón.
+* **Forcejear (Wrestle) — incl.:** En placaje con «Ambos derribados» puede elegir que ambos queden tumbados boca arriba.
+* **Mantenerse Firme (Stand Firm) — incl.:** Puede elegir no ser empujado (incl. cadena). No impide segundo Placaje por Furia.
+* **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
+* **Pasar y Seguir (Give and Go) — incl.:** Si hace Pase rápido o Entregar el balón y no hay cambio de turno, puede continuar su movimiento con el movimiento restante.
+* **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
+* **Profesional (Pro) — incl.:** Puede intentar repetir un dado (1D6: 3+ puede repetir). No para Armadura/Heridas/Lesiones ni tiradas fuera de su activación.
+* **Zafarse (Fend) — incl.:** Si es empujado por Placaje, el rival no puede hacer impulso. No contra Bola y cadena ni Imparable en Penetración.
 
 ## Inducements
 

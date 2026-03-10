@@ -4,20 +4,6 @@
 
 > Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 High Elf Set Up](https://fumbbl.com/help:BB25HighElfSetUp). Third Season 2025. Con recortes de precio pueden empezar con 2 Catchers.
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 1 |
-| **Valoración del equipo (TV)** | 1.000k |
-| **Total plantilla** | 10 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 7 |
-| **Apotecario** | No (incluible como inducement) |
-
 ## Alineación
 
 *Roster inicial sin habilidades de progresión. Orden: Blitzers → Catchers → Línea. Sin Thrower para cerrar a 1000k.*
@@ -45,6 +31,21 @@
 | Rerolls (3 × 50.000) | 150.000 |
 | Fans dedicados (7 × 10.000) | 70.000 |
 | **Total TV** | **1.000.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 1 |
+| **Valoración del equipo (TV)** | 1.000k |
+| **Total plantilla** | 10 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 7 |
+| **Apotecario** | No (incluible como inducement) |
+
 
 ## Descripción oficial de las habilidades
 

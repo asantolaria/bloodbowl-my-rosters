@@ -4,20 +4,6 @@
 
 > Build Anti-agilidad. Ver [elegidos-del-caos-skill-pack.md](elegidos-del-caos-skill-pack.md). Equipo: [elegidos-del-caos.md](../../source/teams/elegidos-del-caos.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 3 |
-| **Valoración del equipo (TV)** | 1.310k |
-| **Total plantilla** | 13 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack. Habilidades del pack en **negrita**.*
@@ -48,6 +34,21 @@
 | Rerolls (3 x 60.000) | 180.000 |
 | Habilidades (7 x 20.000) | 140.000 |
 | **Total TV** | **1.310.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 3 |
+| **Valoración del equipo (TV)** | 1.310k |
+| **Total plantilla** | 13 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción
 

@@ -4,20 +4,6 @@
 
 > Build torneos grandes (8–9 skills). Con Rata Ogro opcional. Ver [skavens-skill-pack.md](skavens-skill-pack.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.270k |
-| **Total plantilla** | 12 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack 8–9 habilidades. Incluye Rata Ogro con Imparable; Linemen con Jugador Sucio. Habilidades en **negrita**.*
@@ -47,6 +33,21 @@
 | Rerolls (3 × 50.000) | 150.000 |
 | Habilidades progresión (8 × 20.000 + 1 × 40.000) | 200.000 |
 | **Total TV** | **1.270.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.270k |
+| **Total plantilla** | 12 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción oficial de las habilidades
 

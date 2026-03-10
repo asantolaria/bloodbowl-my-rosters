@@ -1,22 +1,8 @@
-﻿# Altos Elfos — Sugerencia torneo Clásico (1.060k)
+# Altos Elfos — Sugerencia torneo Clásico (1.060k)
 
 ![Altos Elfos](../../source/images/equipos/altos-elfos.webp)
 
 > Roster de torneo con valoración limitada por tier. Ver [altos-elfos-valoracion-limitada.md](altos-elfos-valoracion-limitada.md).
-
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 1 |
-| **Valoración del equipo (TV)** | 1.060k |
-| **Total plantilla** | 11 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | Sí |
 
 ## Alineación
 
@@ -47,9 +33,28 @@
 | Apotecario | 50.000 |
 | **Total TV** | **1.060.000** |
 
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 1 |
+| **Valoración del equipo (TV)** | 1.060k |
+| **Total plantilla** | 11 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | Sí |
+
 ## Descripción oficial de las habilidades
 
-* Ver [altos-elfos.md](../../source/teams/altos-elfos.md).
+* **El Balón es Mío (My Ball) — incl.:** No puede soltar el balón voluntariamente (no pasar ni entregar); solo lo pierde por reglas/efectos.
+* **Equilibrio Firme (Steady Footing) — incl.:** Al ir a ser derribado/caer: 1D6; con 6 no cae y no hay cambio de turno si es en su activación.
+* **Partenubes (Cloud Burster) — incl.:** Rivales no pueden intentar interceptar cuando este jugador realiza un pase.
+* **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
+* **Pase Seguro (Safe Pass) — incl.:** 1 natural en chequeo de Pase: no balón perdido; mantiene el balón y su activación termina (no cambio de turno).
+* **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
 
 ## Inducements
 

@@ -4,20 +4,6 @@
 
 > Build torneos grandes (8–9 skills). Ver [hombres-lagarto-skill-pack.md](hombres-lagarto-skill-pack.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 1 |
-| **Valoración del equipo (TV)** | 1.280k |
-| **Total plantilla** | 12 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 2 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack 8–9 habilidades. Habilidades en **negrita**.*
@@ -47,6 +33,21 @@
 | Rerolls (2 × 70.000) | 140.000 |
 | Habilidades progresión (8 × 20.000) | 160.000 |
 | **Total TV** | **1.280.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 1 |
+| **Valoración del equipo (TV)** | 1.280k |
+| **Total plantilla** | 12 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 2 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción oficial de las habilidades
 

@@ -4,20 +4,6 @@
 
 > Roster de torneo ajustado al tope Tier 1. Ver [hombres-lagarto-valoracion-limitada.md](hombres-lagarto-valoracion-limitada.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 1 |
-| **Valoración del equipo (TV)** | 1.140k |
-| **Total plantilla** | 12 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 2 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 2 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster torneo. Orden: Kroxigor, Saurios, Eslizones.*
@@ -47,6 +33,21 @@
 | Rerolls (2 × 70.000) | 140.000 |
 | Fans dedicados (2 × 10.000) | 20.000 |
 | **Total TV** | **1.140.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 1 |
+| **Valoración del equipo (TV)** | 1.140k |
+| **Total plantilla** | 12 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 2 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 2 |
+| **Apotecario** | No |
+
 
 ## Descripción oficial de las habilidades
 

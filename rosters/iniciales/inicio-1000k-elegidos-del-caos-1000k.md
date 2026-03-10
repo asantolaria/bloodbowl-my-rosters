@@ -4,20 +4,6 @@
 
 > Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Chaos Chosen Set Up](https://fumbbl.com/help:BB25ChaosSetUp). Third Season 2025. Incluye Troll del Caos (opción Big Guy en FUMBBL).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 3 |
-| **Valoración del equipo (TV)** | 1.000k |
-| **Total plantilla** | 10 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 6 |
-| **Apotecario** | No (incluible como inducement) |
-
 ## Alineación
 
 *Roster inicial sin habilidades de progresión. Orden: Big Guy (Troll) → Guerreros Caos → Beastmen.*
@@ -45,6 +31,21 @@
 | Rerolls (3 × 50.000) | 150.000 |
 | Fans dedicados (6 × 10.000) | 60.000 |
 | **Total TV** | **1.000.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 3 |
+| **Valoración del equipo (TV)** | 1.000k |
+| **Total plantilla** | 10 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 6 |
+| **Apotecario** | No (incluible como inducement) |
+
 
 ## Descripción oficial de las habilidades
 

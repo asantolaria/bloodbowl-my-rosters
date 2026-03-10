@@ -4,20 +4,6 @@
 
 > Build 6 primarias. Sacker Forcejear + Robar Balón. Ver [skavens-skill-pack.md](skavens-skill-pack.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.040k |
-| **Total plantilla** | 11 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack 6 primarias. Habilidades en **negrita**.*
@@ -46,6 +32,21 @@
 | Rerolls (3 × 50.000) | 150.000 |
 | Habilidades progresión (6 × 20.000) | 120.000 |
 | **Total TV** | **1.040.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.040k |
+| **Total plantilla** | 11 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción oficial de las habilidades
 

@@ -4,20 +4,6 @@
 
 > Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Skaven Set Up](https://fumbbl.com/help:BB25SkavenSetUp). Third Season 2025. Pocas opciones de build; este es el recomendado.
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.000k |
-| **Total plantilla** | 11 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 2 |
-| **Apotecario** | No (incluible como inducement) |
-
 ## Alineación
 
 *Roster inicial sin habilidades de progresión. Orden: Big Guy (Rata Ogro) → Thrower → Blitzers → Gutter Runners → Linemen.*
@@ -46,6 +32,21 @@
 | Rerolls (3 × 50.000) | 150.000 |
 | Fans dedicados (2 × 10.000) | 20.000 |
 | **Total TV** | **1.000.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.000k |
+| **Total plantilla** | 11 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 2 |
+| **Apotecario** | No (incluible como inducement) |
+
 
 ## Descripción oficial de las habilidades
 

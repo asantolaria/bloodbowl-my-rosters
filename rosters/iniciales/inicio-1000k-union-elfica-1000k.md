@@ -4,20 +4,6 @@
 
 > Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Elven Union Set Up](https://fumbbl.com/help:BB25ElfSetUp). Third Season 2025. Build recomendado: 2 Blitzers, 1 Catcher, 8 Línea, 3 RR = 1000k exactos.
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.000k |
-| **Total plantilla** | 11 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No (incluible como inducement) |
-
 ## Alineación
 
 *Roster inicial sin habilidades de progresión. Orden: Blitzers → Catcher → Línea. Sin Thrower (recomendación FUMBBL).*
@@ -45,6 +31,21 @@
 | Jugadores (2 Blitzers 230k, 1 Catcher 100k, 8 Línea 520k) | 850.000 |
 | Rerolls (3 × 50.000) | 150.000 |
 | **Total TV** | **1.000.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.000k |
+| **Total plantilla** | 11 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No (incluible como inducement) |
+
 
 ## Descripción oficial de las habilidades
 

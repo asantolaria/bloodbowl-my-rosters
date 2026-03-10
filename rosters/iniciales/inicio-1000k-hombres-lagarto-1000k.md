@@ -4,20 +4,6 @@
 
 > Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Lizardmen Set Up](https://fumbbl.com/help:BB25LizardmenSetUp). Third Season 2025. Build recomendado: todos los fuertes (1 Kroxigor, 6 Saurios) para control del campo; conseguir Líder y Apo cuanto antes.
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 1 |
-| **Valoración del equipo (TV)** | 1.000k |
-| **Total plantilla** | 11 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 1 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No (prioridad: Líder y Apo cuanto antes) |
-
 ## Alineación
 
 *Roster inicial sin habilidades de progresión. Orden: Big Guy (Kroxigor) → Saurios → Camaleón → Eslizones.*
@@ -45,6 +31,21 @@
 | Jugadores (1 Kroxigor 140k, 6 Saurios 540k, 1 Camaleón 70k, 3 Eslizones 180k) | 930.000 |
 | Rerolls (1 × 70.000) | 70.000 |
 | **Total TV** | **1.000.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 1 |
+| **Valoración del equipo (TV)** | 1.000k |
+| **Total plantilla** | 11 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 1 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No (prioridad: Líder y Apo cuanto antes) |
+
 
 ## Descripción oficial de las habilidades
 

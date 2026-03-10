@@ -4,20 +4,6 @@
 
 > Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Shambling Undead Set Up](https://fumbbl.com/help:BB25UndeadSetUp). Third Season 2025. Mejor inicio que en BB20 gracias a las mejoras de jugadores; no compensa llevar Esqueletos.
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.000k |
-| **Total plantilla** | 11 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No (No Muertos no tienen Apo) |
-
 ## Alineación
 
 *Roster inicial sin habilidades de progresión. Orden: Momias → Caballeros → Necrófagos → Zombies.*
@@ -45,6 +31,21 @@
 | Jugadores (2 Momias 250k, 2 Caballeros 190k, 2 Necrófagos 150k, 5 Zombies 200k) | 790.000 |
 | Rerolls (3 × 70.000) | 210.000 |
 | **Total TV** | **1.000.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.000k |
+| **Total plantilla** | 11 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No (No Muertos no tienen Apo) |
+
 
 ## Descripción oficial de las habilidades
 

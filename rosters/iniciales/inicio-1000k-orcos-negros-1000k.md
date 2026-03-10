@@ -4,20 +4,6 @@
 
 > Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Black Orc Set Up](https://fumbbl.com/help:BB25BlackOrcSetUp). Third Season 2025.
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 3 |
-| **Valoración del equipo (TV)** | 1.000k |
-| **Total plantilla** | 12 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 2 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No (incluible como inducement) |
-
 ## Alineación
 
 *Roster inicial sin habilidades de progresión. Orden: Troll → Orcos Negros → Goblins.*
@@ -46,6 +32,21 @@
 | Jugadores (1 Troll 115k, 6 Orcos Negros 540k, 5 Goblins 225k) | 880.000 |
 | Rerolls (2 × 60.000) | 120.000 |
 | **Total TV** | **1.000.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 3 |
+| **Valoración del equipo (TV)** | 1.000k |
+| **Total plantilla** | 12 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 2 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No (incluible como inducement) |
+
 
 ## Descripción oficial de las habilidades
 

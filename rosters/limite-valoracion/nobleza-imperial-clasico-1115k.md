@@ -1,22 +1,8 @@
-﻿# Nobleza Imperial — Sugerencia torneo Clásico (1.115k)
+# Nobleza Imperial — Sugerencia torneo Clásico (1.115k)
 
 ![Nobleza Imperial](../../source/images/equipos/nobleza-imperial.webp)
 
 > Roster de torneo con valoración limitada por tier. Ver [nobleza-imperial-valoracion-limitada.md](nobleza-imperial-valoracion-limitada.md).
-
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.115k |
-| **Total plantilla** | 12 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | Sí |
 
 ## Alineación
 
@@ -48,9 +34,35 @@
 | Apotecario | 50.000 |
 | **Total TV** | **1.115.000** |
 
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.115k |
+| **Total plantilla** | 12 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | Sí |
+
 ## Descripción oficial de las habilidades
 
-* Ver [nobleza-imperial.md](../../source/teams/nobleza-imperial.md) — habilidades incl. en el coste del jugador.
+* **Atrapar (Catch) — incl.:** Puede repetir chequeo de AG fallido al atrapar el balón.
+* **Cabeza Dura (Thick Skull) — incl.:** En tirada de Heridas: Inconsciente solo con 9; 8 = Aturdido. Con Escurridizo: Inconsciente con 8, 7 = Aturdido.
+* **Estúpido (Bone Head) — incl.:** Al activarse: 1D6; 1 = Distraído.
+* **Forcejear (Wrestle) — incl.:** En placaje con «Ambos derribados» puede elegir que ambos queden tumbados boca arriba.
+* **Golpe Mortífero (Mighty Blow) — incl.:** Al derribar en Placaje puede aplicar +1 a tirada de Armadura o de Heridas (decidir después de tirar).
+* **Lanzar Compañero (Throw Team-Mate) — incl.:** Puede declarar la acción de Lanzar compañero.
+* **Mantenerse Firme (Stand Firm) — incl.:** Puede elegir no ser empujado (incl. cadena). No impide segundo Placaje por Furia.
+* **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
+* **Pasar y Seguir (Give and Go) — incl.:** Si hace Pase rápido o Entregar el balón y no hay cambio de turno, puede continuar su movimiento con el movimiento restante.
+* **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
+* **Profesional (Pro) — incl.:** Puede intentar repetir un dado (1D6: 3+ puede repetir). No para Armadura/Heridas/Lesiones ni tiradas fuera de su activación.
+* **Solitario (Loner) — incl.:** Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite.
+* **Zafarse (Fend) — incl.:** Si es empujado por Placaje, el rival no puede hacer impulso. No contra Bola y cadena ni Imparable en Penetración.
 
 ## Inducements
 

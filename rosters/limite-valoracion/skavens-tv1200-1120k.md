@@ -4,20 +4,6 @@
 
 > Roster muy peligroso: Rata Ogro + Apotecario + 5 Linemen. Ver [skavens-valoracion-limitada.md](skavens-valoracion-limitada.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.120k |
-| **Total plantilla** | 12 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | Sí |
-
 ## Alineación
 
 *Roster torneo. Orden: Rata Ogro, Blitzers, Gutter Runners, Linemen.*
@@ -47,6 +33,21 @@
 | Rerolls (3 × 50.000) | 150.000 |
 | Apotecario | 50.000 |
 | **Total TV** | **1.120.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.120k |
+| **Total plantilla** | 12 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | Sí |
+
 
 ## Descripción oficial de las habilidades
 

@@ -4,20 +4,6 @@
 
 > Build Meta estándar. Ver [orcos-negros-skill-pack.md](orcos-negros-skill-pack.md). Equipo: [orcos-negros.md](../../source/teams/orcos-negros.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 3 |
-| **Valoración del equipo (TV)** | 1.265k |
-| **Total plantilla** | 13 jugadores |
-| **Tesoreria actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack. Habilidades del pack en **negrita**.*
@@ -48,6 +34,21 @@
 | Rerolls (3 x 60.000) | 180.000 |
 | Habilidades (6 primarias x 20.000 + 1 secundaria x 40.000) | 160.000 |
 | **Total TV** | **1.265.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 3 |
+| **Valoración del equipo (TV)** | 1.265k |
+| **Total plantilla** | 13 jugadores |
+| **Tesoreria actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción
 

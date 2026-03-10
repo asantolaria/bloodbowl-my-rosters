@@ -4,20 +4,6 @@
 
 > Build torneos grandes (8–9 skills). Ver [no-muertos-skill-pack.md](no-muertos-skill-pack.md).
 
-## Información del equipo
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF** | Tier 2 |
-| **Valoración del equipo (TV)** | 1.270k |
-| **Total plantilla** | 11 jugadores |
-| **Tesorería actual** | 0 |
-| **Rerolls** | 3 |
-| **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
-| **Apotecario** | No |
-
 ## Alineación
 
 *Roster con skill pack 8–9 habilidades. Habilidades en **negrita**. Zombie con Jugador Sucio (secundaria 40k).*
@@ -46,6 +32,21 @@
 | Rerolls (3 × 70.000) | 210.000 |
 | Habilidades progresión (8 × 20.000 + 1 × 40.000) | 200.000 |
 | **Total TV** | **1.270.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 2 |
+| **Valoración del equipo (TV)** | 1.270k |
+| **Total plantilla** | 11 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
 
 ## Descripción oficial de las habilidades
 
