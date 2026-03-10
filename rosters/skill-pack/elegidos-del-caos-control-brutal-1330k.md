@@ -1,6 +1,6 @@
 # Elegidos del Caos — Skill pack Control brutal (1.330k)
 
-![Elegidos del Caos](../../source/images/equipos/elegidos-del-caos.webp)
+![Elegidos del Caos](../../source/images/equipos/Chaos.webp)
 
 > Build Control brutal (8 skills). Ver [elegidos-del-caos-skill-pack.md](elegidos-del-caos-skill-pack.md). Equipo: [elegidos-del-caos.md](../../source/teams/elegidos-del-caos.md).
 

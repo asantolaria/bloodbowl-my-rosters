@@ -1,6 +1,6 @@
 # Elegidos del Caos — Sugerencia torneo Clásico Tier 3 (1.180k)
 
-![Elegidos del Caos](../../source/images/equipos/elegidos-del-caos.webp)
+![Elegidos del Caos](../../source/images/equipos/Chaos.webp)
 
 > Roster de torneo con valoración limitada por tier. Tier 3 → 1.180k. Sin habilidades de progresión (clásico). Datos 3ª Temporada 2025. Ver [elegidos-del-caos-valoracion-limitada.md](elegidos-del-caos-valoracion-limitada.md).
 

@@ -1,6 +1,6 @@
 # Elegidos del Caos — Datos 2025
 
-![Elegidos del Caos](../images/equipos/elegidos-del-caos.webp)
+![Elegidos del Caos](../images/equipos/Chaos.webp)
 
 Fuente: [Nuffle Zone — Elegidos del Caos](https://nufflezone.com/equipos-blood-bowl/) · Datos compatibles con roster del proyecto (BB Roster / 3ª Temporada).
 

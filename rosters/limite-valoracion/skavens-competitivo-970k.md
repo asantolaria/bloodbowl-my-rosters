@@ -1,4 +1,4 @@
-﻿# Skavens — Sugerencia torneo TV ~1.150 competitivo (970k)
+# Skavens — Sugerencia torneo TV ~1.150 competitivo (970k)
 
 ![Skavens](../../source/images/equipos/skavens.webp)
 
@@ -50,7 +50,12 @@
 
 ## Descripción oficial de las habilidades
 
-* Ver [skavens.md](../../source/teams/skavens.md).
+* **Apuñalar (Stab) — incl.:** Acción especial: tirada de Armadura no modificada contra rival en pie adyacente; si rompe, tirada de Heridas. Puede reemplazar el Placaje de una Penetración.
+* **Esquivar (Dodge) — incl.:** Repetir un chequeo de esquivar por turno; afecta a Desequilibrado en placajes recibidos.
+* **Manos Seguras (Sure Hands) — incl.:** Puede repetir D6 al recoger el balón (no Asegurar el balón). Robar balón no puede usarse contra él.
+* **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
+* **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
+* **Robar Balón (Strip Ball) — incl.:** Si en Placaje empuja al portador del balón, el balón cae y rebota desde la casilla de destino (antes de que el rival quede tumbado).
 
 ## Inducements
 

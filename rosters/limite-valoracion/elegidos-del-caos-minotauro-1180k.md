@@ -1,6 +1,6 @@
 # Elegidos del Caos — Sugerencia torneo Minotauro Tier 3 (1.180k)
 
-![Elegidos del Caos](../../source/images/equipos/elegidos-del-caos.webp)
+![Elegidos del Caos](../../source/images/equipos/Chaos.webp)
 
 > Roster de torneo con valoración limitada por tier. Tier 3 → 1.180k. Minotauro + 3 RR + 2× Placar (Block) en Guerreros. Ver [elegidos-del-caos-valoracion-limitada.md](elegidos-del-caos-valoracion-limitada.md).
 

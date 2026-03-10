@@ -1,6 +1,6 @@
 # Elegidos del Caos — Skill pack Core competitivo (1.275k)
 
-![Elegidos del Caos](../../source/images/equipos/elegidos-del-caos.webp)
+![Elegidos del Caos](../../source/images/equipos/Chaos.webp)
 
 > Build Core competitivo. Ver [elegidos-del-caos-skill-pack.md](elegidos-del-caos-skill-pack.md). Equipo: [elegidos-del-caos.md](../../source/teams/elegidos-del-caos.md).
 

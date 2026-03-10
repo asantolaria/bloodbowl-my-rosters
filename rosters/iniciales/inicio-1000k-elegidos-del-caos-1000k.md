@@ -1,6 +1,6 @@
 # Elegidos del Caos — Inicio 1000k (1.000k)
 
-![Elegidos del Caos](../../source/images/equipos/elegidos-del-caos.webp)
+![Elegidos del Caos](../../source/images/equipos/Chaos.webp)
 
 > Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Chaos Chosen Set Up](https://fumbbl.com/help:BB25ChaosSetUp). Third Season 2025. Incluye Troll del Caos (opción Big Guy en FUMBBL).
 
