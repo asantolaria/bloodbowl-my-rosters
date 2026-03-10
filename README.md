@@ -18,6 +18,8 @@ Los rosters están en **[`rosters/`](rosters/)**. Índice completo con descripci
 | Altos Elfos | Skill pack Ultra defensivo | 1.150k | [altos-elfos-ultra-defensivo-1150k.md](rosters/skill-pack/altos-elfos-ultra-defensivo-1150k.md) |
 | Elegidos del Caos | Inicio 1000k | 1.000k | [inicio-1000k-elegidos-del-caos-1000k.md](rosters/iniciales/inicio-1000k-elegidos-del-caos-1000k.md) |
 | Elegidos del Caos | Bollychaos | 1.285k | [bollychaos-elegidos-del-caos-1285k.md](rosters/bollychaos-elegidos-del-caos-1285k.md) |
+| Elegidos del Caos | Sugerencia torneo Clásico (Ogro) | 1.180k | [elegidos-del-caos-torneo-clasico-1180k.md](rosters/limite-valoracion/elegidos-del-caos-torneo-clasico-1180k.md) |
+| Elegidos del Caos | Sugerencia torneo Minotauro | 1.180k | [elegidos-del-caos-minotauro-1180k.md](rosters/limite-valoracion/elegidos-del-caos-minotauro-1180k.md) |
 | Elegidos del Caos | Skill pack Core competitivo | 1.275k | [elegidos-del-caos-core-1275k.md](rosters/skill-pack/elegidos-del-caos-core-1275k.md) |
 | Elegidos del Caos | Skill pack Anti-agilidad | 1.310k | [elegidos-del-caos-anti-agilidad-1310k.md](rosters/skill-pack/elegidos-del-caos-anti-agilidad-1310k.md) |
 | Elegidos del Caos | Skill pack Control brutal | 1.330k | [elegidos-del-caos-control-brutal-1330k.md](rosters/skill-pack/elegidos-del-caos-control-brutal-1330k.md) |
