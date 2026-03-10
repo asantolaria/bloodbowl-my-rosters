@@ -55,6 +55,8 @@ En formato slug: minúsculas, guiones, sin acentos, extensión `.md`. Ejemplos:
 | Sugerencia torneo | Skavens | 920k | [skavens-sin-rata-ogro-920k.md](limite-valoracion/skavens-sin-rata-ogro-920k.md) |
 | Sugerencia torneo | Skavens | 970k | [skavens-competitivo-970k.md](limite-valoracion/skavens-competitivo-970k.md) |
 | Sugerencia torneo | Skavens | 1.120k | [skavens-tv1200-1120k.md](limite-valoracion/skavens-tv1200-1120k.md) |
+| Sugerencia torneo | Elegidos del Caos | 1.180k | [elegidos-del-caos-torneo-clasico-1180k.md](limite-valoracion/elegidos-del-caos-torneo-clasico-1180k.md) |
+| Sugerencia torneo | Elegidos del Caos | 1.180k | [elegidos-del-caos-minotauro-1180k.md](limite-valoracion/elegidos-del-caos-minotauro-1180k.md) |
 
 Los rosters **Sugerencia torneo** (por equipo y TV) son un archivo por cada roster propuesto en las guías de [limite-valoracion/](limite-valoracion/) (ver [README de limite-valoracion](limite-valoracion/README.md)), siguiendo la [plantilla](../source/plantilla-roster.md).
 
@@ -97,7 +99,7 @@ Los rosters **Skill pack** (por build y TV) son un archivo por cada build de las
 | **[limite-valoracion/](limite-valoracion/)** | Rosters para torneos con valoración limitada por tier (presupuesto por tier). |
 | **[skill-pack/](skill-pack/)** | Builds para torneos con skill pack (puntos de habilidad por tier). |
 
-Por ahora: **limite-valoracion:** Orcos Negros, Nobleza Imperial, Altos Elfos, Unión Élfica, Hombres Lagarto, No Muertos, Skavens. **skill-pack:** Orcos Negros, Elegidos del Caos, Nobleza Imperial, Altos Elfos, Unión Élfica, Hombres Lagarto, No Muertos, Skavens (ver [limite-valoracion/](limite-valoracion/) y [skill-pack/](skill-pack/)).
+Por ahora: **limite-valoracion:** Orcos Negros, Nobleza Imperial, Altos Elfos, Unión Élfica, Hombres Lagarto, No Muertos, Skavens, Elegidos del Caos. **skill-pack:** Orcos Negros, Elegidos del Caos, Nobleza Imperial, Altos Elfos, Unión Élfica, Hombres Lagarto, No Muertos, Skavens (ver [limite-valoracion/](limite-valoracion/) y [skill-pack/](skill-pack/)).
 
 ## Referencias para rosters 1000k y torneos por tier
 

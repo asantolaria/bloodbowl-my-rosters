@@ -28,6 +28,7 @@ Esta carpeta contiene la referencia de **oro por tier** y **skill pack por tier*
 | [rosters/limite-valoracion/no-muertos-valoracion-limitada.md](../../rosters/limite-valoracion/no-muertos-valoracion-limitada.md) | No Muertos: rosters para torneos con valoración limitada (TV 1100, 1150, 1200). |
 | [rosters/skill-pack/no-muertos-skill-pack.md](../../rosters/skill-pack/no-muertos-skill-pack.md) | No Muertos: builds para torneos con skill pack (Guard/Sure Hands/Block/Tackle/Wrestle). |
 | [rosters/limite-valoracion/skavens-valoracion-limitada.md](../../rosters/limite-valoracion/skavens-valoracion-limitada.md) | Skavens: rosters para torneos con valoración limitada (TV 1100–1200, con/sin Rata Ogro). |
+| [rosters/limite-valoracion/elegidos-del-caos-valoracion-limitada.md](../../rosters/limite-valoracion/elegidos-del-caos-valoracion-limitada.md) | Elegidos del Caos: roster para torneo clásico Tier 3 (1.180k, BB2025). |
 | [rosters/skill-pack/skavens-skill-pack.md](../../rosters/skill-pack/skavens-skill-pack.md) | Skavens: builds para torneos con skill pack (Wrestle/Strip Ball/Block/Sidestep/sacker). |
 
 ## Uso por el Roster Builder
@@ -36,7 +37,7 @@ Esta carpeta contiene la referencia de **oro por tier** y **skill pack por tier*
 2. Aplicar el **presupuesto de oro** del tier (oro-presupuesto.md) y no superar ese tope.
 3. Aplicar **Skill Points** y límites del tier (skill-pack.md): no gastar más puntos ni más secundarias de las permitidas; respetar apilamiento.
 4. Si el torneo indica otro pack u oro único (ej. 1.150k para todos), usar el reglamento del evento.
-5. Para Orcos Negros (Tier 3), Nobleza Imperial (Tier 2), Altos Elfos (Tier 1), Unión Élfica (Tier 2), Hombres Lagarto (Tier 1), No Muertos (Tier 2) y Skavens (Tier 2), consultar las guías en `rosters/limite-valoracion/` y `rosters/skill-pack/` si se quieren rosters tipo torneo ya optimizados.
+5. Para Orcos Negros (Tier 3), Elegidos del Caos (Tier 3), Nobleza Imperial (Tier 2), Altos Elfos (Tier 1), Unión Élfica (Tier 2), Hombres Lagarto (Tier 1), No Muertos (Tier 2) y Skavens (Tier 2), consultar las guías en `rosters/limite-valoracion/` y `rosters/skill-pack/` si se quieren rosters tipo torneo ya optimizados.
 
 ## Referencias
 
