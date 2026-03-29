@@ -70,4 +70,4 @@
 
 ## Progresión recomendada
 
-- Ver [union-elfica-valoracion-limitada.md](union-elfica-valoracion-limitada.md) y [union-elfica-skill-pack.md](../skill-pack/union-elfica-skill-pack.md).
+- Ver [union-elfica-valoracion-limitada.md](union-elfica-valoracion-limitada.md) y [formaciones skill pack](../skill-pack/README.md).

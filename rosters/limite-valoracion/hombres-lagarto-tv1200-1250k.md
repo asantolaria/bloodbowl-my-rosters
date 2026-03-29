@@ -72,4 +72,4 @@
 
 ## Progresión recomendada
 
-- Ver [hombres-lagarto-skill-pack.md](../skill-pack/hombres-lagarto-skill-pack.md).
+- Ver [formaciones skill pack](../skill-pack/README.md).

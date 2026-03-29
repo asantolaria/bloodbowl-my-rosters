@@ -26,13 +26,30 @@ Puntos de habilidad, límite de secundarias y apilamiento por tier. Estándar NA
 
 ## Tabla Tier | Equipos
 
-Asignación oficial de equipos a tier (Games Workshop — Designer's Commentary). Usar para saber cuántos Skill Points y límites aplican a cada equipo.
+Asignación oficial de equipos a tier (**Games Workshop — Designer's Commentary**, tabla vigente 3ª temporada / BB2025). Usar para saber cuántos Skill Points y límites aplican a cada equipo.
 
 | Tier | Equipos |
 |------|---------|
 | **Tier 1** | Amazonas, Enanos del Caos, Elfos Oscuros, Enanos, Altos Elfos, Hombres Lagarto, Nórdicos, Alianza del Viejo Mundo, Habitantes del Inframundo, Elfos Silvanos |
 | **Tier 2** | Bretonia, Unión Élfica, Humanos, Nobleza Imperial, Nigromantes, Orcos, No Muertos, Skavens, Reyes Funerarios, Vampiros |
-| **Tier 3** | Orcos Negros, Elegidos del Caos, Renegados del Caos, Khorne, Nurgle, Ogros |
-| **Tier 4** | Gnomos, Goblins, Halflings, Snotlings |
+| **Tier 3** | Orcos Negros, Elegidos del Caos, Renegados del Caos, Khorne, Nurgle |
+| **Tier 4** | Gnomos, Goblins, Halflings, Ogros, Snotlings |
 
-Equipos no oficiales (Demonios de Khorne, Slaanesh, Slann, etc.): el tier suele venir en el pack del torneo; si no, asumir Tier 2–3 y confirmar con el organizador.
+Los **Ogros** aplican reglas de **Tier 4** (10 puntos de skill pack, etc.), no Tier 3.
+
+Equipos no listados aquí (Slaanesh, Tzeentch, Slann, variantes, etc.): el tier lo marca el pack del torneo; si no, asumir Tier 2–3 y confirmar con el organizador.
+
+## Nombres de archivo en `rosters/skill-pack/`
+
+Las formaciones guardadas en [rosters/skill-pack/](../../rosters/skill-pack/) usan el patrón:
+
+`[equipo]-[x]P-[y]S-[z]A[-variante].md`
+
+| Parte | Significado |
+|-------|-------------|
+| **P** | Cantidad de habilidades del pack tomadas como **primaria** (coste típico +20k TV c/u en el desglose). |
+| **S** | Cantidad tomadas como **secundaria** (+40k TV c/u). |
+| **A** | Cantidad de jugadores con **apilamiento** (2 o más habilidades extra del pack en la misma ficha). Debe respetar las reglas del tier del torneo (tabla superior). |
+| **`-variante`** | Opcional: solo cuando dos listas comparten el mismo x/y/z (p. ej. `-meta` / `-fouling`). |
+
+Índice de archivos y builds: [rosters/skill-pack/README.md](../../rosters/skill-pack/README.md).

@@ -17,13 +17,15 @@ Todo el oro debe gastarse (jugadores, rerolls, apotecario, aficionados, etc.). N
 
 ## Tabla Tier | Equipos
 
-Asignación oficial de equipos a tier (Games Workshop — Designer's Commentary). Usar para saber qué presupuesto aplica a cada equipo.
+Asignación oficial de equipos a tier (**Games Workshop — Designer's Commentary**, tabla vigente 3ª temporada / BB2025). Usar para saber qué presupuesto aplica a cada equipo.
 
 | Tier | Equipos |
 |------|---------|
 | **Tier 1** | Amazonas, Enanos del Caos, Elfos Oscuros, Enanos, Altos Elfos, Hombres Lagarto, Nórdicos, Alianza del Viejo Mundo, Habitantes del Inframundo, Elfos Silvanos |
 | **Tier 2** | Bretonia, Unión Élfica, Humanos, Nobleza Imperial, Nigromantes, Orcos, No Muertos, Skavens, Reyes Funerarios, Vampiros |
-| **Tier 3** | Orcos Negros, Elegidos del Caos, Renegados del Caos, Khorne, Nurgle, Ogros |
-| **Tier 4** | Gnomos, Goblins, Halflings, Snotlings |
+| **Tier 3** | Orcos Negros, Elegidos del Caos, Renegados del Caos, Khorne, Nurgle |
+| **Tier 4** | Gnomos, Goblins, Halflings, Ogros, Snotlings |
 
-Equipos no oficiales (Demonios de Khorne, Slaanesh, Slann, etc.): el tier suele venir en el pack del torneo; si no, asumir Tier 2–3 y confirmar con el organizador.
+**Cambio frecuente:** los **Ogros** están en **Tier 4** (no en Tier 3). El bloque **Tier 4/5** del presupuesto de oro (1.200k+) agrupa equipos de tier bajo; confirma en el reglamento si tu torneo usa 4 o 5 categorías de skill pack.
+
+Equipos no listados aquí (Slaanesh, Tzeentch, Slann, variantes de Secret League, etc.): el tier lo marca el pack del torneo; si no, asumir Tier 2–3 y confirmar con el organizador.

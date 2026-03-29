@@ -74,4 +74,4 @@
 
 ## Progresión recomendada
 
-- Ver [skavens-skill-pack.md](../skill-pack/skavens-skill-pack.md).
+- Ver [formaciones skill pack](../skill-pack/README.md).

@@ -2,35 +2,36 @@
 
 ![Altos Elfos](../../source/images/equipos/altos-elfos.webp)
 
-> Roster de torneo con valoración limitada por tier. Ver [altos-elfos-valoracion-limitada.md](altos-elfos-valoracion-limitada.md).
+> Lista **Altos Elfos 2026** ([Nuffle Zone](https://nufflezone.com/equipos-blood-bowl/altos-elfos/), [altos-elfos.md](../../source/teams/altos-elfos.md)). Presupuesto típico por debajo del tope Tier 1 (1.140k); ver [altos-elfos-valoracion-limitada.md](altos-elfos-valoracion-limitada.md).
 
 ## Alineación
 
-*Roster torneo sin habilidades de progresión. Orden: Blitzers, Thrower, Línea.*
+*Roster torneo sin habilidades de progresión. Orden: Dragon Warrior → Phoenix Prince Thrower → Línea.*
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| ____ | ____________________ | Blitzer  | 100k  | 7  | 3  | 2+ | 4+ | 9  | El Balón es Mío, Equilibrio Firme, Placar |
-| ____ | ____________________ | Blitzer  | 100k  | 7  | 3  | 2+ | 4+ | 9  | El Balón es Mío, Equilibrio Firme, Placar |
-| ____ | ____________________ | Thrower  | 100k  | 6  | 3  | 2+ | 2+ | 9  | Partenubes, Pasar, Pase Seguro |
-| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
-| ____ | ____________________ | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Dragon Warrior | 110k | 8 | 3 | 2+ | 4+ | 9 | El Balón es Mío, Equilibrio Firme, Placar |
+| ____ | ____________________ | Alto Elfo Dragon Warrior | 110k | 8 | 3 | 2+ | 4+ | 9 | El Balón es Mío, Equilibrio Firme, Placar |
+| ____ | ____________________ | Alto Elfo Phoenix Prince Thrower | 90k | 6 | 3 | 2+ | 2+ | 9 | Partenubes, Pasar, Pase Seguro |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9 | – |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9 | – |
 
 **Total jugadores:** 11 | **TV:** 1.060k
 
-**Desglose TV:** Reroll 50.000 | Apotecario 50.000.
+**Desglose TV (todo lo que tiene precio):** Reroll 50.000 | Apotecario 50.000 | Fans dedicados 10.000 c/u.
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (2 Blitzer 200k, 1 Thrower 100k, 8 Línea 560k) | 860.000 |
+| Jugadores (2 Dragon Warrior 220k, 1 Phoenix Prince Thrower 90k, 8 Línea 520k) | 830.000 |
 | Rerolls (3 × 50.000) | 150.000 |
 | Apotecario | 50.000 |
+| Fans dedicados (3 × 10.000) | 30.000 |
 | **Total TV** | **1.060.000** |
 
 ## Información del equipo
@@ -38,13 +39,14 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier NAF** | Tier 1 |
+| **Presupuesto máx. tier** | 1.140.000 gp ([oro-presupuesto.md](../../source/tiers/oro-presupuesto.md)) |
 | **Valoración del equipo (TV)** | 1.060k |
 | **Total plantilla** | 11 jugadores |
 | **Tesorería actual** | 0 |
 | **Rerolls** | 3 |
 | **Asistentes de entrenador** | 0 |
 | **Cheerleaders** | 0 |
-| **Fans dedicados** | 0 |
+| **Fans dedicados** | 3 |
 | **Apotecario** | Sí |
 
 ## Descripción oficial de las habilidades
@@ -62,9 +64,9 @@
 
 ## Estrategia
 
-- **Ataque:** Juego de pantalla (elf screen). Puntuar en 2–3 turnos. Thrower asegura el balón.
-- **Defensa:** Blitzers con Placar; presión defensiva constante.
+- **Ataque:** Pantallas y pase seguro con el Phoenix Prince; los Dragon Warrior (MA 8) presionan y placan.
+- **Defensa:** Líneas baratas (65k) para marcar; Dragon Warrior en el medio.
 
 ## Progresión recomendada
 
-- Ver [altos-elfos-valoracion-limitada.md](altos-elfos-valoracion-limitada.md) y [altos-elfos-skill-pack.md](../skill-pack/altos-elfos-skill-pack.md).
+- Ver [altos-elfos-valoracion-limitada.md](altos-elfos-valoracion-limitada.md) y [formaciones skill pack](../skill-pack/README.md).

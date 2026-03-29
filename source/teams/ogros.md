@@ -4,6 +4,8 @@
 
 Fuente: [Nuffle Zone — Ogros](https://nufflezone.com/equipos-blood-bowl/ogros/)
 
+**Tier NAF (GW Designer's Commentary):** Tier 4 — [oro-presupuesto.md](../tiers/oro-presupuesto.md).
+
 ## Roster 2025
 
 | CTD | Posición | Coste | MA | FU | AG | PA | AR | Habilidades (resumen) | Pri | Sec |

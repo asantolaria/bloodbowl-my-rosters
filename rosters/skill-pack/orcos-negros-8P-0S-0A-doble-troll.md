@@ -1,0 +1,68 @@
+# Orcos Negros — Skill pack Doble Troll Control (1.380k)
+
+![Orcos Negros](../../source/images/equipos/orcos-negros.webp)
+
+> Build Doble Troll Control. Ver [skill-pack.md](../../source/tiers/skill-pack.md). Equipo: [orcos-negros.md](../../source/teams/orcos-negros.md).
+
+## Alineación
+
+*Roster con skill pack 8 skills. Habilidades del pack en **negrita**.*
+
+| Nº | Nombre | Posición         | Coste | MA | ST | AG | PA | AR | Habilidades |
+|----|--------|------------------|-------|----|----|----|----|----|-------------|
+| ____ | ____________________ | Troll Adiestrado | 115k  | 4  | 5  | 5+ | 5+ | 10 | Siempre Hambriento, Solitario (3+), Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero, **Guardia** |
+| ____ | ____________________ | Troll Adiestrado | 115k  | 4  | 5  | 5+ | 5+ | 10 | Siempre Hambriento, Solitario (3+), Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero, **Mantenerse Firme** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Bloqueo** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Bloqueo** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Guardia** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Guardia** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Golpe Mortífero** |
+| ____ | ____________________ | Orco Negro       | 90k   | 4  | 4  | 4+ | 5+ | 10 | Luchador, Apartar, **Mantenerse Firme** |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura, **Jugador Sucio** |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| ____ | ____________________ | Goblin Bruiser   | 45k   | 6  | 2  | 3+ | 4+ | 8  | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+
+**Total jugadores:** 14 | **TV:** 1.380k
+
+**Desglose TV:** Reroll 60.000 | Habilidades primaria 20.000 (8 skills).
+
+| Concepto | Coste |
+|----------|--------|
+| Jugadores (2 Troll 230k, 6 Orco Negro 540k, 6 Goblin 270k) | 1.040.000 |
+| Rerolls (3 x 60.000) | 180.000 |
+| Habilidades (8 x 20.000) | 160.000 |
+| **Total TV** | **1.380.000** |
+
+## Información del equipo
+
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF** | Tier 3 |
+| **Valoración del equipo (TV)** | 1.380k |
+| **Total plantilla** | 14 jugadores |
+| **Tesorería actual** | 0 |
+| **Rerolls** | 3 |
+| **Asistentes de entrenador** | 0 |
+| **Cheerleaders** | 0 |
+| **Fans dedicados** | 0 |
+| **Apotecario** | No |
+
+
+## Descripción
+
+* Pack: Bloqueo x2, Guardia x2, Golpe Mortífero, Mantenerse Firme en Orcos; Guardia y Mantenerse Firme en Trolls; Jugador Sucio en Goblin.
+
+## Inducements
+
+- Según reglamento. Típico: 1 Soborno, Apotecario.
+
+## Estrategia
+
+- Centro del campo muy sólido. Muy bueno contra Orcos, Enanos del Caos, Nurgle.
+
+## Progresión
+
+- Ver [skill-pack.md](../../source/tiers/skill-pack.md).

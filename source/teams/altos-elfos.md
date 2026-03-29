@@ -1,21 +1,25 @@
-# Altos Elfos — Datos 2025/2026
+# Altos Elfos — Datos 2026 (lista Caledor / 3ª temporada)
 
 ![Altos Elfos](../images/equipos/altos-elfos.webp)
 
-Fuente: [Nuffle Zone — Altos Elfos](https://nufflezone.com/equipos-blood-bowl/altos-elfos/)
+Fuente: [Nuffle Zone — Altos Elfos](https://nufflezone.com/equipos-blood-bowl/altos-elfos/) (tabla **Altos Elfos 2026**). Algunas guías genéricas “BB2025” en la web aún muestran la lista antigua (Lion Warrior Catcher / Dragon Warrior Blitzer a precios viejos); para este repo prima **Nuffle Zone 2026** mientras Games Workshop no publique PDF distinto.
 
-## Roster 2026 (⚠️ Unconfirmed Stats)
+## Roster 2026
 
 | CTD | Posición | Coste | MA | FU | AG | PA | AR | Habilidades (resumen) | Pri | Sec |
 |-----|-----------|-------|----|----|----|----|-----|------------------------|-----|-----|
-| 0-12 | Alto Elfo Línea | 70k | 6 | 3 | 2+ | 4+ | 9+ | – | AG | PF |
-| 0-2 | Alto Elfo Phoenix Prince Thrower | 100k | 6 | 3 | 2+ | 2+ | 9+ | Partenubes, Pasar, Pase Seguro | AGP | F |
-| 0-4 | Alto Elfo White Lion Blitzer | 90k | 8 | 3 | 2+ | 5+ | 9+ | Atrapar, Forcejear, Garras | AG | F |
-| 0-2 | Alto Elfo Dragon Warrior | 100k | 7 | 3 | 2+ | 4+ | 9+ | El Balón es Mío, Equilibrio Firme, Placar | AG | PF |
+| 0-16 | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – | AG | PF |
+| 0-2 | Alto Elfo Phoenix Prince Thrower | 90k | 6 | 3 | 2+ | 2+ | 9+ | Partenubes, Pasar, Pase Seguro | AGP | F |
+| 0-4 | Alto Elfo White Lion Blitzer | 110k | 7 | 3 | 2+ | 3+ | 9+ | Forcejear, Garras | AG | F |
+| 0-2 | Alto Elfo Dragon Warrior | 110k | 8 | 3 | 2+ | 4+ | 9+ | El Balón es Mío, Equilibrio Firme, Placar | AG | PF |
 
 - **Rerolls:** 50k  
 - **Apotecario:** Sí  
 - **Reglas especiales:** Liga de los Reinos Élficos  
+
+## Lista anterior (referencia BB2020 / caja vieja)
+
+Sigue apareciendo en Nuffle Zone como “Altos Elfos 2020”: línea 70k PA 4+, receptores Lion Warrior, Dragon Warrior Blitzer 100k MA 7 solo con Placar, etc. **No usar** para torneos BB2025/2026 salvo que el evento indique explícitamente esa variante.
 
 ## Descripción oficial de las habilidades
 

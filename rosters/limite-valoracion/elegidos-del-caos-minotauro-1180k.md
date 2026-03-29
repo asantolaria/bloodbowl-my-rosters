@@ -79,4 +79,4 @@
 - **Minotauro:** Primaria Placar (Block) para fiabilidad; secundaria ya tiene Golpe Mortífero.
 - **Beastman:** Primaria Placar o Esquivar según rol; secundarias mutaciones según [elegidos-del-caos.md](../../source/teams/elegidos-del-caos.md).
 
-Ver [elegidos-del-caos-valoracion-limitada.md](elegidos-del-caos-valoracion-limitada.md) y [elegidos-del-caos-skill-pack.md](../skill-pack/elegidos-del-caos-skill-pack.md).
+Ver [elegidos-del-caos-valoracion-limitada.md](elegidos-del-caos-valoracion-limitada.md) y [formaciones skill pack](../skill-pack/README.md).

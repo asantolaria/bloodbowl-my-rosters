@@ -77,4 +77,4 @@
 - **Beastman:** Primaria Placar o Esquivar según rol (blitzer / portador). Secundarias mutaciones según [elegidos-del-caos.md](../../source/teams/elegidos-del-caos.md) y FUMBBL BB25.
 - **Ogro del Caos:** Primaria Placar (Block) para fiabilidad; secundaria Golpe Mortífero ya incluido.
 
-Ver [elegidos-del-caos-valoracion-limitada.md](elegidos-del-caos-valoracion-limitada.md) y [elegidos-del-caos-skill-pack.md](../skill-pack/elegidos-del-caos-skill-pack.md).
+Ver [elegidos-del-caos-valoracion-limitada.md](elegidos-del-caos-valoracion-limitada.md) y [formaciones skill pack](../skill-pack/README.md).

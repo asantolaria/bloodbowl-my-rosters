@@ -1,0 +1,9 @@
+
+# Cursor: versionar solo `.cursor/rules/`; el resto (commands, skills, caché) es local
+.cursor/*
+!.cursor/rules/
+!.cursor/rules/**
+
+.maya/
+_bmad/
+.claude/

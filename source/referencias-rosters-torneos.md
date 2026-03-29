@@ -2,6 +2,8 @@
 
 **Importante:** Todas las fuentes deben usarse en contexto **Blood Bowl 3rd Season (2025)**. Al consultar estadísticas o guías, filtrar por año 2025 / variante BB2025 / Third Season; si un sitio incluye datos históricos (p. ej. Eurobowl antiguo), priorizar los datos más recientes y las reglas actuales.
 
+**Reglamento escrito (autoridad):** **[referencias-reglamento-bb3.md](referencias-reglamento-bb3.md)** y PDF en repo: [reglamento-bb3-season3.pdf](reglamento/reglamento-bb3-season3.pdf) (GW Season 3 / 2025).
+
 Fuentes para consultar **rosters más jugados por tier**, **valoración en torneos** y **builds a 1000k**, y para sugerir creaciones tanto a 1.000k como para torneos con presupuesto por tier.
 
 ---

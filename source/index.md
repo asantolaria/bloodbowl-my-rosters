@@ -2,6 +2,8 @@
 
 Navegación unificada de equipos, habilidades, jugadores estrella y tablas. Fuente: [NuffleZone.com](https://nufflezone.com/) (Blood Bowl 3ª Temporada, 11-2025).
 
+**Reglamento oficial (texto de reglas):** [referencias-reglamento-bb3.md](referencias-reglamento-bb3.md) · [PDF Season 3](reglamento/reglamento-bb3-season3.pdf)
+
 ---
 
 ## Equipos

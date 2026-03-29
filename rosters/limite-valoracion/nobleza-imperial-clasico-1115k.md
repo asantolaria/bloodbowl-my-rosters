@@ -75,4 +75,4 @@
 
 ## Progresión recomendada
 
-- Ver [nobleza-imperial-valoracion-limitada.md](nobleza-imperial-valoracion-limitada.md) y [nobleza-imperial-skill-pack.md](../skill-pack/nobleza-imperial-skill-pack.md).
+- Ver [nobleza-imperial-valoracion-limitada.md](nobleza-imperial-valoracion-limitada.md) y [formaciones skill pack](../skill-pack/README.md).

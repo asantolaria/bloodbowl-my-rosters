@@ -41,16 +41,13 @@ En formato slug: minúsculas, guiones, sin acentos, extensión `.md`. Ejemplos:
 | Sugerencia torneo | Nobleza Imperial | 1.115k | [nobleza-imperial-clasico-1115k.md](limite-valoracion/nobleza-imperial-clasico-1115k.md) |
 | Sugerencia torneo | Nobleza Imperial | 1.065k | [nobleza-imperial-sin-ogre-1065k.md](limite-valoracion/nobleza-imperial-sin-ogre-1065k.md) |
 | Sugerencia torneo | Altos Elfos | 1.060k | [altos-elfos-clasico-1060k.md](limite-valoracion/altos-elfos-clasico-1060k.md) |
-| Sugerencia torneo | Altos Elfos | 1.080k | [altos-elfos-mas-jugadores-1080k.md](limite-valoracion/altos-elfos-mas-jugadores-1080k.md) |
+| Sugerencia torneo | Altos Elfos | 1.060k | [altos-elfos-mas-jugadores-1060k.md](limite-valoracion/altos-elfos-mas-jugadores-1060k.md) |
 | Sugerencia torneo | Unión Élfica | 1.095k | [union-elfica-clasico-1095k.md](limite-valoracion/union-elfica-clasico-1095k.md) |
 | Sugerencia torneo | Unión Élfica | 1.145k | [union-elfica-mas-velocidad-1145k.md](limite-valoracion/union-elfica-mas-velocidad-1145k.md) |
 | Sugerencia torneo | Hombres Lagarto | 1.140k | [hombres-lagarto-tv1100-1140k.md](limite-valoracion/hombres-lagarto-tv1100-1140k.md) |
 | Sugerencia torneo | Hombres Lagarto | 1.180k | [hombres-lagarto-tv1150-1180k.md](limite-valoracion/hombres-lagarto-tv1150-1180k.md) |
 | Sugerencia torneo | Hombres Lagarto | 1.250k | [hombres-lagarto-tv1200-1250k.md](limite-valoracion/hombres-lagarto-tv1200-1250k.md) |
-| Sugerencia torneo | No Muertos | 1.035k | [no-muertos-tv1100-1035k.md](limite-valoracion/no-muertos-tv1100-1035k.md) |
-| Sugerencia torneo | No Muertos | 1.070k | [no-muertos-optimizado-1070k.md](limite-valoracion/no-muertos-optimizado-1070k.md) |
-| Sugerencia torneo | No Muertos | 1.070k | [no-muertos-tv1150-1070k.md](limite-valoracion/no-muertos-tv1150-1070k.md) |
-| Sugerencia torneo | No Muertos | 1.110k | [no-muertos-tv1200-1110k.md](limite-valoracion/no-muertos-tv1200-1110k.md) |
+| Tope Tier 2 | No Muertos | 1.160k | [no-muertos-tope-tier2-1160k.md](limite-valoracion/no-muertos-tope-tier2-1160k.md), [no-muertos-tope-tier2-1160k-4rerolls.md](limite-valoracion/no-muertos-tope-tier2-1160k-4rerolls.md) — [no-muertos-valoracion-limitada.md](limite-valoracion/no-muertos-valoracion-limitada.md) |
 | Sugerencia torneo | Skavens | 970k | [skavens-con-rata-ogro-970k.md](limite-valoracion/skavens-con-rata-ogro-970k.md) |
 | Sugerencia torneo | Skavens | 920k | [skavens-sin-rata-ogro-920k.md](limite-valoracion/skavens-sin-rata-ogro-920k.md) |
 | Sugerencia torneo | Skavens | 970k | [skavens-competitivo-970k.md](limite-valoracion/skavens-competitivo-970k.md) |
@@ -60,35 +57,35 @@ En formato slug: minúsculas, guiones, sin acentos, extensión `.md`. Ejemplos:
 
 Los rosters **Sugerencia torneo** (por equipo y TV) son un archivo por cada roster propuesto en las guías de [limite-valoracion/](limite-valoracion/) (ver [README de limite-valoracion](limite-valoracion/README.md)), siguiendo la [plantilla](../source/plantilla-roster.md).
 
-Los rosters **Skill pack** (por build y TV) son un archivo por cada build de las guías de [skill-pack/](skill-pack/), siguiendo la misma plantilla (sin prefijo "sugerencia-torneo-"):
+Los rosters **Skill pack** son **solo formaciones** en [skill-pack/](skill-pack/) (convención de nombre `equipo-xP-yS-zA`, ver [skill-pack/README.md](skill-pack/README.md) y [source/tiers/skill-pack.md](../source/tiers/skill-pack.md)).
 
-| Build | Equipo | TV | Archivo |
-|-------|--------|-----|---------|
-| 6 habilidades | Hombres Lagarto | 1.240k | [skill-pack/hombres-lagarto-6-habilidades-1240k.md](skill-pack/hombres-lagarto-6-habilidades-1240k.md) |
-| 7 habilidades | Hombres Lagarto | 1.260k | [skill-pack/hombres-lagarto-7-habilidades-1260k.md](skill-pack/hombres-lagarto-7-habilidades-1260k.md) |
-| 7 agresivo | Hombres Lagarto | 1.260k | [skill-pack/hombres-lagarto-7-agresivo-1260k.md](skill-pack/hombres-lagarto-7-agresivo-1260k.md) |
-| 8-9 habilidades | Hombres Lagarto | 1.280k | [skill-pack/hombres-lagarto-8-9-habilidades-1280k.md](skill-pack/hombres-lagarto-8-9-habilidades-1280k.md) |
-| 6 primarias | No Muertos | 1.190k | [skill-pack/no-muertos-6-primarias-1190k.md](skill-pack/no-muertos-6-primarias-1190k.md) |
-| 7 primarias | No Muertos | 1.210k | [skill-pack/no-muertos-7-primarias-1210k.md](skill-pack/no-muertos-7-primarias-1210k.md) |
-| 8-9 habilidades | No Muertos | 1.270k | [skill-pack/no-muertos-8-9-habilidades-1270k.md](skill-pack/no-muertos-8-9-habilidades-1270k.md) |
-| 6 primarias | Skavens | 1.040k | [skill-pack/skavens-6-primarias-1040k.md](skill-pack/skavens-6-primarias-1040k.md) |
-| 7 primarias | Skavens | 1.060k | [skill-pack/skavens-7-primarias-1060k.md](skill-pack/skavens-7-primarias-1060k.md) |
-| 8-9 habilidades | Skavens | 1.270k | [skill-pack/skavens-8-9-habilidades-1270k.md](skill-pack/skavens-8-9-habilidades-1270k.md) |
-| Meta estándar | Orcos Negros | 1.265k | [skill-pack/orcos-negros-meta-estandar-1265k.md](skill-pack/orcos-negros-meta-estandar-1265k.md) |
-| Doble Troll | Orcos Negros | 1.380k | [skill-pack/orcos-negros-doble-troll-1380k.md](skill-pack/orcos-negros-doble-troll-1380k.md) |
-| Fouling machine | Orcos Negros | 1.310k | [skill-pack/orcos-negros-fouling-machine-1310k.md](skill-pack/orcos-negros-fouling-machine-1310k.md) |
-| Core competitivo | Elegidos del Caos | 1.275k | [skill-pack/elegidos-del-caos-core-1275k.md](skill-pack/elegidos-del-caos-core-1275k.md) |
-| Anti-agilidad | Elegidos del Caos | 1.310k | [skill-pack/elegidos-del-caos-anti-agilidad-1310k.md](skill-pack/elegidos-del-caos-anti-agilidad-1310k.md) |
-| Control brutal | Elegidos del Caos | 1.330k | [skill-pack/elegidos-del-caos-control-brutal-1330k.md](skill-pack/elegidos-del-caos-control-brutal-1330k.md) |
-| Meta estándar | Nobleza Imperial | 1.270k | [skill-pack/nobleza-imperial-meta-estandar-1270k.md](skill-pack/nobleza-imperial-meta-estandar-1270k.md) |
-| Anti-elfos | Nobleza Imperial | 1.230k | [skill-pack/nobleza-imperial-anti-elfos-1230k.md](skill-pack/nobleza-imperial-anti-elfos-1230k.md) |
-| Control brutal | Nobleza Imperial | 1.250k | [skill-pack/nobleza-imperial-control-brutal-1250k.md](skill-pack/nobleza-imperial-control-brutal-1250k.md) |
-| Meta competitivo | Altos Elfos | 1.150k | [skill-pack/altos-elfos-meta-competitivo-1150k.md](skill-pack/altos-elfos-meta-competitivo-1150k.md) |
-| Anti bash | Altos Elfos | 1.150k | [skill-pack/altos-elfos-anti-bash-1150k.md](skill-pack/altos-elfos-anti-bash-1150k.md) |
-| Ultra defensivo | Altos Elfos | 1.150k | [skill-pack/altos-elfos-ultra-defensivo-1150k.md](skill-pack/altos-elfos-ultra-defensivo-1150k.md) |
-| Meta estándar | Unión Élfica | 1.205k | [skill-pack/union-elfica-meta-estandar-1205k.md](skill-pack/union-elfica-meta-estandar-1205k.md) |
-| Anti bash | Unión Élfica | 1.205k | [skill-pack/union-elfica-anti-bash-1205k.md](skill-pack/union-elfica-anti-bash-1205k.md) |
-| Ultra agresivo | Unión Élfica | 1.205k | [skill-pack/union-elfica-ultra-agresivo-1205k.md](skill-pack/union-elfica-ultra-agresivo-1205k.md) |
+| Build | Equipo | P-S-A | TV | Archivo |
+|-------|--------|-------|-----|---------|
+| Meta competitivo | Altos Elfos | 6P-1S-1A | 1.150k | [skill-pack/altos-elfos-6P-1S-1A.md](skill-pack/altos-elfos-6P-1S-1A.md) |
+| Anti bash | Altos Elfos | 6P-1S-0A | 1.150k | [skill-pack/altos-elfos-6P-1S-0A.md](skill-pack/altos-elfos-6P-1S-0A.md) |
+| Ultra defensivo | Altos Elfos | 8P-0S-0A | 1.150k | [skill-pack/altos-elfos-8P-0S-0A.md](skill-pack/altos-elfos-8P-0S-0A.md) |
+| Meta estándar | Unión Élfica | 6P-1S-0A | 1.205k | [skill-pack/union-elfica-6P-1S-0A-meta.md](skill-pack/union-elfica-6P-1S-0A-meta.md) |
+| Anti bash | Unión Élfica | 6P-1S-0A | 1.205k | [skill-pack/union-elfica-6P-1S-0A-anti-bash.md](skill-pack/union-elfica-6P-1S-0A-anti-bash.md) |
+| Ultra agresivo | Unión Élfica | 8P-0S-0A | 1.205k | [skill-pack/union-elfica-8P-0S-0A.md](skill-pack/union-elfica-8P-0S-0A.md) |
+| 6 primarias | Skavens | 6P-0S-0A | 1.040k | [skill-pack/skavens-6P-0S-0A.md](skill-pack/skavens-6P-0S-0A.md) |
+| Tier 2 estándar | Skavens | 7P-0S-1A | 1.060k | [skill-pack/skavens-7P-0S-1A.md](skill-pack/skavens-7P-0S-1A.md) |
+| Torneos grandes | Skavens | 8P-1S-1A | 1.270k | [skill-pack/skavens-8P-1S-1A.md](skill-pack/skavens-8P-1S-1A.md) |
+| 6 primarias | No Muertos | 6P-0S-0A | 1.190k | [skill-pack/no-muertos-6P-0S-0A.md](skill-pack/no-muertos-6P-0S-0A.md) |
+| Tier 2 estándar | No Muertos | 7P-0S-1A | 1.210k | [skill-pack/no-muertos-7P-0S-1A.md](skill-pack/no-muertos-7P-0S-1A.md) |
+| Torneos grandes | No Muertos | 8P-1S-1A | 1.270k | [skill-pack/no-muertos-8P-1S-1A.md](skill-pack/no-muertos-8P-1S-1A.md) |
+| Tier 1 estándar | Hombres Lagarto | 6P-0S-0A | 1.240k | [skill-pack/hombres-lagarto-6P-0S-0A.md](skill-pack/hombres-lagarto-6P-0S-0A.md) |
+| 7 primarias control | Hombres Lagarto | 7P-0S-0A | 1.260k | [skill-pack/hombres-lagarto-7P-0S-0A-control.md](skill-pack/hombres-lagarto-7P-0S-0A-control.md) |
+| 7 primarias agresivo | Hombres Lagarto | 7P-0S-0A | 1.260k | [skill-pack/hombres-lagarto-7P-0S-0A-agresivo.md](skill-pack/hombres-lagarto-7P-0S-0A-agresivo.md) |
+| Torneos grandes | Hombres Lagarto | 8P-0S-1A | 1.280k | [skill-pack/hombres-lagarto-8P-0S-1A.md](skill-pack/hombres-lagarto-8P-0S-1A.md) |
+| Meta estándar | Nobleza Imperial | 6P-1S-1A | 1.270k | [skill-pack/nobleza-imperial-6P-1S-1A.md](skill-pack/nobleza-imperial-6P-1S-1A.md) |
+| Anti-elfos | Nobleza Imperial | 6P-0S-0A | 1.230k | [skill-pack/nobleza-imperial-6P-0S-0A.md](skill-pack/nobleza-imperial-6P-0S-0A.md) |
+| Control brutal | Nobleza Imperial | 7P-0S-0A | 1.250k | [skill-pack/nobleza-imperial-7P-0S-0A.md](skill-pack/nobleza-imperial-7P-0S-0A.md) |
+| Meta estándar | Orcos Negros | 6P-1S-1A | 1.265k | [skill-pack/orcos-negros-6P-1S-1A-meta.md](skill-pack/orcos-negros-6P-1S-1A-meta.md) |
+| Fouling machine | Orcos Negros | 6P-1S-1A | 1.310k | [skill-pack/orcos-negros-6P-1S-1A-fouling.md](skill-pack/orcos-negros-6P-1S-1A-fouling.md) |
+| Doble Troll | Orcos Negros | 8P-0S-0A | 1.380k | [skill-pack/orcos-negros-8P-0S-0A-doble-troll.md](skill-pack/orcos-negros-8P-0S-0A-doble-troll.md) |
+| Core competitivo | Elegidos del Caos | 6P-1S-0A | 1.275k | [skill-pack/elegidos-del-caos-6P-1S-0A.md](skill-pack/elegidos-del-caos-6P-1S-0A.md) |
+| Anti-agilidad | Elegidos del Caos | 7P-0S-0A | 1.310k | [skill-pack/elegidos-del-caos-7P-0S-0A.md](skill-pack/elegidos-del-caos-7P-0S-0A.md) |
+| Control brutal | Elegidos del Caos | 8P-0S-0A | 1.330k | [skill-pack/elegidos-del-caos-8P-0S-0A.md](skill-pack/elegidos-del-caos-8P-0S-0A.md) |
 
 **Origen de datos:** Las alineaciones se han actualizado con la información exportada desde [BB Roster](https://bbroster.net) (gestor de equipos). Habilidades ganadas por progresión aparecen en **negrita** en cada roster.
 
@@ -98,6 +95,7 @@ Los rosters **Skill pack** (por build y TV) son un archivo por cada build de las
 |---------|-----------|
 | **[limite-valoracion/](limite-valoracion/)** | Rosters para torneos con valoración limitada por tier (presupuesto por tier). |
 | **[skill-pack/](skill-pack/)** | Builds para torneos con skill pack (puntos de habilidad por tier). |
+| **[eurobowl-2026/](eurobowl-2026/)** | Plantillas **EuroBowl 2026** (#euro26): 6 tiers, Team Budget + Skill Gold + Flowing Funds. **WIP competitivo** (`eurobowl-2026-wip-competitive`) — ver [eurobowl-2026/README.md](eurobowl-2026/README.md). |
 
 Por ahora: **limite-valoracion:** Orcos Negros, Nobleza Imperial, Altos Elfos, Unión Élfica, Hombres Lagarto, No Muertos, Skavens, Elegidos del Caos. **skill-pack:** Orcos Negros, Elegidos del Caos, Nobleza Imperial, Altos Elfos, Unión Élfica, Hombres Lagarto, No Muertos, Skavens (ver [limite-valoracion/](limite-valoracion/) y [skill-pack/](skill-pack/)).
 

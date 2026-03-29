@@ -16,9 +16,11 @@ Datos de referencia según [NuffleZone.com](https://nufflezone.com/) (Blood Bowl
 | [**tiers/**](tiers/) | Oro por tier, Skill pack y tabla Tier \| Equipos (torneos NAF/Matched Play). Ver [README](tiers/README.md). |
 | [**tablas/**](tablas/) | Tablas de partida: heridas, clima, patada inicial, plegarias, experiencia/SPP. Ver [README](tablas/README.md). |
 | [**images/**](images/) | Imágenes de equipos (logos). Ver [README](images/README.md). |
+| [**reglamento/**](reglamento/) | PDF oficial Season 3 (GW). Ver [README](reglamento/README.md) y [referencias-reglamento-bb3.md](referencias-reglamento-bb3.md). |
 
 ## Otros archivos
 
+- **[referencias-reglamento-bb3.md](referencias-reglamento-bb3.md)** — Reglamento escrito (enlace al PDF en `reglamento/`).
 - **[plantilla-roster.md](plantilla-roster.md)** — Plantilla para crear rosters (Roster Builder).
 - **[nombres-equipos-sugeridos.md](nombres-equipos-sugeridos.md)** — Nombres de equipo por raza para sugerir al crear roster.
 
