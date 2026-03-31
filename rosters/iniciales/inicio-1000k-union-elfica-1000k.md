@@ -2,25 +2,25 @@
 
 ![Unión Élfica](../../source/images/equipos/union-elfica.webp)
 
-> Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Elven Union Set Up](https://fumbbl.com/help:BB25ElfSetUp). Third Season 2025. Build recomendado: 2 Blitzers, 1 Catcher, 8 Línea, 3 RR = 1000k exactos.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/union-elfica.md`](../../source/teams/union-elfica.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). **2 Blitzers, 1 Catcher, 8 Línea, 3 RR** = 1.000k exactos.
 
 ## Alineación
 
-*Roster inicial sin habilidades de progresión. Orden: Blitzers → Catcher → Línea. Sin Thrower (recomendación FUMBBL).*
+*Roster inicial sin habilidades de progresión. Sin Lanzador (FUMBBL). **Dorsales:** Blitzers **2** y **5**, Catchers **3** y **4** (solo un Catcher en esta lista: **3**; **4** libre para el segundo), Lanzadores **1** y **11** libres hasta ficharlos, Líneas **6–10, 12, 13, 14** (ocho Líneas: el **11** se reserva al 2.º Lanzador). Stats: [`source/teams/union-elfica.md`](../../source/teams/union-elfica.md).*
 
 | Nº | Nombre | Posición   | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|------------|-------|----|----|----|----|----|-------------|
-| ____ | ____________________ | Elfo Blitzer | 115k | 7 | 3 | 2+ | — | 9 | Placar, Echarse a un Lado |
-| ____ | ____________________ | Elfo Blitzer | 115k | 7 | 3 | 2+ | — | 9 | Placar, Echarse a un Lado |
-| ____ | ____________________ | Elfo Catcher | 100k | 8 | 3 | 2+ | — | 8 | Atrapar, Nervios de Acero, Recepción Heroica |
-| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
-| ____ | ____________________ | Elfo Línea  | 65k  | 6 | 3 | 2+ | — | 8 | Dejada |
+| 2 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Placar, Echarse a un Lado |
+| 3 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de Acero, Recepción Heroica |
+| 5 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Placar, Echarse a un Lado |
+| 6 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
+| 7 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
+| 8 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
+| 9 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
+| 10 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
+| 12 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
+| 13 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
+| 14 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
 
 **Total jugadores:** 11 | **TV:** 1.000k
 
@@ -67,6 +67,6 @@
 
 ## Progresión recomendada
 
-- **Elfo Blitzer:** Primaria Paso Lateral o Derribar; secundarias Pies Seguros, Foco (AG / PS según source/teams/union-elfica.md).
-- **Elfo Catcher:** Primaria Paso Lateral; secundarias Pies Seguros, Esquivar (AG / S).
-- **Elfo Línea:** Primaria Bloqueo o Paso Lateral; secundarias Pies Seguros, Esquivar (AG / S).
+- **Elfo Blitzer:** Primaria Echarse a un Lado o Forcejear; secundarias Manos Seguras, Profesional (AG / PS según source/teams/union-elfica.md).
+- **Elfo Catcher:** Primaria Echarse a un Lado; secundarias Manos Seguras, Esquivar (AG / S).
+- **Elfo Línea:** Primaria Placar o Echarse a un Lado; secundarias Manos Seguras, Esquivar (AG / S).

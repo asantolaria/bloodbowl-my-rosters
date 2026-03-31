@@ -37,7 +37,7 @@ Fuente: [Nuffle Zone — Nórdicos](https://nufflezone.com/equipos-blood-bowl/no
 * **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
 * **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
 * **Presencia Perturbadora (Disturbing Presence) — incl.:** Por cada jugador con esta habilidad a 3 casillas o menos, rival tiene -1 al chequeo de Pase/AG (pase, lanzar compañero, lanzar bomba, interceptar, atrapar).
-* **Robar Balón (Strip Ball) — incl.:** Si en Placaje empuja al portador del balón, el balón cae y rebota desde la casilla de destino (antes de que el rival quede tumbado).
+* **Robar Balón (Strip Ball) — incl.:** Placaje al **portador** y **empuje**: el balón **cae y rebota** desde la casilla de destino **antes** de que el rival quede tumbado, pero **después** de que **este jugador** elija si hace **impulso**.
 * **Sin Manos (No Hands) — incl.:** No puede ser portador del balón; no puede atrapar, recoger ni interceptar el balón.
 * **Solitario (Loner) — incl.:** Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite.
 * **Levantar Compañero (Pick-Me-Up) — incl.:** Al final de cada turno rival: 1D6 por cada tumbado boca arriba a ≤3 casillas de un compañero con este rasgo; 5+=se levanta.

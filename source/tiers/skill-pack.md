@@ -1,6 +1,8 @@
-# Skill pack — Puntos y límites por tier
+# Skill pack — Puntos y límites por tier *(legado)*
 
-Puntos de habilidad, límite de secundarias y apilamiento por tier. Estándar NAF (p. ej. 2026). Siempre revisar el pack del torneo concreto.
+> **Legado / archivo.** Muchos torneos NAF actuales (p. ej. **EuroBowl 2026**, #euro26) usan **Skill Gold** y presupuestos distintos — ver **[eurobowl-2026.md](eurobowl-2026.md)**. Este documento describe el esquema clásico de **Skill Points** del *Designer’s Commentary* GW (puntos por tier, límites de secundarias, apilamiento). Solo aplica si **tu reglamento de torneo lo cita explícitamente**.
+
+Puntos de habilidad, límite de secundarias y apilamiento por tier. Siempre revisar el pack del torneo concreto.
 
 ## Tabla Skill pack
 
@@ -20,9 +22,9 @@ Puntos de habilidad, límite de secundarias y apilamiento por tier. Estándar NA
 
 | Coste | Equiv. TV (progresión) | Uso |
 |-------|------------------------|-----|
-| **1 Punto** | +20k TV | Habilidad primaria (ej. Block, Dodge, Guard). |
-| **2 Puntos** | +40k TV | Habilidad secundaria (ej. Block en un Big Guy, Dodge en un Blitzer Orco). |
-| **Habilidades "élite"** | según torneo | Algunos torneos cobran 2 puntos por habilidades dominantes como Mighty Blow (+1) o Guard. |
+| **1 Punto** | +20k TV | Habilidad primaria (ej. **Placar**, **Esquivar**, **Defensa**). |
+| **2 Puntos** | +40k TV | Habilidad secundaria (ej. **Placar** en un Grandullón, **Esquivar** en un Blitzer orco). |
+| **Habilidades "élite"** | según torneo | Algunos torneos cobran 2 puntos por habilidades dominantes como **Golpe Mortífero (+1)** o **Defensa**. |
 
 ## Tabla Tier | Equipos
 
@@ -39,9 +41,9 @@ Los **Ogros** aplican reglas de **Tier 4** (10 puntos de skill pack, etc.), no T
 
 Equipos no listados aquí (Slaanesh, Tzeentch, Slann, variantes, etc.): el tier lo marca el pack del torneo; si no, asumir Tier 2–3 y confirmar con el organizador.
 
-## Nombres de archivo en `rosters/skill-pack/`
+## Convención de nombres (xP-yS-zA)
 
-Las formaciones guardadas en [rosters/skill-pack/](../../rosters/skill-pack/) usan el patrón:
+Si documentas un roster bajo este sistema, un patrón útil es:
 
 `[equipo]-[x]P-[y]S-[z]A[-variante].md`
 
@@ -51,5 +53,3 @@ Las formaciones guardadas en [rosters/skill-pack/](../../rosters/skill-pack/) us
 | **S** | Cantidad tomadas como **secundaria** (+40k TV c/u). |
 | **A** | Cantidad de jugadores con **apilamiento** (2 o más habilidades extra del pack en la misma ficha). Debe respetar las reglas del tier del torneo (tabla superior). |
 | **`-variante`** | Opcional: solo cuando dos listas comparten el mismo x/y/z (p. ej. `-meta` / `-fouling`). |
-
-Índice de archivos y builds: [rosters/skill-pack/README.md](../../rosters/skill-pack/README.md).

@@ -2,7 +2,7 @@
 
 ![No Muertos](../../source/images/equipos/no-muertos.webp)
 
-> Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Shambling Undead Set Up](https://fumbbl.com/help:BB25UndeadSetUp). Third Season 2025. Mejor inicio que en BB20 gracias a las mejoras de jugadores; no compensa llevar Esqueletos.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/no-muertos.md`](../../source/teams/no-muertos.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Con la lista 2025 suele priorizarse **Zombie** frente a **Esqueleto** en el núcleo barato (AR y rasgos de línea).
 
 ## Alineación
 
@@ -16,11 +16,11 @@
 | ____ | ____________________ | Caballero  | 95k   | 6  | 3  | 3  | —  | 9  | Cabeza Dura, Placar, Placaje Defensivo, Regeneración |
 | ____ | ____________________ | Necrófago  | 75k   | 7  | 3  | 3  | —  | 8  | Esquivar, Regeneración |
 | ____ | ____________________ | Necrófago  | 75k   | 7  | 3  | 3  | —  | 8  | Esquivar, Regeneración |
-| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 2  | —  | 9  | Piquete de Ojos, Inestable, Regeneración |
-| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 2  | —  | 9  | Piquete de Ojos, Inestable, Regeneración |
-| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 2  | —  | 9  | Piquete de Ojos, Inestable, Regeneración |
-| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 2  | —  | 9  | Piquete de Ojos, Inestable, Regeneración |
-| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 2  | —  | 9  | Piquete de Ojos, Inestable, Regeneración |
+| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 2  | —  | 9  | Piquete de Ojos, Tembloroso, Regeneración |
+| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 2  | —  | 9  | Piquete de Ojos, Tembloroso, Regeneración |
+| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 2  | —  | 9  | Piquete de Ojos, Tembloroso, Regeneración |
+| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 2  | —  | 9  | Piquete de Ojos, Tembloroso, Regeneración |
+| ____ | ____________________ | Zombie     | 40k   | 4  | 3  | 2  | —  | 9  | Piquete de Ojos, Tembloroso, Regeneración |
 
 **Total jugadores:** 11 | **TV:** 1.000k
 
@@ -69,7 +69,7 @@
 
 ## Progresión recomendada
 
-- **Momia:** Primaria Guardia; secundarias Firme, Romper Tackle (F / AG según source/teams/no-muertos.md).
-- **Caballero:** Primaria Golpe Mortífero o Guardia; secundarias Derribar, Romper Tackle (GF / AD).
-- **Necrófago:** Primaria Paso Lateral; secundarias Pies Seguros, Esquivar (AG / DPF).
-- **Zombie:** Primaria Bloqueo; secundarias Guardia, Golpe Mortífero (DG / AF).
+- **Momia:** Primaria Defensa; secundarias Mantenerse Firme, Abrirse Paso (F / AG según source/teams/no-muertos.md).
+- **Caballero:** Primaria Golpe Mortífero o Defensa; secundarias Forcejear, Abrirse Paso (GF / AD).
+- **Necrófago:** Primaria Echarse a un Lado; secundarias Manos Seguras, Esquivar (AG / DPF).
+- **Zombie:** Primaria Placar; secundarias Defensa, Golpe Mortífero (DG / AF).

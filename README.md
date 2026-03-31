@@ -2,74 +2,46 @@
 
 Repositorio para guardar y consultar **rosters de Blood Bowl** en Markdown, enfocado en **Blood Bowl Third Season (2025)**.
 
+**Torneos NAF recientes:** el formato **EuroBowl 2026** (#euro26) usa **Skill Gold** y presupuestos por tier descritos en [`source/tiers/eurobowl-2026.md`](source/tiers/eurobowl-2026.md). Plantillas en [`rosters/eurobowl-2026/`](rosters/eurobowl-2026/). Para presupuestos genéricos Season 3 (p. ej. **~1.000k–1.100k** Unión Élfica, **~1.060k–1.100k** No Muertos, **~1.000k–1.060k** Skavens, **~1.100k** Orcos Negros con paquete de skills, **~1.100k–1.135k** Elegidos del Caos (variantes Big Guy), **~1.150k–1.155k** Nobleza Imperial (1 o 2 Throwers), **~1.150k–1.200k** Hombres Lagarto), ver [`rosters/torneos-season-3/`](rosters/torneos-season-3/). El antiguo sistema de *Skill Points* por tier (GW) queda solo como referencia en [`source/tiers/skill-pack.md`](source/tiers/skill-pack.md) si tu evento lo cita explícitamente.
+
 ---
 
 ## Rosters existentes
 
-Los rosters están en **[`rosters/`](rosters/)**. Índice completo con descripción de columnas y guías: [rosters/README.md](rosters/README.md).
+Los rosters están en **[`rosters/`](rosters/)**. Índice con columnas y guías: [rosters/README.md](rosters/README.md).
 
 | Equipo | Nombre / build | TV | Archivo |
 |--------|----------------|-----|---------|
 | Altos Elfos | Inicio 1000k | 1.000k | [inicio-1000k-altos-elfos-1000k.md](rosters/iniciales/inicio-1000k-altos-elfos-1000k.md) |
-| Altos Elfos | Sugerencia torneo Clásico | 1.060k | [altos-elfos-clasico-1060k.md](rosters/limite-valoracion/altos-elfos-clasico-1060k.md) |
-| Altos Elfos | Sugerencia torneo Más jugadores (White Lion + Dragon) | 1.060k | [altos-elfos-mas-jugadores-1060k.md](rosters/limite-valoracion/altos-elfos-mas-jugadores-1060k.md) |
-| Altos Elfos | Skill pack Meta competitivo (6P-1S-1A) | 1.150k | [altos-elfos-6P-1S-1A.md](rosters/skill-pack/altos-elfos-6P-1S-1A.md) |
-| Altos Elfos | Skill pack Anti bash (6P-1S-0A) | 1.150k | [altos-elfos-6P-1S-0A.md](rosters/skill-pack/altos-elfos-6P-1S-0A.md) |
-| Altos Elfos | Skill pack Ultra defensivo (8P-0S-0A) | 1.150k | [altos-elfos-8P-0S-0A.md](rosters/skill-pack/altos-elfos-8P-0S-0A.md) |
 | Elegidos del Caos | Inicio 1000k | 1.000k | [inicio-1000k-elegidos-del-caos-1000k.md](rosters/iniciales/inicio-1000k-elegidos-del-caos-1000k.md) |
-| Elegidos del Caos | Bollychaos | 1.285k | [bollychaos-elegidos-del-caos-1285k.md](rosters/bollychaos-elegidos-del-caos-1285k.md) |
-| Elegidos del Caos | Sugerencia torneo Clásico (Ogro) | 1.180k | [elegidos-del-caos-torneo-clasico-1180k.md](rosters/limite-valoracion/elegidos-del-caos-torneo-clasico-1180k.md) |
-| Elegidos del Caos | Sugerencia torneo Minotauro | 1.180k | [elegidos-del-caos-minotauro-1180k.md](rosters/limite-valoracion/elegidos-del-caos-minotauro-1180k.md) |
-| Elegidos del Caos | Skill pack Core (6P-1S-0A) | 1.275k | [elegidos-del-caos-6P-1S-0A.md](rosters/skill-pack/elegidos-del-caos-6P-1S-0A.md) |
-| Elegidos del Caos | Skill pack Anti-agilidad (7P-0S-0A) | 1.310k | [elegidos-del-caos-7P-0S-0A.md](rosters/skill-pack/elegidos-del-caos-7P-0S-0A.md) |
-| Elegidos del Caos | Skill pack Control brutal (8P-0S-0A) | 1.330k | [elegidos-del-caos-8P-0S-0A.md](rosters/skill-pack/elegidos-del-caos-8P-0S-0A.md) |
+| Elegidos del Caos | Torneo S3 (Troll) | 1.100k | [torneo-s3-elegidos-del-caos-troll-1100k.md](rosters/torneos-season-3/torneo-s3-elegidos-del-caos-troll-1100k.md) |
+| Elegidos del Caos | Torneo S3 (Ogro) | 1.125k | [torneo-s3-elegidos-del-caos-ogro-1125k.md](rosters/torneos-season-3/torneo-s3-elegidos-del-caos-ogro-1125k.md) |
+| Elegidos del Caos | Torneo S3 (Minotauro) | 1.135k | [torneo-s3-elegidos-del-caos-minotauro-1135k.md](rosters/torneos-season-3/torneo-s3-elegidos-del-caos-minotauro-1135k.md) |
 | Hombres Lagarto | Inicio 1000k | 1.000k | [inicio-1000k-hombres-lagarto-1000k.md](rosters/iniciales/inicio-1000k-hombres-lagarto-1000k.md) |
-| Hombres Lagarto | Pandora | 1.140k | [pandora-hombres-lagarto-1140k.md](rosters/pandora-hombres-lagarto-1140k.md) |
-| Hombres Lagarto | Sugerencia torneo TV1100 | 1.140k | [hombres-lagarto-tv1100-1140k.md](rosters/limite-valoracion/hombres-lagarto-tv1100-1140k.md) |
-| Hombres Lagarto | Sugerencia torneo TV1150 | 1.180k | [hombres-lagarto-tv1150-1180k.md](rosters/limite-valoracion/hombres-lagarto-tv1150-1180k.md) |
-| Hombres Lagarto | Sugerencia torneo TV1200 | 1.250k | [hombres-lagarto-tv1200-1250k.md](rosters/limite-valoracion/hombres-lagarto-tv1200-1250k.md) |
-| Hombres Lagarto | Skill pack Tier 1 (6P-0S-0A) | 1.240k | [hombres-lagarto-6P-0S-0A.md](rosters/skill-pack/hombres-lagarto-6P-0S-0A.md) |
-| Hombres Lagarto | Skill pack 7 control (7P-0S-0A) | 1.260k | [hombres-lagarto-7P-0S-0A-control.md](rosters/skill-pack/hombres-lagarto-7P-0S-0A-control.md) |
-| Hombres Lagarto | Skill pack 7 agresivo (7P-0S-0A) | 1.260k | [hombres-lagarto-7P-0S-0A-agresivo.md](rosters/skill-pack/hombres-lagarto-7P-0S-0A-agresivo.md) |
-| Hombres Lagarto | Skill pack grande (8P-0S-1A) | 1.280k | [hombres-lagarto-8P-0S-1A.md](rosters/skill-pack/hombres-lagarto-8P-0S-1A.md) |
+| Humanos | Inicio 1000k | 1.000k | [inicio-1000k-humanos-1000k.md](rosters/iniciales/inicio-1000k-humanos-1000k.md) |
+| Hombres Lagarto | Torneo S3 | 1.150k | [torneo-s3-hombres-lagarto-1150k.md](rosters/torneos-season-3/torneo-s3-hombres-lagarto-1150k.md) |
+| Hombres Lagarto | Torneo S3 | 1.200k | [torneo-s3-hombres-lagarto-1200k.md](rosters/torneos-season-3/torneo-s3-hombres-lagarto-1200k.md) |
 | No Muertos | Inicio 1000k | 1.000k | [inicio-1000k-no-muertos-1000k.md](rosters/iniciales/inicio-1000k-no-muertos-1000k.md) |
-| No Muertos | Muertos de Risa | 1.100k | [muertos-de-risa-no-muertos-1100k.md](rosters/muertos-de-risa-no-muertos-1100k.md) |
-| No Muertos | Tope Tier 2 (12 jugadores) | 1.160k | [no-muertos-tope-tier2-1160k.md](rosters/limite-valoracion/no-muertos-tope-tier2-1160k.md) — guía [no-muertos-valoracion-limitada.md](rosters/limite-valoracion/no-muertos-valoracion-limitada.md) |
-| No Muertos | Tope Tier 2 (4 rerolls, 11 jug.) | 1.160k | [no-muertos-tope-tier2-1160k-4rerolls.md](rosters/limite-valoracion/no-muertos-tope-tier2-1160k-4rerolls.md) |
-| No Muertos | Skill pack 6 primarias (6P-0S-0A) | 1.190k | [no-muertos-6P-0S-0A.md](rosters/skill-pack/no-muertos-6P-0S-0A.md) |
-| No Muertos | Skill pack Tier 2 (7P-0S-1A) | 1.210k | [no-muertos-7P-0S-1A.md](rosters/skill-pack/no-muertos-7P-0S-1A.md) |
-| No Muertos | Skill pack grande (8P-1S-1A) | 1.270k | [no-muertos-8P-1S-1A.md](rosters/skill-pack/no-muertos-8P-1S-1A.md) |
+| No Muertos | Torneo S3 | 1.060k | [torneo-s3-no-muertos-1060k.md](rosters/torneos-season-3/torneo-s3-no-muertos-1060k.md) |
+| No Muertos | Torneo S3 | 1.100k | [torneo-s3-no-muertos-1100k.md](rosters/torneos-season-3/torneo-s3-no-muertos-1100k.md) |
 | Nobleza Imperial | Inicio 1000k | 1.000k | [inicio-1000k-nobleza-imperial-1000k.md](rosters/iniciales/inicio-1000k-nobleza-imperial-1000k.md) |
-| Nobleza Imperial | Barones Bigotudos | 1.070k | [barones-bigotudos-nobleza-imperial-1070k.md](rosters/barones-bigotudos-nobleza-imperial-1070k.md) |
-| Nobleza Imperial | Barones Bigotudos | 1.205k | [barones-bigotudos-nobleza-imperial-1205k.md](rosters/barones-bigotudos-nobleza-imperial-1205k.md) |
-| Nobleza Imperial | Sugerencia torneo Clásico | 1.115k | [nobleza-imperial-clasico-1115k.md](rosters/limite-valoracion/nobleza-imperial-clasico-1115k.md) |
-| Nobleza Imperial | Sugerencia torneo Sin ogre | 1.065k | [nobleza-imperial-sin-ogre-1065k.md](rosters/limite-valoracion/nobleza-imperial-sin-ogre-1065k.md) |
-| Nobleza Imperial | Skill pack Meta (6P-1S-1A) | 1.270k | [nobleza-imperial-6P-1S-1A.md](rosters/skill-pack/nobleza-imperial-6P-1S-1A.md) |
-| Nobleza Imperial | Skill pack Anti-elfos (6P-0S-0A) | 1.230k | [nobleza-imperial-6P-0S-0A.md](rosters/skill-pack/nobleza-imperial-6P-0S-0A.md) |
-| Nobleza Imperial | Skill pack Control brutal (7P-0S-0A) | 1.250k | [nobleza-imperial-7P-0S-0A.md](rosters/skill-pack/nobleza-imperial-7P-0S-0A.md) |
+| Nobleza Imperial | Torneo S3 | 1.150k | [torneo-s3-nobleza-imperial-1150k.md](rosters/torneos-season-3/torneo-s3-nobleza-imperial-1150k.md) |
+| Nobleza Imperial | Torneo S3 | 1.155k | [torneo-s3-nobleza-imperial-1155k.md](rosters/torneos-season-3/torneo-s3-nobleza-imperial-1155k.md) |
 | Orcos Negros | Inicio 1000k | 1.000k | [inicio-1000k-orcos-negros-1000k.md](rosters/iniciales/inicio-1000k-orcos-negros-1000k.md) |
-| Orcos Negros | Brutorcos | 1.230k | [brutorcos-orcos-negros-1230k.md](rosters/brutorcos-orcos-negros-1230k.md) |
-| Orcos Negros | Sugerencia torneo Control fouling | 1.220k | [orcos-negros-control-fouling-1220k.md](rosters/limite-valoracion/orcos-negros-control-fouling-1220k.md) |
-| Orcos Negros | Sugerencia torneo Triple Dirty | 1.150k | [orcos-negros-triple-dirty-1150k.md](rosters/limite-valoracion/orcos-negros-triple-dirty-1150k.md) |
-| Orcos Negros | Sugerencia torneo Doble Troll | 1.220k | [orcos-negros-doble-troll-1220k.md](rosters/limite-valoracion/orcos-negros-doble-troll-1220k.md) |
-| Orcos Negros | Skill pack Meta (6P-1S-1A) | 1.265k | [orcos-negros-6P-1S-1A-meta.md](rosters/skill-pack/orcos-negros-6P-1S-1A-meta.md) |
-| Orcos Negros | Skill pack Doble Troll (8P-0S-0A) | 1.380k | [orcos-negros-8P-0S-0A-doble-troll.md](rosters/skill-pack/orcos-negros-8P-0S-0A-doble-troll.md) |
-| Orcos Negros | Skill pack Fouling (6P-1S-1A) | 1.310k | [orcos-negros-6P-1S-1A-fouling.md](rosters/skill-pack/orcos-negros-6P-1S-1A-fouling.md) |
+| Orcos Negros | Torneo S3 | 1.095k | [torneo-s3-orcos-negros-1095k.md](rosters/torneos-season-3/torneo-s3-orcos-negros-1095k.md) |
+| Orcos Negros | Torneo S3 | 1.115k | [torneo-s3-orcos-negros-1115k.md](rosters/torneos-season-3/torneo-s3-orcos-negros-1115k.md) |
+| Orcos Negros | Torneo S3 | 1.160k | [torneo-s3-orcos-negros-1160k.md](rosters/torneos-season-3/torneo-s3-orcos-negros-1160k.md) |
+| Orcos Negros | Torneo S3 (Scrappa) | 1.190k | [torneo-s3-orcos-negros-1190k-scrappa.md](rosters/torneos-season-3/torneo-s3-orcos-negros-1190k-scrappa.md) |
 | Skavens | Inicio 1000k | 1.000k | [inicio-1000k-skavens-1000k.md](rosters/iniciales/inicio-1000k-skavens-1000k.md) |
-| Skavens | Sugerencia torneo Con Rata Ogro | 970k | [skavens-con-rata-ogro-970k.md](rosters/limite-valoracion/skavens-con-rata-ogro-970k.md) |
-| Skavens | Sugerencia torneo Sin Rata Ogro | 920k | [skavens-sin-rata-ogro-920k.md](rosters/limite-valoracion/skavens-sin-rata-ogro-920k.md) |
-| Skavens | Sugerencia torneo Competitivo | 970k | [skavens-competitivo-970k.md](rosters/limite-valoracion/skavens-competitivo-970k.md) |
-| Skavens | Sugerencia torneo TV1200 | 1.120k | [skavens-tv1200-1120k.md](rosters/limite-valoracion/skavens-tv1200-1120k.md) |
-| Skavens | Skill pack 6 primarias (6P-0S-0A) | 1.040k | [skavens-6P-0S-0A.md](rosters/skill-pack/skavens-6P-0S-0A.md) |
-| Skavens | Skill pack Tier 2 (7P-0S-1A) | 1.060k | [skavens-7P-0S-1A.md](rosters/skill-pack/skavens-7P-0S-1A.md) |
-| Skavens | Skill pack grande (8P-1S-1A) | 1.270k | [skavens-8P-1S-1A.md](rosters/skill-pack/skavens-8P-1S-1A.md) |
+| Skavens | Torneo S3 | 1.000k | [torneo-s3-skavens-1000k.md](rosters/torneos-season-3/torneo-s3-skavens-1000k.md) |
+| Skavens | Torneo S3 | 1.010k | [torneo-s3-skavens-1010k.md](rosters/torneos-season-3/torneo-s3-skavens-1010k.md) |
+| Skavens | Torneo S3 | 1.010k | [torneo-s3-skavens-1010k-apo.md](rosters/torneos-season-3/torneo-s3-skavens-1010k-apo.md) |
+| Skavens | Torneo S3 | 1.060k | [torneo-s3-skavens-1060k.md](rosters/torneos-season-3/torneo-s3-skavens-1060k.md) |
 | Unión Élfica | Inicio 1000k | 1.000k | [inicio-1000k-union-elfica-1000k.md](rosters/iniciales/inicio-1000k-union-elfica-1000k.md) |
-| Unión Élfica | Elven Thunders | 1.200k | [elven-thunders-union-elfica-1200k.md](rosters/elven-thunders-union-elfica-1200k.md) |
-| Unión Élfica | Sugerencia torneo Clásico | 1.095k | [union-elfica-clasico-1095k.md](rosters/limite-valoracion/union-elfica-clasico-1095k.md) |
-| Unión Élfica | Sugerencia torneo Más velocidad | 1.145k | [union-elfica-mas-velocidad-1145k.md](rosters/limite-valoracion/union-elfica-mas-velocidad-1145k.md) |
-| Unión Élfica | Skill pack Meta (6P-1S-0A) | 1.205k | [union-elfica-6P-1S-0A-meta.md](rosters/skill-pack/union-elfica-6P-1S-0A-meta.md) |
-| Unión Élfica | Skill pack Anti bash (6P-1S-0A) | 1.205k | [union-elfica-6P-1S-0A-anti-bash.md](rosters/skill-pack/union-elfica-6P-1S-0A-anti-bash.md) |
-| Unión Élfica | Skill pack Ultra (8P-0S-0A) | 1.205k | [union-elfica-8P-0S-0A.md](rosters/skill-pack/union-elfica-8P-0S-0A.md) |
+| Unión Élfica | Torneo S3 | 1.000k | [torneo-s3-union-elfica-1000k.md](rosters/torneos-season-3/torneo-s3-union-elfica-1000k.md) |
+| Unión Élfica | Torneo S3 | 1.095k | [torneo-s3-union-elfica-1095k.md](rosters/torneos-season-3/torneo-s3-union-elfica-1095k.md) |
+
+*Equipos con nombre propio adicionales (p. ej. ligas locales) puedes crearlos en `rosters/` con la [plantilla](source/plantilla-roster.md) y añadirlos a [rosters/README.md](rosters/README.md).*
 
 ---
 
@@ -82,10 +54,11 @@ Toda la referencia de equipos, habilidades, jugadores estrella, tablas y tiers e
 | **Equipos** | [Índice (Equipos)](source/index.md#equipos) · [Carpeta `teams/`](source/teams/) | Posiciones, costes, estadísticas (MA, ST, AG, PA, AR), habilidades y progresión por equipo. |
 | **Habilidades** | [Índice (Habilidades)](source/index.md#habilidades) · [Carpeta `habilidades/`](source/habilidades/) | Descripción oficial por categoría (Agilidad, Fuerza, General, Mutaciones, Pase, Rasgos, Triquiñuelas). |
 | **Jugadores estrella** | [Índice (Jugadores estrella)](source/index.md#jugadores-estrella) · [Carpeta `jugadores-estrella/`](source/jugadores-estrella/) | Coste, estadísticas, habilidades y equipos para los que juegan. |
-| **Tiers** | [Oro / presupuesto](source/tiers/oro-presupuesto.md) · [Skill pack](source/tiers/skill-pack.md) | Presupuesto (gp) por tier, Skill Points, límites de secundarias, apilamiento y tabla **Tier \| Equipos** (lista GW). |
+| **Tiers** | [EuroBowl 2026](source/tiers/eurobowl-2026.md) · [Oro / presupuesto](source/tiers/oro-presupuesto.md) · [Skill pack (legado)](source/tiers/skill-pack.md) | #euro26: Team Budget + Skill Gold. NAF genérico: oro por tier. *Skill pack* = puntos GW por tier (archivo). |
 | **Tablas de juego** | [Índice (Tablas)](source/index.md#tablas-de-juego) · [Carpeta `tablas/`](source/tablas/) | Heridas y lesiones, clima, patada inicial, plegarias de Nuffle, experiencia y SPP. |
 | **Reglamento GW (Season 3)** | [referencias-reglamento-bb3.md](source/referencias-reglamento-bb3.md) · [PDF](source/reglamento/reglamento-bb3-season3.pdf) | Texto oficial de reglas (3ª temporada / 2025); contenido © Games Workshop. |
 | **Plantilla y más** | [Plantilla roster](source/plantilla-roster.md) · [Convenciones](source/README.md) | Plantilla para crear rosters y convenciones del repo (coste en k, CTD, etc.). |
+| **Comprobación local** | [`scripts/audit_rosters.py`](scripts/audit_rosters.py) | Opcional: valida cupos CTD y costes de la primera tabla de alineación frente a `source/teams/` (`python scripts/audit_rosters.py`). |
 
 ---
 

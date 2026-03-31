@@ -17,7 +17,7 @@ Navegación unificada de equipos, habilidades, jugadores estrella y tablas. Fuen
 | Amazonas | [amazonas.md](teams/amazonas.md) | https://nufflezone.com/equipos-blood-bowl/amazonas/ |
 | Bretonia | [bretonia.md](teams/bretonia.md) | https://nufflezone.com/equipos-blood-bowl/bretonia/ |
 | Demonios de Khorne | [demonios-khorne.md](teams/demonios-khorne.md) | https://nufflezone.com/equipos-blood-bowl/demonios-de-khorne/ |
-| Elegidos del Caos | [elegidos-del-caos.md](teams/elegidos-del-caos.md) | https://nufflezone.com/equipos-blood-bowl/elegidos-del-caos/ |
+| Elegidos del Caos | [elegidos-del-caos.md](teams/elegidos-del-caos.md) | https://nufflezone.com/equipos-blood-bowl/chaos-chosen/ *(página EN; roster 2025 equivalente a Elegidos del Caos)* |
 | Elfos Oscuros | [elfos-oscuros.md](teams/elfos-oscuros.md) | https://nufflezone.com/equipos-blood-bowl/elfos-oscuros/ |
 | Elfos Silvanos | [elfos-silvanos.md](teams/elfos-silvanos.md) | https://nufflezone.com/equipos-blood-bowl/elfos-silvanos/ |
 | Enanos | [enanos.md](teams/enanos.md) | https://nufflezone.com/equipos-blood-bowl/enanos/ |
@@ -59,7 +59,7 @@ Navegación unificada de equipos, habilidades, jugadores estrella y tablas. Fuen
 | General | [general.md](habilidades/general.md) | 12 |
 | Mutaciones | [mutaciones.md](habilidades/mutaciones.md) | 12 |
 | Pase | [pase.md](habilidades/pase.md) | 12 |
-| Rasgos | [rasgos.md](habilidades/rasgos.md) | 36+ |
+| Rasgos | [rasgos.md](habilidades/rasgos.md) | 36 |
 | Triquiñuelas | [triquinuelas.md](habilidades/triquinuelas.md) | 12 |
 
 Enlaces rápidos: [Agilidad](https://nufflezone.com/habilidades-blood-bowl/#AGILIDAD) · [Fuerza](https://nufflezone.com/habilidades-blood-bowl/#FUERZA) · [General](https://nufflezone.com/habilidades-blood-bowl/#GENERAL) · [Mutaciones](https://nufflezone.com/habilidades-blood-bowl/#MUTACIONES) · [Pase](https://nufflezone.com/habilidades-blood-bowl/#PASE) · [Rasgos](https://nufflezone.com/habilidades-blood-bowl/#RASGOS) · [Triquiñuelas](https://nufflezone.com/habilidades-blood-bowl/#TRIQUIÑUELAS)

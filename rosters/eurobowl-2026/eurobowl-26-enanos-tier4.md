@@ -28,13 +28,13 @@
 | 3 | ____ | Enano Blitzer | 100k | 5 | 3 | 4+ | 4+ | 10+ | Placar, Placaje def., … |
 | 4 | ____ | Enano Blitzer | 100k | 5 | 3 | 4+ | 4+ | 10+ | Placar, Placaje def., … |
 | 5 | ____ | Enano Runner | 80k | 6 | 3 | 3+ | 4+ | 9+ | Esprintar, Manos seguras, … |
-| 6 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
-| 7 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
-| 8 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
-| 9 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
-| 10 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
-| 11 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
-| 12 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
+| 6 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
+| 7 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
+| 8 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
+| 9 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
+| 10 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
+| 11 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
+| 12 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
 
 **Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k gp
 

@@ -2,35 +2,35 @@
 
 ![Nobleza Imperial](../../source/images/equipos/nobleza-imperial.webp)
 
-> Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Imperial Nobility Set Up](https://fumbbl.com/help:BB25ImperialSetUp). Third Season 2025. Todos los positionals; se puede comprar Apotecario tras el primer partido.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/nobleza-imperial.md`](../../source/teams/nobleza-imperial.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Plantilla con todos los posicionales; el **apotecario** puede comprarse tras el primer partido según reglas de liga.
 
 ## Alineación
 
-*Roster inicial sin habilidades de progresión. Orden: Big Guy (Ogre) → Blitzers → Bodyguards → Retainers. Sin Thrower para cerrar a 1000k (FUMBBL: Apo tras primer partido).*
+*Roster inicial sin habilidades de progresión. Sin Thrower para cerrar a 1000k (FUMBBL: Apo tras primer partido). **Dorsales:** Thrower **1** y **2** libres hasta ficharlos; Blitzers **3** y **4**; Bodyguards **5–8**; Retainer Línea **9–12**; Ogre **20**. Stats: [`source/teams/nobleza-imperial.md`](../../source/teams/nobleza-imperial.md).*
 
 | Nº | Nombre | Posición        | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|-----------------|-------|----|----|----|----|----|-------------|
-| ____ | ____________________ | Ogre            | 140k  | 5  | 5  | 2  | —  | 10 | Estúpido, Solitario (3+), Golpe Mortífero, Cabeza Dura, Lanzar Compañero |
-| ____ | ____________________ | Noble Blitzer   | 90k   | 7  | 3  | 3  | —  | 9  | Placar, Atrapar, Profesional |
-| ____ | ____________________ | Noble Blitzer   | 90k   | 7  | 3  | 3  | —  | 9  | Placar, Atrapar, Profesional |
-| ____ | ____________________ | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
-| ____ | ____________________ | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
-| ____ | ____________________ | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
-| ____ | ____________________ | Bodyguard       | 85k   | 5  | 3  | 3  | —  | 9  | Mantenerse Firme, Forcejear |
-| ____ | ____________________ | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
-| ____ | ____________________ | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
-| ____ | ____________________ | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
-| ____ | ____________________ | Retainer Línea  | 45k   | 6  | 3  | 3  | —  | 8  | Zafarse |
+| 3 | ____ | Noble Blitzer | 90k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Atrapar, Profesional |
+| 4 | ____ | Noble Blitzer | 90k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Atrapar, Profesional |
+| 5 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
+| 6 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
+| 7 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
+| 8 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
+| 9 | ____ | Retainer Línea | 45k | 6 | 3 | 3+ | 4+ | 8+ | Zafarse |
+| 10 | ____ | Retainer Línea | 45k | 6 | 3 | 3+ | 4+ | 8+ | Zafarse |
+| 11 | ____ | Retainer Línea | 45k | 6 | 3 | 3+ | 4+ | 8+ | Zafarse |
+| 12 | ____ | Retainer Línea | 45k | 6 | 3 | 3+ | 4+ | 8+ | Zafarse |
+| 20 | ____ | Ogre | 140k | 5 | 5 | 4+ | 5+ | 10+ | Estúpido, Solitario (3+), Golpe Mortífero (+1), Cabeza Dura, Lanzar Compañero |
 
 **Total jugadores:** 11 | **TV:** 1.000k
 
-**Desglose TV (todo lo que tiene precio):** Referencia de precios: Reroll 60.000 (Nobleza Imperial) | Apotecario 50.000 | Fans dedicados 10.000 c/u.
+**Desglose TV (todo lo que tiene precio):** Referencia de precios: Reroll **50.000** (Nobleza Imperial, Nuffle 2025) | Apotecario 50.000 | Fans dedicados 10.000 c/u.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (1 Ogre 140k, 2 Noble Blitzers 180k, 4 Bodyguards 340k, 4 Retainers 180k) | 840.000 |
-| Rerolls (2 × 60.000) | 120.000 |
-| Fans dedicados (4 × 10.000) | 40.000 |
+| Rerolls (2 × 50.000) | 100.000 |
+| Fans dedicados (6 × 10.000) | 60.000 |
 | **Total TV** | **1.000.000** |
 
 ## Información del equipo
@@ -44,7 +44,7 @@
 | **Rerolls** | 2 |
 | **Asistentes de entrenador** | 0 |
 | **Cheerleaders** | 0 |
-| **Fans dedicados** | 4 |
+| **Fans dedicados** | 6 |
 | **Apotecario** | No (objetivo tras primer partido) |
 
 
@@ -68,14 +68,12 @@
 
 ## Estrategia
 
-- **Ataque:** Ogre y Bodyguards (Mantenerse Firme, Forcejear) para abrir huecos; Noble Blitzers (MA7, Placar, Atrapar, Pro) para llevar el balón o blitz; Retainers (Zafarse) para pantalla y apoyo. Con solo 2 RR, priorizar bloques seguros y usar Pro.
+- **Ataque:** Ogre y Bodyguards (Mantenerse Firme, Forcejear) para abrir huecos; Noble Blitzers (MA7, Placar, Atrapar, Profesional) para llevar el balón o blitz; Retainers (Zafarse) para pantalla y apoyo. Con solo 2 RR, priorizar bloques seguros y usar Profesional.
 - **Defensa:** Marcar con Bodyguards y Ogre; Blitzers para presionar el balón; Retainers para frenar carreras. Cuidado con Estúpido y Solitario en el Ogre.
 
 ## Progresión recomendada
 
-- **Noble Blitzer:** Primaria Paso Lateral o Derribar; secundarias Pies Seguros, Foco (AG / PF según source/teams/nobleza-imperial.md).
-- **Bodyguard:** Primaria Bloqueo; secundarias Guardia, Golpe Mortífero (GF / A).
-- **Retainer Línea:** Primaria Bloqueo; secundarias Paso Lateral, Pies Seguros (G / AF).
-- **Ogre:** Primaria Guardia; secundarias Firme, Romper Tackle (F / AG).
-<｜tool▁calls▁begin｜><｜tool▁call▁begin｜>
-StrReplace
+- **Noble Blitzer:** Primaria Echarse a un Lado o Forcejear; secundarias Manos Seguras, Profesional (AG / PF según source/teams/nobleza-imperial.md).
+- **Bodyguard:** Primaria Placar; secundarias Defensa, Golpe Mortífero (GF / A).
+- **Retainer Línea:** Primaria Placar; secundarias Echarse a un Lado, Manos Seguras (G / AF).
+- **Ogre:** Primaria Defensa o Abrirse Paso; secundarias Mantenerse Firme, Manos Seguras (F / AG).

@@ -23,10 +23,10 @@
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Guerrera Jaguar Blocker | 110k | 6 | 4 | 3+ | 4+ | 9+ | Esquivar, Romper defensas |
-| 2 | ____ | Guerrera Jaguar Blocker | 110k | 6 | 4 | 3+ | 4+ | 9+ | Esquivar, Romper defensas |
-| 3 | ____ | Guerrera Piraña Blitzer | 90k | 7 | 3 | 3+ | 4+ | 8+ | Hit and Run, … |
-| 4 | ____ | Guerrera Piraña Blitzer | 90k | 7 | 3 | 3+ | 4+ | 8+ | Hit and Run, … |
+| 1 | ____ | Guerrera Jaguar Blocker | 110k | 6 | 4 | 3+ | 4+ | 9+ | Esquivar, Romper Defensas |
+| 2 | ____ | Guerrera Jaguar Blocker | 110k | 6 | 4 | 3+ | 4+ | 9+ | Esquivar, Romper Defensas |
+| 3 | ____ | Guerrera Piraña Blitzer | 90k | 7 | 3 | 3+ | 4+ | 8+ | Golpe a la Carrera, … |
+| 4 | ____ | Guerrera Piraña Blitzer | 90k | 7 | 3 | 3+ | 4+ | 8+ | Golpe a la Carrera, … |
 | 5 | ____ | Guerrera Pitón Thrower | 80k | 6 | 3 | 3+ | 3+ | 8+ | Pasar, Pase seguro, … |
 | 6 | ____ | Guerrera Pitón Thrower | 80k | 6 | 3 | 3+ | 3+ | 8+ | Pasar, Pase seguro, … |
 | 7 | ____ | Guerrera Águila Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Esquivar |

@@ -34,7 +34,7 @@ Fuente: [Nuffle Zone — Habitantes del Inframundo](https://nufflezone.com/equip
 * **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
 * **Realmente Estúpido (Really Stupid) — incl.:** Al activarse: 1D6 (+2 si adyacente a compañero en pie sin este rasgo); 4+=normal, 1-3=Distraído.
 * **Regeneración (Regeneration) — incl.:** Al sufrir Lesión: 1D6; 4+=se ignora la lesión y va a reservas; 1-3=normal.
-* **Robar Balón (Strip Ball) — incl.:** Si en Placaje empuja al portador del balón, el balón cae y rebota desde la casilla de destino (antes de que el rival quede tumbado).
+* **Robar Balón (Strip Ball) — incl.:** Placaje al **portador** y **empuje**: el balón **cae y rebota** desde la casilla de destino **antes** de que el rival quede tumbado, pero **después** de que **este jugador** elija si hace **impulso**.
 * **Siempre Hambriento (Always Hungry) — incl.:** Antes del chequeo de Lanzar compañero: 1D6; 1=intenta comerse al compañero (segundo 1D6: 1=devorado).
 * **Solitario (Loner) — incl.:** Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite.
 * **Lanzar Compañero (Throw Team-Mate) — incl.:** Puede declarar la acción de Lanzar compañero.

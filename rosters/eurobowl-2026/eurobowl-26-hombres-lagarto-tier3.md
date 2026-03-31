@@ -19,22 +19,22 @@
 
 ## Alineación (gasto de presupuesto de equipo)
 
-*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
+*Sin avances de Skill Gold. Rellenar nombres. **Dorsales:** Saurios **1–6**, Camaleones **7–8**, Kroxigor **9**, Eslizones **10+**. Esta plantilla: 4 Saurios, sin Camaleón, 1 Kroxigor, 7 Eslizones (dorsales **5–8** libres / sin miniatura). Stats según [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md).*
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Kroxigor | 140k | 6 | 5 | 5+ | 6+ | 10+ | Estúpido, GM, … |
+| 1 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
 | 2 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
 | 3 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
 | 4 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
-| 5 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
-| 6 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
-| 7 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
-| 8 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
-| 9 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
+| 9 | ____ | Kroxigor | 140k | 6 | 5 | 5+ | 6+ | 10+ | Cabeza Dura, Estúpido, Cola Prensil, Golpe Mortífero (+1), Solitario (4+) |
 | 10 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
 | 11 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
 | 12 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
+| 13 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
+| 14 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
+| 15 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
+| 16 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
 
 **Total jugadores:** 12 | **Presupuesto equipo usado:** 1080k gp
 

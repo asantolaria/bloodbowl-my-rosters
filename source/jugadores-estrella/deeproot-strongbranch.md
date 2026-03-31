@@ -18,4 +18,4 @@
 * **Ojo de Halcón (Bullseye):** En Lanzar compañero, si pase soberbio: el lanzado no escora, aterriza en objetivo. Solo con Lanzar compañero.
 * **Placar (Block):** En placaje con «Ambos derribados» puede elegir no ser derribado.
 * **Solitario (Loner):** Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite.
-* **¡Tronco Va! (Timmm-ber!):** Si MV≤2, +1 a tirada para levantarse por cada compañero desmarcado y en pie adyacente.
+* **¡Tronco Va! (Timm-ber!):** Si **MV ≤ 2**, **+1** a tirada para levantarse por cada compañero **desmarcado y en pie** adyacente; **1 natural** sigue fallando.

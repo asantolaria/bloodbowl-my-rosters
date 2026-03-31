@@ -11,14 +11,14 @@ Fuente: [Nuffle Zone — Alianza del Viejo Mundo](https://nufflezone.com/equipos
 | 0-16 | Humano Línea   | 50k   | 6  | 3  | 3+ | 4+ | 9+  | – | G   | AF  |
 | 0-2 | Halfling       | 30k   | 5  | 2  | 3+ | 4+ | 7+  | Esquivar, Humanoide Bala, Escurridizo | A  | GF  |
 | 0-2 | Humano Catcher | 75k   | 8  | 3  | 3+ | 4+ | 8+  | Atrapar, Esquivar | AG | PS  |
-| 0-2 | Enano Blocker  | 70k   | 4  | 3  | 4+ | 5+ | 10+ | Cabeza Dura, Placar, Rompe defensas | DG | F   |
+| 0-2 | Enano Blocker  | 70k   | 4  | 3  | 4+ | 5+ | 10+ | Cabeza Dura, Placar, Romper Defensas | DG | F   |
 | 0-2 | Humano Thrower | 75k   | 6  | 3  | 3+ | 3+ | 9+  | Manos Seguras, Pasar | GP | AF  |
 | 0-2 | Enano Runner   | 80k   | 6  | 3  | 3+ | 4+ | 9+  | Cabeza Dura, Esprintar, Manos Seguras | GP | AF  |
 | 0-2 | Humano Blitzer | 85k   | 7  | 3  | 3+ | 4+ | 9+  | Placaje Defensivo, Placar | GF | A   |
 | 0-1 | Enano Blitzer  | 100k  | 5  | 3  | 4+ | 4+ | 10+ | Placaje Defensivo, Placaje Heroico, Placar, Cabeza Dura | GF | P   |
 | 0-1 | Troll Slayer   | 95k   | 5  | 3  | 4+ | 5+ | 9+  | Agallas, Cabeza Dura, Furia, Placar, Odio (Troll) | GF | A   |
 | 0-1 | Ogro           | 140k  | 5  | 5  | 4+ | 5+ | 10+ | Estúpido, Solitario (4+), Golpe Mortífero, Cabeza Dura, Lanzar Compañero | F  | AG  |
-| 0-1 | Hombre Árbol   | 120k  | 2  | 6  | 5+ | 5+ | 11+ | Golpe Mortífero, Mantenerse Firme, Brazo Fuerte, Echar Raíces, Cabeza Dura, Lanzar Compañero, Timmm-ber! | F  | AGP |
+| 0-1 | Hombre Árbol   | 120k  | 2  | 6  | 5+ | 5+ | 11+ | Golpe Mortífero, Mantenerse Firme, Brazo Fuerte, Echar Raíces, Cabeza Dura, Lanzar Compañero, ¡Tronco Va! | F  | AGP |
 
 - **Rerolls:** 70k  
 - **Apotecario:** Sí  
@@ -47,4 +47,4 @@ Fuente: [Nuffle Zone — Alianza del Viejo Mundo](https://nufflezone.com/equipos
 * **Placaje Heroico (Diving Tackle) — incl.:** Rival que esquivando/saltando/brincando sale de su zona de defensa: -2 al chequeo y este jugador se tumba en la casilla que deja.
 * **Romper Defensas (Defensive) — incl.:** Rivales que marque no pueden usar Defensa ni Meter la Bota en turnos rivales.
 * **Solitario (Loner) — incl.:** Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite.
-* **¡Tronco Va! (Timmm-ber!) — incl.:** Si MV≤2, +1 a tirada para levantarse por cada compañero desmarcado y en pie adyacente.
+* **¡Tronco Va! (Timm-ber!) — incl.:** Si **MV ≤ 2**, **+1** a tirada para levantarse por cada compañero **desmarcado y en pie** adyacente; **1 natural** sigue fallando.

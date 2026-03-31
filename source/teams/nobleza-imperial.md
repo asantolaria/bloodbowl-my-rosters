@@ -11,13 +11,17 @@ Fuente: [Nuffle Zone — Nobleza Imperial](https://nufflezone.com/equipos-blood-
 | 0-12 | Retainer Línea   | 45k   | 6  | 3  | 3+ | 4+ | 8+  | Zafarse (Fend) | G   | AF  |
 | 0-2 | Imperial Thrower | 75k   | 6  | 3  | 3+ | 2+ | 9+  | Pasar, Pasar y seguir (Give and Go), Profesional | GP | AF  |
 | 0-2 | Noble Blitzer    | 90k   | 7  | 3  | 3+ | 4+ | 9+  | Placar, Atrapar, Profesional | AG | PF  |
-| 0-4 | Bodyguard        | 85k   | 5  | 3  | 3+ | 4+ | 9+  | Mantenerse Firme, Forcejeo (Wrestle) | GF | A   |
+| 0-4 | Bodyguard        | 85k   | 5  | 3  | 3+ | 4+ | 9+  | Mantenerse Firme, Forcejear (Wrestle) | GF | A   |
 | 0-1 | Ogre             | 140k  | 5  | 5  | 4+ | 5+ | 10+ | Estúpido, Solitario (3+), Golpe Mortífero(+1), Cabeza Dura, Lanzar Compañero | F  | AG  |
 
 - **Rerolls:** 50k c/u  
 - **Apotecario:** Sí (50k)  
 - **Reglas especiales:** —  
 - **Liga:** Clásica del Viejo Mundo  
+
+### Convención de dorsales (repo)
+
+Para pintura y hojas de equipo en este proyecto: **Imperial Thrower 1 y 2**, **Noble Blitzer 3 y 4**, **Bodyguard 5–8**, **Retainer Línea 9–12**, **Ogre 20**. Si no llevas el máximo de una categoría (p. ej. inicio 1000k sin Thrower), los dorsales de ese bloque quedan libres hasta fichar.
 
 ## Descripción oficial de las habilidades
 

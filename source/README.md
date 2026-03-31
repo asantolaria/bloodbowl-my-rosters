@@ -13,7 +13,7 @@ Datos de referencia según [NuffleZone.com](https://nufflezone.com/) (Blood Bowl
 | [**teams/**](teams/) | Un archivo por equipo: roster 2025, costes, estadísticas, habilidades, Pri/Sec. Ver [README](teams/README.md). |
 | [**habilidades/**](habilidades/) | Una ficha por categoría de habilidades (Agilidad, Fuerza, General, etc.). Ver [README](habilidades/README.md). |
 | [**jugadores-estrella/**](jugadores-estrella/) | Una ficha por jugador estrella: coste, estadísticas, equipos. Ver [README](jugadores-estrella/README.md). |
-| [**tiers/**](tiers/) | Oro por tier, Skill pack y tabla Tier \| Equipos (torneos NAF/Matched Play). Ver [README](tiers/README.md). |
+| [**tiers/**](tiers/) | EuroBowl 2026 (#euro26), oro por tier; skill pack *(legado)*. Ver [README](tiers/README.md). |
 | [**tablas/**](tablas/) | Tablas de partida: heridas, clima, patada inicial, plegarias, experiencia/SPP. Ver [README](tablas/README.md). |
 | [**images/**](images/) | Imágenes de equipos (logos). Ver [README](images/README.md). |
 | [**reglamento/**](reglamento/) | PDF oficial Season 3 (GW). Ver [README](reglamento/README.md) y [referencias-reglamento-bb3.md](referencias-reglamento-bb3.md). |
@@ -23,6 +23,8 @@ Datos de referencia según [NuffleZone.com](https://nufflezone.com/) (Blood Bowl
 - **[referencias-reglamento-bb3.md](referencias-reglamento-bb3.md)** — Reglamento escrito (enlace al PDF en `reglamento/`).
 - **[plantilla-roster.md](plantilla-roster.md)** — Plantilla para crear rosters (Roster Builder).
 - **[nombres-equipos-sugeridos.md](nombres-equipos-sugeridos.md)** — Nombres de equipo por raza para sugerir al crear roster.
+
+**Herramienta (repo):** [../scripts/audit_rosters.py](../scripts/audit_rosters.py) — validación opcional de cupos y costes de rosters frente a `teams/*.md` (`python scripts/audit_rosters.py` desde la raíz del repo).
 
 ## Convenciones
 

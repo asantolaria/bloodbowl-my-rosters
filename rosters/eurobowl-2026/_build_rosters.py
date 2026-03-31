@@ -188,10 +188,10 @@ TEAMS: list[dict] = [
         "img": "amazonas",
         "rr": 60,
         "rows": [
-            ("Guerrera Jaguar Blocker", 110, 6, 4, "3+", "4+", "9+", "Esquivar, Romper defensas"),
-            ("Guerrera Jaguar Blocker", 110, 6, 4, "3+", "4+", "9+", "Esquivar, Romper defensas"),
-            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Hit and Run, …"),
-            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Hit and Run, …"),
+            ("Guerrera Jaguar Blocker", 110, 6, 4, "3+", "4+", "9+", "Esquivar, Romper Defensas"),
+            ("Guerrera Jaguar Blocker", 110, 6, 4, "3+", "4+", "9+", "Esquivar, Romper Defensas"),
+            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Golpe a la Carrera, …"),
+            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Golpe a la Carrera, …"),
             ("Guerrera Pitón Thrower", 80, 6, 3, "3+", "3+", "8+", "Pasar, Pase seguro, …"),
             ("Guerrera Pitón Thrower", 80, 6, 3, "3+", "3+", "8+", "Pasar, Pase seguro, …"),
             *[
@@ -291,7 +291,7 @@ TEAMS: list[dict] = [
         "img": "elfos-oscuros",
         "rr": 50,
         "rows": [
-            ("Elfo Oscuro Asesino", 90, 7, 3, "2+", "4+", "8+", "Apuñalar, Hit and Run, …"),
+            ("Elfo Oscuro Asesino", 90, 7, 3, "2+", "4+", "8+", "Apuñalar, Golpe a la Carrera, …"),
             *[
                 ("Elfo Oscuro Blitzer", 105, 7, 3, "2+", "3+", "9+", "Placar")
                 for _ in range(2)
@@ -454,7 +454,7 @@ TEAMS: list[dict] = [
             ],
             ("Enano Runner", 80, 6, 3, "3+", "4+", "9+", "Esprintar, Manos seguras, …"),
             *[
-                ("Enano Línea", 70, 4, 3, "4+", "5+", "10+", "Placar, Romper defensas, …")
+                ("Enano Línea", 70, 4, 3, "4+", "5+", "10+", "Placar, Romper Defensas, …")
                 for _ in range(7)
             ],
         ],
@@ -468,7 +468,7 @@ TEAMS: list[dict] = [
         "rows": [
             ("Ogre", 140, 5, 5, "4+", "5+", "10+", "Estúpido, GM, …"),
             *[
-                ("Bodyguard", 85, 5, 3, "3+", "4+", "9+", "Mantenerse firme, Forcejeo")
+                ("Bodyguard", 85, 5, 3, "3+", "4+", "9+", "Mantenerse Firme, Forcejear")
                 for _ in range(3)
             ],
             *[
@@ -538,7 +538,7 @@ TEAMS: list[dict] = [
                 for _ in range(2)
             ],
             *[
-                ("Guardián de Reyes Funerarios", 70, 6, 3, "3+", "4+", "9+", "Mantenerse firme, …")
+                ("Guardián de Reyes Funerarios", 70, 6, 3, "3+", "4+", "9+", "Mantenerse Firme, …")
                 for _ in range(4)
             ],
             ("Thrower de Reyes Funerarios", 70, 6, 3, "3+", "3+", "9+", "Pasar, …"),
@@ -606,7 +606,7 @@ TEAMS: list[dict] = [
             ("Minotauro Esclavizado", 150, 5, 5, "4+", "6+", "9+", "Furia, GM, …"),
             ("Bull Centaur", 130, 6, 4, "4+", "6+", "10+", "Esprintar, …"),
             *[
-                ("Enano del Caos Blocker", 70, 4, 3, "4+", "6+", "10+", "Placar, Piel de hierro, …")
+                ("Enano del Caos Blocker", 70, 4, 3, "4+", "6+", "10+", "Placar, Piel Ferrea, …")
                 for _ in range(4)
             ],
             *[

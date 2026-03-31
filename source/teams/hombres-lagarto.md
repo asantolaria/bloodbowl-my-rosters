@@ -18,6 +18,10 @@ Fuente: [Nuffle Zone — Hombres Lagarto](https://nufflezone.com/equipos-blood-b
 - **Reglas especiales:** —  
 - **Liga:** Superliga Lustriana  
 
+### Convención de dorsales (repo)
+
+Para pintura y hojas de equipo en este proyecto: **Saurios 1–6**, **Camaleones 7–8**, **Kroxigor 9**, **Eslizones 10 en adelante**. Si no llevas el máximo de una categoría (p. ej. solo cuatro Saurios), los números libres quedan vacíos hasta fichar más jugadores de ese tipo.
+
 ## Descripción oficial de las habilidades
 
 * **Atento al Balón (On the Ball) — incl.:** Cuando rival declara pase: puede moverse hasta 3 casillas antes del chequeo. En patada inicial (tras desvío, antes del evento): un desmarcado con esta habilidad puede moverse hasta 3 casillas.

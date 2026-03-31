@@ -19,32 +19,32 @@
 
 ## Alineación (gasto de presupuesto de equipo)
 
-*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
+*Sin avances de Skill Gold. Rellenar nombres. **Dorsales:** Imperial Thrower **1–2**, Noble Blitzer **3–4**, Bodyguard **5–8**, Retainer Línea **9–12**, Ogre **20**. Plantilla **13** jug. (2+2+4+4+1) = **990k**. Stats: [`source/teams/nobleza-imperial.md`](../../source/teams/nobleza-imperial.md).*
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Ogre | 140k | 5 | 5 | 4+ | 5+ | 10+ | Estúpido, GM, … |
-| 2 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, Forcejeo |
-| 3 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, Forcejeo |
-| 4 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, Forcejeo |
-| 5 | ____ | Noble Blitzer | 90k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Atrapar, … |
-| 6 | ____ | Noble Blitzer | 90k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Atrapar, … |
-| 7 | ____ | Imperial Thrower | 75k | 6 | 3 | 3+ | 2+ | 9+ | Pasar, … |
-| 8 | ____ | Retainer Línea | 45k | 6 | 3 | 3+ | 4+ | 8+ | Zafarse |
+| 1 | ____ | Imperial Thrower | 75k | 6 | 3 | 3+ | 2+ | 9+ | Pasar, Pasar y seguir, Profesional |
+| 2 | ____ | Imperial Thrower | 75k | 6 | 3 | 3+ | 2+ | 9+ | Pasar, Pasar y seguir, Profesional |
+| 3 | ____ | Noble Blitzer | 90k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Atrapar, Profesional |
+| 4 | ____ | Noble Blitzer | 90k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Atrapar, Profesional |
+| 5 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
+| 6 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
+| 7 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
+| 8 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
 | 9 | ____ | Retainer Línea | 45k | 6 | 3 | 3+ | 4+ | 8+ | Zafarse |
 | 10 | ____ | Retainer Línea | 45k | 6 | 3 | 3+ | 4+ | 8+ | Zafarse |
 | 11 | ____ | Retainer Línea | 45k | 6 | 3 | 3+ | 4+ | 8+ | Zafarse |
 | 12 | ____ | Retainer Línea | 45k | 6 | 3 | 3+ | 4+ | 8+ | Zafarse |
+| 20 | ____ | Ogre | 140k | 5 | 5 | 4+ | 5+ | 10+ | Estúpido, Solitario (3+), Golpe Mortífero (+1), Cabeza Dura, Lanzar Compañero |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k gp
+**Total jugadores:** 13 | **Presupuesto equipo usado:** 1100k gp
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 875k) | 875.000 |
-| Rerolls (4 × 50.000) | 200.000 |
+| Jugadores (2×75k + 2×90k + 4×85k + 4×45k + 140k) | 990.000 |
+| Rerolls (2 × 50.000) | 100.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (2 × 10.000) | 20.000 |
-| Flowing Funds → presupuesto equipo (resto no múltiplo de 10k) | 5.000 |
+| Fans dedicados (1 × 10.000) | 10.000 |
 | **Total** | **1.100.000** |
 
 ## Skill Gold — avances (ejemplo editable)

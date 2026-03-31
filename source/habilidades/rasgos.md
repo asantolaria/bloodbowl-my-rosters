@@ -1,42 +1,42 @@
-# Habilidades — Rasgos
+# Rasgos especiales
 
-Fuente: [Nuffle Zone — Habilidades Blood Bowl](https://nufflezone.com/habilidades-blood-bowl/)
+Fuente: [Nuffle Zone — Habilidades Blood Bowl](https://nufflezone.com/habilidades-blood-bowl/) (bloque **Tercera Temporada 2025**). [PDF Season 3 en repo](../reglamento/reglamento-bb3-season3.pdf). Los rasgos **no** se compran con SPP; vienen en la ficha del jugador.
 
-| Rasgo (ES) | Inglés | Tipo | +TV (prog.) | Resumen |
-|------------|--------|------|--------------|---------|
-| Animosidad | Animosity | Activa | 20k prim. · 40k sec. | Al pasar o entregar el balón a compañero de la clave indicada: 1D6; 1 = se niega, activación termina. |
-| Apuñalar | Stab | Activa | 20k prim. · 40k sec. | Acción especial: tirada de Armadura no modificada contra rival en pie adyacente; si rompe, tirada de Heridas. Puede reemplazar el Placaje de una Penetración. |
-| Arma Secreta | Secret Weapon | Pasiva | 20k prim. · 40k sec. | Al final de la entrada en que haya participado, es Expulsado. |
-| Bola y Cadena | Ball and Chain | Activa | 20k prim. · 40k sec. | Solo puede declarar acción especial Bola con cadena (movimiento en dirección aleatoria, placajes/empujones automáticos, etc.). |
-| Bombardero | Bombardier | Activa | 20k prim. · 40k sec. | Acción especial Lanzar bomba (como pase; si cae al suelo explota; 1D6 por adyacentes, 4+ impactados). |
-| Borracho | Drunkard | Pasiva | 20k prim. · 40k sec. | -1 a chequeos para forzar la marcha. |
-| Canijo | Titchy | Activa | 20k prim. · 40k sec. | +1 AG para esquivar; rivales no aplican -1 por marcarlo al esquivar para salir de su zona. |
-| Chutar Compañero | Kick Team-mate | Activa | 20k prim. · 40k sec. | Acción especial como Lanzar compañero (pifia = tirada de Heridas al chutado). |
-| Descomposición | Decay | Pasiva | 20k prim. · 40k sec. | +1 a todas las tiradas de Lesiones contra este jugador. |
-| Echar Raíces | Take Root | Pasiva | 20k prim. · 40k sec. | Al activarse: 1D6; 1 = Echa raíces (no moverse, no empujado, etc.) hasta final de entrada o ser derribado. |
-| El Balón es Mío | My Ball | Pasiva | 20k prim. · 40k sec. | No puede soltar el balón voluntariamente (no pasar ni entregar); solo lo pierde por reglas/efectos. |
-| El Balón ni Verlo | No Ball | Pasiva | 20k prim. · 40k sec. | Nunca puede ser portador; falla automático al atrapar/recoger; no puede interceptar. |
-| Embustero | Trickster | Pasiva | 20k prim. · 40k sec. | Antes de que rival lo placque o use acción contra él, puede recolocarse en casilla desocupada adyacente al rival; luego se resuelve la acción. |
-| Escurridizo | Stunty | Pasiva | 20k prim. · 40k sec. | No sufre -1 por estar marcado al esquivar; -1 AG al interceptar; tirada de Heridas en tabla Escurridizos. |
-| Estúpido | Bone Head | Pasiva | 20k prim. · 40k sec. | Al activarse: 1D6; 1 = Distraído. |
-| Exhalar Fuego | Breathe Fire | Activa | 20k prim. · 40k sec. | Acción especial: 1D6 (-1 si FU≥5); 1=él derribado, 2-3=nada, 4+=rival tumbado, 6=derribado. |
-| Ferocidad Animal | Animal Savagery | Pasiva | 20k prim. · 40k sec. | Al activarse: 1D6 (+2 si Placaje/Penetración); 1-3=ataca compañero adyacente (derribado); 4+=normal. |
-| Humanoide Bala | Right Stuff | Pasiva | 20k prim. · 40k sec. | Puede ser lanzado por compañero con Lanzar compañero (incluso tumbado). |
-| Infectado | Infected | Pasiva | 20k prim. · 40k sec. | Una vez por partido, si causa Muerto (no salvado) a rival con placaje, puede añadir Línea a reservas (y ficharlo después). No contra Grandullones ni Descomposición/Escurridizo/Regeneración. |
-| Insignificante | Insignificant | Pasiva | 20k prim. · 40k sec. | En plantilla no puede haber más jugadores con este rasgo que sin él. |
-| Ira Descontrolada | Unchannelled Fury | Pasiva | 20k prim. · 40k sec. | Al activarse: 1D6 (+2 si Placaje/Penetración); 1-3=no hace nada, activación termina; 4+=normal. |
-| Lanzar Compañero | Throw Team-Mate | Activa | 20k prim. · 40k sec. | Puede declarar la acción de Lanzar compañero. |
-| Levantar Compañero | Pick-Me-Up | Activa | 20k prim. · 40k sec. | Al final de cada turno rival: 1D6 por cada tumbado boca arriba a ≤3 casillas de un compañero con este rasgo; 5+=se levanta. |
-| Mirada Hipnótica | Hypnotic Gaze | Activa | 20k prim. · 40k sec. | Acción especial: elige rival en pie adyacente, 1D6; 3+=rival Distraído, activación termina. |
-| Motosierra | Chainsaw | Activa | 20k prim. · 40k sec. | Acción especial: 1D6; 2+=tirada Armadura +3 contra rival; 1=él derribado. +3 a Armadura contra él si es derribado. |
-| Odio | Hatred | Pasiva | 20k prim. · 40k sec. | Al placar a jugador de la clave indicada puede repetir un resultado de Atacante derribado. |
-| Planear | Swoop | Activa | 20k prim. · 40k sec. | Si es lanzado puede no escorarse y en su lugar planear (1D6 dirección, 1D6 casillas); puede repetir chequeo para aterrizar. |
-| Pogo Saltarín | Pogo | Activa | 20k prim. · 40k sec. | Puede «hacer pogo» como Brincar ignorando modificadores negativos. No compatible con Saltar. |
-| Proyectil Vómito | Projectile Vomit | Activa | 20k prim. · 40k sec. | Acción especial: rival adyacente, 1D6; 2+=tirada Armadura no modificada; 1=tirada contra él. |
-| Realmente Estúpido | Really Stupid | Pasiva | 20k prim. · 40k sec. | Al activarse: 1D6 (+2 si adyacente a compañero en pie sin este rasgo); 4+=normal, 1-3=Distraído. |
-| Regeneración | Regeneration | Pasiva | 20k prim. · 40k sec. | Al sufrir Lesión: 1D6; 4+=se ignora la lesión y va a reservas; 1-3=normal. |
-| Sed de Sangre | Blood Lust | Pasiva | 20k prim. · 40k sec. | Al activarse: 1D6 (+1 si Placaje/Penetración); si menor que el número entre paréntesis puede cambiar a Movimiento; al final debe morder Thrall Lineman adyacente o cambio de turno y Distraído. |
-| Siempre Hambriento | Always Hungry | Activa | 20k prim. · 40k sec. | Antes del chequeo de Lanzar compañero: 1D6; 1=intenta comerse al compañero (segundo 1D6: 1=devorado). |
-| Solitario | Loner | Pasiva | 20k prim. · 40k sec. | Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite. |
-| Tembloroso | Unsteady | Pasiva | 20k prim. · 40k sec. | No puede declarar Asegurar el balón. |
-| ¡Tronco Va! | Timmm-ber! | Pasiva | 20k prim. · 40k sec. | Si MV≤2, +1 a tirada para levantarse por cada compañero desmarcado y en pie adyacente. |
+| Rasgo (ES) | Inglés | Tipo | Resumen |
+|------------|--------|------|---------|
+| Animosidad | Animosity | Activa | Al **Pasar** o **Entregar** a compañero con la **clave** entre paréntesis: **1D6**, **1** = se niega y termina activación. **(todos)** = afecta a **todos** los compañeros. |
+| Apuñalar | Stab | Activa | Acción **Apuñalar** (sin límite por turno): rival **en pie** adyacente, **Armadura** sin mods.; si rompe → **Heridas**. Puede **sustituir** Placaje en **Penetración** (activación termina igualmente). |
+| Arma Secreta | Secret Weapon | Pasiva | Tras una **entrada** en que haya participado (aunque no esté en campo al final): **expulsado** por **Falta**. |
+| Bola y Cadena | Ball and Chain | Activa | Solo acción **Bola con cadena** (varios por turno): plantilla **1D6** por casilla hasta **MV**; puede forzar marcha (**1**: entra, resuelve placajes/rebotes, luego **cae**); en ZD **no** esquiva (auto); rivales **no** **Perseguir** ni **Tentáculos**. Impactos según ocupación (placaje auto a pie, empuje+tumba+AR a tumbados, rebote si hay balón). **Caída/derribo/tumba**: **Heridas** con Aturdido = Inconsciente. **No** puede tener: Apartar, Atento al balón, Equilibrio firme, Furia, Golpe a la Carrera, Perseguir, Piquete de ojos, Placaje heroico, Placaje múltiple, Saltar. |
+| Bombardero | Bombardier | Activa | **Lanzar bomba** (**1** por turno); como **Pase** salvo **Atento al balón**; **sin** Movimiento antes. Bomba al suelo o pifia/atrapar mal → **explota** en casilla. Explosión: pie → derribado; tumbado/aturdido → Armadura. Atrapar/interceptar → **relanzar** al instante. |
+| Borracho | Drunkard | Pasiva | **-1** a forzar la marcha. |
+| Canijo | Titchy | Activa | **+1** al AG al **esquivar**. Rivales que esquivan **hacia** una casilla en su ZD: **no** aplica el **-1** por él marcarlos. |
+| Chutar Compañero | Kick Team-mate | Activa | **Chutar compañero** (**1**/turno): como **Lanzar compañero** salvo que **no** cuenta como la acción de lanzar del equipo ese turno. **Pifia**: Heridas al chutado (Aturdido=Inconsciente); si llevaba balón → rebote. Mismas habilidades/rasgos aplicables que lanzar. |
+| Descomposición | Decay | Pasiva | **+1** a **todas** las tiradas de **Lesiones** contra él. |
+| Echar Raíces | Take Root | Pasiva | Tras declarar acción: **1D6** **2+** normal; **1** = **raíces**: sin Movimiento, sin impulso, **no** empujable, no sale de casilla salvo KO/Lesión. Termina al **fin de entrada** o si **derribado/tumbado boca arriba**. |
+| El Balón es Mío | My Ball | Pasiva | Portador: **no** puede soltar voluntariamente (ni Pase, Entregar, ni habilidades que cedan balón). Solo suelta por derribo/caída/tumba o efecto **rival**. |
+| El Balón ni Verlo | No Ball | Pasiva | **Nunca** portador; atrapar/recoger = **fallo automático** (como **1** natural); **no** intercepta. |
+| Embustero | Trickster | Pasiva | Ante Placaje o acción especial directa (**no** Bola con cadena): **antes** de dados, puede ir a **reservas** y **recolocarse** en casilla **adyacente desocupada** al atacante. Si es portador y va a zona de anotación rival, el Placaje se resuelve **antes** del TD. Si recoloca al balón, puede **recoger** antes de dados. |
+| Escurridizo | Stunty | Pasiva | Al **esquivar**, **sin** mods. negativos por marcadores rivales. **-1** al **interceptar**. Heridas en **tabla Escurridizos**. |
+| Estúpido | Bone Head | Pasiva | Tras declarar acción: **1D6** **2+** OK; **1** = **Distraído**. |
+| Exhalar Fuego | Breathe Fire | Activa | **Exhalar fuego** (varios/turno): rival marcado **en pie**, **1D6** **-1** si blanco **FU ≥ 5**. **1** = este derribado; **2–3** nada; **4+** rival **tumbado boca arriba**; **6** rival **derribado**. Termina activación. Puede sustituir Placaje en **Penetración** (activación termina). |
+| Ferocidad Animal | Animal Savagery | Pasiva | Tras declarar: **1D6** (**+2** si Placaje/Penetración). **4+** OK; **1–3** ataca **compañero adyacente en pie** (derribo); con **Garras**/**Golpe mortífero** debe usarlos vs compañero. **1–3** sin compañero adyacente → **Distraído**. |
+| Humanoide Bala | Right Stuff | Pasiva | Puede ser **lanzado** aunque esté **tumbado boca arriba**. |
+| Infectado | Infected | Pasiva | **1**/partido: Lesión rival por **Placaje** con resultado **Muerto** no salvado por apo → añade **Línea** de reservas al instante (>16 jugadores permitido ese partido). Postpartido puede ficharse como sustituto. **No** vs Grandullones ni rasgos Descomposición, Escurridizo, Regeneración. |
+| Insignificante | Insignificant | Pasiva | En plantilla: **no** más jugadores con este rasgo que **sin** él. |
+| Ira Descontrolada | Unchained Fury | Pasiva | Tras declarar: **1D6** (**+2** si Placaje/Penetración). **4+** OK; **1–3** rugido, **termina** activación. |
+| Lanzar Compañero | Throw Team-Mate | Activa | Puede declarar **Lanzar compañero**. |
+| Levantar Compañero | Pick-Me-Up | Activa | Fin de **cada** turno rival: por cada compañero **tumbado boca arriba** a **≤3** de un **en pie** con este rasgo, **1D6** **5+** = se levanta. Si se levanta por esto, **ese** jugador **no** usa el rasgo ese turno. |
+| Mirada Hipnótica | Hypnotic Gaze | Activa | **Mirada** (varios/turno): puede **Movimiento** antes, luego rival **en pie** adyacente **1D6** **1–2** nada (fin); **3+** rival **Distraído** (fin). |
+| Motosierra | Chainsaw | Activa | **Motosierra** (varios/turno): **1D6** **2+** Armadura **+3** vs rival **en pie**; **1** derribado a ti; si caes, rival **+3** Armadura **obligatorio**. Puede usarla en **Falta** (tras tirada descontrol). Puede sustituir Placaje en **Penetración** (activación termina). |
+| Odio | Hatred | Pasiva | Placaje vs rival con clave entre paréntesis: puede **repetir un** resultado **Atacante derribado**. |
+| Planear | Swoop | Activa | Si es **lanzado**: puede **no** escorar; plantilla **1D6**+**1D6**; puede **repetir** aterrizaje. |
+| Pogo Saltarín | Pogo | Activa | **Pogo** sobre una casilla adyacente como **Brincar** pero **ignora** mods. negativos. **No** puede tener **Saltar**. |
+| Proyectil Vómito | Projectile Vomit | Activa | **Proyectil vómito** (varios/turno): rival adyacente **en pie**, **1D6** **2+** Armadura sin mods. (rompe → Heridas); **1** Armadura sin mods. a **ti**. Puede sustituir Placaje en **Penetración** (activación termina). |
+| Realmente Estúpido | Really Stupid | Pasiva | Tras declarar: **1D6** (**+2** si adyacente a compañero **en pie**, no Distraído, sin este rasgo). **4+** OK; **1–3** Distraído. |
+| Regeneración | Regeneration | Pasiva | Al sufrir **Lesión**, antes de tabla de lesiones: **1D6** **1–3** normal; **4+** **regenera** (ignora lesión; SPP al causante igual); va a **reservas**. |
+| Sed de Sangre | Blood Lust | Pasiva | Tras declarar: **1D6** (**+1** si Placaje/Penetración). Si **≥** número entre paréntesis → normal. Si **menor** o **1 natural**: activa normal pero puede cambiar a **Movimiento**; acciones «1/turno» (p. ej. Penetración) siguen contando. Al **final** de activación puede **morder Thrall/Línea** adyacente (cualquier estado); Heridas (Lesionado=Magullado); si **no** muerde → **cambio de turno**, **Distraído**, suelta balón. Para **Pase**, **Entregar** o **TD** tras fallar la tirada debe morder **antes**. |
+| Siempre Hambriento | Always Hungry | Activa | En **Lanzar compañero**, **antes** del chequeo de Pase: **1D6** **2+** OK; **1** intenta comérselo → **1D6** **2+** pifia de lanzamiento; **1** **devorado** (sin apo ni regen); si era portador → rebote desde **este** jugador. |
+| Solitario | Loner | Pasiva | Para usar **Segunda oportunidad**: **1D6** vs número entre paréntesis; si falla **no** repite pero **gasta** el reroll. |
+| Tembloroso | Unsteady | Pasiva | **No** puede **Asegurar el balón**. |
+| ¡Tronco Va! | Timm-ber! | Pasiva | Si **MV ≤ 2**, **+1** por cada compañero **desmarcado y en pie** adyacente al **intentar levantarse**; **1 natural** sigue fallando. |

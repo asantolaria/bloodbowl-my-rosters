@@ -17,6 +17,10 @@ Fuente: [Nuffle Zone — Unión Élfica](https://nufflezone.com/equipos-blood-bo
 - **Apotecario:** Sí (50k)  
 - **Reglas especiales:** Liga de los Reinos Élficos  
 
+### Convención de dorsales (repo)
+
+Para pintura y hojas de equipo en este proyecto: **Elfo Lanzador 1 y 11**, **Elfo Blitzer 2 y 5**, **Elfo Catcher 3 y 4**, **Elfo Línea 6, 7, 8, 9, 10 y 12** (el **11** queda para el segundo Lanzador, no para Línea). Si llevas **más de seis** Líneas, los dorsales extra siguen a partir del **13** en orden (p. ej. inicio 1000k con ocho Líneas: **6–10, 12, 13, 14** dejando **11** libre para un Lanzador).
+
 ## Descripción oficial de las habilidades
 
 *(Habilidades de roster: coste **incl.** en el coste del jugador. Rerolls: 50k c/u.)*

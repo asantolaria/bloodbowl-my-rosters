@@ -16,6 +16,10 @@ Fuente: [Nuffle Zone — Orcos Negros](https://nufflezone.com/equipos-blood-bowl
 - **Apotecario:** Sí  
 - **Reglas especiales:** Brutos de la Reyerta, Soborno y Corrupción. Liga: Reyerta en las Yermas  
 
+### Convención de dorsales (repo)
+
+Para pintura y hojas de equipo en este proyecto: **Orcos Negros (Black Orc) 3–8**, **Goblins (Goblin Bruiser) 9–14**, **Troll Adiestrado 20**. Los dorsales **1–2** y **15–19** quedan libres (o para fichajes futuros). Si no llevas el máximo de una categoría, los números sobrantes de ese bloque quedan vacíos.
+
 ## Descripción oficial de las habilidades
 
 * **Apartar (Grab) — incl.:** Si el blanco es empujado, su entrenador elige la casilla; el blanco no puede usar Echarse a un Lado. No compatible con Furia.

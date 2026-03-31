@@ -2,7 +2,7 @@
 
 ![Elegidos del Caos](../images/equipos/Chaos.webp)
 
-Fuente: [Nuffle Zone — Elegidos del Caos](https://nufflezone.com/equipos-blood-bowl/) · Datos compatibles con roster del proyecto (BB Roster / 3ª Temporada).
+Fuente: [Nuffle Zone — Chaos Chosen / Elegidos del Caos](https://nufflezone.com/equipos-blood-bowl/chaos-chosen/) (listado 2025; nombre en español según reglamento GW).
 
 ## Roster 2025
 
@@ -18,6 +18,10 @@ Fuente: [Nuffle Zone — Elegidos del Caos](https://nufflezone.com/equipos-blood
 - **Rerolls:** 50k  
 - **Apotecario:** Sí  
 - **Reglas especiales:** Favoured Of… (elegir uno: Undivided, Khorne, Nurgle, Slaanesh, Tzeentch).  
+
+### Convención de dorsales (repo)
+
+Para pintura y hojas de equipo en este proyecto: **Beastman (cabras) 1–8**, **Guerrero del Caos 9–12**, **Troll del Caos 20**, **Minotauro 21**. Solo puedes tener **un** Big Guy en plantilla (Troll, Ogro o Minotauro); el dorsal del Big Guy que no uses queda libre.
 
 *Nota: En la web Nuffle Zone la página específica de Elegidos del Caos puede usar otra URL; comprobar en el listado de equipos.*
 

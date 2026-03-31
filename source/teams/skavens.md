@@ -18,6 +18,10 @@ Fuente: [Nuffle Zone — Skavens](https://nufflezone.com/equipos-blood-bowl/skav
 - **Apotecario:** Sí  
 - **Liga:** Reto del Inframundo  
 
+### Convención de dorsales (repo)
+
+Para pintura y hojas de equipo en este proyecto: **Thrower 1 y 2**, **Gutter Runner 3 y 4**, **Blitzer 5 y 6**, **Linemen 7–12**, **Rata Ogro 20**. Si no llevas el máximo de una categoría (p. ej. un solo Thrower en inicio 1000k), el dorsal sobrante de ese bloque queda libre.
+
 ## Descripción oficial de las habilidades
 
 * **Apuñalar (Stab) — incl.:** Acción especial: tirada de Armadura no modificada contra rival en pie adyacente; si rompe, tirada de Heridas. Puede reemplazar el Placaje de una Penetración.
@@ -29,5 +33,5 @@ Fuente: [Nuffle Zone — Skavens](https://nufflezone.com/equipos-blood-bowl/skav
 * **Manos Seguras (Sure Hands) — incl.:** Puede repetir D6 al recoger el balón (no Asegurar el balón). Robar balón no puede usarse contra él.
 * **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
 * **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
-* **Robar Balón (Strip Ball) — incl.:** Si en Placaje empuja al portador del balón, el balón cae y rebota desde la casilla de destino (antes de que el rival quede tumbado).
+* **Robar Balón (Strip Ball) — incl.:** Placaje al **portador** y **empuje**: el balón **cae y rebota** desde la casilla de destino **antes** de que el rival quede tumbado, pero **después** de que **este jugador** elija si hace **impulso**.
 * **Solitario (Loner) — incl.:** Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite.

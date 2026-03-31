@@ -23,27 +23,27 @@
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Bloaters | 115k | 4 | 4 | 4+ | 6+ | 10+ | Cabeza dura, Distraer, … |
-| 2 | ____ | Bloaters | 115k | 4 | 4 | 4+ | 6+ | 10+ | Cabeza dura, Distraer, … |
-| 3 | ____ | Bloaters | 115k | 4 | 4 | 4+ | 6+ | 10+ | Cabeza dura, Distraer, … |
-| 4 | ____ | Bloaters | 115k | 4 | 4 | 4+ | 6+ | 10+ | Cabeza dura, Distraer, … |
-| 5 | ____ | Pestigor | 80k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, GM, … |
-| 6 | ____ | Pestigor | 80k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, GM, … |
-| 7 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-| 8 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-| 9 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-| 10 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-| 11 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-| 12 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
+| 1 | ____ | Bloater | 110k | 4 | 4 | 4+ | 6+ | 10+ | Apariencia asquerosa, Inestable, … |
+| 2 | ____ | Bloater | 110k | 4 | 4 | 4+ | 6+ | 10+ | Apariencia asquerosa, Inestable, … |
+| 3 | ____ | Bloater | 110k | 4 | 4 | 4+ | 6+ | 10+ | Apariencia asquerosa, Inestable, … |
+| 4 | ____ | Bloater | 110k | 4 | 4 | 4+ | 6+ | 10+ | Apariencia asquerosa, Inestable, … |
+| 5 | ____ | Pestigor | 70k | 6 | 3 | 3+ | 4+ | 9+ | Cabeza dura, Cuernos, … |
+| 6 | ____ | Pestigor | 70k | 6 | 3 | 3+ | 4+ | 9+ | Cabeza dura, Cuernos, … |
+| 7 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Putrefacción de Nurgle, … |
+| 8 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Putrefacción de Nurgle, … |
+| 9 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Putrefacción de Nurgle, … |
+| 10 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Putrefacción de Nurgle, … |
+| 11 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Putrefacción de Nurgle, … |
+| 12 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Putrefacción de Nurgle, … |
 
 **Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k gp
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 830k) | 830.000 |
+| Jugadores (4 Bloater 440k, 2 Pestigor 140k, 6 Rotter 240k) | 820.000 |
 | Rerolls (4 × 60.000) | 240.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (3 × 10.000) | 30.000 |
+| Fans dedicados (4 × 10.000) | 40.000 |
 | **Total** | **1.100.000** |
 
 ## Skill Gold — avances (ejemplo editable)

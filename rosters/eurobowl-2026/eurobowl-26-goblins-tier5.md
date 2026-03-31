@@ -23,28 +23,27 @@
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Troll | 115k | 4 | 5 | 5+ | 5+ | 10+ | Hambriento, GM, … |
-| 2 | ____ | Pogo | 70k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Pogo, … |
-| 3 | ____ | Pogo | 70k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Pogo, … |
-| 4 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
-| 5 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
-| 6 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
-| 7 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
-| 8 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
-| 9 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
-| 10 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
-| 11 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
-| 12 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
+| 1 | ____ | Troll Entrenado | 115k | 4 | 5 | 5+ | 5+ | 10+ | Hambriento, GM, … |
+| 2 | ____ | Pogo Saltarín | 75k | 7 | 2 | 3+ | 4+ | 8+ | Esquivar, Pogo Saltarín, … |
+| 3 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
+| 4 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
+| 5 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
+| 6 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
+| 7 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
+| 8 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
+| 9 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
+| 10 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
+| 11 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
+| 12 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
 
 **Total jugadores:** 12 | **Presupuesto equipo usado:** 1120k gp
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 615k) | 615.000 |
+| Jugadores (total 590k: 1 Troll 115k, 1 Pogo 75k, 10 Goblin Línea 400k) | 590.000 |
 | Rerolls (5 × 60.000) | 300.000 |
 | Apotecario | 50.000 |
-| Fans dedicados (15 × 10.000) | 150.000 |
-| Flowing Funds → presupuesto equipo (resto no múltiplo de 10k) | 5.000 |
+| Fans dedicados (18 × 10.000) | 180.000 |
 | **Total** | **1.120.000** |
 
 ## Skill Gold — avances (ejemplo editable)

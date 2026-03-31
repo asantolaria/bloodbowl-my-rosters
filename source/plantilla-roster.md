@@ -18,7 +18,9 @@ Regla: todo lo que tenga precio debe aparecer al lado del nombre (o en la misma 
 
 # [RAZA] — [NOMBRE DEL EQUIPO] ([TV]k)
 
-![RAZA](../source/images/equipos/[SLUG_EQUIPO].webp)
+![RAZA](images/equipos/[SLUG_EQUIPO].webp)
+
+*Si copias esta plantilla a `rosters/` o `rosters/iniciales/`, cambia la imagen a `../../source/images/equipos/[SLUG_EQUIPO].webp` (o la ruta relativa que corresponda desde ese archivo).*
 
 > [Nota opcional: ej. "Roster inicial torneo NAF" o "Datos desde BB Roster (bbrosters)".]
 

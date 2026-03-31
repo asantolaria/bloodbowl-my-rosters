@@ -19,31 +19,32 @@
 
 ## Alineación (gasto de presupuesto de equipo)
 
-*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
+*Sin avances de Skill Gold. Rellenar nombres. **Dorsales:** Thrower **1–2**, Gutter Runner **3–4**, Blitzer **5–6**, Linemen **7–12**, Rata Ogro **20**. Plantilla **13** jug.: 2 Thrower, 2 Gutter, 2 Blitzer, 6 Linemen, 1 Rata Ogro = **960k** (Nuffle 2025). Stats: [`source/teams/skavens.md`](../../source/teams/skavens.md).*
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Rata Ogro | 150k | 6 | 5 | 4+ | — | 9+ | Ferocidad animal, … |
-| 2 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar balón |
-| 3 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar balón |
+| 1 | ____ | Thrower | 80k | 7 | 3 | 3+ | 2+ | 8+ | Manos Seguras, Pasar |
+| 2 | ____ | Thrower | 80k | 7 | 3 | 3+ | 2+ | 8+ | Manos Seguras, Pasar |
+| 3 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
 | 4 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
-| 5 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
-| 6 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
-| 7 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
-| 8 | ____ | Thrower | 80k | 7 | 3 | 3+ | 2+ | 8+ | Manos seguras, Pasar |
-| 9 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – |
-| 10 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – |
-| 11 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – |
-| 12 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – |
+| 5 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar Balón |
+| 6 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar Balón |
+| 7 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 8 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 9 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 10 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 11 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 12 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 20 | ____ | Rata Ogro | 150k | 6 | 5 | 4+ | — | 9+ | Ferocidad Animal, Cola Prensil, Furia, Golpe Mortífero (+1), Solitario (4+) |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1070k gp
+**Total jugadores:** 13 | **Presupuesto equipo usado:** 1070k gp
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 950k) | 950.000 |
+| Jugadores (2×80k + 2×85k + 2×90k + 6×50k + 150k) | 960.000 |
 | Rerolls (2 × 50.000) | 100.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (2 × 10.000) | 20.000 |
+| Fans dedicados (1 × 10.000) | 10.000 |
 | **Total** | **1.070.000** |
 
 ## Skill Gold — avances (ejemplo editable)

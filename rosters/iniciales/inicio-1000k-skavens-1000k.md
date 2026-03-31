@@ -2,25 +2,25 @@
 
 ![Skavens](../../source/images/equipos/skavens.webp)
 
-> Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Skaven Set Up](https://fumbbl.com/help:BB25SkavenSetUp). Third Season 2025. Pocas opciones de build; este es el recomendado.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/skavens.md`](../../source/teams/skavens.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Build estándar con **Rata Ogro** y núcleo de posicionales a tope permitido.
 
 ## Alineación
 
-*Roster inicial sin habilidades de progresión. Orden: Big Guy (Rata Ogro) → Thrower → Blitzers → Gutter Runners → Linemen.*
+*Roster inicial sin habilidades de progresión. **Dorsales:** Thrower **1** y **2** (solo un Thrower en esta lista: **1**; **2** libre para el segundo), Gutter Runner **3** y **4**, Blitzer **5** y **6**, Linemen **7–11** (cinco en este inicio; **12** libre para un sexto), Rata Ogro **20**. Stats: [`source/teams/skavens.md`](../../source/teams/skavens.md).*
 
 | Nº | Nombre | Posición    | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|-------------|-------|----|----|----|----|----|-------------|
-| ____ | ____________________ | Rata Ogro   | 150k  | 6  | 5  | 2  | —  | 9  | Ferocidad Animal, Furia, Solitario (4+), Golpe Mortífero, Cola Prensil |
-| ____ | ____________________ | Thrower     | 80k   | 7  | 3  | 3  | 2+ | 8  | Manos Seguras, Pasar |
-| ____ | ____________________ | Blitzer     | 90k   | 8  | 3  | 3  | —  | 9  | Placar, Robar Balón |
-| ____ | ____________________ | Blitzer     | 90k   | 8  | 3  | 3  | —  | 9  | Placar, Robar Balón |
-| ____ | ____________________ | Gutter Runner | 85k  | 9  | 2  | 2+ | —  | 8  | Esquivar, Apuñalar |
-| ____ | ____________________ | Gutter Runner | 85k  | 9  | 2  | 2+ | —  | 8  | Esquivar, Apuñalar |
-| ____ | ____________________ | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
-| ____ | ____________________ | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
-| ____ | ____________________ | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
-| ____ | ____________________ | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
-| ____ | ____________________ | Linemen     | 50k   | 7  | 3  | 3  | —  | 8  | — |
+| 1 | ____ | Thrower | 80k | 7 | 3 | 3+ | 2+ | 8+ | Manos Seguras, Pasar |
+| 3 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
+| 4 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
+| 5 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar Balón |
+| 6 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar Balón |
+| 7 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 8 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 9 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 10 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 11 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
+| 20 | ____ | Rata Ogro | 150k | 6 | 5 | 4+ | — | 9+ | Ferocidad Animal, Cola Prensil, Furia, Golpe Mortífero (+1), Solitario (4+) |
 
 **Total jugadores:** 11 | **TV:** 1.000k
 
@@ -59,7 +59,7 @@
 * **Manos Seguras (Sure Hands) — incl.:** Puede repetir D6 al recoger el balón (no Asegurar el balón). Robar balón no puede usarse contra él.
 * **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
 * **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
-* **Robar Balón (Strip Ball) — incl.:** Si en Placaje empuja al portador del balón, el balón cae y rebota desde la casilla de destino (antes de que el rival quede tumbado).
+* **Robar Balón (Strip Ball) — incl.:** Placaje al **portador** y **empuje**: el balón **cae y rebota** desde la casilla de destino **antes** de que el rival quede tumbado, pero **después** de que **este jugador** elija si hace **impulso**.
 * **Solitario (Loner) — incl.:** Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite.
 
 ## Inducements
@@ -73,8 +73,8 @@
 
 ## Progresión recomendada
 
-- **Blitzer:** Primaria Golpe Mortífero o Guardia; secundarias Derribar, Romper Tackle (GF / ADM según source/teams/skavens.md).
-- **Gutter Runner:** Primaria Paso Lateral; secundarias Pies Seguros, Esquivar (ADG / MF).
-- **Thrower:** Primaria Paso Lateral o Líder; secundarias Pies Seguros, Esquivar (GP / ADMF).
-- **Linemen:** Primaria Bloqueo; secundarias Paso Lateral, Pies Seguros (DG / AMF).
-- **Rata Ogro:** Primaria Guardia; secundarias Firme, Romper Tackle (F / AGM).
+- **Blitzer:** Primaria Golpe Mortífero o Defensa; secundarias Forcejear, Abrirse Paso (GF / ADM según source/teams/skavens.md).
+- **Gutter Runner:** Primaria Echarse a un Lado; secundarias Manos Seguras, Esquivar (ADG / MF).
+- **Thrower:** Primaria Echarse a un Lado o Líder; secundarias Manos Seguras, Esquivar (GP / ADMF).
+- **Linemen:** Primaria Placar; secundarias Echarse a un Lado, Manos Seguras (DG / AMF).
+- **Rata Ogro:** Primaria Defensa; secundarias Mantenerse Firme, Abrirse Paso (F / AGM).

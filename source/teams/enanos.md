@@ -8,7 +8,7 @@ Fuente: [Nuffle Zone — Enanos](https://nufflezone.com/equipos-blood-bowl/enano
 
 | CTD | Posición         | Coste | MA | FU | AG | PA | AR  | Habilidades (resumen) | Pri | Sec |
 |-----|------------------|-------|----|----|----|----|-----|------------------------|-----|-----|
-| 0-12 | Enano Línea      | 70k   | 4  | 3  | 4+ | 5+ | 10+ | Placar, Rompe defensas, Cabeza Dura | DG | F   |
+| 0-12 | Enano Línea      | 70k   | 4  | 3  | 4+ | 5+ | 10+ | Placar, Romper Defensas, Cabeza Dura | DG | F   |
 | 0-2 | Enano Runner     | 80k   | 6  | 3  | 3+ | 4+ | 9+  | Esprintar, Manos Seguras, Cabeza Dura | GP | AF  |
 | 0-2 | Enano Blitzer    | 100k  | 5  | 3  | 4+ | 4+ | 10+ | Placar, Placaje Defensivo, Placaje Heroico, Cabeza Dura | GF | AP  |
 | 0-2 | MataTrols        | 95k   | 5  | 3  | 4+ | 5+ | 9+  | Placar, Agallas, Furia, Cabeza Dura, Odio (Troll) | GF | D   |

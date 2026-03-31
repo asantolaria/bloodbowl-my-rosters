@@ -25,10 +25,10 @@
 |----|--------|----------|-------|----|----|----|----|----|-------------|
 | 1 | ____ | Minotauro Esclavizado | 150k | 5 | 5 | 4+ | 6+ | 9+ | Furia, GM, … |
 | 2 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, … |
-| 3 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel de hierro, … |
-| 4 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel de hierro, … |
-| 5 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel de hierro, … |
-| 6 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel de hierro, … |
+| 3 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, … |
+| 4 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, … |
+| 5 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, … |
+| 6 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, … |
 | 7 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Aliento de fuego, … |
 | 8 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Aliento de fuego, … |
 | 9 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – |

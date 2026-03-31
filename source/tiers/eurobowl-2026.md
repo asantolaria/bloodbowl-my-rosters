@@ -2,7 +2,7 @@
 
 Copa oficial **NAF** con **valoración estándar** escalada por tier. Este documento resume el *Living Ruleset* **BETA + HE patch** (#euro26): tercera versión de trabajo, sujeta a cambios según datos recopilados. **Siempre confirmar** con el reglamento publicado por el organizador del evento.
 
-**Reglas generales:** aplica la regla **STALLING** según el reglamento. Usar **recomendaciones y aclaraciones NAF para BB2020** (3ª temporada / BB2025 según aplique el torneo).
+**Reglas generales:** aplica la regla **STALLING** según el reglamento del evento y **Blood Bowl 3ª temporada / BB2025**. Documentación NAF y packs del torneo deben referirse explícitamente a **BB2025 / Third Season**; no usar marcos de ediciones anteriores como autoridad.
 
 ---
 
@@ -113,8 +113,8 @@ Deeproot Strongbranch, Grak & Crumbleberry, Ivar Eriksson, Kreek Rustgouger, Lor
 
 ## Notas para el Roster Builder
 
-1. **EuroBowl 2026** no usa la misma tabla que `oro-presupuesto.md` / `skill-pack.md` (GW Designer’s Commentary): aquí hay **6 tiers**, presupuestos **1.060k–1.140k** y un sistema de **Skill Gold + Flowing Funds + tipos Primary / Secondary / Stack**.
-2. Para torneos NAF genéricos, seguir `oro-presupuesto.md` y `skill-pack.md`; para **EuroBowl 2026**, usar **este documento** y el PDF/reglamento oficial del evento.
+1. **EuroBowl 2026** no usa la misma tabla que `oro-presupuesto.md` ni el sistema legado de **Skill Points** en `skill-pack.md` (GW Designer’s Commentary): aquí hay **6 tiers**, presupuestos **1.060k–1.140k** y **Skill Gold + Flowing Funds + tipos Primary / Secondary / Stack**.
+2. Para **EuroBowl 2026**, usar **este documento** y el reglamento oficial del evento. Para otros torneos NAF, el pack del organizador; `oro-presupuesto.md` sigue siendo útil para oro de construcción genérico. **`skill-pack.md`** solo si el torneo cita explícitamente ese sistema de puntos.
 3. Hashtag del formato: **#euro26**.
 4. Plantillas de alineación por equipo y tier: [rosters/eurobowl-2026/README.md](../../rosters/eurobowl-2026/README.md). **Estado:** marcadas como **revisión competitiva pendiente** (`eurobowl-2026-wip-competitive`) — válidas en presupuesto, no optimizadas para meta.
 

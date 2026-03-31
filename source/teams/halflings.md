@@ -30,5 +30,5 @@ Fuente: [Nuffle Zone — Halflings](https://nufflezone.com/equipos-blood-bowl/ha
 * **Humanoide Bala (Right Stuff) — incl.:** Puede ser lanzado por compañero con Lanzar compañero (incluso tumbado).
 * **Lanzar Compañero (Throw Team-Mate) — incl.:** Puede declarar la acción de Lanzar compañero.
 * **Mantenerse Firme (Stand Firm) — incl.:** Puede elegir no ser empujado (incl. cadena). No impide segundo Placaje por Furia.
-* **¡Tronco Va! (Timmm-ber!) — incl.:** Si MV≤2, +1 a tirada para levantarse por cada compañero desmarcado y en pie adyacente.
+* **¡Tronco Va! (Timm-ber!) — incl.:** Si **MV ≤ 2**, **+1** a tirada para levantarse por cada compañero **desmarcado y en pie** adyacente; **1 natural** sigue fallando.
 * **Zafarse (Fend) — incl.:** Si es empujado por Placaje, el rival no puede hacer impulso. No contra Bola y cadena ni Imparable en Penetración.

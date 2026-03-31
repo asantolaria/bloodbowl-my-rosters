@@ -23,25 +23,26 @@
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Ulfwerener | 110k | 6 | 4 | 3+ | 4+ | 9+ | Furia, Regeneración |
-| 2 | ____ | Ulfwerener | 110k | 6 | 4 | 3+ | 4+ | 9+ | Furia, Regeneración |
-| 3 | ____ | Berserker | 90k | 6 | 3 | 3+ | 4+ | 8+ | Furia, Placar |
-| 4 | ____ | Berserker | 90k | 6 | 3 | 3+ | 4+ | 8+ | Furia, Placar |
-| 5 | ____ | Runner | 80k | 7 | 3 | 3+ | 4+ | 8+ | Esquivar, Esprintar |
-| 6 | ____ | Thrower | 75k | 6 | 3 | 3+ | 3+ | 8+ | Pasar, Manos seguras |
-| 7 | ____ | Línea | 65k | 6 | 3 | 3+ | 4+ | 9+ | – |
-| 8 | ____ | Línea | 65k | 6 | 3 | 3+ | 4+ | 9+ | – |
-| 9 | ____ | Línea | 65k | 6 | 3 | 3+ | 4+ | 9+ | – |
-| 10 | ____ | Línea | 65k | 6 | 3 | 3+ | 4+ | 9+ | – |
-| 11 | ____ | Línea | 65k | 6 | 3 | 3+ | 4+ | 9+ | – |
-| 12 | ____ | Línea | 65k | 6 | 3 | 3+ | 4+ | 9+ | – |
-| 13 | ____ | Línea | 65k | 6 | 3 | 3+ | 4+ | 9+ | – |
+| 1 | ____ | Yhetee | 140k | 5 | 5 | 4+ | 6+ | 9+ | Garras, Furia, … |
+| 2 | ____ | Ulfwerener | 105k | 6 | 4 | 4+ | 6+ | 9+ | Furia, Inestable |
+| 3 | ____ | Ulfwerener | 105k | 6 | 4 | 4+ | 6+ | 9+ | Furia, Inestable |
+| 4 | ____ | Valkyrie | 95k | 7 | 3 | 3+ | 3+ | 8+ | Atrapar, Agallas, Pasar, … |
+| 5 | ____ | Valkyrie | 95k | 7 | 3 | 3+ | 3+ | 8+ | Atrapar, Agallas, Pasar, … |
+| 6 | ____ | Berserker | 90k | 6 | 3 | 3+ | 5+ | 8+ | Placar, Furia, En pie de un salto |
+| 7 | ____ | Berserker | 90k | 6 | 3 | 3+ | 5+ | 8+ | Placar, Furia, En pie de un salto |
+| 8 | ____ | Cerdo Cervecero | 20k | 5 | 1 | 3+ | – | 6+ | Escurridizo, Sin manos, … |
+| 9 | ____ | Cerdo Cervecero | 20k | 5 | 1 | 3+ | – | 6+ | Escurridizo, Sin manos, … |
+| 10 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Borracho, Cabeza dura, Inestable, Placar |
+| 11 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Borracho, Cabeza dura, Inestable, Placar |
+| 12 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Borracho, Cabeza dura, Inestable, Placar |
+| 13 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Borracho, Cabeza dura, Inestable, Placar |
+| 14 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Borracho, Cabeza dura, Inestable, Placar |
 
-**Total jugadores:** 13 | **Presupuesto equipo usado:** 1080k gp
+**Total jugadores:** 14 | **Presupuesto equipo usado:** 1080k gp
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 1010k) | 1.010.000 |
+| Jugadores (1 Yhetee 140k, 2 Ulfwerener 210k, 2 Valkyrie 190k, 2 Berserker 180k, 2 Cerdo 40k, 5 Línea 250k) | 1.010.000 |
 | Rerolls (1 × 60.000) | 60.000 |
 | Apotecario | No (lista del equipo) |
 | Fans dedicados (1 × 10.000) | 10.000 |

@@ -11,10 +11,10 @@ Fuente: [Nuffle Zone — Slaanesh](https://nufflezone.com/equipos-blood-bowl/sla
 | CTD | Posición | Coste | MA | FU | AG | PA | AR | Habilidades (resumen) | Pri | Sec |
 |-----|-----------|-------|----|----|----|----|-----|------------------------|-----|-----|
 | 0-16 | Blissful One | 70k | 7 | 3 | 2+ | 4+ | 8+ | Beguile, Finesse | AG | DF |
-| 0-4 | Pain | 90k | 7 | 3 | 2+ | 4+ | 8+ | Beguile, Finesse, Loner (4+), Regeneration, Wrestle | AG | DF |
-| 0-4 | Pleasure | 90k | 7 | 3 | 2+ | 4+ | 8+ | Beguile, Finesse, Loner (4+), Regeneration, Wrestle | AG | DF |
-| 0-2 | Masque | 110k | 8 | 3 | 2+ | 4+ | 8+ | Beguile, Finesse, Loner (4+), Regeneration, Sprint, Sure Feet | AG | DF |
-| 0-1 | Keeper of Secrets | 200k | 7 | 5 | 2+ | 4+ | 10+ | Beguile, Claws, Finesse, Loner (4+), Regeneration, Tentacles | F | AGD |
+| 0-4 | Pain | 90k | 7 | 3 | 2+ | 4+ | 8+ | Beguile, Finesse, Solitario (4+), Regeneración, Forcejear | AG | DF |
+| 0-4 | Pleasure | 90k | 7 | 3 | 2+ | 4+ | 8+ | Beguile, Finesse, Solitario (4+), Regeneración, Forcejear | AG | DF |
+| 0-2 | Masque | 110k | 8 | 3 | 2+ | 4+ | 8+ | Beguile, Finesse, Solitario (4+), Regeneración, Esprintar, Pies Firmes | AG | DF |
+| 0-1 | Keeper of Secrets | 200k | 7 | 5 | 2+ | 4+ | 10+ | Beguile, Garras, Finesse, Solitario (4+), Regeneración, Tentáculos | F | AGD |
 
 - **Rerolls:** 70k  
 - **Apotecario:** Sí  

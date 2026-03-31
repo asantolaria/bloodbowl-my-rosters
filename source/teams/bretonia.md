@@ -8,7 +8,7 @@ Fuente: [Nuffle Zone — Bretonia](https://nufflezone.com/equipos-blood-bowl/bre
 
 | CTD | Posición | Coste | MA | FU | AG | PA | AR | Habilidades (resumen) | Pri | Sec |
 |-----|-----------|-------|----|----|----|----|-----|------------------------|-----|-----|
-| 0-16 | Escuderos | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejeo | G | AF |
+| 0-16 | Escuderos | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear | G | AF |
 | 0-2 | Caballero Receptor | 85k | 7 | 3 | 3+ | 4+ | 9+ | Agallas, Atrapar, Nervios de Acero | AG | F |
 | 0-2 | Caballero Lanzador | 80k | 6 | 3 | 3+ | 3+ | 9+ | Agallas, Pasar, Nervios de Acero | GP | AS |
 | 0-4 | Caballero del Grial | 95k | 7 | 3 | 3+ | 4+ | 10+ | Agallas, Equilibrio Firme, Placar | GS | A |

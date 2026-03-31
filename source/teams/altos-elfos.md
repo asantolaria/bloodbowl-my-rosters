@@ -2,7 +2,8 @@
 
 ![Altos Elfos](../images/equipos/altos-elfos.webp)
 
-Fuente: [Nuffle Zone — Altos Elfos](https://nufflezone.com/equipos-blood-bowl/altos-elfos/) (tabla **Altos Elfos 2026**). Algunas guías genéricas “BB2025” en la web aún muestran la lista antigua (Lion Warrior Catcher / Dragon Warrior Blitzer a precios viejos); para este repo prima **Nuffle Zone 2026** mientras Games Workshop no publique PDF distinto.
+**Autoridad reglamentaria:** [Reglamento GW — Season 3 / 3ª temporada (PDF en repo)](../reglamento/reglamento-bb3-season3.pdf) · [Blood Bowl Downloads](https://www.warhammer-community.com/blood-bowl-downloads/).  
+**Lista de equipo:** [Nuffle Zone — Altos Elfos](https://nufflezone.com/equipos-blood-bowl/altos-elfos/) (tabla **Altos Elfos 2026** / 3ª temporada vigente en Nuffle).
 
 ## Roster 2026
 
@@ -16,10 +17,6 @@ Fuente: [Nuffle Zone — Altos Elfos](https://nufflezone.com/equipos-blood-bowl/
 - **Rerolls:** 50k  
 - **Apotecario:** Sí  
 - **Reglas especiales:** Liga de los Reinos Élficos  
-
-## Lista anterior (referencia BB2020 / caja vieja)
-
-Sigue apareciendo en Nuffle Zone como “Altos Elfos 2020”: línea 70k PA 4+, receptores Lion Warrior, Dragon Warrior Blitzer 100k MA 7 solo con Placar, etc. **No usar** para torneos BB2025/2026 salvo que el evento indique explícitamente esa variante.
 
 ## Descripción oficial de las habilidades
 

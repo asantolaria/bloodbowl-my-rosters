@@ -23,7 +23,7 @@
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Elfo Oscuro Asesino | 90k | 7 | 3 | 2+ | 4+ | 8+ | Apuñalar, Hit and Run, … |
+| 1 | ____ | Elfo Oscuro Asesino | 90k | 7 | 3 | 2+ | 4+ | 8+ | Apuñalar, Golpe a la Carrera, … |
 | 2 | ____ | Elfo Oscuro Blitzer | 105k | 7 | 3 | 2+ | 3+ | 9+ | Placar |
 | 3 | ____ | Elfo Oscuro Blitzer | 105k | 7 | 3 | 2+ | 3+ | 9+ | Placar |
 | 4 | ____ | Elfo Oscuro Runner | 80k | 7 | 3 | 2+ | 3+ | 8+ | Pase precipitado, … |

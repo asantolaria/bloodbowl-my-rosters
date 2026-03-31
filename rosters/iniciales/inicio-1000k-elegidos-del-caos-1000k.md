@@ -2,24 +2,24 @@
 
 ![Elegidos del Caos](../../source/images/equipos/Chaos.webp)
 
-> Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Chaos Chosen Set Up](https://fumbbl.com/help:BB25ChaosSetUp). Third Season 2025. Incluye Troll del Caos (opción Big Guy en FUMBBL).
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/elegidos-del-caos.md`](../../source/teams/elegidos-del-caos.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Big Guy: **Troll del Caos** (elegir uno entre Troll / Ogro / Minotauro según lista).
 
 ## Alineación
 
-*Roster inicial sin habilidades de progresión. Orden: Big Guy (Troll) → Guerreros Caos → Beastmen.*
+*Roster inicial sin habilidades de progresión. **Dorsales:** Beastman **1–8** (aquí cinco cabras: **1–5**; **6–8** libres), Guerrero del Caos **9–12**, Troll del Caos **20**, Minotauro **21** libre si juegas Troll. Stats: [`source/teams/elegidos-del-caos.md`](../../source/teams/elegidos-del-caos.md).*
 
 | Nº | Nombre | Posición     | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|--------------|-------|----|----|----|----|----|-------------|
-| ____ | ____________________ | Troll del Caos | 115k | 4 | 5 | 1 | — | 10 | Siempre Hambriento, Solitario (4+), Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero |
-| ____ | ____________________ | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
-| ____ | ____________________ | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
-| ____ | ____________________ | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
-| ____ | ____________________ | Guerrero Caos | 100k | 5 | 4 | 3 | — | 10 | Llave de Brazo |
-| ____ | ____________________ | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
-| ____ | ____________________ | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
-| ____ | ____________________ | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
-| ____ | ____________________ | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
-| ____ | ____________________ | Beastman     | 55k  | 6 | 3 | 3 | — | 9  | Cuernos, Cabeza Dura |
+| 1 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
+| 2 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
+| 3 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
+| 4 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
+| 5 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
+| 9 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de Brazo |
+| 10 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de Brazo |
+| 11 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de Brazo |
+| 12 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de Brazo |
+| 20 | ____ | Troll del Caos | 115k | 4 | 5 | 5+ | 5+ | 10+ | Siempre Hambriento, Solitario (4+), Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero |
 
 **Total jugadores:** 10 | **TV:** 1.000k
 
@@ -71,6 +71,6 @@
 
 ## Progresión recomendada
 
-- **Guerrero Caos:** Primaria Bloqueo; secundarias Guardia, Golpe Mortífero, Derribar (GS / A según source/teams/elegidos-del-caos.md).
-- **Beastman:** Primaria Bloqueo o Paso Lateral; secundarias Pies Seguros, Captura (GS / A).
-- **Troll del Caos:** Primaria Guardia; secundarias Firme, Romper Tackle (MS / AG).
+- **Guerrero Caos:** Primaria Placar; secundarias Defensa, Golpe Mortífero, Forcejear (GS / A según source/teams/elegidos-del-caos.md).
+- **Beastman:** Primaria Placar o Echarse a un Lado; secundarias Manos Seguras, Atrapar (GS / A).
+- **Troll del Caos:** Primaria Defensa; secundarias Mantenerse Firme, Abrirse Paso (MS / AG).

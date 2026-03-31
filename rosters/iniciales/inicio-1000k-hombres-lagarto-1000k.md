@@ -2,25 +2,25 @@
 
 ![Hombres Lagarto](../../source/images/equipos/hombres-lagarto.webp)
 
-> Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Lizardmen Set Up](https://fumbbl.com/help:BB25LizardmenSetUp). Third Season 2025. Build recomendado: todos los fuertes (1 Kroxigor, 6 Saurios) para control del campo; conseguir Líder y Apo cuanto antes.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). **1 Kroxigor, 6 Saurios** para control físico; en liga, priorizar **Líder** y **apotecario** cuando el presupuesto lo permita.
 
 ## Alineación
 
-*Roster inicial sin habilidades de progresión. Orden: Big Guy (Kroxigor) → Saurios → Camaleón → Eslizones.*
+*Roster inicial sin habilidades de progresión. **Dorsales:** Saurios **1–6**, Camaleones **7–8**, Kroxigor **9**, Eslizones **10+**. En este inicio solo hay un Camaleón (dorsal 7); el **8** queda libre hasta fichar un segundo. CTD y stats: [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md).*
 
 | Nº | Nombre | Posición     | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|--------------|-------|----|----|----|----|----|-------------|
-| ____ | ____________________ | Kroxigor     | 140k  | 6  | 5  | 1  | —  | 10 | Cabeza Dura, Estúpido, Cola Prensil, Golpe Mortífero, Solitario (4+) |
-| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| ____ | ____________________ | Saurio       | 90k   | 6  | 4  | 1  | —  | 10 | Imparable, Tembloroso |
-| ____ | ____________________ | Camaleón     | 70k   | 7  | 2  | 3  | —  | 8  | Esquivar, Atento al Balón, Perseguir, Escurridizo |
-| ____ | ____________________ | Eslizón Línea| 60k   | 8  | 2  | 3  | —  | 8  | Esquivar, Escurridizo |
-| ____ | ____________________ | Eslizón Línea| 60k   | 8  | 2  | 3  | —  | 8  | Esquivar, Escurridizo |
-| ____ | ____________________ | Eslizón Línea| 60k   | 8  | 2  | 3  | —  | 8  | Esquivar, Escurridizo |
+| 1 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
+| 2 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
+| 3 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
+| 4 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
+| 5 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
+| 6 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
+| 7 | ____ | Camaleón | 70k | 7 | 2 | 3+ | 3+ | 8+ | Esquivar, Atento al Balón, Perseguir, Escurridizo |
+| 9 | ____ | Kroxigor | 140k | 6 | 5 | 5+ | 6+ | 10+ | Cabeza Dura, Estúpido, Cola Prensil, Golpe Mortífero (+1), Solitario (4+) |
+| 10 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
+| 11 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
+| 12 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
 
 **Total jugadores:** 11 | **TV:** 1.000k
 
@@ -72,9 +72,7 @@
 
 ## Progresión recomendada
 
-- **Saurio:** Primaria Bloqueo; secundarias Guardia, Golpe Mortífero, Romper Tackle (GF / A). Líder en uno para compensar 1 RR.
-- **Eslizón Línea:** Primaria Paso Lateral; secundarias Pies Seguros, Esquivar (A / GDPF).
-- **Camaleón:** Primaria Paso Lateral o Líder; secundarias Pies Seguros, Atrapar (AP / GDF).
-- **Kroxigor:** Primaria Guardia; secundarias Firme, Romper Tackle (F / AG).
-<｜tool▁calls▁begin｜><｜tool▁call▁begin｜>
-StrReplace
+- **Saurio:** Primaria Placar; secundarias Defensa, Golpe Mortífero, Abrirse Paso (GF / A). Líder en uno para compensar 1 RR.
+- **Eslizón Línea:** Primaria Echarse a un Lado; secundarias Manos Seguras, Esquivar (A / GDPF).
+- **Camaleón:** Primaria Echarse a un Lado o Líder; secundarias Manos Seguras, Atrapar (AP / GDF).
+- **Kroxigor:** Primaria Defensa; secundarias Mantenerse Firme, Abrirse Paso (F / AG).

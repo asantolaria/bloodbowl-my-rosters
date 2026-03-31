@@ -2,18 +2,18 @@
 
 ![Altos Elfos](../../source/images/equipos/altos-elfos.webp)
 
-> Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 High Elf Set Up](https://fumbbl.com/help:BB25HighElfSetUp). Third Season 2025. Con recortes de precio pueden empezar con 2 Catchers.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/altos-elfos.md`](../../source/teams/altos-elfos.md) (lista **2026** / 3ª temporada en Nuffle). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Con la hoja vigente pueden encajar **2** piezas receptores según costes del roster oficial.
 
 ## Alineación
 
-*Roster inicial sin habilidades de progresión. Orden: Blitzers → Catchers → Línea. Sin Thrower para cerrar a 1000k.*
+*Roster inicial sin habilidades de progresión. Lista **2026** en fuente: White Lion Blitzer → Dragon Warrior → Línea. Sin Thrower para cerrar a 1000k.*
 
 | Nº | Nombre | Posición     | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|--------------|-------|----|----|----|----|----|-------------|
-| ____ | ____________________ | Blitzer      | 105k  | 7  | 3  | 2+ | —  | 9  | Placar, Equilibrio Firme |
-| ____ | ____________________ | Blitzer      | 105k  | 7  | 3  | 2+ | —  | 9  | Placar, Equilibrio Firme |
-| ____ | ____________________ | Catcher      | 90k   | 7  | 3  | 2+ | —  | 8  | Garras, Forcejear |
-| ____ | ____________________ | Catcher      | 90k   | 7  | 3  | 2+ | —  | 8  | Garras, Forcejear |
+| ____ | ____________________ | Alto Elfo White Lion Blitzer | 110k | 7 | 3 | 2+ | 3+ | 9+ | Forcejear, Garras |
+| ____ | ____________________ | Alto Elfo White Lion Blitzer | 110k | 7 | 3 | 2+ | 3+ | 9+ | Forcejear, Garras |
+| ____ | ____________________ | Alto Elfo Dragon Warrior | 110k | 8 | 3 | 2+ | 4+ | 9+ | El balón es mío, Equilibrio firme, Placar |
+| ____ | ____________________ | Alto Elfo Dragon Warrior | 110k | 8 | 3 | 2+ | 4+ | 9+ | El balón es mío, Equilibrio firme, Placar |
 | ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
 | ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
 | ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
@@ -27,9 +27,9 @@
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (2 Blitzers 210k, 2 Catchers 180k, 6 Línea 390k) | 780.000 |
+| Jugadores (2 White Lion 220k, 2 Dragon Warrior 220k, 6 Línea 390k) | 830.000 |
 | Rerolls (3 × 50.000) | 150.000 |
-| Fans dedicados (7 × 10.000) | 70.000 |
+| Fans dedicados (2 × 10.000) | 20.000 |
 | **Total TV** | **1.000.000** |
 
 ## Información del equipo
@@ -65,6 +65,6 @@
 
 ## Progresión recomendada
 
-- **Blitzer:** Primaria Paso Lateral o Derribar; secundarias Pies Seguros, Foco (GA / SP según FUMBBL).
-- **Catcher:** Primaria Paso Lateral; secundarias Pies Seguros, Esquivar (GA / S).
-- **Alto Elfo Línea:** Primaria Bloqueo o Paso Lateral; secundarias Pies Seguros, Esquivar (GA / PF).
+- **Blitzer:** Primaria Echarse a un Lado o Forcejear; secundarias Manos Seguras, Profesional (GA / SP según FUMBBL).
+- **Catcher:** Primaria Echarse a un Lado; secundarias Manos Seguras, Esquivar (GA / S).
+- **Alto Elfo Línea:** Primaria Placar o Echarse a un Lado; secundarias Manos Seguras, Esquivar (GA / PF).

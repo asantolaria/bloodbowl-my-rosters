@@ -4,7 +4,7 @@
 |----|----|----|----|-----|-------|
 | 8  | 4  | 3+ | 4+ | 9+ | 220.000 |
 
-**Habilidades:** Atrapar, Garras, Forcejeo, Furia, Regeneración, Solitario (4+)  
+**Habilidades:** Atrapar, Garras, Forcejear, Furia, Regeneración, Solitario (4+)  
 **Juega para:** Selectiva de Sylvania  
 **★ Mordedura Salvaje:** Una vez por partido puede repetir la tirada de Heridas contra un oponente. (Blitzer, Undead, Werewolf)
 

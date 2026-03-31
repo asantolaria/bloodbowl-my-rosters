@@ -26,10 +26,10 @@
 | 1 | ____ | Momia de Reyes Funerarios | 110k | 3 | 5 | 5+ | 6+ | 10+ | GM, … |
 | 2 | ____ | Blitzer de Reyes Funerarios | 90k | 6 | 3 | 3+ | 4+ | 9+ | Placar, Regeneración |
 | 3 | ____ | Blitzer de Reyes Funerarios | 90k | 6 | 3 | 3+ | 4+ | 9+ | Placar, Regeneración |
-| 4 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, … |
-| 5 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, … |
-| 6 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, … |
-| 7 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, … |
+| 4 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, … |
+| 5 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, … |
+| 6 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, … |
+| 7 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, … |
 | 8 | ____ | Thrower de Reyes Funerarios | 70k | 6 | 3 | 3+ | 3+ | 9+ | Pasar, … |
 | 9 | ____ | Esqueleto de Reyes Funerarios Línea | 40k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración |
 | 10 | ____ | Esqueleto de Reyes Funerarios Línea | 40k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración |

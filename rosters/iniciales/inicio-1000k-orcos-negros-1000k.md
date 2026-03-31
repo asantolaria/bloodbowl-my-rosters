@@ -2,26 +2,26 @@
 
 ![Orcos Negros](../../source/images/equipos/orcos-negros.webp)
 
-> Roster de inicio a valoración máxima 1000k según [FUMBBL BB25 Black Orc Set Up](https://fumbbl.com/help:BB25BlackOrcSetUp). Third Season 2025.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/orcos-negros.md`](../../source/teams/orcos-negros.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf).
 
 ## Alineación
 
-*Roster inicial sin habilidades de progresión. Orden: Troll → Orcos Negros → Goblins.*
+*Roster inicial sin habilidades de progresión. **Dorsales:** Orcos Negros **3–8**, Goblins **9–14**, Troll **20**. En este inicio hay 5 Goblins (dorsales **9–13**); el **14** queda libre hasta fichar un sexto. CTD y stats: [`source/teams/orcos-negros.md`](../../source/teams/orcos-negros.md).*
 
 | Nº | Nombre | Posición   | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|------------|-------|----|----|----|----|----|-------------|
-| ____ | ____________________ | Troll Adiestrado | 115k | 4 | 5 | 1 | — | 10 | Siempre Hambriento, Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero |
-| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| ____ | ____________________ | Orco Negro | 90k  | 4 | 4 | 2 | — | 10 | Luchador, Apartar |
-| ____ | ____________________ | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
-| ____ | ____________________ | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
-| ____ | ____________________ | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
-| ____ | ____________________ | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
-| ____ | ____________________ | Goblin Bruiser | 45k | 6 | 2 | 3 | — | 8  | Humanoide Bala, Esquivar, Escurridizo, Cabeza Dura |
+| 3 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
+| 4 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
+| 5 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
+| 6 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
+| 7 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
+| 8 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
+| 9 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| 10 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| 11 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| 12 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| 13 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| 20 | ____ | Troll Adiestrado | 115k | 4 | 5 | 5+ | 5+ | 10+ | Siempre Hambriento, Solitario (3+), Golpe Mortífero (+1), Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero |
 
 **Total jugadores:** 12 | **TV:** 1.000k
 
@@ -75,6 +75,6 @@
 
 ## Progresión recomendada
 
-- **Orco Negro:** Primaria Bloqueo; secundarias Guardia, Golpe Mortífero, Derribar (GF / AD según source/teams/orcos-negros.md).
-- **Goblin Bruiser:** Primaria Paso Lateral o Bloqueo; secundarias Pies Seguros, Captura (AD / GPF).
-- **Troll Adiestrado:** Primaria Guardia; secundarias Firme, Romper Tackle (F / AGP).
+- **Orco Negro:** Primaria Placar; secundarias Defensa, Golpe Mortífero, Forcejear (GF / AD según source/teams/orcos-negros.md).
+- **Goblin Bruiser:** Primaria Echarse a un Lado o Placar; secundarias Manos Seguras, Atrapar (AD / GPF).
+- **Troll Adiestrado:** Primaria Defensa; secundarias Mantenerse Firme, Abrirse Paso (F / AGP).
