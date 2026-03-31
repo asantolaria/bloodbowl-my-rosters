@@ -26,6 +26,6 @@ Asignación oficial de equipos a tier (**Games Workshop — Designer's Commentar
 | **Tier 3** | Orcos Negros, Elegidos del Caos, Renegados del Caos, Khorne, Nurgle |
 | **Tier 4** | Gnomos, Goblins, Halflings, Ogros, Snotlings |
 
-**Cambio frecuente:** los **Ogros** están en **Tier 4** (no en Tier 3). El bloque **Tier 4/5** del presupuesto de oro (1.200k+) agrupa equipos de tier bajo; confirma en el reglamento si tu torneo usa 4 o 5 categorías de skill pack.
+**Cambio frecuente:** los **Ogros** están en **Tier 4** (no en Tier 3). El bloque **Tier 4/5** del presupuesto de oro (1.200k+) agrupa equipos de tier bajo; confirma en el reglamento del torneo cuántas categorías de presupuesto usa.
 
 Equipos no listados aquí (Slaanesh, Tzeentch, Slann, variantes de Secret League, etc.): el tier lo marca el pack del torneo; si no, asumir Tier 2–3 y confirmar con el organizador.

@@ -113,8 +113,8 @@ Deeproot Strongbranch, Grak & Crumbleberry, Ivar Eriksson, Kreek Rustgouger, Lor
 
 ## Notas para el Roster Builder
 
-1. **EuroBowl 2026** no usa la misma tabla que `oro-presupuesto.md` ni el sistema legado de **Skill Points** en `skill-pack.md` (GW Designer’s Commentary): aquí hay **6 tiers**, presupuestos **1.060k–1.140k** y **Skill Gold + Flowing Funds + tipos Primary / Secondary / Stack**.
-2. Para **EuroBowl 2026**, usar **este documento** y el reglamento oficial del evento. Para otros torneos NAF, el pack del organizador; `oro-presupuesto.md` sigue siendo útil para oro de construcción genérico. **`skill-pack.md`** solo si el torneo cita explícitamente ese sistema de puntos.
+1. **EuroBowl 2026** no usa la misma tabla que `oro-presupuesto.md` ni el antiguo sistema de **Skill Points** por tier del *Designer’s Commentary* GW: aquí hay **6 tiers**, presupuestos **1.060k–1.140k** y **Skill Gold + Flowing Funds + tipos Primary / Secondary / Stack**.
+2. Para **EuroBowl 2026**, usar **este documento** y el reglamento oficial del evento. Para otros torneos NAF, el pack del organizador; `oro-presupuesto.md` puede servir de referencia para oro de construcción genérico (otra escala de tiers).
 3. Hashtag del formato: **#euro26**.
 4. Plantillas de alineación por equipo y tier: [rosters/eurobowl-2026/README.md](../../rosters/eurobowl-2026/README.md). **Estado:** marcadas como **revisión competitiva pendiente** (`eurobowl-2026-wip-competitive`) — válidas en presupuesto, no optimizadas para meta.
 

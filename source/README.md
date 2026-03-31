@@ -13,7 +13,7 @@ Datos de referencia según [NuffleZone.com](https://nufflezone.com/) (Blood Bowl
 | [**teams/**](teams/) | Un archivo por equipo: roster 2025, costes, estadísticas, habilidades, Pri/Sec. Ver [README](teams/README.md). |
 | [**habilidades/**](habilidades/) | Una ficha por categoría de habilidades (Agilidad, Fuerza, General, etc.). Ver [README](habilidades/README.md). |
 | [**jugadores-estrella/**](jugadores-estrella/) | Una ficha por jugador estrella: coste, estadísticas, equipos. Ver [README](jugadores-estrella/README.md). |
-| [**tiers/**](tiers/) | EuroBowl 2026 (#euro26), oro por tier; skill pack *(legado)*. Ver [README](tiers/README.md). |
+| [**tiers/**](tiers/) | EuroBowl 2026 (#euro26), oro por tier NAF genérico. Ver [README](tiers/README.md). |
 | [**tablas/**](tablas/) | Tablas de partida: heridas, clima, patada inicial, plegarias, experiencia/SPP. Ver [README](tablas/README.md). |
 | [**images/**](images/) | Imágenes de equipos (logos). Ver [README](images/README.md). |
 | [**reglamento/**](reglamento/) | PDF oficial Season 3 (GW). Ver [README](reglamento/README.md) y [referencias-reglamento-bb3.md](referencias-reglamento-bb3.md). |

@@ -10,21 +10,16 @@
 
 ## Torneos y tendencias (datos; no sustituyen al reglamento)
 
-Usar solo cuando el filtro o el propio torneo indique **BB2025 / 2025 / Third Season**.
+Solo con filtro o torneo que indique **BB2025 / Third Season**. Estadísticas y rankings: [NAF Statistics](https://member.thenaf.net/index.php?module=NAF&type=statistics) (**filtrar año** y variante BB2025 si existe; p. ej. [año 2025](https://member.thenaf.net/index.php?module=NAF&type=statistics&year=2025)) · [Rankings](https://thenaf.net/tournaments/rankings). Marco de tiers en torneos: [NAF — Tiers and Tiering](https://thenaf.net/tournaments/running-a-tournament/tiers-and-tiering).
 
-| Sitio | URL | Uso |
-|-------|-----|-----|
-| **NAF Statistics (2025)** | https://member.thenaf.net/index.php?module=NAF&type=statistics&year=2025 | Estadísticas con año **2025** explícito. |
-| **NAF Statistics** | https://member.thenaf.net/index.php?module=NAF&type=statistics | **Filtrar año 2025** y variante BB2025 si existe. |
-| **NAF Rankings / Tableau** | https://thenaf.net/tournaments/rankings | **Filtrar BB2025 / 2025** cuando el filtro exista. |
-| **NAF Tiers & tiering** | https://thenaf.net/tournaments/running-a-tournament/tiers-and-tiering | Marco de torneos NAF (vigente). |
-
-Se **excluyen** de esta lista blogs, wikis y agregadores que no se limiten a BB2025/3ª temporada o que mezclen ediciones (p. ej. análisis Eurobowl sin variante/año claro).
+No usar como autoridad blogs o agregadores que mezclen ediciones sin etiquetar BB2025.
 
 ---
 
 ## Uso para el agente
 
 - **Roster y reglas:** `source/reglamento/reglamento-bb3-season3.pdf` + `source/teams/[equipo].md` (datos alineados a Nuffle **2025**) + reglamento del torneo.
-- **Tendencias / meta:** solo NAF u otros datos con **año 2025** y variante **BB2025** explícitos.
-- **Torneos #euro26:** `source/tiers/eurobowl-2026.md`. El sistema `skill-pack.md` es **legado** salvo que el evento lo cite.
+- **Habilidades (nombres y resúmenes BB2025):** `source/habilidades/` (tablas alineadas a [Nuffle Zone — Habilidades](https://nufflezone.com/habilidades-blood-bowl/) · bloque 3ª temporada); índice en [`source/index.md#habilidades`](index.md#habilidades).
+- **Listas guardadas en el repo:** `rosters/` (convención y lista en `rosters/README.md`); plantilla nueva lista: [`source/plantilla-roster.md`](plantilla-roster.md).
+- **Tendencias / meta:** NAF u otros datos solo con **año** y variante **BB2025** acotados en la fuente; no mezclar series viejas.
+- **Torneos #euro26:** `source/tiers/eurobowl-2026.md` (y [`source/tiers/README.md`](tiers/README.md)).
