@@ -19,6 +19,8 @@ Fuente: [Nuffle Zone — Nigromantes](https://nufflezone.com/equipos-blood-bowl/
 - **Reglas especiales:** Señores de los No Muertos  
 - **Liga:** Selectiva de Sylvania  
 
+*En inglés del builder GW: **Necromantic Horror** = **Nigromantes (Horror Nigromántico)**; **Sylvanian Spotlight** = **Selectiva de Sylvania**; **Masters of Undeath** = **Señores de los No Muertos**; **Flesh Golem** = **Gólem de Carne**; **Ghoul Runner** = **Ghoul**; **Zombie Lineman** = **Zombie Línea**; **Eye Gouge** = **Piquete de Ojos**; **Stand Firm** = **Mantenerse Firme**; **Thick Skull** = **Cabeza Dura**; **Foul Appearance** = **Apariencia Asquerosa**; **No Ball** = **Sin Manos**; **Sidestep** = **Echarse a un Lado**.*
+
 ## Descripción oficial de las habilidades
 
 * **Apariencia Asquerosa (Foul Appearance) — incl.:** Rival que vaya a placarlo o a usar acción especial contra él: 1D6; con 1 la acción se cancela y termina la activación del rival.

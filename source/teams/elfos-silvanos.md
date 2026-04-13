@@ -18,6 +18,8 @@ Fuente: [Nuffle Zone — Elfos Silvanos](https://nufflezone.com/equipos-blood-bo
 - **Apotecario:** Sí  
 - **Ligas:** Liga de los Reinos Élficos, Liga del Bosque  
 
+*En inglés del builder GW: **Elven Kingdom League** = **Liga de los Reinos Élficos**.*
+
 ## Descripción oficial de las habilidades
 
 * **Atrapar (Catch) — incl.:** Puede repetir chequeo de AG fallido al atrapar el balón.

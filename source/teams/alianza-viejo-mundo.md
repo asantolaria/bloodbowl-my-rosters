@@ -24,6 +24,8 @@ Fuente: [Nuffle Zone — Alianza del Viejo Mundo](https://nufflezone.com/equipos
 - **Apotecario:** Sí  
 - **Reglas especiales:** Clásica del Viejo Mundo  
 
+*En inglés del builder GW: **Old World Classic** = **Clásica del Viejo Mundo**; **Altern Forest Treeman** = **Hombre-Árbol**; **Dwarf Lineman** (70k) = posición **Enano Blocker** en esta tabla.*
+
 ## Descripción oficial de las habilidades
 
 * **Agallas (Dauntless) — incl.:** Al placar a rival con más FU: 1D6+FU de este jugador; si total > FU rival, este jugador cuenta con FU igual al rival para ese placaje.

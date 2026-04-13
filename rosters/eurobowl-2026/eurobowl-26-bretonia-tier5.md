@@ -23,27 +23,28 @@
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Caballero del Grial | 95k | 7 | 3 | 3+ | 4+ | 10+ | Agallas, Equilibrio firme, Placar |
-| 2 | ____ | Caballero del Grial | 95k | 7 | 3 | 3+ | 4+ | 10+ | Agallas, Equilibrio firme, Placar |
-| 3 | ____ | Caballero del Grial | 95k | 7 | 3 | 3+ | 4+ | 10+ | Agallas, Equilibrio firme, Placar |
-| 4 | ____ | Caballero del Grial | 95k | 7 | 3 | 3+ | 4+ | 10+ | Agallas, Equilibrio firme, Placar |
-| 5 | ____ | Caballero Receptor | 85k | 7 | 3 | 3+ | 4+ | 9+ | Agallas, Atrapar, … |
-| 6 | ____ | Caballero Receptor | 85k | 7 | 3 | 3+ | 4+ | 9+ | Agallas, Atrapar, … |
-| 7 | ____ | Caballero Lanzador | 80k | 6 | 3 | 3+ | 3+ | 9+ | Agallas, Pasar, … |
-| 8 | ____ | Caballero Lanzador | 80k | 6 | 3 | 3+ | 3+ | 9+ | Agallas, Pasar, … |
-| 9 | ____ | Escuderos | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
-| 10 | ____ | Escuderos | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
-| 11 | ____ | Escuderos | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
-| 12 | ____ | Escuderos | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
+| 1 | ____ | Caballero del Grial | 95k | 7 | 3 | 3+ | 4+ | 10+ | Agallas, Equilibrio Firme, Placar |
+| 2 | ____ | Caballero del Grial | 95k | 7 | 3 | 3+ | 4+ | 10+ | Agallas, Equilibrio Firme, Placar |
+| 3 | ____ | Caballero Receptor | 85k | 7 | 3 | 3+ | 4+ | 9+ | Agallas, Atrapar, Nervios de Acero |
+| 4 | ____ | Caballero Receptor | 85k | 7 | 3 | 3+ | 4+ | 9+ | Agallas, Atrapar, Nervios de Acero |
+| 5 | ____ | Caballero Lanzador | 80k | 6 | 3 | 3+ | 3+ | 9+ | Agallas, Pasar, Nervios de Acero |
+| 6 | ____ | Caballero Lanzador | 80k | 6 | 3 | 3+ | 3+ | 9+ | Agallas, Pasar, Nervios de Acero |
+| 7 | ____ | Escudero | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
+| 8 | ____ | Escudero | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
+| 9 | ____ | Escudero | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
+| 10 | ____ | Escudero | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
+| 11 | ____ | Escudero | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
+| 12 | ____ | Escudero | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
+| 13 | ____ | Escudero | 50k | 6 | 3 | 3+ | 4+ | 8+ | Forcejear |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1120k gp
+**Total jugadores:** 13 | **Presupuesto equipo usado:** 1120k gp
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 910k) | 910.000 |
-| Rerolls (3 × 60.000) | 180.000 |
+| Jugadores (total 870k) | 870.000 |
+| Rerolls (4 × 60.000) | 240.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (3 × 10.000) | 30.000 |
+| Fans dedicados (1 × 10.000) | 10.000 |
 | **Total** | **1.120.000** |
 
 ## Skill Gold — avances (ejemplo editable)

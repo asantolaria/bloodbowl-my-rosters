@@ -19,22 +19,22 @@
 
 ## Alineación (gasto de presupuesto de equipo)
 
-*Sin avances de Skill Gold. Rellenar nombres. Plantilla **Orcos Negros** (no orcos clásicos): 1 Troll + 6 Orcos Negros + 5 Goblin Bruiser = **880k**. **Dorsales:** Orcos Negros **3–8**, Goblins **9–13** aquí (bloque **9–14** si fichas un 6.º Goblin), Troll **20**. Stats: [`source/teams/orcos-negros.md`](../../source/teams/orcos-negros.md).*
+*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
+| 1 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
+| 2 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
 | 3 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
 | 4 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
 | 5 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
 | 6 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
-| 7 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
-| 8 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar |
+| 7 | ____ | Troll adiestrado | 115k | 4 | 5 | 5+ | 5+ | 10+ | Siempre Hambriento, Solitario (3+), GM (+1), Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero |
+| 8 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
 | 9 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
 | 10 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
 | 11 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
 | 12 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
-| 13 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
-| 20 | ____ | Troll Adiestrado | 115k | 4 | 5 | 5+ | 5+ | 10+ | Siempre Hambriento, Solitario (3+), Golpe Mortífero (+1), Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero |
 
 **Total jugadores:** 12 | **Presupuesto equipo usado:** 1120k gp
 

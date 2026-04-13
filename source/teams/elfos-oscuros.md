@@ -18,6 +18,8 @@ Fuente: [Nuffle Zone — Elfos Oscuros](https://nufflezone.com/equipos-blood-bow
 - **Apotecario:** Sí  
 - **Reglas especiales:** Liga de los Reinos Élficos  
 
+*En inglés del builder GW: **Elven Kingdom League** = **Liga de los Reinos Élficos**; **Witch Elf** = **Bruja Elfa**; **Dark Elf Blitzer** = **Elfo Oscuro Blitzer**; **Dark Elf Assassin** = **Elfo Oscuro Asesino**; **Dark Elf Runner** = **Elfo Oscuro Runner**; **Dark Elf Lineman** = **Elfo Oscuro Línea**.*
+
 ## Descripción oficial de las habilidades
 
 * **Apuñalar (Stab) — incl.:** Acción especial: tirada de Armadura no modificada contra rival en pie adyacente; si rompe, tirada de Heridas. Puede reemplazar el Placaje de una Penetración.

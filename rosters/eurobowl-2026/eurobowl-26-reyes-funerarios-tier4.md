@@ -23,27 +23,26 @@
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Momia de Reyes Funerarios | 110k | 3 | 5 | 5+ | 6+ | 10+ | GM, … |
-| 2 | ____ | Blitzer de Reyes Funerarios | 90k | 6 | 3 | 3+ | 4+ | 9+ | Placar, Regeneración |
-| 3 | ____ | Blitzer de Reyes Funerarios | 90k | 6 | 3 | 3+ | 4+ | 9+ | Placar, Regeneración |
-| 4 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, … |
-| 5 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, … |
-| 6 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, … |
-| 7 | ____ | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, … |
-| 8 | ____ | Thrower de Reyes Funerarios | 70k | 6 | 3 | 3+ | 3+ | 9+ | Pasar, … |
-| 9 | ____ | Esqueleto de Reyes Funerarios Línea | 40k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración |
-| 10 | ____ | Esqueleto de Reyes Funerarios Línea | 40k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración |
-| 11 | ____ | Esqueleto de Reyes Funerarios Línea | 40k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración |
-| 12 | ____ | Esqueleto de Reyes Funerarios Línea | 40k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración |
+| 1 | ____ | Guardián de tumbas | 115k | 4 | 5 | 5+ | 6+ | 10+ | Descomposición, Luchador, Regeneración |
+| 2 | ____ | Guardián de tumbas | 115k | 4 | 5 | 5+ | 6+ | 10+ | Descomposición, Luchador, Regeneración |
+| 3 | ____ | Guardián de tumbas | 115k | 4 | 5 | 5+ | 6+ | 10+ | Descomposición, Luchador, Regeneración |
+| 4 | ____ | Guardián de tumbas | 115k | 4 | 5 | 5+ | 6+ | 10+ | Descomposición, Luchador, Regeneración |
+| 5 | ____ | Blitzer de Rey Funerario | 85k | 6 | 3 | 4+ | 5+ | 9+ | Placar, Regeneración, Cabeza Dura |
+| 6 | ____ | Blitzer de Rey Funerario | 85k | 6 | 3 | 4+ | 5+ | 9+ | Placar, Regeneración, Cabeza Dura |
+| 7 | ____ | Lanzador de Rey Funerario | 65k | 6 | 3 | 4+ | 3+ | 9+ | Pasar, Regeneración, Manos Seguras, Cabeza Dura |
+| 8 | ____ | Lanzador de Rey Funerario | 65k | 6 | 3 | 4+ | 3+ | 9+ | Pasar, Regeneración, Manos Seguras, Cabeza Dura |
+| 9 | ____ | Esqueleto Línea | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza Dura |
+| 10 | ____ | Esqueleto Línea | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza Dura |
+| 11 | ____ | Esqueleto Línea | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza Dura |
+| 12 | ____ | Esqueleto Línea | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza Dura |
 
 **Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k gp
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 800k) | 800.000 |
-| Rerolls (4 × 70.000) | 280.000 |
+| Jugadores (total 920k) | 920.000 |
+| Rerolls (3 × 60.000) | 180.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (2 × 10.000) | 20.000 |
 | **Total** | **1.100.000** |
 
 ## Skill Gold — avances (ejemplo editable)

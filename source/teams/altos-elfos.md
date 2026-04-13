@@ -18,6 +18,8 @@
 - **Apotecario:** Sí  
 - **Reglas especiales:** Liga de los Reinos Élficos  
 
+*En inglés del builder GW: **Elven Kingdom League** = **Liga de los Reinos Élficos**; **Dragon Prince** = **Alto Elfo Dragon Warrior**; **White Lion** = **Alto Elfo White Lion Blitzer**; **Phoenix Warrior** = **Alto Elfo Phoenix Prince Thrower**; **High Elf Lineman** = **Alto Elfo Línea**.*
+
 ## Descripción oficial de las habilidades
 
 * **Atrapar (Catch) — incl.:** Puede repetir chequeo de AG fallido al atrapar el balón.

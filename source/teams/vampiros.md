@@ -2,20 +2,24 @@
 
 ![Vampiros](../images/equipos/vampiros.webp)
 
-Fuente: [Nuffle Zone — Vampiros](https://nufflezone.com/equipos-blood-bowl/vampiros/)
+Fuente: [Nuffle Zone — Vampiros](https://nufflezone.com/equipos-blood-bowl/vampiros/) (página en evolución; la tabla siguiente se volcó desde **captura de builder** EuroBowl / lista **Vampire** GW hasta alinear con Nuffle oficial).
 
-## Roster 2025
+## Roster 2025 (desde captura builder; validar con PDF GW / Nuffle)
 
-**Nota:** La página de Nuffle Zone actualmente solo muestra contenido de pre-pedido (Drakfang Thirsters, Vargheist, jugadores estrella Sylvanian Spotlight) y **no incluye la tabla de roster oficial** (posiciones, costes, MA, FU, AG, PA, AR, habilidades). Cuando la web publique el roster, completar esta ficha desde ahí.
+| CTD | Posición | Coste | MA | FU | AG | PA | AR | Habilidades (resumen) | Pri | Sec |
+|-----|----------|-------|----|----|----|----|-----|------------------------|-----|-----|
+| 0-12 | Siervo Línea (Thrall Lineman) | 40k | 6 | 3 | 3+ | 4+ | 8+ | — | G | AD |
+| 0-2 | Vampiro Blitzer | 110k | 6 | 4 | 2+ | 4+ | 9+ | Ansia de Sangre (3+), Imparable, Mirada Hipnótica, Regeneración | AG | PF |
+| 0-2 | Vampiro Lanzador | 110k | 6 | 4 | 2+ | 2+ | 9+ | Ansia de Sangre (2+), Mirada Hipnótica, Pasar, Regeneración | AGP | F |
+| 0-2 | Vampiro Runner | 100k | 8 | 3 | 2+ | 3+ | 8+ | Ansia de Sangre (2+), Mirada Hipnótica, Regeneración | AG | PF |
 
-| CTD | Posición | Coste | MA | FU | AG | PA | AR | Habilidades | Pri | Sec |
-|-----|----------|-------|----|----|----|----|-----|-------------|-----|-----|
-| *(pendiente de Nuffle Zone)* |
+- **Rerolls:** 60k *(cuadra con captura EuroBowl 3×RR + plantilla 920k → 1100k TV; validar en PDF GW.)*  
+- **Apotecario:** No (**Señores de los No Muertos**)  
+- **Reglas especiales:** Señores de los No Muertos  
+- **Liga:** Selectiva de Sylvania  
 
-- **Rerolls:** —k  
-- **Apotecario:** —  
-- **Liga:** Sylvanian Spotlight (Selectiva de Sylvania)  
+*En inglés del builder GW: **Vampire** = **Vampiros**; **Thrall Lineman** = **Siervo Línea**; **Sylvanian Spotlight** = **Selectiva de Sylvania**; **Masters of Undeath** = **Señores de los No Muertos**; **Bloodlust** = **Ansia de Sangre**; **Hypnotic Gaze** = **Mirada Hipnótica**; **Juggernaut** = **Imparable**.*
 
 ## Descripción oficial de las habilidades
 
-*(Pendiente de completar cuando Nuffle Zone publique el roster de Vampiros.)*
+*(Completar definiciones desde el reglamento GW Season 3 / Nuffle cuando el roster oficial esté publicado en la ficha Nuffle.)*

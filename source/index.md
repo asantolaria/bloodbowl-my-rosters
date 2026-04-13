@@ -37,7 +37,7 @@ Navegación unificada de equipos, habilidades, jugadores estrella y tablas. Fuen
 | Ogros | [ogros.md](teams/ogros.md) | https://nufflezone.com/equipos-blood-bowl/ogros/ |
 | Orcos | [orcos.md](teams/orcos.md) | https://nufflezone.com/equipos-blood-bowl/orcos/ |
 | Orcos Negros | [orcos-negros.md](teams/orcos-negros.md) | https://nufflezone.com/equipos-blood-bowl/orcos-negros/ |
-| Renegados del Caos | [renegados-del-caos.md](teams/renegados-del-caos.md) | https://nufflezone.com/equipos-blood-bowl/renegados-del-caos/ |
+| Renegados del Caos | [renegados-del-caos.md](teams/renegados-del-caos.md) | https://nufflezone.com/en/blood-bowl-teams/chaos-renegade/ |
 | Reyes Funerarios | [reyes-funerarios.md](teams/reyes-funerarios.md) | https://nufflezone.com/equipos-blood-bowl/reyes-funerarios/ |
 | Skavens | [skavens.md](teams/skavens.md) | https://nufflezone.com/equipos-blood-bowl/skavens/ |
 | Slaanesh | [slaanesh.md](teams/slaanesh.md) | https://nufflezone.com/equipos-blood-bowl/slaanesh/ |

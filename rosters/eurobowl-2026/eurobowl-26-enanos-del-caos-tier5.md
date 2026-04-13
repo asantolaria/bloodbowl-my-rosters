@@ -23,27 +23,25 @@
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Minotauro Esclavizado | 150k | 5 | 5 | 4+ | 6+ | 9+ | Furia, GM, … |
-| 2 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, … |
-| 3 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, … |
-| 4 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, … |
-| 5 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, … |
-| 6 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, … |
-| 7 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Aliento de fuego, … |
-| 8 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Aliento de fuego, … |
-| 9 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – |
-| 10 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – |
-| 11 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – |
-| 12 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – |
+| 1 | ____ | Minotauro esclavizado | 150k | 5 | 5 | 4+ | 6+ | 9+ | Furia, Cuernos, Solitario (4+), GM (+1), Cabeza Dura, Ira Descontrolada |
+| 2 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, Equilibrio Firme, Cabeza Dura |
+| 3 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, Equilibrio Firme, Cabeza Dura |
+| 4 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, Cabeza Dura |
+| 5 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, Cabeza Dura |
+| 6 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, Cabeza Dura |
+| 7 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel Ferrea, Cabeza Dura |
+| 8 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Peleón, Aliento de Fuego, Presencia Perturbadora, Cabeza Dura |
+| 9 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Peleón, Aliento de Fuego, Presencia Perturbadora, Cabeza Dura |
+| 10 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | — |
+| 11 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | — |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1120k gp
+**Total jugadores:** 11 | **Presupuesto equipo usado:** 1120k gp
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 880k) | 880.000 |
-| Rerolls (3 × 70.000) | 210.000 |
-| Apotecario | No (lista del equipo) |
-| Fans dedicados (3 × 10.000) | 30.000 |
+| Jugadores (total 930k) | 930.000 |
+| Rerolls (2 × 70.000) | 140.000 |
+| Apotecario | 50.000 |
 | **Total** | **1.120.000** |
 
 ## Skill Gold — avances (ejemplo editable)

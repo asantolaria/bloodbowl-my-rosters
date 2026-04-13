@@ -20,6 +20,8 @@ Fuente: [Nuffle Zone — Orcos](https://nufflezone.com/equipos-blood-bowl/orcos/
 - **Reglas especiales:** Brutos Peleones, Capitán del Equipo  
 - **Liga:** Reyerta en las Yermas  
 
+*En inglés del builder GW: **Badlands Brawl** = **Reyerta en las Yermas**; **Brawlin’ Brutes** = **Brutos Peleones**; **Team Captain** = **Capitán del Equipo**; **Orc Lineman** = **Orco Línea**; **Orc Thrower** = **Orco Lanzador**; **Orc Blitzer** = **Orco Blitzer**; **Goblin Lineman** = **Goblin**.*
+
 ## Descripción oficial de las habilidades
 
 * **Abrirse Paso (Break Tackle) — incl.:** Una vez por turno, al esquivar: +1 AG si ST≤3, +2 si ST=4, +3 si ST≥5.

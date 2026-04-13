@@ -2,7 +2,7 @@
 
 ![Renegados del Caos](../../source/images/equipos/renegados-del-caos.webp)
 
-> **Plantilla:** La ficha `source/teams/renegados-del-caos.md` está pendiente de roster oficial; construir desde GW / NAF y validar con el reglamento EuroBowl.
+> **Plantilla:** Roster 2025 en `source/teams/renegados-del-caos.md` (Nuffle EN); validar costes con PDF GW / pack #euro26.
 >
 > Reglamento: [eurobowl-2026.md](../../source/tiers/eurobowl-2026.md).
 >

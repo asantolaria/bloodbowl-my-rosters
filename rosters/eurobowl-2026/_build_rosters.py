@@ -138,6 +138,7 @@ def emit(team: dict) -> str:
 
 
 TEAMS: list[dict] = [
+    # Roster EuroBowl en `eurobowl-26-elfos-silvanos-tier1.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "elfos-silvanos",
         "name": "Elfos Silvanos",
@@ -145,20 +146,18 @@ TEAMS: list[dict] = [
         "img": "elfos-silvanos",
         "rr": 50,
         "rows": [
-            ("Loren Forest Treeman", 120, 2, 6, "5+", "5+", "11+", "GM, MF, …"),
             ("Wardancer", 130, 8, 3, "2+", "3+", "8+", "Placar, Esquivar, Saltar"),
-            ("Elfo Silvano Thrower", 85, 7, 3, "2+", "2+", "8+", "Pasar, Proteger el cuero"),
-            ("Elfo Silvano Thrower", 85, 7, 3, "2+", "2+", "8+", "Pasar, Proteger el cuero"),
+            ("Wardancer", 130, 8, 3, "2+", "3+", "8+", "Placar, Esquivar, Saltar"),
             ("Elfo Silvano Catcher", 90, 8, 2, "2+", "3+", "8+", "Atrapar, Esprintar, Esquivar"),
             ("Elfo Silvano Catcher", 90, 8, 2, "2+", "3+", "8+", "Atrapar, Esprintar, Esquivar"),
-            ("Elfo Silvano Línea", 65, 7, 3, "2+", "3+", "8+", "–"),
-            ("Elfo Silvano Línea", 65, 7, 3, "2+", "3+", "8+", "–"),
-            ("Elfo Silvano Línea", 65, 7, 3, "2+", "3+", "8+", "–"),
-            ("Elfo Silvano Línea", 65, 7, 3, "2+", "3+", "8+", "–"),
-            ("Elfo Silvano Línea", 65, 7, 3, "2+", "3+", "8+", "–"),
-            ("Elfo Silvano Línea", 65, 7, 3, "2+", "3+", "8+", "–"),
+            ("Elfo Silvano Thrower", 85, 7, 3, "2+", "2+", "8+", "Pasar, Proteger el cuero"),
+            *[
+                ("Elfo Silvano Línea", 65, 7, 3, "2+", "3+", "8+", "—")
+                for _ in range(6)
+            ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-alianza-viejo-mundo-tier1.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "alianza-viejo-mundo",
         "name": "Alianza del Viejo Mundo",
@@ -166,21 +165,58 @@ TEAMS: list[dict] = [
         "img": "alianza-viejo-mundo",
         "rr": 70,
         "rows": [
-            ("Hombre Árbol", 120, 2, 6, "5+", "5+", "11+", "GM, …"),
-            ("Ogro", 140, 5, 5, "4+", "5+", "10+", "Estúpido, GM, …"),
-            ("Enano Blocker", 70, 4, 3, "4+", "5+", "10+", "Cabeza dura, Placar, …"),
-            ("Enano Blocker", 70, 4, 3, "4+", "5+", "10+", "Cabeza dura, Placar, …"),
-            ("Humano Blitzer", 85, 7, 3, "3+", "4+", "9+", "Placaje def., Placar"),
-            ("Humano Blitzer", 85, 7, 3, "3+", "4+", "9+", "Placaje def., Placar"),
-            ("Humano Thrower", 75, 6, 3, "3+", "3+", "9+", "Manos seguras, Pasar"),
+            (
+                "Hombre-Árbol",
+                120,
+                2,
+                6,
+                "5+",
+                "5+",
+                "11+",
+                "GM (+1), Mantenerse Firme, Brazo Fuerte, Echar Raíces, Cabeza Dura, Lanzar compañero, ¡Tronco va!",
+            ),
+            (
+                "Enano Blitzer",
+                100,
+                5,
+                3,
+                "4+",
+                "4+",
+                "10+",
+                "Placar, Placaje Heroico, Placaje Defensivo, Cabeza Dura",
+            ),
+            (
+                "Humano Blitzer",
+                85,
+                7,
+                3,
+                "3+",
+                "4+",
+                "9+",
+                "Placar, Placaje Defensivo",
+            ),
+            *[
+                (
+                    "Enano Blocker",
+                    70,
+                    4,
+                    3,
+                    "4+",
+                    "5+",
+                    "10+",
+                    "Placar, Romper Defensas, Cabeza Dura",
+                )
+                for _ in range(3)
+            ],
             ("Humano Catcher", 75, 8, 3, "3+", "4+", "8+", "Atrapar, Esquivar"),
-            ("Humano Línea", 50, 6, 3, "3+", "4+", "9+", "–"),
-            ("Humano Línea", 50, 6, 3, "3+", "4+", "9+", "–"),
-            ("Humano Línea", 50, 6, 3, "3+", "4+", "9+", "–"),
-            ("Humano Línea", 50, 6, 3, "3+", "4+", "9+", "–"),
-            ("Humano Línea", 50, 6, 3, "3+", "4+", "9+", "–"),
+            ("Humano Thrower", 75, 6, 3, "3+", "3+", "9+", "Manos Seguras, Pasar"),
+            *[
+                ("Humano Línea", 50, 6, 3, "3+", "4+", "9+", "—")
+                for _ in range(4)
+            ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-amazonas-tier2.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "amazonas",
         "name": "Amazonas",
@@ -190,16 +226,25 @@ TEAMS: list[dict] = [
         "rows": [
             ("Guerrera Jaguar Blocker", 110, 6, 4, "3+", "4+", "9+", "Esquivar, Romper Defensas"),
             ("Guerrera Jaguar Blocker", 110, 6, 4, "3+", "4+", "9+", "Esquivar, Romper Defensas"),
-            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Golpe a la Carrera, …"),
-            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Golpe a la Carrera, …"),
-            ("Guerrera Pitón Thrower", 80, 6, 3, "3+", "3+", "8+", "Pasar, Pase seguro, …"),
-            ("Guerrera Pitón Thrower", 80, 6, 3, "3+", "3+", "8+", "Pasar, Pase seguro, …"),
+            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Esquivar, Golpe a la Carrera, En Pie de un Salto"),
+            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Esquivar, Golpe a la Carrera, En Pie de un Salto"),
+            (
+                "Guerrera Pitón Thrower",
+                80,
+                6,
+                3,
+                "3+",
+                "3+",
+                "8+",
+                "Atento al Balón, Esquivar, Pasar, Pase Seguro",
+            ),
             *[
                 ("Guerrera Águila Línea", 50, 6, 3, "3+", "4+", "8+", "Esquivar")
-                for _ in range(6)
+                for _ in range(8)
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-orcos-tier2.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "orcos",
         "name": "Orcos",
@@ -207,18 +252,54 @@ TEAMS: list[dict] = [
         "img": "orcos",
         "rr": 60,
         "rows": [
-            ("Troll", 115, 4, 5, "5+", "5+", "10+", "Hambriento, GM, …"),
-            ("Big Un Blocker", 95, 5, 4, "4+", "6+", "10+", "Cabeza dura, GM, …"),
-            ("Big Un Blocker", 95, 5, 4, "4+", "6+", "10+", "Cabeza dura, GM, …"),
-            ("Orco Blitzer", 85, 6, 3, "3+", "4+", "10+", "Abrirse paso, Placar"),
-            ("Orco Blitzer", 85, 6, 3, "3+", "4+", "10+", "Abrirse paso, Placar"),
-            ("Orco Lanzador", 75, 6, 3, "3+", "3+", "9+", "Pasar, Manos seguras"),
-            ("Goblin", 40, 6, 2, "3+", "3+", "8+", "Esquivar, Escurridizo, …"),
-            ("Goblin", 40, 6, 2, "3+", "3+", "8+", "Esquivar, Escurridizo, …"),
+            (
+                "Troll",
+                115,
+                4,
+                5,
+                "5+",
+                "5+",
+                "10+",
+                "Siempre Hambriento, Solitario (4+), Golpe Mortífero, Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero",
+            ),
+            (
+                "Big Un Blocker",
+                95,
+                5,
+                4,
+                "4+",
+                "6+",
+                "10+",
+                "Cabeza Dura, Golpe Mortífero, Provocar, Inestable",
+            ),
+            (
+                "Big Un Blocker",
+                95,
+                5,
+                4,
+                "4+",
+                "6+",
+                "10+",
+                "Cabeza Dura, Golpe Mortífero, Provocar, Inestable",
+            ),
+            ("Orco Blitzer", 85, 6, 3, "3+", "4+", "10+", "Abrirse Paso, Placar"),
+            ("Orco Blitzer", 85, 6, 3, "3+", "4+", "10+", "Abrirse Paso, Placar"),
+            ("Orco Lanzador", 75, 6, 3, "3+", "3+", "9+", "Pasar, Manos Seguras"),
+            ("Orco Lanzador", 75, 6, 3, "3+", "3+", "9+", "Pasar, Manos Seguras"),
             *[
                 ("Orco Línea", 50, 5, 3, "3+", "4+", "10+", "–")
-                for _ in range(6)
+                for _ in range(4)
             ],
+            (
+                "Goblin",
+                40,
+                6,
+                2,
+                "3+",
+                "3+",
+                "8+",
+                "Esquivar, Humanoide Bala, Escurridizo",
+            ),
         ],
     },
     {
@@ -262,6 +343,7 @@ TEAMS: list[dict] = [
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-habitantes-inframundo-tier2.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "habitantes-inframundo",
         "name": "Habitantes del Inframundo",
@@ -269,21 +351,88 @@ TEAMS: list[dict] = [
         "img": "habitantes-inframundo",
         "rr": 50,
         "rows": [
-            ("Rata Ogro", 150, 6, 5, "4+", "–", "9+", "Ferocidad animal, …"),
-            ("Blitzer", 90, 7, 3, "3+", "4+", "9+", "Placar, Robar balón"),
-            ("Blitzer", 90, 7, 3, "3+", "4+", "9+", "Placar, Robar balón"),
+            (
+                "Rata Ogro",
+                150,
+                6,
+                5,
+                "4+",
+                "6+",
+                "9+",
+                "Ferocidad Animal, Furia, Golpe Mortífero, Cola Prensil, Solitario (4+)",
+            ),
+            (
+                "Gutter Runner",
+                85,
+                9,
+                2,
+                "2+",
+                "4+",
+                "8+",
+                "Animosidad (Goblin), Apuñalar, Esquivar",
+            ),
+            (
+                "Blitzer skaven",
+                90,
+                8,
+                3,
+                "3+",
+                "4+",
+                "9+",
+                "Animosidad (Goblin), Placar, Robar Balón",
+            ),
             *[
-                ("Gutter Runner", 85, 9, 2, "2+", "4+", "8+", "Apuñalar, Esquivar")
-                for _ in range(2)
+                (
+                    "Clanrat skaven",
+                    50,
+                    7,
+                    3,
+                    "3+",
+                    "4+",
+                    "8+",
+                    "Animosidad (Goblin)",
+                )
+                for _ in range(3)
             ],
-            ("Thrower", 80, 6, 3, "3+", "2+", "8+", "Manos seguras, Pasar"),
-            ("Mutante", 85, 6, 3, "3+", "4+", "8+", "Mutación aleatoria"),
+            (
+                "Lanzador skaven",
+                80,
+                7,
+                3,
+                "3+",
+                "2+",
+                "8+",
+                "Animosidad (Goblin), Manos Seguras, Pasar",
+            ),
             *[
-                ("Linemen", 50, 6, 3, "3+", "4+", "8+", "–")
-                for _ in range(6)
+                (
+                    "Goblin",
+                    40,
+                    6,
+                    2,
+                    "3+",
+                    "4+",
+                    "8+",
+                    "Esquivar, Humanoide Bala, Escurridizo",
+                )
+                for _ in range(5)
+            ],
+            *[
+                (
+                    "Snotling",
+                    15,
+                    5,
+                    1,
+                    "3+",
+                    "4+",
+                    "6+",
+                    "Canijo, Esquivar, Echarse a un Lado, Escurridizo, Humanoide Bala, Insignificante",
+                )
+                for _ in range(3)
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-elfos-oscuros-tier3.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "elfos-oscuros",
         "name": "Elfos Oscuros",
@@ -291,21 +440,50 @@ TEAMS: list[dict] = [
         "img": "elfos-oscuros",
         "rr": 50,
         "rows": [
-            ("Elfo Oscuro Asesino", 90, 7, 3, "2+", "4+", "8+", "Apuñalar, Golpe a la Carrera, …"),
+            *[
+                (
+                    "Bruja Elfa",
+                    110,
+                    7,
+                    3,
+                    "2+",
+                    "4+",
+                    "8+",
+                    "En Pie de un Salto, Esquivar, Furia",
+                )
+                for _ in range(2)
+            ],
             *[
                 ("Elfo Oscuro Blitzer", 105, 7, 3, "2+", "3+", "9+", "Placar")
                 for _ in range(2)
             ],
-            *[
-                ("Elfo Oscuro Runner", 80, 7, 3, "2+", "3+", "8+", "Pase precipitado, …")
-                for _ in range(2)
-            ],
+            (
+                "Elfo Oscuro Asesino",
+                90,
+                7,
+                3,
+                "2+",
+                "4+",
+                "8+",
+                "Apuñalar, Golpe a la Carrera, Perseguir",
+            ),
+            (
+                "Elfo Oscuro Runner",
+                80,
+                7,
+                3,
+                "2+",
+                "3+",
+                "8+",
+                "Pase Precipitado, Patada de Despeje",
+            ),
             *[
                 ("Elfo Oscuro Línea", 65, 6, 3, "2+", "3+", "9+", "–")
-                for _ in range(7)
+                for _ in range(5)
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-altos-elfos-tier3.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "altos-elfos",
         "name": "Altos Elfos",
@@ -314,20 +492,39 @@ TEAMS: list[dict] = [
         "rr": 50,
         "rows": [
             *[
-                ("White Lion Blitzer", 110, 7, 3, "2+", "3+", "9+", "Forcejear, Garras")
+                (
+                    "Alto Elfo Dragon Warrior",
+                    110,
+                    8,
+                    3,
+                    "2+",
+                    "4+",
+                    "9+",
+                    "El Balón es Mío, Equilibrio Firme, Placar",
+                )
                 for _ in range(2)
             ],
-            ("Dragon Warrior", 110, 8, 3, "2+", "4+", "9+", "Mi balón, Equilibrio firme, Placar"),
             *[
-                ("Phoenix Prince Thrower", 90, 6, 3, "2+", "2+", "9+", "Partenubes, Pasar, …")
+                ("Alto Elfo White Lion Blitzer", 110, 7, 3, "2+", "3+", "9+", "Forcejear, Garras")
                 for _ in range(2)
             ],
+            (
+                "Alto Elfo Phoenix Prince Thrower",
+                90,
+                6,
+                3,
+                "2+",
+                "2+",
+                "9+",
+                "Partenubes, Pasar, Pase Seguro",
+            ),
             *[
                 ("Alto Elfo Línea", 65, 6, 3, "2+", "3+", "9+", "–")
-                for _ in range(7)
+                for _ in range(6)
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-humanos-tier3.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "humanos",
         "name": "Humanos",
@@ -335,20 +532,48 @@ TEAMS: list[dict] = [
         "img": "humanos",
         "rr": 50,
         "rows": [
-            ("Ogre", 140, 5, 5, "4+", "5+", "10+", "Estúpido, GM, …"),
+            (
+                "Ogro",
+                140,
+                5,
+                5,
+                "4+",
+                "5+",
+                "10+",
+                "Estúpido, Solitario (3+), Golpe Mortífero, Cabeza Dura, Lanzar Compañero",
+            ),
             *[
-                ("Blitzer", 85, 7, 3, "3+", "4+", "9+", "Placar, Placaje def.")
-                for _ in range(3)
+                (
+                    "Blitzer",
+                    85,
+                    7,
+                    3,
+                    "3+",
+                    "4+",
+                    "9+",
+                    "Placar, Placaje Defensivo",
+                )
+                for _ in range(2)
             ],
             *[
                 ("Catcher", 75, 8, 3, "3+", "4+", "8+", "Atrapar, Esquivar")
                 for _ in range(2)
             ],
-            ("Thrower", 75, 6, 3, "3+", "3+", "9+", "Manos seguras, Pasar"),
+            ("Thrower", 75, 6, 3, "3+", "3+", "9+", "Manos Seguras, Pasar"),
             *[
                 ("Línea", 50, 6, 3, "3+", "4+", "9+", "–")
-                for _ in range(5)
+                for _ in range(6)
             ],
+            (
+                "Halfling",
+                30,
+                5,
+                2,
+                "3+",
+                "4+",
+                "7+",
+                "Esquivar, Humanoide Bala, Escurridizo",
+            ),
         ],
     },
     {
@@ -369,6 +594,7 @@ TEAMS: list[dict] = [
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-nigromantes-tier3.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "nigromantes",
         "name": "Nigromantes",
@@ -377,11 +603,33 @@ TEAMS: list[dict] = [
         "rr": 70,
         "rows": [
             *[
-                ("Flesh Golem", 110, 4, 4, "4+", "6+", "10+", "Cabeza dura, Inestable, …")
+                (
+                    "Gólem de Carne",
+                    110,
+                    4,
+                    4,
+                    "4+",
+                    "6+",
+                    "10+",
+                    "Cabeza Dura, Inestable, Mantenerse Firme, Regeneración",
+                )
                 for _ in range(2)
             ],
             *[
-                ("Werewolf", 120, 8, 3, "3+", "3+", "9+", "Garras, Furia, …")
+                (
+                    "Wraith",
+                    85,
+                    6,
+                    3,
+                    "3+",
+                    "–",
+                    "9+",
+                    "Apariencia Asquerosa, Echarse a un Lado, Placar, Regeneración, Sin Manos",
+                )
+                for _ in range(2)
+            ],
+            *[
+                ("Hombre Lobo", 120, 8, 3, "3+", "3+", "9+", "Furia, Garras, Regeneración")
                 for _ in range(2)
             ],
             *[
@@ -389,11 +637,16 @@ TEAMS: list[dict] = [
                 for _ in range(2)
             ],
             *[
-                ("Wraith", 85, 6, 3, "3+", "–", "9+", "Placar, …")
-                for _ in range(2)
-            ],
-            *[
-                ("Zombie Línea", 40, 4, 3, "4+", "6+", "9+", "Regeneración, …")
+                (
+                    "Zombie Línea",
+                    40,
+                    4,
+                    3,
+                    "4+",
+                    "6+",
+                    "9+",
+                    "Inestable, Piquete de Ojos, Regeneración",
+                )
                 for _ in range(4)
             ],
         ],
@@ -439,6 +692,7 @@ TEAMS: list[dict] = [
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-enanos-tier4.md` (manual, captura AndyDavo); SKIP_EMIT.
     {
         "slug": "enanos",
         "name": "Enanos",
@@ -446,16 +700,64 @@ TEAMS: list[dict] = [
         "img": "enanos",
         "rr": 60,
         "rows": [
-            ("Apisonadora Enana", 170, 5, 7, "5+", "–", "11+", "Arma secreta, …"),
-            ("MataTrols", 95, 5, 3, "4+", "5+", "9+", "Agallas, Furia, …"),
+            (
+                "MataTrols",
+                95,
+                5,
+                3,
+                "4+",
+                "5+",
+                "9+",
+                "Placar, Agallas, Furia, Cabeza Dura, Odio (Troll)",
+            ),
+            (
+                "MataTrols",
+                95,
+                5,
+                3,
+                "4+",
+                "5+",
+                "9+",
+                "Placar, Agallas, Furia, Cabeza Dura, Odio (Troll)",
+            ),
             *[
-                ("Enano Blitzer", 100, 5, 3, "4+", "4+", "10+", "Placar, Placaje def., …")
+                (
+                    "Enano Blitzer",
+                    100,
+                    5,
+                    3,
+                    "4+",
+                    "4+",
+                    "10+",
+                    "Placar, Placaje Heroico, Placaje Defensivo, Cabeza Dura",
+                )
                 for _ in range(2)
             ],
-            ("Enano Runner", 80, 6, 3, "3+", "4+", "9+", "Esprintar, Manos seguras, …"),
             *[
-                ("Enano Línea", 70, 4, 3, "4+", "5+", "10+", "Placar, Romper Defensas, …")
-                for _ in range(7)
+                (
+                    "Enano Runner",
+                    80,
+                    6,
+                    3,
+                    "3+",
+                    "4+",
+                    "9+",
+                    "Esprintar, Manos Seguras, Cabeza Dura",
+                )
+                for _ in range(2)
+            ],
+            *[
+                (
+                    "Enano Línea",
+                    70,
+                    4,
+                    3,
+                    "4+",
+                    "5+",
+                    "10+",
+                    "Placar, Romper Defensas, Cabeza Dura",
+                )
+                for _ in range(5)
             ],
         ],
     },
@@ -503,25 +805,66 @@ TEAMS: list[dict] = [
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-slann-tier4.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "slann",
         "name": "Slann",
         "tier": 4,
         "img": "slann",
-        "rr": 60,
+        "rr": 50,
         "rows": [
-            ("Kroxigor", 140, 6, 5, "5+", "6+", "10+", "Cola prensil, GM, …"),
+            (
+                "Slann Blitzer",
+                100,
+                7,
+                3,
+                "3+",
+                "4+",
+                "9+",
+                "En Pie de un Salto, Golpe a la Carrera, Placaje Heroico, Pogo Saltarín",
+            ),
+            (
+                "Slann Catcher",
+                80,
+                7,
+                2,
+                "2+",
+                "3+",
+                "8+",
+                "Atento al Balón, Atrapada de inmersión, Piernas Muy Largas, Pogo Saltarín",
+            ),
+            (
+                "Slann Catcher",
+                80,
+                7,
+                2,
+                "2+",
+                "3+",
+                "8+",
+                "Atento al Balón, Atrapada de inmersión, Piernas Muy Largas, Pogo Saltarín",
+            ),
+            (
+                "Slann Blitzer",
+                100,
+                7,
+                3,
+                "3+",
+                "4+",
+                "9+",
+                "En Pie de un Salto, Golpe a la Carrera, Placaje Heroico, Pogo Saltarín",
+            ),
             *[
-                ("Blitzer", 95, 7, 3, "2+", "4+", "9+", "Placar, Saltar, …")
-                for _ in range(2)
-            ],
-            *[
-                ("Catcher", 85, 8, 2, "2+", "4+", "8+", "Atrapar, Saltar, Esquivar")
-                for _ in range(2)
-            ],
-            *[
-                ("Linemen", 60, 7, 2, "2+", "4+", "8+", "Saltar, Esquivar")
-                for _ in range(7)
+                (
+                    "Slann Lineman",
+                    60,
+                    6,
+                    3,
+                    "3+",
+                    "4+",
+                    "9+",
+                    "Pogo Saltarín",
+                )
+                for _ in range(9)
             ],
         ],
     },
@@ -530,20 +873,58 @@ TEAMS: list[dict] = [
         "name": "Reyes Funerarios",
         "tier": 4,
         "img": "reyes-funerarios",
-        "rr": 70,
+        "rr": 60,
         "rows": [
-            ("Momia de Reyes Funerarios", 110, 3, 5, "5+", "6+", "10+", "GM, …"),
             *[
-                ("Blitzer de Reyes Funerarios", 90, 6, 3, "3+", "4+", "9+", "Placar, Regeneración")
+                (
+                    "Guardián de tumbas",
+                    115,
+                    4,
+                    5,
+                    "5+",
+                    "6+",
+                    "10+",
+                    "Descomposición, Luchador, Regeneración",
+                )
+                for _ in range(4)
+            ],
+            *[
+                (
+                    "Blitzer de Rey Funerario",
+                    85,
+                    6,
+                    3,
+                    "4+",
+                    "5+",
+                    "9+",
+                    "Placar, Regeneración, Cabeza Dura",
+                )
                 for _ in range(2)
             ],
             *[
-                ("Guardián de Reyes Funerarios", 70, 6, 3, "3+", "4+", "9+", "Mantenerse Firme, …")
-                for _ in range(4)
+                (
+                    "Lanzador de Rey Funerario",
+                    65,
+                    6,
+                    3,
+                    "4+",
+                    "3+",
+                    "9+",
+                    "Pasar, Regeneración, Manos Seguras, Cabeza Dura",
+                )
+                for _ in range(2)
             ],
-            ("Thrower de Reyes Funerarios", 70, 6, 3, "3+", "3+", "9+", "Pasar, …"),
             *[
-                ("Esqueleto de Reyes Funerarios Línea", 40, 5, 3, "4+", "6+", "9+", "Regeneración")
+                (
+                    "Esqueleto Línea",
+                    40,
+                    5,
+                    3,
+                    "4+",
+                    "6+",
+                    "8+",
+                    "Regeneración, Cabeza Dura",
+                )
                 for _ in range(4)
             ],
         ],
@@ -555,19 +936,41 @@ TEAMS: list[dict] = [
         "img": "orcos-negros",
         "rr": 60,
         "rows": [
-            ("Troll", 115, 4, 5, "5+", "5+", "10+", "Hambriento, GM, …"),
             *[
-                ("Black Orc", 90, 4, 4, "4+", "6+", "10+", "Cabeza dura, Placar")
-                for _ in range(4)
+                (
+                    "Orco Negro",
+                    90,
+                    4,
+                    4,
+                    "4+",
+                    "5+",
+                    "10+",
+                    "Luchador, Apartar",
+                )
+                for _ in range(6)
             ],
+            (
+                "Troll adiestrado",
+                115,
+                4,
+                5,
+                "5+",
+                "5+",
+                "10+",
+                "Siempre Hambriento, Solitario (3+), GM (+1), Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero",
+            ),
             *[
-                ("Blitzer", 80, 6, 3, "3+", "4+", "9+", "Placar, Placaje def.")
-                for _ in range(2)
-            ],
-            ("Thrower", 65, 5, 3, "3+", "3+", "9+", "Pasar, Manos seguras"),
-            *[
-                ("Goblin", 45, 6, 2, "3+", "4+", "8+", "Esquivar, …")
-                for _ in range(4)
+                (
+                    "Goblin Bruiser",
+                    45,
+                    6,
+                    2,
+                    "3+",
+                    "4+",
+                    "8+",
+                    "Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura",
+                )
+                for _ in range(5)
             ],
         ],
     },
@@ -579,20 +982,47 @@ TEAMS: list[dict] = [
         "rr": 60,
         "rows": [
             *[
-                ("Caballero del Grial", 95, 7, 3, "3+", "4+", "10+", "Agallas, Equilibrio firme, Placar")
-                for _ in range(4)
-            ],
-            *[
-                ("Caballero Receptor", 85, 7, 3, "3+", "4+", "9+", "Agallas, Atrapar, …")
+                (
+                    "Caballero del Grial",
+                    95,
+                    7,
+                    3,
+                    "3+",
+                    "4+",
+                    "10+",
+                    "Agallas, Equilibrio Firme, Placar",
+                )
                 for _ in range(2)
             ],
             *[
-                ("Caballero Lanzador", 80, 6, 3, "3+", "3+", "9+", "Agallas, Pasar, …")
+                (
+                    "Caballero Receptor",
+                    85,
+                    7,
+                    3,
+                    "3+",
+                    "4+",
+                    "9+",
+                    "Agallas, Atrapar, Nervios de Acero",
+                )
                 for _ in range(2)
             ],
             *[
-                ("Escuderos", 50, 6, 3, "3+", "4+", "8+", "Forcejear")
-                for _ in range(4)
+                (
+                    "Caballero Lanzador",
+                    80,
+                    6,
+                    3,
+                    "3+",
+                    "3+",
+                    "9+",
+                    "Agallas, Pasar, Nervios de Acero",
+                )
+                for _ in range(2)
+            ],
+            *[
+                ("Escudero", 50, 6, 3, "3+", "4+", "8+", "Forcejear")
+                for _ in range(7)
             ],
         ],
     },
@@ -603,19 +1033,58 @@ TEAMS: list[dict] = [
         "img": "enanos-del-caos",
         "rr": 70,
         "rows": [
-            ("Minotauro Esclavizado", 150, 5, 5, "4+", "6+", "9+", "Furia, GM, …"),
-            ("Bull Centaur", 130, 6, 4, "4+", "6+", "10+", "Esprintar, …"),
+            (
+                "Minotauro esclavizado",
+                150,
+                5,
+                5,
+                "4+",
+                "6+",
+                "9+",
+                "Furia, Cuernos, Solitario (4+), GM (+1), Cabeza Dura, Ira Descontrolada",
+            ),
             *[
-                ("Enano del Caos Blocker", 70, 4, 3, "4+", "6+", "10+", "Placar, Piel Ferrea, …")
-                for _ in range(4)
-            ],
-            *[
-                ("Flamesmith", 80, 5, 3, "4+", "6+", "10+", "Aliento de fuego, …")
+                (
+                    "Bull Centaur",
+                    130,
+                    6,
+                    4,
+                    "4+",
+                    "6+",
+                    "10+",
+                    "Esprintar, Equilibrio Firme, Cabeza Dura",
+                )
                 for _ in range(2)
             ],
             *[
-                ("Hobgoblin Línea", 40, 6, 3, "3+", "4+", "8+", "–")
+                (
+                    "Enano del Caos Blocker",
+                    70,
+                    4,
+                    3,
+                    "4+",
+                    "6+",
+                    "10+",
+                    "Placar, Piel Ferrea, Cabeza Dura",
+                )
                 for _ in range(4)
+            ],
+            *[
+                (
+                    "Flamesmith",
+                    80,
+                    5,
+                    3,
+                    "4+",
+                    "6+",
+                    "10+",
+                    "Peleón, Aliento de Fuego, Presencia Perturbadora, Cabeza Dura",
+                )
+                for _ in range(2)
+            ],
+            *[
+                ("Hobgoblin Línea", 40, 6, 3, "3+", "4+", "8+", "—")
+                for _ in range(2)
             ],
         ],
     },
@@ -627,20 +1096,44 @@ TEAMS: list[dict] = [
         "rr": 50,
         "rows": [
             *[
-                ("Blitzer", 100, 7, 3, "2+", "4+", "9+", "Placar, Placaje def.")
+                (
+                    "Elfo Blitzer",
+                    115,
+                    7,
+                    3,
+                    "2+",
+                    "3+",
+                    "9+",
+                    "Placar, Echarse a un Lado",
+                )
                 for _ in range(2)
             ],
             *[
-                ("Thrower", 80, 6, 3, "2+", "2+", "8+", "Pasar, Proteger el cuero")
+                (
+                    "Elfo Catcher",
+                    100,
+                    8,
+                    3,
+                    "2+",
+                    "4+",
+                    "8+",
+                    "Atrapar, Recepción Heroica, Nervios de Acero",
+                )
                 for _ in range(2)
             ],
+            (
+                "Elfo Lanzador",
+                75,
+                6,
+                3,
+                "2+",
+                "2+",
+                "8+",
+                "Pasar, Pase a lo Loco",
+            ),
             *[
-                ("Catcher", 85, 7, 2, "2+", "4+", "8+", "Atrapar, Esquivar")
-                for _ in range(2)
-            ],
-            *[
-                ("Línea", 65, 6, 3, "2+", "4+", "9+", "–")
-                for _ in range(6)
+                ("Elfo Línea", 65, 6, 3, "2+", "3+", "8+", "Dejada")
+                for _ in range(7)
             ],
         ],
     },
@@ -662,6 +1155,7 @@ TEAMS: list[dict] = [
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-khorne-tier5.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "khorne",
         "name": "Khorne",
@@ -670,69 +1164,190 @@ TEAMS: list[dict] = [
         "img_file": "khorne.png",
         "rr": 60,
         "rows": [
-            ("BloodSpawn", 160, 5, 5, "4+", "6+", "9+", "Garras, GM, …"),
+            (
+                "BloodSpawn",
+                160,
+                5,
+                5,
+                "4+",
+                "6+",
+                "9+",
+                "Garras, Furia, Golpe Mortífero(+1), Ira Descontrolada, Solitario (4+)",
+            ),
             *[
                 ("Bloodseeker", 105, 5, 4, "4+", "6+", "10+", "Furia")
-                for _ in range(2)
-            ],
-            *[
-                ("Khorngor", 70, 6, 3, "3+", "4+", "9+", "Cuernos, Imparable, …")
                 for _ in range(4)
             ],
             *[
-                ("Línea Marauder", 50, 6, 3, "3+", "4+", "8+", "Furia")
-                for _ in range(5)
+                (
+                    "Khorngor",
+                    70,
+                    6,
+                    3,
+                    "3+",
+                    "4+",
+                    "9+",
+                    "Cuernos, Imparable, En Pie de un Salto, Cabeza Dura",
+                )
+                for _ in range(2)
+            ],
+            *[
+                ("Líneas Marauder Nacidos de la Sangre", 50, 6, 3, "3+", "4+", "8+", "Furia")
+                for _ in range(4)
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-snotlings-tier5.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "snotlings",
         "name": "Snotlings",
         "tier": 5,
         "img": "snotlings",
-        "rr": 60,
+        "rr": 70,
         "rows": [
             *[
-                ("Troll Entrenado", 95, 4, 5, "5+", "5+", "10+", "GM, Regeneración, …")
-                for _ in range(2)
-            ],
-            ("Pump Wagon", 80, 5, 5, "5+", "6+", "9+", "Arma secreta, GM, …"),
-            *[
-                ("Riotous Rookie", 40, 5, 2, "4+", "6+", "7+", "Lanzar compañero, …")
-                for _ in range(2)
-            ],
-            *[
-                ("Fungus Flinga", 30, 5, 1, "4+", "6+", "6+", "Lanzar compañero, …")
-                for _ in range(2)
-            ],
-            *[
-                ("Stilty Runna", 25, 7, 1, "4+", "6+", "6+", "Esprintar, …")
+                (
+                    "Troll Entrenado",
+                    115,
+                    4,
+                    5,
+                    "5+",
+                    "5+",
+                    "10+",
+                    "GM, Lanzar compañero, Proyectil Vómito, Realmente Estúpido, Regeneración, Siempre Hambriento",
+                )
                 for _ in range(2)
             ],
             *[
-                ("Snotling Línea", 15, 5, 1, "4+", "6+", "6+", "Escurridizo, …")
-                for _ in range(3)
+                (
+                    "Pump Wagon",
+                    100,
+                    5,
+                    5,
+                    "5+",
+                    "6+",
+                    "9+",
+                    "Juego Sucio, Imparable, GM, Mantenerse Firme, Realmente Estúpido",
+                )
+                for _ in range(2)
+            ],
+            *[
+                (
+                    "Stilty Runna",
+                    20,
+                    6,
+                    1,
+                    "3+",
+                    "4+",
+                    "6+",
+                    "Esquivar, Humanoide Bala, Echarse a un Lado, Escurridizo, Esprintar",
+                )
+                for _ in range(2)
+            ],
+            *[
+                (
+                    "Fun-hoppa",
+                    20,
+                    6,
+                    1,
+                    "3+",
+                    "4+",
+                    "6+",
+                    "Echarse a un Lado, Escurridizo, Esquivar, Humanoide Bala, Pogo Saltarín",
+                )
+                for _ in range(2)
+            ],
+            *[
+                (
+                    "Snotling",
+                    15,
+                    5,
+                    1,
+                    "3+",
+                    "4+",
+                    "6+",
+                    "Canijo, Colarse, Echarse a un Lado, Escurridizo, Esquivar, Humanoide Bala, Insignificante",
+                )
+                for _ in range(8)
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-gnomos-tier6.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "gnomos",
         "name": "Gnomos",
         "tier": 6,
         "img": "gnomos",
-        "rr": 70,
+        "rr": 50,
         "rows": [
-            ("Forest Troll", 110, 4, 5, "5+", "5+", "10+", "GM, Hambriento, …"),
-            ("Gnomo Blitzer", 70, 6, 2, "3+", "4+", "8+", "Placar, Escurridizo, …"),
-            ("Gnomo Thrower", 65, 5, 2, "3+", "3+", "8+", "Pasar, …"),
-            ("Gnomo Troll Slayer", 95, 5, 2, "3+", "4+", "9+", "Berserker, …"),
-            ("Bombardero", 40, 5, 2, "3+", "4+", "8+", "Arma secreta, …"),
             *[
-                ("Gnomo Línea", 40, 5, 2, "3+", "4+", "8+", "Esquivar, Escurridizo, …")
-                for _ in range(11)
+                (
+                    "Hombre-Árbol",
+                    120,
+                    2,
+                    6,
+                    "5+",
+                    "5+",
+                    "11+",
+                    "GM, Mantenerse Firme, Brazo Fuerte, Echar Raíces, Cabeza Dura, Lanzar compañero, ¡Tronco va!",
+                )
+                for _ in range(2)
+            ],
+            *[
+                (
+                    "Gnomo Maestro de las Bestias",
+                    55,
+                    5,
+                    2,
+                    "3+",
+                    "4+",
+                    "8+",
+                    "Vigilar, En Pie de un Salto, Escurridizo, Forcejeo",
+                )
+                for _ in range(2)
+            ],
+            *[
+                (
+                    "Gnomo Ilusionista",
+                    50,
+                    5,
+                    2,
+                    "3+",
+                    "3+",
+                    "7+",
+                    "En Pie de un Salto, Escurridizo, Embaucador, Forcejeo",
+                )
+                for _ in range(2)
+            ],
+            *[
+                (
+                    "Zorro de Bosque",
+                    50,
+                    7,
+                    2,
+                    "2+",
+                    "–",
+                    "6+",
+                    "Esquivar, Mi Balón, Echarse a un Lado, Escurridizo",
+                )
+                for _ in range(2)
+            ],
+            *[
+                (
+                    "Gnomo Línea",
+                    40,
+                    5,
+                    2,
+                    "3+",
+                    "4+",
+                    "7+",
+                    "En Pie de un Salto, Humanoide Bala, Escurridizo, Forcejeo",
+                )
+                for _ in range(7)
             ],
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-halflings-tier6.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "halflings",
         "name": "Halflings",
@@ -740,47 +1355,209 @@ TEAMS: list[dict] = [
         "img": "halflings",
         "rr": 60,
         "rows": [
-            ("Treeman", 120, 2, 6, "5+", "5+", "11+", "GM, Lanzar compañero, …"),
             *[
-                ("Halfling Hopeful", 30, 5, 2, "3+", "4+", "7+", "Esquivar, …")
-                for _ in range(11)
+                (
+                    "Hombre-Árbol",
+                    120,
+                    2,
+                    6,
+                    "5+",
+                    "5+",
+                    "11+",
+                    "GM (+1), Mantenerse Firme, Brazo Fuerte, Echar Raíces, Cabeza Dura, Lanzar compañero, ¡Tronco va!",
+                )
+                for _ in range(2)
             ],
+            *[
+                (
+                    "Halfling Catcher",
+                    55,
+                    5,
+                    2,
+                    "3+",
+                    "4+",
+                    "7+",
+                    "Atrapar, Esquivar, Humanoide Bala, Esprintar, Escurridizo",
+                )
+                for _ in range(2)
+            ],
+            *[
+                (
+                    "Halfling Hefty",
+                    50,
+                    5,
+                    2,
+                    "3+",
+                    "3+",
+                    "8+",
+                    "Esquivar, Zafarse, Escurridizo",
+                )
+                for _ in range(2)
+            ],
+            *[
+                ("Halfling Hopeful", 30, 5, 2, "3+", "4+", "7+", "Esquivar, Humanoide Bala, Escurridizo")
+                for _ in range(7)
+            ],
+            ("Grombrindal", 170, 5, 3, "3+", "4+", "10+", "Placar, Agallas, …"),
+            ("Rumbelow Sheepskin", 170, 6, 3, "3+", "5+", "8+", "Placar, Cuernos, …"),
         ],
     },
+    # Roster EuroBowl en `eurobowl-26-ogros-tier6.md` (manual, captura); SKIP_EMIT.
     {
         "slug": "ogros",
         "name": "Ogros",
         "tier": 6,
         "img": "ogros",
-        "rr": 140,
+        "rr": 70,
         "rows": [
             *[
-                ("Ogre Línea", 140, 5, 5, "5+", "5+", "10+", "Muro de carne, GM, …")
+                (
+                    "Ogro",
+                    140,
+                    5,
+                    5,
+                    "4+",
+                    "5+",
+                    "10+",
+                    "Cabeza Dura, Estúpido, GM (+1), Lanzar compañero",
+                )
                 for _ in range(5)
             ],
+            (
+                "Runt Punter",
+                145,
+                5,
+                5,
+                "4+",
+                "4+",
+                "10+",
+                "Cabeza Dura, Chutar compañero, Estúpido, GM (+1)",
+            ),
             *[
-                ("Gnoblar Línea", 20, 5, 1, "4+", "6+", "6+", "Escurridizo, …")
-                for _ in range(10)
+                (
+                    "Gnoblar",
+                    15,
+                    5,
+                    1,
+                    "3+",
+                    "4+",
+                    "6+",
+                    "Canijo, Esquivar, Echarse a un Lado, Escurridizo, Humanoide Bala",
+                )
+                for _ in range(8)
+            ],
+        ],
+    },
+    # Roster EuroBowl en `eurobowl-26-vampiros-tier3.md` (manual, captura); SKIP_EMIT.
+    {
+        "slug": "vampiros",
+        "name": "Vampiros",
+        "tier": 3,
+        "img": "vampiros",
+        "rr": 60,
+        "rows": [
+            ("Siervo Línea", 40, 6, 3, "3+", "4+", "8+", "–"),
+            (
+                "Vampiro Blitzer",
+                110,
+                6,
+                4,
+                "2+",
+                "4+",
+                "9+",
+                "Ansia de Sangre (3+), Imparable, Mirada Hipnótica, Regeneración",
+            ),
+            (
+                "Vampiro Blitzer",
+                110,
+                6,
+                4,
+                "2+",
+                "4+",
+                "9+",
+                "Ansia de Sangre (3+), Imparable, Mirada Hipnótica, Regeneración",
+            ),
+            (
+                "Vampiro Lanzador",
+                110,
+                6,
+                4,
+                "2+",
+                "2+",
+                "9+",
+                "Ansia de Sangre (2+), Mirada Hipnótica, Pasar, Regeneración",
+            ),
+            (
+                "Vampiro Lanzador",
+                110,
+                6,
+                4,
+                "2+",
+                "2+",
+                "9+",
+                "Ansia de Sangre (2+), Mirada Hipnótica, Pasar, Regeneración",
+            ),
+            (
+                "Vampiro Runner",
+                100,
+                8,
+                3,
+                "2+",
+                "3+",
+                "8+",
+                "Ansia de Sangre (2+), Mirada Hipnótica, Regeneración",
+            ),
+            (
+                "Vampiro Runner",
+                100,
+                8,
+                3,
+                "2+",
+                "3+",
+                "8+",
+                "Ansia de Sangre (2+), Mirada Hipnótica, Regeneración",
+            ),
+            ("Siervo Línea", 40, 6, 3, "3+", "4+", "8+", "–"),
+            *[
+                ("Siervo Línea", 40, 6, 3, "3+", "4+", "8+", "–")
+                for _ in range(5)
             ],
         ],
     },
 ]
 
 
+# Rosters mantenidos a mano (capturas / packs); no sobrescribir al ejecutar este script.
+SKIP_EMIT = frozenset(
+    {
+        "khorne",
+        "snotlings",
+        "gnomos",
+        "halflings",
+        "ogros",
+        "elfos-silvanos",
+        "alianza-viejo-mundo",
+        "amazonas",
+        "orcos",
+        "habitantes-inframundo",
+        "elfos-oscuros",
+        "altos-elfos",
+        "humanos",
+        "nigromantes",
+        "vampiros",
+        "slann",
+        "enanos",
+    }
+)
+
+
 STUBS = [
-    (
-        "vampiros",
-        "Vampiros",
-        3,
-        "vampiros",
-        "La ficha `source/teams/vampiros.md` aún no incluye el roster oficial BB2025; completar cuando Nuffle Zone publique costes y posiciones.",
-    ),
     (
         "renegados-del-caos",
         "Renegados del Caos",
         5,
         "renegados-del-caos",
-        "La ficha `source/teams/renegados-del-caos.md` está pendiente de roster oficial; construir desde GW / NAF y validar con el reglamento EuroBowl.",
+        "Roster 2025 en `source/teams/renegados-del-caos.md` (Nuffle EN); validar costes con PDF GW / pack #euro26.",
     ),
 ]
 
@@ -818,6 +1595,10 @@ Pool de {sk}.000 gp para avances según tablas del reglamento EuroBowl.
 
 def main() -> None:
     for team in TEAMS:
+        if team["slug"] in SKIP_EMIT:
+            path = os.path.join(ROOT, f"eurobowl-26-{team['slug']}-tier{team['tier']}.md")
+            print("skip (manual roster)", path)
+            continue
         psum = sum(r[1] for r in team["rows"])
         sol = solve_extras(team["tier"], psum, team["rr"], team["slug"])
         if sol is None:

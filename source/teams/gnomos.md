@@ -2,37 +2,39 @@
 
 ![Gnomos](../images/equipos/gnomos.webp)
 
-Fuente: [Nuffle Zone — Gnomos](https://nufflezone.com/equipos-blood-bowl/gnomos/)
+Fuente: [Nuffle Zone — Gnomos 2025](https://nufflezone.com/equipos-blood-bowl/gnomos/)
 
-## Roster 2025
+## Roster 2025 (3ª temporada)
 
 | CTD | Posición | Coste | MA | FU | AG | PA | AR | Habilidades (resumen) | Pri | Sec |
 |-----|-----------|-------|----|----|----|----|-----|------------------------|-----|-----|
-| 0-16 | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo | A | DGF |
-| 0-2 | Gnomo Blitzer | 70k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Placar | A | DGF |
-| 0-2 | Gnomo Thrower | 65k | 5 | 2 | 3+ | 3+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Pasar | AP | DGF |
-| 0-2 | Gnomo Troll Slayer | 95k | 5 | 2 | 3+ | 4+ | 9+ | Esquivar, Humanoide Bala, Escurridizo, Berserker, Romper Defensas | AF | DG |
-| 0-2 | Forest Troll | 110k | 4 | 5 | 5+ | 5+ | 10+ | Golpe Mortífero, Lanzar Compañero, Realmente Estúpido, Regeneración, Siempre Hambriento | F | AGP |
-| 0-2 | Bombardero | 40k | 5 | 2 | 3+ | 4+ | 8+ | Arma Secreta, Bombardero, Esquivar, Humanoide Bala, Escurridizo | DP | AGF |
+| 0-16 | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En Pie de un Salto, Humanoide Bala, Escurridizo, Forcejeo | A | DGF |
+| 0-2 | Gnomo Ilusionista | 50k | 5 | 2 | 3+ | 3+ | 7+ | En Pie de un Salto, Escurridizo, Embaucador, Forcejeo | AP | DG |
+| 0-2 | Zorro de Bosque | 50k | 7 | 2 | 2+ | – | 6+ | Esquivar, Mi Balón, Echarse a un Lado, Escurridizo | – | A |
+| 0-2 | Gnomo Maestro de las Bestias | 55k | 5 | 2 | 3+ | 4+ | 8+ | Vigilar, En Pie de un Salto, Escurridizo, Forcejeo | A | DGF |
+| 0-2 | Hombre-Árbol | 120k | 2 | 6 | 5+ | 5+ | 11+ | Golpe Mortífero, Mantenerse Firme, Brazo Fuerte, Echar Raíces, Cabeza Dura, Lanzar Compañero, ¡Tronco va! | F | AGP |
 
-- **Rerolls:** 70k  
+- **Rerolls:** 50k  
 - **Apotecario:** Sí  
-- **Reglas especiales:** Soborno y Corrupción  
-- **Liga:** Reyerta en las Yermas  
+- **Ligas:** Copa Dedal Halfling, Liga del Bosque  
+
+*En inglés del builder GW: **Altern Forest Treeman** = **Hombre-Árbol**; **Gnome Beastmaster** = **Gnomo Maestro de las Bestias**; **Gnome Illusionist** = **Gnomo Ilusionista**; **Woodland Fox** = **Zorro de Bosque**; **Gnome Lineman** = **Gnomo Línea**; **Halfling Thimble Cup** = **Copa Dedal Halfling**.*
 
 ## Descripción oficial de las habilidades
 
-* **Arma Secreta (Secret Weapon) — incl.:** Al final de la entrada en que haya participado, es Expulsado.
-* **Bombardero (Bombardier) — incl.:** Acción especial Lanzar bomba (como pase; si cae al suelo explota; 1D6 por adyacentes, 4+ impactados).
+* **Brazo Fuerte (Strong Arm) — incl.:** Al declarar un pase o un Lanzar compañero, +1 casillas de alcance a la banda de alcance (reglas vigentes).
+* **Cabeza Dura (Thick Skull) — incl.:** En tirada de Heridas: Inconsciente solo con 9; 8 = Aturdido. Con Escurridizo: Inconsciente con 8, 7 = Aturdido.
+* **Echar Raíces (Take Root) — incl.:** Tras activarse, queda enraizado hasta fin de partido o lesión que lo ponga fuera; mientras enraizado no puede moverse voluntariamente (reglas completas en PDF GW).
+* **Echarse a un Lado (Sidestep) — incl.:** Cuando es empujado, puede desplazarse a una casilla vacía adyacente en lugar de seguir la línea de empuje.
+* **Embaucador (Trickster) — incl.:** Habilidad de equipo del Ilusionista; ver reglamento GW / Nuffle.
+* **En Pie de un Salto (Jump Up) — incl.:** Levantarse «gratis»; puede declarar Placaje desde tumbado con AG+1.
 * **Escurridizo (Stunty) — incl.:** No sufre -1 por estar marcado al esquivar; -1 AG al interceptar; tirada de Heridas en tabla Escurridizos.
-* **Esquivar (Dodge) — incl.:** Repetir un chequeo de esquivar por turno; afecta a Desequilibrado en placajes recibidos.
-* **Furia (Frenzy) — incl.:** Si empuja en Placaje debe hacer impulso; si el blanco sigue en pie debe segundo Placaje (y impulso si empuja).
+* **Esquivar (Dodge) — incl.:** En «Ambos derribados» en esquiva puede repetir la tirada de AG.
+* **Forcejeo (Wrestle) — incl.:** En Placaje, si aplicaría «Ambos derribados», puede usarla: ambos tumbados boca arriba salvo que otras habilidades lo impidan.
 * **Golpe Mortífero (Mighty Blow) — incl.:** Al derribar en Placaje puede aplicar +1 a tirada de Armadura o de Heridas (decidir después de tirar).
 * **Humanoide Bala (Right Stuff) — incl.:** Puede ser lanzado por compañero con Lanzar compañero (incluso tumbado).
-* **Lanzar Compañero (Throw Team-Mate) — incl.:** Puede declarar la acción de Lanzar compañero.
-* **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
-* **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
-* **Realmente Estúpido (Really Stupid) — incl.:** Al activarse: 1D6 (+2 si adyacente a compañero en pie sin este rasgo); 4+=normal, 1-3=Distraído.
-* **Regeneración (Regeneration) — incl.:** Al sufrir Lesión: 1D6; 4+=se ignora la lesión y va a reservas; 1-3=normal.
-* **Romper Defensas (Defensive) — incl.:** Rivales que marque no pueden usar Defensa ni Meter la Bota en turnos rivales.
-* **Siempre Hambriento (Always Hungry) — incl.:** Antes del chequeo de Lanzar compañero: 1D6; 1=intenta comerse al compañero (segundo 1D6: 1=devorado).
+* **Lanzar Compañero (Throw Team-mate) — incl.:** Puede declarar la acción de Lanzar compañero.
+* **Mantenerse Firme (Stand Firm) — incl.:** Si sería empujado en un Placaje, puede quedarse en la casilla salvo que el empuje sea múltiple.
+* **Mi Balón (My Ball) — incl.:** Regla de balón del Zorro; ver reglamento GW / Nuffle.
+* **¡Tronco va! (Timmm-ber!) — incl.:** Regla del Hombre-Árbol al caer o empujar; ver reglamento GW / Nuffle.
+* **Vigilar (Guard) — incl.:** En placaje puede aportar asistencia defensiva a un compañero adyacente marcado por el mismo rival.

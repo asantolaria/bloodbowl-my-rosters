@@ -2,65 +2,101 @@
 
 ![Altos Elfos](../../source/images/equipos/altos-elfos.webp)
 
-> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/altos-elfos.md`](../../source/teams/altos-elfos.md).
+> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Lista alineada con captura del builder (vídeo [EuroBowl / listas — YouTube](https://www.youtube.com/watch?v=wrmKRBFNqcM)). Posiciones y nombres de lista: [`source/teams/altos-elfos.md`](../../source/teams/altos-elfos.md).
 
-> **Estado competitivo:** presupuesto EuroBowl válido en cifras; **sin revisión meta**. Repaso táctico pendiente — [README `eurobowl-2026`](README.md) · tag `eurobowl-2026-wip-competitive`.
+> **Estado:** plantilla **desde captura**. **11 jugadores**. No regenerar con `_build_rosters.py` (ver `SKIP_EMIT`). Tag: `eurobowl-2026-wip-competitive`.
 
-## Presupuesto EuroBowl
+## Presupuesto EuroBowl (tier 3)
 
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 3 |
-| **Team Budget (base)** | 1080.000 gp |
+| **Team Budget (base)** | 1.080.000 gp |
 | **Skill Gold (pool)** | 160.000 gp |
 | **Flowing Funds (máx.)** | 30.000 gp |
 
-*Desglose de equipo = **1080k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*En la captura: **Team budget** 1080k / 1080k; **Skill Gold** 190k / 160k (**160k** pool + **30k** Flowing a Skill Gold = **190k** en avances); **Flowing Funds** 30k / 30k.*
 
-## Alineación (gasto de presupuesto de equipo)
+## Alineación
 
-*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
+*En **negrita**, avances de Skill Gold. Nombres EN del builder → español en `altos-elfos.md`. El roster [`inicio-1000k-altos-elfos-1000k.md`](../iniciales/inicio-1000k-altos-elfos-1000k.md) **no asigna dorsales**; los **Nº 1–11** de esta tabla son **orden de fila** en Euro hasta que los unifiques con tu inicial.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
-|----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | White Lion Blitzer | 110k | 7 | 3 | 2+ | 3+ | 9+ | Forcejear, Garras |
-| 2 | ____ | White Lion Blitzer | 110k | 7 | 3 | 2+ | 3+ | 9+ | Forcejear, Garras |
-| 3 | ____ | Dragon Warrior | 110k | 8 | 3 | 2+ | 4+ | 9+ | Mi balón, Equilibrio firme, Placar |
-| 4 | ____ | Phoenix Prince Thrower | 90k | 6 | 3 | 2+ | 2+ | 9+ | Partenubes, Pasar, … |
-| 5 | ____ | Phoenix Prince Thrower | 90k | 6 | 3 | 2+ | 2+ | 9+ | Partenubes, Pasar, … |
-| 6 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – |
-| 7 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – |
-| 8 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – |
-| 9 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – |
-| 10 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – |
-| 11 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – |
-| 12 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – |
+| Nº | Nombre | Posición | Coste | MA | FU | AG | PA | AR | Habilidades |
+|----|--------|----------|-------|----|----|----|----|-----|-------------|
+| 1 | ____ | Alto Elfo Dragon Warrior | 110k | 8 | 3 | 2+ | 4+ | 9+ | Placar, El Balón es Mío, Equilibrio Firme, **Esquivar** |
+| 2 | ____ | Alto Elfo Dragon Warrior | 110k | 8 | 3 | 2+ | 4+ | 9+ | Placar, El Balón es Mío, Equilibrio Firme, **Esquivar** |
+| 3 | ____ | Alto Elfo White Lion Blitzer | 110k | 7 | 3 | 2+ | 3+ | 9+ | Forcejear, Garras, **Esquivar**, **Robar Balón** |
+| 4 | ____ | Alto Elfo White Lion Blitzer | 110k | 7 | 3 | 2+ | 3+ | 9+ | Forcejear, Garras, **Esquivar** |
+| 5 | ____ | Alto Elfo Phoenix Prince Thrower | 90k | 6 | 3 | 2+ | 2+ | 9+ | Partenubes, Pasar, Pase Seguro, **Líder** |
+| 6 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | **Forcejeo** |
+| 7 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | — |
+| 8 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | — |
+| 9 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | — |
+| 10 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | — |
+| 11 | ____ | Alto Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | — |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1080k gp
+**Total jugadores:** 11 | **Suma jugadores:** 920.000 gp
+
+**Desglose presupuesto de equipo (captura):**
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 965k) | 965.000 |
-| Rerolls (2 × 50.000) | 100.000 |
-| Apotecario | No (lista del equipo) |
-| Fans dedicados (1 × 10.000) | 10.000 |
-| Flowing Funds → presupuesto equipo (resto no múltiplo de 10k) | 5.000 |
-| **Total** | **1.080.000** |
+| Jugadores (2×110k + 2×110k + 90k + 6×65k) | 920.000 |
+| Rerolls de equipo (2 × 50.000) | 100.000 |
+| Apotecario | 50.000 |
+| Asistentes (1 × 10.000) | 10.000 |
+| Cheerleaders / fans dedicados | 0 |
+| **Total gastado** | **1.080.000** |
+| **Team Budget base (tier 3)** | 1.080.000 |
 
-## Skill Gold — avances (ejemplo editable)
+## Información del equipo
 
-Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack en todo el equipo. Costes: ver tabla en [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF / EuroBowl** | 3 |
+| **Team Budget (captura)** | 1080k / 1080k |
+| **Skill Gold (captura)** | 190k / 160k (+30k Flowing) |
+| **Flowing Funds (captura)** | 30k / 30k |
+| **Rerolls** | 2 |
+| **Apotecario** | Sí |
+| **Asistentes** | 1 |
+| **Inducements** | Ninguno |
+| **Opción listas** | Sin estrellas |
+| **Liga (captura EN)** | Elven Kingdom League |
+| **Equivalencia repo (ES)** | **Liga de los Reinos Élficos** (`altos-elfos.md`) |
 
-| Jugador (Nº) | Tipo | Coste (Skill Gold) |
-|--------------|------|---------------------|
-| _pendiente_ | 1 primaria no élite | 20.000 |
+## Skill Gold — avances (según captura)
 
-**Pool Skill Gold base:** 160.000 gp (+ Flowing si lo asignas).
+**Seis** jugadores con **un** bloque de avance cada uno (White Lion #3 usa **Stack** de dos primarias). Desglose que suma **190.000 gp**:
+
+| Nº | Jugador | Habilidad (EN → ES) | Tipo (referencia #euro26) | Coste Skill Gold |
+|----|---------|---------------------|---------------------------|------------------|
+| 1 Dragon Warrior | Dodge → **Esquivar** | Prim. Agilidad no élite | 20.000 |
+| 2 Dragon Warrior | Dodge → **Esquivar** | Prim. Agilidad no élite | 20.000 |
+| 3 White Lion | Dodge + Strip Ball → **Esquivar** + **Robar Balón** | **Stack** (2× prim. no élite) | 50.000 |
+| 4 White Lion | Dodge → **Esquivar** | Sec. General no élite | 40.000 |
+| 5 Phoenix Thrower | Leader → **Líder** | Prim. General no élite | 20.000 |
+| 6 Línea | Wrestle → **Forcejeo** | Sec. General no élite | 40.000 |
+| **Total Skill Gold** | | | **190.000** |
+
+**Límites #euro26:** **1** Stack; **2** secundarios (**Esquivar** en White Lion #4, **Forcejeo** en Línea); **0** primarias **élite**.
+
+*Si el builder marca **Esquivar** en White Lion #4 como **primaria** de Agilidad (20k), el total baja **20k**; compensa con otra reclasificación permitida por el pack o revisa el export del torneo.*
 
 ## Estrellas (Tiers 1–4)
 
-Sin Veterans ni Legends. Con estrella (tier 5–6): no avances Secondary ni Stack en jugadores de plantilla.
+Sin Veterans ni Legends en la captura. Listas: [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
 
 ## Inducements
 
-Solo los listados como permitidos en `eurobowl-2026.md`.
+Solo los permitidos en `eurobowl-2026.md`. Captura: ninguno.
+
+## Estrategia (breve)
+
+- **Dragon Warrior** con **Placar**, **El Balón es Mío** y **Esquivar** para portadores duros.
+- **White Lion** con **Garras** y cadena **Esquivar** / **Robar Balón** en uno de ellos.
+- **Phoenix** con **Líder** y pase **Partenubes** + **Pase Seguro**; **Línea** con **Forcejeo** para bajar rivales.
+
+## Progresión sugerida
+
+Tras #euro26, seguir tablas **AG / GP / PF** de `altos-elfos.md` por posición.

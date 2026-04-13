@@ -18,6 +18,8 @@ Fuente: [Nuffle Zone — Amazonas](https://nufflezone.com/equipos-blood-bowl/ama
 - **Reglas especiales:** Ninguna  
 - **Liga:** Superliga Lustriana  
 
+*En inglés del builder GW: **Lustrian Superleague** = **Superliga Lustriana**; **Jaguar Warrior** = **Guerrera Jaguar Blocker**; **Piranha Warrior** = **Guerrera Piraña Blitzer**; **Python Warrior** = **Guerrera Pitón Thrower**; **Eagle Warrior** = **Guerrera Águila Línea**.*
+
 ## Descripción oficial de las habilidades
 
 * **Atento al Balón (On the Ball) — incl.:** Cuando rival declara pase: puede moverse hasta 3 casillas antes del chequeo. En patada inicial (tras desvío, antes del evento): un desmarcado con esta habilidad puede moverse hasta 3 casillas.

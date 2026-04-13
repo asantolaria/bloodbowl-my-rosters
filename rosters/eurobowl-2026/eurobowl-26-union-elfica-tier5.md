@@ -19,30 +19,31 @@
 
 ## Alineación (gasto de presupuesto de equipo)
 
-*Sin avances de Skill Gold. Rellenar nombres. Plantilla **Unión Élfica** (Nuffle 2025): 2 Blitzers, 2 Lanzadores, 2 Catchers, 6 Línea = **970k**. **Dorsales:** Lanzadores **1** y **11**, Blitzers **2** y **5**, Catchers **3** y **4**, Línea **6, 7, 8, 9, 10, 12** (sin **11** en Línea). Stats: [`source/teams/union-elfica.md`](../../source/teams/union-elfica.md).*
+*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
 | Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Elfo Lanzador | 75k | 6 | 3 | 2+ | 2+ | 8+ | Pasar, Pase a lo Loco |
+| 1 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Placar, Echarse a un Lado |
 | 2 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Placar, Echarse a un Lado |
-| 3 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de Acero, Recepción Heroica |
-| 4 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de Acero, Recepción Heroica |
-| 5 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Placar, Echarse a un Lado |
+| 3 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Recepción Heroica, Nervios de Acero |
+| 4 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Recepción Heroica, Nervios de Acero |
+| 5 | ____ | Elfo Lanzador | 75k | 6 | 3 | 2+ | 2+ | 8+ | Pasar, Pase a lo Loco |
 | 6 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
 | 7 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
 | 8 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
 | 9 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
 | 10 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
-| 11 | ____ | Elfo Lanzador | 75k | 6 | 3 | 2+ | 2+ | 8+ | Pasar, Pase a lo Loco |
+| 11 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
 | 12 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
 
 **Total jugadores:** 12 | **Presupuesto equipo usado:** 1120k gp
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (2×115k + 2×75k + 2×100k + 6×65k) | 970.000 |
+| Jugadores (total 960k) | 960.000 |
 | Rerolls (3 × 50.000) | 150.000 |
 | Apotecario | No (lista del equipo) |
+| Fans dedicados (1 × 10.000) | 10.000 |
 | **Total** | **1.120.000** |
 
 ## Skill Gold — avances (ejemplo editable)

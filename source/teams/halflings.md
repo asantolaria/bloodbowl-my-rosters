@@ -11,11 +11,13 @@ Fuente: [Nuffle Zone — Halflings](https://nufflezone.com/equipos-blood-bowl/ha
 | 0-16 | Halfling Hopeful Línea | 30k | 5 | 2 | 3+ | 4+ | 7+ | Esquivar, Humanoide Bala, Escurridizo | A | DGF |
 | 0-2 | Halfling Hefty | 50k | 5 | 2 | 3+ | 3+ | 8+ | Esquivar, Zafarse, Escurridizo | AP | DGF |
 | 0-2 | Halfling Catcher | 55k | 5 | 2 | 3+ | 5+ | 7+ | Atrapar, Esquivar, Humanoide Bala, Esprintar, Escurridizo | A | DGF |
-| 0-2 | Hombre Árbol | 120k | 2 | 6 | 5+ | 5+ | 11+ | Golpe Mortífero(+1), Mantenerse Firme, Brazo Fuerte, Echar Raíces, Cabeza Dura, Lanzar Compañero, ¡Tronco Va! | F | AGP |
+| 0-2 | Hombre-Árbol | 120k | 2 | 6 | 5+ | 5+ | 11+ | Golpe Mortífero(+1), Mantenerse Firme, Brazo Fuerte, Echar Raíces, Cabeza Dura, Lanzar Compañero, ¡Tronco Va! | F | AGP |
 
 - **Rerolls:** 60k  
 - **Apotecario:** Sí  
 - **Ligas:** Copa Dedal Halfling, Liga del Bosque  
+
+*En inglés GW / builder: **Altern Forest Treeman** = **Hombre-Árbol**. Algunos listados muestran **PA 4+** en el Catcher; Nuffle Zone 2025 indica **PA 5+** — confirmar con PDF Season 3 si difiere.*
 
 ## Descripción oficial de las habilidades
 
