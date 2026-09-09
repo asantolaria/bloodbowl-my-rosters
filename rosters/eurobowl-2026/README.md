@@ -75,7 +75,7 @@ Estos `.md` **no** se regeneran con `_build_rosters.py` (están en `SKIP_EMIT` e
 
 ## Regenerar archivos
 
-**El generador sigue usando la BETA y contiene datos pendientes de corregir.** Ejecutarlo no migra las listas a FINAL. Véase la [valoración técnica](../../source/revision-2026-09-08.md#plan-de-actualización-y-criterio-de-cierre).
+**El generador sigue usando la BETA y contiene datos pendientes de corregir.** Ejecutarlo no migra las listas a FINAL. Véase la [valoración técnica](../../source/revision-2026-09-08.md).
 
 Tras editar datos en `_build_rosters.py`:
 

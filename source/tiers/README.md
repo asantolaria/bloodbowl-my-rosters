@@ -12,7 +12,7 @@ Referencia para rosters de **torneo**: **EuroBowl 2026** (Skill Gold + Flowing F
 
 **Rosters en `rosters/`**
 
-- Básicos 1.000k: [rosters/README.md](../../rosters/README.md), [rosters/iniciales/](../../rosters/iniciales/).
+- Básicos 1.000k: [rosters/README.md](../../rosters/README.md), [rosters iniciales](../../rosters/iniciales/README.md).
 - **EuroBowl 2026:** [rosters/eurobowl-2026/README.md](../../rosters/eurobowl-2026/README.md).
 
 ## Uso
