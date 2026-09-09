@@ -7,3 +7,6 @@
 .maya/
 _bmad/
 .claude/
+
+# MkDocs build output
+/site/

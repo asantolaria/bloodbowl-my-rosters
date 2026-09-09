@@ -1,0 +1,68 @@
+site_name: Blood Bowl · My Rosters
+site_description: Rosters y referencia de Blood Bowl Third Season en español
+site_url: https://asantolaria.github.io/bloodbowl-my-rosters/
+repo_url: https://github.com/asantolaria/bloodbowl-my-rosters
+repo_name: asantolaria/bloodbowl-my-rosters
+
+docs_dir: docs
+theme:
+  name: material
+  language: es
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo claro
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+
+plugins:
+  - search
+
+nav:
+  - Inicio: index.md
+  - Rosters:
+      - Índice: rosters/README.md
+      - Iniciales: rosters/iniciales/README.md
+      - Torneos Season 3: rosters/torneos-season-3/README.md
+      - EuroBowl 2026: rosters/eurobowl-2026/README.md
+  - Referencia:
+      - Índice: source/index.md
+      - Equipos: source/teams/README.md
+      - Habilidades: source/habilidades/README.md
+      - Jugadores estrella: source/jugadores-estrella/README.md
+      - Tablas de juego: source/tablas/README.md
+      - Tiers: source/tiers/README.md
+      - EuroBowl FINAL: source/tiers/eurobowl-2026-final.md
+      - Reglamento: source/referencias-reglamento-bb3.md
+  - Proyecto:
+      - Revisión 2026: source/revision-2026-09-08.md
+
+extra_css:
+  - assets/extra.css
