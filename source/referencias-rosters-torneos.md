@@ -4,7 +4,7 @@
 
 **Marco válido:** solo **Blood Bowl 3ª temporada / BB2025**. No usar como autoridad artículos, tablas o guías de ediciones anteriores ni sitios que mezclen reglas viejas sin etiquetar **BB2025 / Third Season**.
 
-**Reglamento (máxima prioridad):** [referencias-reglamento-bb3.md](referencias-reglamento-bb3.md) y PDF en repo: [reglamento-bb3-season3.pdf](reglamento/reglamento-bb3-season3.pdf). Respaldo oficial: [Blood Bowl Downloads](https://www.warhammer-community.com/blood-bowl-downloads/).
+**Reglamento (máxima prioridad):** [referencias-reglamento-bb3.md](referencias-reglamento-bb3.md) y PDF en repo: [reglamento-bb3-season3.pdf](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). Respaldo oficial: [Blood Bowl Downloads](https://www.warhammer-community.com/blood-bowl-downloads/).
 
 **Listas, posicionales y costes:** [Nuffle Zone](https://nufflezone.com/equipos-blood-bowl/) — equipos en pestaña **2025 / Third Season** por raza.
 
@@ -21,7 +21,7 @@ No usar como autoridad blogs o agregadores que mezclen ediciones sin etiquetar B
 ## Uso para el agente
 
 - **Roster y reglas:** `source/reglamento/reglamento-bb3-season3.pdf` + `source/teams/[equipo].md` (datos alineados a Nuffle **2025**) + reglamento del torneo.
-- **Habilidades (nombres y resúmenes BB2025):** `source/habilidades/` (tablas alineadas a [Nuffle Zone — Habilidades](https://nufflezone.com/habilidades-blood-bowl/) · bloque 3ª temporada); índice en [`source/index.md#habilidades`](index.md#habilidades).
+- **Habilidades (nombres y resúmenes BB2025):** `source/habilidades/` (tablas alineadas a [Nuffle Zone — Habilidades](https://nufflezone.com/habilidades-blood-bowl/) · bloque 3ª temporada); índice en [página unificada de habilidades](../habilidades.md).
 - **Listas guardadas en el repo:** `rosters/` (convención y lista en `rosters/README.md`); plantilla nueva lista: [`source/plantilla-roster.md`](plantilla-roster.md).
 - **Tendencias / meta:** NAF u otros datos solo con **año** y variante **BB2025** acotados en la fuente; no mezclar series viejas.
 - **Torneos #euro26:** [FINAL](tiers/eurobowl-2026-final.md) y pack del evento; [BETA histórica](tiers/eurobowl-2026.md) para listas antiguas (y [`source/tiers/README.md`](tiers/README.md)).

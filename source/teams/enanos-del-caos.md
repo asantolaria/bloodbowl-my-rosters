@@ -1,6 +1,5 @@
 # Enanos del Caos — Datos 2025
 
-![Enanos del Caos](../images/equipos/enanos-del-caos.webp)
 
 Fuente: [Nuffle Zone EN — Chaos Dwarf](https://nufflezone.com/en/blood-bowl-teams/chaos-dwarf/) (la versión española no incluye tabla de roster).
 

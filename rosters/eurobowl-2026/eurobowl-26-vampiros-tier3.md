@@ -1,6 +1,5 @@
 # Vampiros — EuroBowl 2026 (Tier 3, Team Budget 1080k)
 
-![Vampiros](../../source/images/equipos/vampiros.webp)
 
 > **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Lista alineada con captura del builder (vídeo [EuroBowl / listas — YouTube](https://www.youtube.com/watch?v=wrmKRBFNqcM)). Referencia de equipo: [`source/teams/vampiros.md`](../../source/teams/vampiros.md) (tabla rellenada desde esta captura hasta publicar Nuffle oficial).
 

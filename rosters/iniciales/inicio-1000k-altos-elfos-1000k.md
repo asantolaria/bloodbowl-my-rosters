@@ -2,7 +2,7 @@
 
 ![Altos Elfos](../../source/images/equipos/altos-elfos.webp)
 
-> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/altos-elfos.md`](../../source/teams/altos-elfos.md) (lista **2026** / 3ª temporada en Nuffle). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Con la hoja vigente pueden encajar **2** piezas receptores según costes del roster oficial.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/altos-elfos.md`](../../source/teams/altos-elfos.md) (lista **2026** / 3ª temporada en Nuffle). Reglamento: [`reglamento-bb3-season3.pdf`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). Con la hoja vigente pueden encajar **2** piezas receptores según costes del roster oficial.
 
 ## Alineación
 

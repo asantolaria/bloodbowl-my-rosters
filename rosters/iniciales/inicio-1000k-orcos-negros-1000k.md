@@ -2,7 +2,7 @@
 
 ![Orcos Negros](../../source/images/equipos/orcos-negros.webp)
 
-> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/orcos-negros.md`](../../source/teams/orcos-negros.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf).
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/orcos-negros.md`](../../source/teams/orcos-negros.md). Reglamento: [`reglamento-bb3-season3.pdf`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf).
 
 ## Alineación
 

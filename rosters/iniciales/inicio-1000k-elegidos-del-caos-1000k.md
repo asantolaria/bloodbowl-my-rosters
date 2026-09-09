@@ -2,7 +2,7 @@
 
 ![Elegidos del Caos](../../source/images/equipos/Chaos.webp)
 
-> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/elegidos-del-caos.md`](../../source/teams/elegidos-del-caos.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Big Guy: **Troll del Caos** (elegir uno entre Troll / Ogro / Minotauro según lista).
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/elegidos-del-caos.md`](../../source/teams/elegidos-del-caos.md). Reglamento: [`reglamento-bb3-season3.pdf`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). Big Guy: **Troll del Caos** (elegir uno entre Troll / Ogro / Minotauro según lista).
 
 ## Alineación
 

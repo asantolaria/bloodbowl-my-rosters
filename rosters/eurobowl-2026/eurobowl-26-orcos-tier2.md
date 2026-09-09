@@ -1,6 +1,5 @@
 # Orcos — EuroBowl 2026 (Tier 2, Team Budget 1070k)
 
-![Orcos](../../source/images/equipos/orcos.webp)
 
 > **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Lista alineada con captura del builder (vídeo [EuroBowl / listas — YouTube](https://www.youtube.com/watch?v=wrmKRBFNqcM)). Posiciones: [`source/teams/orcos.md`](../../source/teams/orcos.md).
 

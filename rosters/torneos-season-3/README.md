@@ -4,7 +4,7 @@ Plantillas de referencia para **torneos genéricos** en **Blood Bowl 3ª tempora
 
 **No sustituyen** al reglamento de tu evento: rerolls, apotecario, fans y paquetes de habilidades pueden variar.
 
-**Datos de lista:** [`source/teams/`](../../source/teams/) (Nuffle Zone 2025).
+**Datos de lista:** [Equipos](../../source/teams/README.md) (Nuffle Zone 2025).
 
 ---
 
@@ -38,4 +38,4 @@ Plantillas de referencia para **torneos genéricos** en **Blood Bowl 3ª tempora
 | 1.150k | Hombres Lagarto | [torneo-s3-hombres-lagarto-1150k.md](torneo-s3-hombres-lagarto-1150k.md) |
 | 1.200k | Hombres Lagarto | [torneo-s3-hombres-lagarto-1200k.md](torneo-s3-hombres-lagarto-1200k.md) |
 
-**EuroBowl 2026** (#euro26) sigue en [../eurobowl-2026/](../eurobowl-2026/).
+**EuroBowl 2026** (#euro26) sigue en [EuroBowl BETA](../eurobowl-2026/README.md)(../eurobowl-2026/).

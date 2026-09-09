@@ -56,11 +56,11 @@ Toda la referencia de equipos, habilidades, jugadores estrella, tablas y tiers e
 | Tipo | Dónde | Descripción |
 |------|--------|-------------|
 | **Equipos** | [Índice (Equipos)](source/index.md#equipos) · [Carpeta `teams/`](source/teams/) | Posiciones, costes, estadísticas (MA, ST, AG, PA, AR), habilidades y progresión por equipo. |
-| **Habilidades** | [Índice (Habilidades)](source/index.md#habilidades) · [Carpeta `habilidades/`](source/habilidades/) | Descripción oficial por categoría (Agilidad, Fuerza, General, Mutaciones, Pase, Rasgos, Triquiñuelas). |
-| **Jugadores estrella** | [Índice (Jugadores estrella)](source/index.md#jugadores-estrella) · [Carpeta `jugadores-estrella/`](source/jugadores-estrella/) | Coste, estadísticas, habilidades y equipos para los que juegan. |
+| **Habilidades** | [Habilidades](docs/habilidades.md) · [Carpeta `habilidades/`](source/habilidades/) | Descripción oficial por categoría (Agilidad, Fuerza, General, Mutaciones, Pase, Rasgos, Triquiñuelas). |
+| **Jugadores estrella** | [Jugadores estrella](source/jugadores-estrella/README.md) · [Carpeta `jugadores-estrella/`](source/jugadores-estrella/) | Coste, estadísticas, habilidades y equipos para los que juegan. |
 | **Tiers** | [README tiers](source/tiers/README.md) · [EuroBowl 2026 FINAL](source/tiers/eurobowl-2026-final.md) · [Oro / presupuesto](source/tiers/oro-presupuesto.md) | #euro26: Team Budget + Skill Gold + Flowing. Otros: oro por tier genérico en `oro-presupuesto.md`. |
-| **Tablas de juego** | [Índice (Tablas)](source/index.md#tablas-de-juego) · [Carpeta `tablas/`](source/tablas/) | Heridas y lesiones, clima, patada inicial, plegarias de Nuffle, experiencia y SPP. |
-| **Reglamento GW (Season 3)** | [referencias-reglamento-bb3.md](source/referencias-reglamento-bb3.md) · [PDF](source/reglamento/reglamento-bb3-season3.pdf) | Texto oficial de reglas (3ª temporada / 2025); contenido © Games Workshop. |
+| **Tablas de juego** | [Tablas de juego](source/tablas/README.md) · [Carpeta `tablas/`](source/tablas/) | Heridas y lesiones, clima, patada inicial, plegarias de Nuffle, experiencia y SPP. |
+| **Reglamento GW (Season 3)** | [referencias-reglamento-bb3.md](source/referencias-reglamento-bb3.md) · [PDF](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf) | Texto oficial de reglas (3ª temporada / 2025); contenido © Games Workshop. |
 | **Plantilla y más** | [Plantilla roster](source/plantilla-roster.md) · [Convenciones](source/README.md) | Plantilla para crear rosters y convenciones del repo (coste en k, CTD, etc.). |
 | **Comprobación local** | [`scripts/audit_rosters.py`](scripts/audit_rosters.py) | Opcional: valida cupos CTD y costes de la primera tabla de alineación frente a `source/teams/` (`python scripts/audit_rosters.py`). |
 

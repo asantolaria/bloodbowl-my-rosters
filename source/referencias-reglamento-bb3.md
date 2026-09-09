@@ -6,7 +6,7 @@ Para **texto reglamentario** (secuencia de turno, acciones, interacciones de hab
 
 ## Copia en este repositorio
 
-**PDF (Season 3 / BB2025):** [reglamento/reglamento-bb3-season3.pdf](reglamento/reglamento-bb3-season3.pdf)
+**PDF (Season 3 / BB2025):** [reglamento/reglamento-bb3-season3.pdf](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf)
 
 - **Uso en el proyecto:** priorizar este archivo (ruta estable en el workspace) frente a wikis o resúmenes no verificados para la **letra de la regla**.
 - **Ámbito:** mismo marco que **BB 3ª temporada / Blood Bowl 2025** (`Nuffle Zone` para listas y tablas resumidas; **reglamento GW** para normas escritas).
@@ -22,7 +22,7 @@ Detalles de la carpeta: [reglamento/README.md](reglamento/README.md).
 
 | Tema | Fuente principal en el repo |
 |------|-----------------------------|
-| Texto legal de reglas | [reglamento-bb3-season3.pdf](reglamento/reglamento-bb3-season3.pdf) + GW downloads |
+| Texto legal de reglas | [reglamento-bb3-season3.pdf](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf) + GW downloads |
 | Rosters, costes, habilidades por posición | `source/teams/*.md` + [Nuffle Zone](https://nufflezone.com) |
 | Tablas resumidas | `source/tablas/` y Nuffle Zone |
 | Torneos NAF / EuroBowl | `source/tiers/*.md` y reglamentos de evento |

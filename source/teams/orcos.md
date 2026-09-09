@@ -1,6 +1,5 @@
 # Orcos — Datos 2025
 
-![Orcos](../images/equipos/orcos.webp)
 
 Fuente: [Nuffle Zone — Orcos](https://nufflezone.com/equipos-blood-bowl/orcos/)
 

@@ -5,6 +5,8 @@ repo_url: https://github.com/asantolaria/bloodbowl-my-rosters
 repo_name: asantolaria/bloodbowl-my-rosters
 
 docs_dir: docs
+exclude_docs: |
+  source/README.md
 theme:
   name: material
   language: es
@@ -50,12 +52,13 @@ plugins:
 nav:
   - Inicio: index.md
   - Rosters:
-      - Índice: rosters/README.md
-      - Iniciales: rosters/iniciales/README.md
+      - Todos los rosters: rosters/README.md
+      - Iniciales 1.000k: rosters/iniciales/README.md
       - Torneos Season 3: rosters/torneos-season-3/README.md
-      - EuroBowl 2026: rosters/eurobowl-2026/README.md
+      - EuroBowl 2026 · FINAL: source/tiers/eurobowl-2026-final.md
+      - EuroBowl 2026 · BETA: rosters/eurobowl-2026/README.md
   - Referencia:
-      - Índice: source/index.md
+      - Mapa del contenido: source/index.md
       - Equipos: source/teams/README.md
       - Habilidades: habilidades.md
       - Jugadores estrella: source/jugadores-estrella/README.md

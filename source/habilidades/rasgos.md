@@ -1,6 +1,6 @@
 # Rasgos especiales
 
-Fuente: [Nuffle Zone — Habilidades Blood Bowl](https://nufflezone.com/habilidades-blood-bowl/) (bloque **Tercera Temporada 2025**). [PDF Season 3 en repo](../reglamento/reglamento-bb3-season3.pdf). Los rasgos **no** se compran con SPP; vienen en la ficha del jugador.
+Fuente: [Nuffle Zone — Habilidades Blood Bowl](https://nufflezone.com/habilidades-blood-bowl/) (bloque **Tercera Temporada 2025**). [PDF Season 3 en repo](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). Los rasgos **no** se compran con SPP; vienen en la ficha del jugador.
 
 | Rasgo (ES) | Inglés | Tipo | Resumen |
 |------------|--------|------|---------|

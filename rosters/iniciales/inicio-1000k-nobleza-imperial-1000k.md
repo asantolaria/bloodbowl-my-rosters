@@ -2,7 +2,7 @@
 
 ![Nobleza Imperial](../../source/images/equipos/nobleza-imperial.webp)
 
-> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/nobleza-imperial.md`](../../source/teams/nobleza-imperial.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Plantilla con todos los posicionales; el **apotecario** puede comprarse tras el primer partido según reglas de liga.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/nobleza-imperial.md`](../../source/teams/nobleza-imperial.md). Reglamento: [`reglamento-bb3-season3.pdf`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). Plantilla con todos los posicionales; el **apotecario** puede comprarse tras el primer partido según reglas de liga.
 
 ## Alineación
 

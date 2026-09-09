@@ -1,6 +1,5 @@
 # Renegados del Caos — Datos 2025
 
-![Renegados del Caos](../images/equipos/renegados-del-caos.webp)
 
 Fuente: [Nuffle Zone EN — Chaos Renegade / Chaos Pact](https://nufflezone.com/en/blood-bowl-teams/chaos-renegade/) (tabla **Chaos Pact 2025**; nombres de habilidades en español alineados al repo / PDF Season 3).
 
@@ -27,4 +26,4 @@ Fuente: [Nuffle Zone EN — Chaos Renegade / Chaos Pact](https://nufflezone.com/
 ## Descripción oficial de las habilidades
 
 * **Animosidad (todos) — incl.:** Al Pasar o Entregar a compañero con la clave **(todos)**: 1D6; **1** = se niega y termina la activación.  
-* **Pasar, Manos Seguras, Esquivar, Golpe Mortífero, Cabeza Dura, Furia, Cuernos, Ira Descontrolada, Regeneración, Lanzar Compañero, Estúpido, Realmente Estúpido, Siempre Hambriento, Proyectil Vómito, Solitario, Humanoide Bala, Escurridizo, Cola Prensil, Ferocidad Animal** — definiciones estándar Season 3 / Nuffle; ver [`habilidades/`](../habilidades/) y equipos afines (p. ej. `skavens.md` para Cola Prensil y Ferocidad Animal).
+* **Pasar, Manos Seguras, Esquivar, Golpe Mortífero, Cabeza Dura, Furia, Cuernos, Ira Descontrolada, Regeneración, Lanzar Compañero, Estúpido, Realmente Estúpido, Siempre Hambriento, Proyectil Vómito, Solitario, Humanoide Bala, Escurridizo, Cola Prensil, Ferocidad Animal** — definiciones estándar Season 3 / Nuffle; ver [Habilidades](../habilidades/README.md) y equipos afines (p. ej. `skavens.md` para Cola Prensil y Ferocidad Animal).

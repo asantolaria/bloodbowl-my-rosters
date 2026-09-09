@@ -1,6 +1,5 @@
 # Nigromantes (Horror Nigromántico) — Datos 2025
 
-![Nigromantes](../images/equipos/nigromantes.webp)
 
 Fuente: [Nuffle Zone — Nigromantes](https://nufflezone.com/equipos-blood-bowl/nigromantes/)
 

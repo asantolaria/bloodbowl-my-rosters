@@ -1,6 +1,5 @@
 # Vampiros — Datos 2025
 
-![Vampiros](../images/equipos/vampiros.webp)
 
 Fuente: [Nuffle Zone — Vampiros](https://nufflezone.com/equipos-blood-bowl/vampiros/) (página en evolución; la tabla siguiente se volcó desde **captura de builder** EuroBowl / lista **Vampire** GW hasta alinear con Nuffle oficial).
 

@@ -1,6 +1,6 @@
 # Habilidades — Mutaciones
 
-Fuente: [Nuffle Zone — Habilidades Blood Bowl](https://nufflezone.com/habilidades-blood-bowl/) (bloque **Tercera Temporada 2025**). [PDF Season 3 en repo](../reglamento/reglamento-bb3-season3.pdf).
+Fuente: [Nuffle Zone — Habilidades Blood Bowl](https://nufflezone.com/habilidades-blood-bowl/) (bloque **Tercera Temporada 2025**). [PDF Season 3 en repo](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf).
 
 | Habilidad (ES) | Inglés | Tipo | +TV (prog.) | Resumen |
 |----------------|--------|------|--------------|---------|

@@ -1,6 +1,5 @@
 # Enanos del Caos — EuroBowl 2026 (Tier 5, Team Budget 1120k)
 
-![Enanos del Caos](../../source/images/equipos/enanos-del-caos.webp)
 
 > **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/enanos-del-caos.md`](../../source/teams/enanos-del-caos.md).
 

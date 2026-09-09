@@ -2,7 +2,7 @@
 
 ![Hombres Lagarto](../../source/images/equipos/hombres-lagarto.webp)
 
-> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). **1 Kroxigor, 6 Saurios** para control físico; en liga, priorizar **Líder** y **apotecario** cuando el presupuesto lo permita.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md). Reglamento: [`reglamento-bb3-season3.pdf`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). **1 Kroxigor, 6 Saurios** para control físico; en liga, priorizar **Líder** y **apotecario** cuando el presupuesto lo permita.
 
 ## Alineación
 

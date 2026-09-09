@@ -1,6 +1,5 @@
 # Nigromantes — EuroBowl 2026 (Tier 3, Team Budget 1080k)
 
-![Nigromantes](../../source/images/equipos/nigromantes.webp)
 
 > **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Lista alineada con captura del builder (vídeo [EuroBowl / listas — YouTube](https://www.youtube.com/watch?v=wrmKRBFNqcM)). Equipo **Necromantic Horror**; posiciones: [`source/teams/nigromantes.md`](../../source/teams/nigromantes.md).
 

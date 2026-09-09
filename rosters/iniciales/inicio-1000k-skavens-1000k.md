@@ -2,7 +2,7 @@
 
 ![Skavens](../../source/images/equipos/skavens.webp)
 
-> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/skavens.md`](../../source/teams/skavens.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Build estándar con **Rata Ogro** y núcleo de posicionales a tope permitido.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/skavens.md`](../../source/teams/skavens.md). Reglamento: [`reglamento-bb3-season3.pdf`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). Build estándar con **Rata Ogro** y núcleo de posicionales a tope permitido.
 
 ## Alineación
 

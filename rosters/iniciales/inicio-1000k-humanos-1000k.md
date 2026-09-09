@@ -2,7 +2,7 @@
 
 ![Humanos](../../source/images/equipos/humanos.webp)
 
-> **BB 3ª temporada / BB2025.** Roster de inicio según [`source/teams/humanos.md`](../../source/teams/humanos.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Algunos desgloses añaden **2 × fans dedicados** (TV **1.010k** si cuentas todo); esta ficha usa **1 fan** para cerrar **1.000k** exactos con **1 Ogro, 2 Blitzers, 2 Catchers, 1 Halfling, 6 Líneas, 3 RR, apotecario**.
+> **BB 3ª temporada / BB2025.** Roster de inicio según [`source/teams/humanos.md`](../../source/teams/humanos.md). Reglamento: [`reglamento-bb3-season3.pdf`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). Algunos desgloses añaden **2 × fans dedicados** (TV **1.010k** si cuentas todo); esta ficha usa **1 fan** para cerrar **1.000k** exactos con **1 Ogro, 2 Blitzers, 2 Catchers, 1 Halfling, 6 Líneas, 3 RR, apotecario**.
 
 ## Alineación
 

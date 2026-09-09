@@ -1,6 +1,5 @@
 # Goblins — EuroBowl 2026 (Tier 5, Team Budget 1120k)
 
-![Goblins](../../source/images/equipos/goblins.webp)
 
 > **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/goblins.md`](../../source/teams/goblins.md).
 

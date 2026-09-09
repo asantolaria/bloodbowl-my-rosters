@@ -1,6 +1,5 @@
 # Renegados del Caos — EuroBowl 2026 (Tier 5) — PLANTILLA
 
-![Renegados del Caos](../../source/images/equipos/renegados-del-caos.webp)
 
 > **Plantilla:** Roster 2025 en `source/teams/renegados-del-caos.md` (Nuffle EN); validar costes con PDF GW / pack #euro26.
 >

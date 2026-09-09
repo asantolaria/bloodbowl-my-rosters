@@ -2,7 +2,7 @@
 
 ![No-Muertos](../images/equipos/no-muertos.webp)
 
-**Autoridad reglamentaria:** [Reglamento GW — Season 3 / 3ª temporada (PDF en repo)](../reglamento/reglamento-bb3-season3.pdf) · Respaldo: [Blood Bowl Downloads](https://www.warhammer-community.com/blood-bowl-downloads/) · [`referencias-reglamento-bb3.md`](../referencias-reglamento-bb3.md).  
+**Autoridad reglamentaria:** [Reglamento GW — Season 3 / 3ª temporada (PDF en repo)](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf) · Respaldo: [Blood Bowl Downloads](https://www.warhammer-community.com/blood-bowl-downloads/) · [`referencias-reglamento-bb3.md`](../referencias-reglamento-bb3.md).
 **Lista de equipo y costes (BB2025 / Third Season):** [Nuffle Zone — No-Muertos](https://nufflezone.com/equipos-blood-bowl/no-muertos/) (tabla **No-Muertos 2025**).
 
 ## Roster 2025 (3ª temporada / BB2025)

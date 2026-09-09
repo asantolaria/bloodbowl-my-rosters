@@ -1,6 +1,5 @@
 # Nurgle — EuroBowl 2026 (Tier 4, Team Budget 1100k)
 
-![Nurgle](../../source/images/equipos/nurgle.webp)
 
 > **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/nurgle.md`](../../source/teams/nurgle.md).
 
