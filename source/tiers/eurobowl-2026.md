@@ -1,4 +1,6 @@
-# EuroBowl 2026 — Living Ruleset (BETA + HE patch)
+# EuroBowl 2026 — BETA + HE patch (histórico)
+
+> **Sustituido por el formato FINAL:** consultar [eurobowl-2026-final.md](eurobowl-2026-final.md), comprobado el 08/09/2026. Este documento conserva la referencia BETA usada por los rosters existentes; sus tiers y condiciones no deben aplicarse a listas FINAL. La [revisión del repositorio](../revision-2026-09-08.md) recoge también errores pendientes en esas listas.
 
 Copa oficial **NAF** con **valoración estándar** escalada por tier. Este documento resume el *Living Ruleset* **BETA + HE patch** (#euro26): tercera versión de trabajo, sujeta a cambios según datos recopilados. **Siempre confirmar** con el reglamento publicado por el organizador del evento.
 
@@ -116,7 +118,7 @@ Deeproot Strongbranch, Grak & Crumbleberry, Ivar Eriksson, Kreek Rustgouger, Lor
 1. **EuroBowl 2026** no usa la misma tabla que `oro-presupuesto.md` ni el antiguo sistema de **Skill Points** por tier del *Designer’s Commentary* GW: aquí hay **6 tiers**, presupuestos **1.060k–1.140k** y **Skill Gold + Flowing Funds + tipos Primary / Secondary / Stack**.
 2. Para **EuroBowl 2026**, usar **este documento** y el reglamento oficial del evento. Para otros torneos NAF, el pack del organizador; `oro-presupuesto.md` puede servir de referencia para oro de construcción genérico (otra escala de tiers).
 3. Hashtag del formato: **#euro26**.
-4. Plantillas de alineación por equipo y tier: [rosters/eurobowl-2026/README.md](../../rosters/eurobowl-2026/README.md). **Estado:** marcadas como **revisión competitiva pendiente** (`eurobowl-2026-wip-competitive`) — válidas en presupuesto, no optimizadas para meta.
+4. Plantillas de alineación por equipo y tier: [rosters/eurobowl-2026/README.md](../../rosters/eurobowl-2026/README.md). **Estado:** marcadas como **revisión competitiva pendiente** (`eurobowl-2026-wip-competitive`) — pendientes de validación reglamentaria y económica, además de revisión competitiva.
 
 ## Referencias
 

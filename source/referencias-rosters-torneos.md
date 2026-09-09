@@ -1,5 +1,7 @@
 # Referencias — Rosters en torneos y 1000k
 
+**Revisión actual:** [08/09/2026: auditoría, fuentes y prioridades](revision-2026-09-08.md). EuroBowl: [FINAL](tiers/eurobowl-2026-final.md), conservando la [BETA histórica](tiers/eurobowl-2026.md). Para tendencias actuales, distinguir **edición BB2025** de **año de resultados 2026** y comprobar la versión del pack.
+
 **Marco válido:** solo **Blood Bowl 3ª temporada / BB2025**. No usar como autoridad artículos, tablas o guías de ediciones anteriores ni sitios que mezclen reglas viejas sin etiquetar **BB2025 / Third Season**.
 
 **Reglamento (máxima prioridad):** [referencias-reglamento-bb3.md](referencias-reglamento-bb3.md) y PDF en repo: [reglamento-bb3-season3.pdf](reglamento/reglamento-bb3-season3.pdf). Respaldo oficial: [Blood Bowl Downloads](https://www.warhammer-community.com/blood-bowl-downloads/).
@@ -22,4 +24,4 @@ No usar como autoridad blogs o agregadores que mezclen ediciones sin etiquetar B
 - **Habilidades (nombres y resúmenes BB2025):** `source/habilidades/` (tablas alineadas a [Nuffle Zone — Habilidades](https://nufflezone.com/habilidades-blood-bowl/) · bloque 3ª temporada); índice en [`source/index.md#habilidades`](index.md#habilidades).
 - **Listas guardadas en el repo:** `rosters/` (convención y lista en `rosters/README.md`); plantilla nueva lista: [`source/plantilla-roster.md`](plantilla-roster.md).
 - **Tendencias / meta:** NAF u otros datos solo con **año** y variante **BB2025** acotados en la fuente; no mezclar series viejas.
-- **Torneos #euro26:** `source/tiers/eurobowl-2026.md` (y [`source/tiers/README.md`](tiers/README.md)).
+- **Torneos #euro26:** [FINAL](tiers/eurobowl-2026-final.md) y pack del evento; [BETA histórica](tiers/eurobowl-2026.md) para listas antiguas (y [`source/tiers/README.md`](tiers/README.md)).

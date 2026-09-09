@@ -2,7 +2,9 @@
 
 Plantillas de equipo para la copa NAF **EuroBowl 2026** (*Living Ruleset* BETA + HE patch), **Blood Bowl 3ª temporada / BB2025**.
 
-**Reglas y presupuestos:** [source/tiers/eurobowl-2026.md](../../source/tiers/eurobowl-2026.md).
+> **Estado a 08/09/2026:** estas **31 listas conservan la BETA**. La [versión FINAL](../../source/tiers/eurobowl-2026-final.md) cambia tiers y presupuestos. Los nombres de archivo y el índice inferior muestran los tiers anteriores. Consultar la [auditoría y propuesta de actualización](../../source/revision-2026-09-08.md); no están certificadas para inscripción.
+
+**Referencia histórica:** [BETA + HE patch](../../source/tiers/eurobowl-2026.md). **Formato actual comprobado:** [FINAL](../../source/tiers/eurobowl-2026-final.md).
 
 **Listas desde vídeo (comunidad):** [YouTube — wrmKRBFNqcM](https://www.youtube.com/watch?v=wrmKRBFNqcM). Donde un `.md` cite ese enlace, la alineación intenta reproducir el builder del vídeo; el resto de equipos necesitan la misma fuente o el PDF oficial del torneo para cuadrar jugadores y Skill Gold.
 
@@ -36,10 +38,10 @@ Estos `.md` **no** se regeneran con `_build_rosters.py` (están en `SKIP_EMIT` e
 
 ---
 
-## Estado — revisión competitiva pendiente
+## Estado — revisión reglamentaria y competitiva pendiente
 
 > **No usar como listas “finales” para torneo** sin repasar.  
-> Cada archivo cumple el **marco económico** EuroBowl 2026 (Team Budget, rerolls/apo/fans, Skill Gold y Flowing según tier), pero las **alineaciones de ejemplo** y el bloque de **Skill Gold** no están optimizados para **meta competitiva** (ni contrastados con estadísticas NAF / guías recientes).  
+> La auditoría local encuentra discrepancias de cupos y costes, además de nombres no reconocidos. También hay errores de clasificación de habilidades que el script no comprueba. **No se garantiza el cumplimiento del marco económico ni reglamentario.**
 > **Trabajo pendiente:** revisar por raza/tier composición, reparto de avances, estrellas e inducements antes de jugar en serio.
 
 **Etiqueta de seguimiento (búsqueda en repo):** `eurobowl-2026-wip-competitive`
@@ -53,7 +55,7 @@ Estos `.md` **no** se regeneran con `_build_rosters.py` (están en `SKIP_EMIT` e
 - **slug-equipo:** como en `source/teams/` (ej. `altos-elfos`, `enanos-del-caos`).
 - **tier:** tier EuroBowl 1–6 (presupuesto de equipo 1.060k–1.140k según tabla del reglamento).
 
-## Índice por tier
+## Índice por tier BETA (histórico)
 
 | Tier | Team Budget | Skill Gold (pool) | Flowing | Equipos (archivo) |
 |------|-------------|-------------------|---------|-------------------|
@@ -72,6 +74,8 @@ Estos `.md` **no** se regeneran con `_build_rosters.py` (están en `SKIP_EMIT` e
 - Referencias a estrellas (por tier) e inducements permitidos.
 
 ## Regenerar archivos
+
+**El generador sigue usando la BETA y contiene datos pendientes de corregir.** Ejecutarlo no migra las listas a FINAL. Véase la [valoración técnica](../../source/revision-2026-09-08.md#plan-de-actualización-y-criterio-de-cierre).
 
 Tras editar datos en `_build_rosters.py`:
 

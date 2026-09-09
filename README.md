@@ -1,8 +1,12 @@
 # Blood Bowl — My Rosters
 
+> Sitio web: activa GitHub Pages con la fuente `GitHub Actions` para publicar la portada estática desde [`docs/`](docs/). También puedes abrir la versión local en [`docs/index.html`](docs/index.html).
+
 Repositorio para guardar y consultar **rosters de Blood Bowl** en Markdown, enfocado en **Blood Bowl Third Season (2025)**.
 
-**Torneos NAF recientes:** el formato **EuroBowl 2026** (#euro26) usa **Skill Gold** y presupuestos por tier descritos en [`source/tiers/eurobowl-2026.md`](source/tiers/eurobowl-2026.md). Plantillas en [`rosters/eurobowl-2026/`](rosters/eurobowl-2026/). Para presupuestos genéricos Season 3 (p. ej. **~1.000k–1.100k** Unión Élfica, **~1.060k–1.100k** No Muertos, **~1.000k–1.060k** Skavens, **~1.100k** Orcos Negros con paquete de skills, **~1.100k–1.135k** Elegidos del Caos (variantes Big Guy), **~1.150k–1.155k** Nobleza Imperial (1 o 2 Throwers), **~1.150k–1.200k** Hombres Lagarto), ver [`rosters/torneos-season-3/`](rosters/torneos-season-3/). Otros torneos: reglamento del evento + si aplica oro escalado, [`source/tiers/oro-presupuesto.md`](source/tiers/oro-presupuesto.md).
+> **Revisión 08/09/2026:** disponible la [referencia EuroBowl FINAL de 7 tiers](source/tiers/eurobowl-2026-final.md). Las listas existentes conservan la BETA y tienen discrepancias pendientes. Ver [auditoría, novedades y propuesta de actualización](source/revision-2026-09-08.md) antes de utilizarlas en torneo.
+
+**Torneos NAF recientes:** el formato **EuroBowl 2026** (#euro26) usa **Skill Gold** y presupuestos por tier descritos en la [referencia FINAL](source/tiers/eurobowl-2026-final.md). Plantillas BETA pendientes de migrar en [`rosters/eurobowl-2026/`](rosters/eurobowl-2026/). Para presupuestos genéricos Season 3 (p. ej. **~1.000k–1.100k** Unión Élfica, **~1.060k–1.100k** No Muertos, **~1.000k–1.060k** Skavens, **~1.100k** Orcos Negros con paquete de skills, **~1.100k–1.135k** Elegidos del Caos (variantes Big Guy), **~1.150k–1.155k** Nobleza Imperial (1 o 2 Throwers), **~1.150k–1.200k** Hombres Lagarto), ver [`rosters/torneos-season-3/`](rosters/torneos-season-3/). Otros torneos: reglamento del evento + si aplica oro escalado, [`source/tiers/oro-presupuesto.md`](source/tiers/oro-presupuesto.md).
 
 ---
 
@@ -54,7 +58,7 @@ Toda la referencia de equipos, habilidades, jugadores estrella, tablas y tiers e
 | **Equipos** | [Índice (Equipos)](source/index.md#equipos) · [Carpeta `teams/`](source/teams/) | Posiciones, costes, estadísticas (MA, ST, AG, PA, AR), habilidades y progresión por equipo. |
 | **Habilidades** | [Índice (Habilidades)](source/index.md#habilidades) · [Carpeta `habilidades/`](source/habilidades/) | Descripción oficial por categoría (Agilidad, Fuerza, General, Mutaciones, Pase, Rasgos, Triquiñuelas). |
 | **Jugadores estrella** | [Índice (Jugadores estrella)](source/index.md#jugadores-estrella) · [Carpeta `jugadores-estrella/`](source/jugadores-estrella/) | Coste, estadísticas, habilidades y equipos para los que juegan. |
-| **Tiers** | [README tiers](source/tiers/README.md) · [EuroBowl 2026](source/tiers/eurobowl-2026.md) · [Oro / presupuesto](source/tiers/oro-presupuesto.md) | #euro26: Team Budget + Skill Gold + Flowing. Otros: oro por tier genérico en `oro-presupuesto.md`. |
+| **Tiers** | [README tiers](source/tiers/README.md) · [EuroBowl 2026 FINAL](source/tiers/eurobowl-2026-final.md) · [Oro / presupuesto](source/tiers/oro-presupuesto.md) | #euro26: Team Budget + Skill Gold + Flowing. Otros: oro por tier genérico en `oro-presupuesto.md`. |
 | **Tablas de juego** | [Índice (Tablas)](source/index.md#tablas-de-juego) · [Carpeta `tablas/`](source/tablas/) | Heridas y lesiones, clima, patada inicial, plegarias de Nuffle, experiencia y SPP. |
 | **Reglamento GW (Season 3)** | [referencias-reglamento-bb3.md](source/referencias-reglamento-bb3.md) · [PDF](source/reglamento/reglamento-bb3-season3.pdf) | Texto oficial de reglas (3ª temporada / 2025); contenido © Games Workshop. |
 | **Plantilla y más** | [Plantilla roster](source/plantilla-roster.md) · [Convenciones](source/README.md) | Plantilla para crear rosters y convenciones del repo (coste en k, CTD, etc.). |
