@@ -41,6 +41,5 @@ Rosters de Blood Bowl en Markdown, referencias de reglas y herramientas para con
 - [Rosters iniciales de 1.000k](rosters/iniciales/README.md)
 - [Rosters de torneos Season 3](rosters/torneos-season-3/README.md)
 - [Todos los equipos](source/teams/README.md)
-- [Habilidades](source/habilidades/README.md)
+- [Todas las habilidades](habilidades.md)
 - [Reglamento BB2025](source/referencias-reglamento-bb3.md)
-

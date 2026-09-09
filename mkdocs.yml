@@ -41,6 +41,7 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.tabbed
+  - pymdownx.snippets
 
 plugins:
   - search
@@ -55,7 +56,7 @@ nav:
   - Referencia:
       - Índice: source/index.md
       - Equipos: source/teams/README.md
-      - Habilidades: source/habilidades/README.md
+      - Habilidades: habilidades.md
       - Jugadores estrella: source/jugadores-estrella/README.md
       - Tablas de juego: source/tablas/README.md
       - Tiers: source/tiers/README.md
