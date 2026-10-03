@@ -1,10 +1,12 @@
 # Carpeta `source/reglamento/`
 
-## Archivo incluido
+> **El PDF no se versiona** (contenido © Games Workshop): cada uno guarda su copia local en esta carpeta como `reglamento-bb3-season3.pdf` (está en `.gitignore`). Se compra/descarga desde los canales oficiales de GW.
+
+## Archivo local (no versionado)
 
 | Archivo | Descripción |
 |---------|-------------|
-| [reglamento-bb3-season3.pdf](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf) | Reglamento **Blood Bowl 3ª temporada / Season 3 (2025)** (Games Workshop). Copia de trabajo del repositorio para consulta y para que agentes/rutas relativas no dependan de `Downloads`. |
+| reglamento-bb3-season3.pdf *(copia local, no publicada)* | Reglamento **Blood Bowl 3ª temporada / Season 3 (2025)** (Games Workshop). Copia de trabajo del repositorio para consulta y para que agentes/rutas relativas no dependan de `Downloads`. |
 
 **Derechos:** contenido © Games Workshop. Usa el material según la licencia del juego y las condiciones de tu fork o publicación.
 

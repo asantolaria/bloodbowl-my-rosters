@@ -154,7 +154,8 @@ nav:
       - rosters/README.md
       - Iniciales 1.000k: rosters/iniciales/README.md
       - Torneos Temporada 3: rosters/torneos-season-3/README.md
-      - EuroBowl 2026 (BETA): rosters/eurobowl-2026/README.md
+      - EuroBowl 2026 FINAL: rosters/eurobowl-2026/README.md
+      - EuroBowl 2026 BETA (histórico): rosters/eurobowl-2026/beta/README.md
       - Fuentes de rosters: source/referencias-rosters-torneos.md
       - Plantilla de roster: source/plantilla-roster.md
       - Nombres de equipo: source/nombres-equipos-sugeridos.md

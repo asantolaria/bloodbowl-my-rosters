@@ -1,103 +1,67 @@
-# Slann — EuroBowl 2026 (Tier 4, Team Budget 1100k)
+# Slann — EuroBowl 2026 FINAL (Tier 4)
 
 ![Slann](../../source/images/equipos/slann.webp)
 
-> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Lista alineada con captura del builder (vídeo [EuroBowl / listas — YouTube](https://www.youtube.com/watch?v=wrmKRBFNqcM)). Lista nueva **Slann** (costes/stats distintos del bloque antiguo Kroxigor en `slann.md`); validar con PDF GW / Nuffle cuando actualicen la ficha.
+> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/slann.md`](../../source/teams/slann.md). Generado con `_build_final.py`.
+>
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL.
+>
+> **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
-> **Estado:** plantilla **desde captura**. **13 jugadores**. No regenerar con `_build_rosters.py` (ver `SKIP_EMIT`). Tag: `eurobowl-2026-wip-competitive`.
+## Presupuesto
 
-## Presupuesto EuroBowl (tier 4)
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier** | 4 |
-| **Team Budget (base)** | 1.100.000 M.O. |
-| **Skill Gold (pool)** | 190.000 M.O. |
-| **Flowing Funds (máx.)** | 30.000 M.O. |
-
-*En la captura: **Team budget** 1100k / 1100k; **Skill Gold** 220k / 190k (**190k** pool + **30k** Flowing a Skill Gold = **220k** en avances); **Flowing Funds** 30k / 30k.*
+| Concepto | Disponible | Usado |
+|----------|-----------|-------|
+| **Presupuesto de equipo** | 1.100.000 M.O. | 1.100.000 M.O. |
+| **Skill Gold** | 190.000 M.O. | 210.000 M.O. |
+| **Flowing Funds** | 30.000 M.O. | 0 → equipo · 20.000 → Skill Gold |
 
 ## Alineación
 
-*En **negrita**, avances de Skill Gold. Nombres de posición en inglés del builder (**Slann Blitzer**, etc.). **Diving Catch** → **Atrapada de inmersión** (nombre habitual; contrastar con PDF GW).*
+*Rellenar nombres. Habilidades compradas con Skill Gold en **negrita**.*
 
-| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
-|----|--------|----------|-------|----|----|----|----|-----|-------------|
-| 1 | ____ | Slann Blitzer | 100k | 7 | 3 | 3+ | 4+ | 9+ | Placaje heroico, Golpe a la carrera, En pie de un salto, Pogo saltarín, **Placar** |
-| 2 | ____ | Slann Catcher | 80k | 7 | 2 | 2+ | 3+ | 8+ | Atento al balón, Atrapada de inmersión, Piernas muy largas, Pogo saltarín, **Esquivar** |
-| 3 | ____ | Slann Catcher | 80k | 7 | 2 | 2+ | 3+ | 8+ | Atento al balón, Atrapada de inmersión, Piernas muy largas, Pogo saltarín, **Vigilar** |
-| 4 | ____ | Slann Blitzer | 100k | 7 | 3 | 3+ | 4+ | 9+ | Placaje heroico, Golpe a la carrera, En pie de un salto, Pogo saltarín, **Forcejeo** |
-| 5 | ____ | Slann Lineman | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín, **Forcejeo** |
-| 6 | ____ | Slann Lineman | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín, **Forcejeo** |
-| 7 | ____ | Slann Lineman | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín, **Robar balón**, **Forcejeo** |
-| 8 | ____ | Slann Lineman | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín |
-| 9 | ____ | Slann Lineman | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín |
-| 10 | ____ | Slann Lineman | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín |
-| 11 | ____ | Slann Lineman | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín |
-| 12 | ____ | Slann Lineman | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín |
-| 13 | ____ | Slann Lineman | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
+|----|--------|----------|-------|----|----|----|----|----|-------------|------------|
+| 1 | ____ | Kroxigor | 140k | 6 | 5 | 5+ | 6+ | 10+ | Cabeza dura, Cola prensil, Estúpido, Golpe mortífero, Solitario (4+) | – |
+| 2 | ____ | Slann Catcher | 80k | 7 | 2 | 2+ | 3+ | 8+ | Atento al balón, Piernas muy largas, Pogo saltarín, Recepción heroica, **Esquivar** | Primaria élite 30k |
+| 3 | ____ | Slann Catcher | 80k | 7 | 2 | 2+ | 3+ | 8+ | Atento al balón, Piernas muy largas, Pogo saltarín, Recepción heroica, **Defensa** | Secundaria élite 50k |
+| 4 | ____ | Slann Línea | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín, **Forcejear** | Primaria 20k |
+| 5 | ____ | Slann Línea | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín, **Forcejear** | Primaria 20k |
+| 6 | ____ | Slann Línea | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín, **Forcejear** | Primaria 20k |
+| 7 | ____ | Slann Línea | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín, **Forcejear** | Primaria 20k |
+| 8 | ____ | Slann Línea | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín, **Robar balón**, **Forcejear** | Stack 50k |
+| 9 | ____ | Slann Línea | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín | – |
+| 10 | ____ | Slann Línea | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín | – |
+| 11 | ____ | Slann Línea | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín | – |
+| 12 | ____ | Slann Línea | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín | – |
+| 13 | ____ | Slann Línea | 60k | 6 | 3 | 3+ | 4+ | 9+ | Pogo saltarín | – |
 
-**Total jugadores:** 13 | **Suma jugadores:** 900.000 M.O.
-
-**Desglose presupuesto de equipo (captura):**
+**Total jugadores:** 13
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (2×100k + 2×80k + 9×60k) | 900.000 |
-| Rerolls de equipo (4 × 50.000) | 200.000 |
-| Apotecario | 0 |
-| Asistentes / cheerleaders / Hinchas | 0 |
-| **Total gastado** | **1.100.000** |
-| **Team Budget base (tier 4)** | 1.100.000 |
+| Jugadores | 900.000 |
+| Segundas oportunidades (4 × 50.000) | 200.000 |
+| Apotecario | No |
+| **Total** | **1.100.000** |
 
-## Información del equipo
+## Skill Gold
 
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF / EuroBowl** | 4 |
-| **Team Budget (captura)** | 1100k / 1100k |
-| **Skill Gold (captura)** | 220k / 190k (+30k Flowing) |
-| **Flowing Funds (captura)** | 30k / 30k |
-| **Rerolls** | 4 |
-| **Apotecario** | No |
-| **Inducements** | Ninguno |
-| **Opción listas** | Sin estrellas |
-| **Liga (captura EN)** | Lustrian Superleague |
-| **Equivalencia repo (ES)** | **Superliga Lustriana** (cf. `amazonas.md`, `slann.md`) |
+Un avance por jugador. Secundarias: **1/3** · Stacks: **1/3**.
 
-## Skill Gold — avances (según captura)
+| Jugador (Nº) | Avance | Tipo | Coste |
+|--------------|--------|------|-------|
+| 2 Slann Catcher | Esquivar | Primaria élite | 30.000 |
+| 3 Slann Catcher | Defensa | Secundaria élite | 50.000 |
+| 4 Slann Línea | Forcejear | Primaria | 20.000 |
+| 5 Slann Línea | Forcejear | Primaria | 20.000 |
+| 6 Slann Línea | Forcejear | Primaria | 20.000 |
+| 7 Slann Línea | Forcejear | Primaria | 20.000 |
+| 8 Slann Línea | Robar balón + Forcejear | Stack | 50.000 |
+| **Total** | | | **210.000** |
 
-**Siete** bloques (el Slann Lineman #7 usa **Stack** de dos primarias). Desglose que suma **220.000 M.O.** (el builder marca **Vigilar** en verde en un Catcher = secundaria típica):
+## Notas de la build
 
-| Nº | Jugador | Habilidad (EN → ES) | Tipo (referencia #euro26) | Coste Skill Gold |
-|----|---------|---------------------|---------------------------|------------------|
-| 1 | Slann Blitzer | Block → **Placar** | Sec. General no élite | 40.000 |
-| 2 | Slann Catcher | Dodge → **Esquivar** | Prim. Agilidad no élite | 20.000 |
-| 3 | Slann Catcher | Guard → **Vigilar** | Sec. Fuerza **élite** | 50.000 |
-| 4 | Slann Blitzer | Wrestle → **Forcejeo** | Prim. General no élite | 20.000 |
-| 5 | Slann Lineman | Wrestle → **Forcejeo** | Prim. General no élite | 20.000 |
-| 6 | Slann Lineman | Wrestle → **Forcejeo** | Prim. General no élite | 20.000 |
-| 7 | Slann Lineman | Strip Ball + Wrestle → **Robar balón** + **Forcejeo** | **Stack** (2× prim. no élite) | 50.000 |
-| | **Total Skill Gold** | | | **220.000** |
-
-**Límites #euro26:** **1** Stack; **2** secundarios no élite + **1** secundario **élite** (o reclasifica si el pack cuenta distinto); **0** primarias **élite** sueltas en este desglose salvo la línea de **Vigilar** sec. élite.
-
-*Si **Vigilar** en Catcher #3 es **secundaria no élite** (40k), el total baja **10k**; añade **élite** en otro avance o reclasifica **Placar** en Blitzer #1 para mantener **220k**.*
-
-## Estrellas (Tiers 1–4)
-
-Sin Veterans ni Legends en la captura. Listas: [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
-
-## Inducements
-
-Solo los permitidos en `eurobowl-2026.md`. Captura: ninguno.
-
-## Estrategia (breve)
-
-- **Blitzers:** cadena **Placaje heroico** / **Golpe a la carrera** / **Pogo**; uno con **Placar** y otro con **Forcejeo**.
-- **Catchers:** **Esquivar** y **Vigilar** con **Piernas muy largas** y **Atento al balón**.
-- **Líneas:** **Forcejeo** y **Stack Robar balón + Forcejeo** en una pieza; resto **Pogo** para movilidad.
-
-## Progresión sugerida
-
-Cuando `source/teams/slann.md` unifique lista antigua y nueva Slann, seguir tablas de primarias/secundarias por posición en esa ficha.
+- Kroxigor, dos Catchers y diez Líneas con 4 RR; sin Blitzers ni apotecario, como en la build de AndyDavo.
+- Cinco Líneas con Forcejear (uno en stack con Robar balón) y Defensa como secundaria en un Catcher.
+- Sin cambios: Slann sigue en Tier 4; quedan 10k de Flowing sin uso.

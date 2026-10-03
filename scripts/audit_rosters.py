@@ -353,7 +353,7 @@ def audit_file(
         return issues
 
     for pos_raw, pos_norm, cost_gp in table:
-        if "scrappa" in pos_norm:
+        if "scrappa" in pos_norm or "jugador estrella" in pos_norm:
             continue
         if cost_gp is None:
             issues.append(f"[COSTE] no parseable: {pos_raw!r}")
@@ -393,7 +393,7 @@ def main() -> None:
 
     all_issues: list[tuple[str, str]] = []
     for fp in sorted(glob.glob(os.path.join(ROOT, "rosters", "**", "*.md"), recursive=True)):
-        if "README" in os.path.basename(fp):
+        if "README" in os.path.basename(fp) or f"{os.sep}beta{os.sep}" in fp:
             continue
         base = os.path.basename(fp)
         team = None

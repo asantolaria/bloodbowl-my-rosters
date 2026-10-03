@@ -1,65 +1,64 @@
-# Hombres Lagarto — EuroBowl 2026 (Tier 3, Team Budget 1080k)
+# Hombres Lagarto — EuroBowl 2026 FINAL (Tier 3)
 
 ![Hombres Lagarto](../../source/images/equipos/hombres-lagarto.webp)
 
-> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md).
+> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md). Generado con `_build_final.py`.
+>
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL.
+>
+> **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
-> **Estado competitivo:** presupuesto EuroBowl válido en cifras; **sin revisión meta**. Repaso táctico pendiente — [README `eurobowl-2026`](README.md) · tag `eurobowl-2026-wip-competitive`.
+## Presupuesto
 
-## Presupuesto EuroBowl
+| Concepto | Disponible | Usado |
+|----------|-----------|-------|
+| **Presupuesto de equipo** | 1.080.000 M.O. | 1.110.000 M.O. |
+| **Skill Gold** | 160.000 M.O. | 160.000 M.O. |
+| **Flowing Funds** | 30.000 M.O. | 30.000 → equipo · 0 → Skill Gold |
 
-| Concepto | Valor |
-|----------|--------|
-| **Tier** | 3 |
-| **Team Budget (base)** | 1080.000 M.O. |
-| **Skill Gold (pool)** | 160.000 M.O. |
-| **Flowing Funds (máx.)** | 30.000 M.O. |
+## Alineación
 
-*Desglose de equipo = **1080k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Rellenar nombres. Habilidades compradas con Skill Gold en **negrita**.*
 
-## Alineación (gasto de presupuesto de equipo)
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
+|----|--------|----------|-------|----|----|----|----|----|-------------|------------|
+| 1 | ____ | Kroxigor | 140k | 6 | 5 | 5+ | 6+ | 10+ | Cabeza dura, Estúpido, Cola prensil, Golpe mortífero, Solitario (4+) | – |
+| 2 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso, **Placar** | Primaria élite 30k |
+| 3 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso, **Placar** | Primaria élite 30k |
+| 4 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso, **Placar** | Primaria élite 30k |
+| 5 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso, **Placar** | Primaria élite 30k |
+| 6 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso, **Forcejear** | Primaria 20k |
+| 7 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso, **Furia** | Primaria 20k |
+| 8 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo | – |
+| 9 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo | – |
+| 10 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo | – |
+| 11 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo | – |
 
-*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
-
-| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
-|----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Kroxigor | 140k | 6 | 5 | 5+ | 6+ | 10+ | Estúpido, GM, … |
-| 2 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
-| 3 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
-| 4 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
-| 5 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
-| 6 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
-| 7 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
-| 8 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
-| 9 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
-| 10 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
-| 11 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
-| 12 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
-
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1080k M.O.
+**Total jugadores:** 11
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 920k) | 920.000 |
-| Rerolls (2 × 70.000) | 140.000 |
-| Apotecario | No (lista del equipo) |
-| Hinchas (2 × 10.000) | 20.000 |
-| **Total** | **1.080.000** |
+| Jugadores | 920.000 |
+| Segundas oportunidades (2 × 70.000) | 140.000 |
+| Apotecario | 50.000 |
+| **Total** | **1.110.000** |
 
-## Skill Gold — avances (ejemplo editable)
+## Skill Gold
 
-Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack en todo el equipo. Costes: ver tabla en [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 
-| Jugador (Nº) | Tipo | Coste (Skill Gold) |
-|--------------|------|---------------------|
-| _pendiente_ | 1 primaria no élite | 20.000 |
+| Jugador (Nº) | Avance | Tipo | Coste |
+|--------------|--------|------|-------|
+| 2 Saurio | Placar | Primaria élite | 30.000 |
+| 3 Saurio | Placar | Primaria élite | 30.000 |
+| 4 Saurio | Placar | Primaria élite | 30.000 |
+| 5 Saurio | Placar | Primaria élite | 30.000 |
+| 6 Saurio | Forcejear | Primaria | 20.000 |
+| 7 Saurio | Furia | Primaria | 20.000 |
+| **Total** | | | **160.000** |
 
-**Pool Skill Gold base:** 160.000 M.O. (+ Flowing si lo asignas).
+## Notas de la build
 
-## Estrellas (Tiers 1–4)
-
-Sin Veterans ni Legends. Con estrella (tier 5–6): no avances Secondary ni Stack en jugadores de plantilla.
-
-## Inducements
-
-Solo los listados como permitidos en `eurobowl-2026.md`.
+- Seis Saurios: cuatro con Placar, uno con Forcejear y uno con Furia para limpiar el campo.
+- Sin cambios respecto a la build de AndyDavo: el Tier 3 FINAL mantiene 1.080k/160k y los 30k de Flowing cubren el exceso del equipo (1.110k).
+- Solo 11 jugadores: el apotecario es imprescindible.

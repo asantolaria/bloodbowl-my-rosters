@@ -1,103 +1,66 @@
-# Elfos Oscuros — EuroBowl 2026 (Tier 3, Team Budget 1080k)
+# Elfos Oscuros — EuroBowl 2026 FINAL (Tier 3)
 
 ![Elfos Oscuros](../../source/images/equipos/elfos-oscuros.webp)
 
-> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Lista alineada con captura del builder (vídeo [EuroBowl / listas — YouTube](https://www.youtube.com/watch?v=wrmKRBFNqcM)). Posiciones: [`source/teams/elfos-oscuros.md`](../../source/teams/elfos-oscuros.md).
+> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/elfos-oscuros.md`](../../source/teams/elfos-oscuros.md). Generado con `_build_final.py`.
+>
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA); mismo tier y presupuesto en FINAL, sin cambios.
+>
+> **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
-> **Estado:** plantilla **desde captura**. **11 jugadores**. No regenerar con `_build_rosters.py` (ver `SKIP_EMIT`). Tag: `eurobowl-2026-wip-competitive`.
+## Presupuesto
 
-## Presupuesto EuroBowl (tier 3)
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier** | 3 |
-| **Team Budget (base)** | 1.080.000 M.O. |
-| **Skill Gold (pool)** | 160.000 M.O. |
-| **Flowing Funds (máx.)** | 30.000 M.O. |
-
-*En la captura: **Team budget** 1075k / 1080k (**1075k** gastados; **5k** del presupuesto base sin usar); **Skill Gold** 190k / 160k (**160k** pool + **30k** Flowing a Skill Gold = **190k** en avances); **Flowing Funds** 30k / 30k.*
+| Concepto | Disponible | Usado |
+|----------|-----------|-------|
+| **Presupuesto de equipo** | 1.080.000 M.O. | 1.075.000 M.O. |
+| **Skill Gold** | 160.000 M.O. | 190.000 M.O. |
+| **Flowing Funds** | 30.000 M.O. | 0 → equipo · 30.000 → Skill Gold |
 
 ## Alineación
 
-*En **negrita**, avances de Skill Gold. Las **tres** líneas sin subidas cuestan **65k** cada una en lista BB2025 (la captura EN puede mostrar **50k** por error de etiqueta en el builder; aquí se usa el coste de `elfos-oscuros.md`).*
+*Rellenar nombres. Habilidades compradas con Skill Gold en **negrita**.*
 
-| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
-|----|--------|----------|-------|----|----|----|----|-----|-------------|
-| 1 | ____ | Bruja Elfa | 110k | 7 | 3 | 2+ | 4+ | 8+ | Esquivar, Furia, En pie de un salto, **Forcejeo** |
-| 2 | ____ | Bruja Elfa | 110k | 7 | 3 | 2+ | 4+ | 8+ | Esquivar, Furia, En pie de un salto, **Forcejeo** |
-| 3 | ____ | Elfo Oscuro Blitzer | 105k | 7 | 3 | 2+ | 3+ | 9+ | Placar, **Esquivar** |
-| 4 | ____ | Elfo Oscuro Blitzer | 105k | 7 | 3 | 2+ | 3+ | 9+ | Placar, **Esquivar** |
-| 5 | ____ | Elfo Oscuro Asesino | 90k | 7 | 3 | 2+ | 4+ | 8+ | Golpe a la carrera, Perseguir, Apuñalar, **Esquivar** |
-| 6 | ____ | Elfo Oscuro Runner | 80k | 7 | 3 | 2+ | 3+ | 8+ | Pase precipitado, Patada de despeje, **Líder** |
-| 7 | ____ | Elfo Oscuro Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | **Forcejeo** |
-| 8 | ____ | Elfo Oscuro Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | **Forcejeo** |
-| 9 | ____ | Elfo Oscuro Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | — |
-| 10 | ____ | Elfo Oscuro Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | — |
-| 11 | ____ | Elfo Oscuro Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | — |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
+|----|--------|----------|-------|----|----|----|----|----|-------------|------------|
+| 1 | ____ | Bruja Elfa | 110k | 7 | 3 | 2+ | 4+ | 8+ | En pie de un salto, Esquivar, Furia, **Forcejear** | Primaria 20k |
+| 2 | ____ | Bruja Elfa | 110k | 7 | 3 | 2+ | 4+ | 8+ | En pie de un salto, Esquivar, Furia, **Forcejear** | Primaria 20k |
+| 3 | ____ | Elfo Oscuro Blitzer | 105k | 7 | 3 | 2+ | 3+ | 9+ | Placar, **Esquivar** | Primaria élite 30k |
+| 4 | ____ | Elfo Oscuro Blitzer | 105k | 7 | 3 | 2+ | 3+ | 9+ | Placar, **Esquivar** | Primaria élite 30k |
+| 5 | ____ | Elfo Oscuro Asesino | 90k | 7 | 3 | 2+ | 4+ | 8+ | Apuñalar, Golpe a la carrera, Perseguir, **Esquivar** | Primaria élite 30k |
+| 6 | ____ | Elfo Oscuro Runner | 80k | 7 | 3 | 2+ | 3+ | 8+ | Pase precipitado, Patada de despeje, **Líder** | Primaria 20k |
+| 7 | ____ | Elfo Oscuro Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | **Forcejear** | Primaria 20k |
+| 8 | ____ | Elfo Oscuro Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | **Forcejear** | Primaria 20k |
+| 9 | ____ | Elfo Oscuro Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – | – |
+| 10 | ____ | Elfo Oscuro Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – | – |
+| 11 | ____ | Elfo Oscuro Línea | 65k | 6 | 3 | 2+ | 3+ | 9+ | – | – |
 
-**Total jugadores:** 11 | **Suma jugadores:** 925.000 M.O.
-
-**Desglose presupuesto de equipo (captura):**
+**Total jugadores:** 11
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (2×110k + 2×105k + 90k + 80k + 5×65k) | 925.000 |
-| Rerolls de equipo (2 × 50.000) | 100.000 |
+| Jugadores | 925.000 |
+| Segundas oportunidades (2 × 50.000) | 100.000 |
 | Apotecario | 50.000 |
-| Asistentes / cheerleaders / Hinchas | 0 |
-| **Total gastado** | **1.075.000** |
-| **Team Budget base (tier 3)** | 1.080.000 |
-| **Presupuesto equipo sin usar (captura)** | 5.000 |
+| **Total** | **1.075.000** |
 
-## Información del equipo
+## Skill Gold
 
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF / EuroBowl** | 3 |
-| **Team Budget (captura)** | 1075k / 1080k (5k sin gastar) |
-| **Skill Gold (captura)** | 190k / 160k (+30k Flowing) |
-| **Flowing Funds (captura)** | 30k / 30k |
-| **Rerolls** | 2 |
-| **Apotecario** | Sí |
-| **Inducements** | Ninguno |
-| **Opción listas** | Sin estrellas |
-| **Liga (captura EN)** | Elven Kingdom League |
-| **Equivalencia repo (ES)** | **Liga de los Reinos Élficos** (`elfos-oscuros.md`) |
+Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 
-## Skill Gold — avances (según captura)
+| Jugador (Nº) | Avance | Tipo | Coste |
+|--------------|--------|------|-------|
+| 1 Bruja Elfa | Forcejear | Primaria | 20.000 |
+| 2 Bruja Elfa | Forcejear | Primaria | 20.000 |
+| 3 Elfo Oscuro Blitzer | Esquivar | Primaria élite | 30.000 |
+| 4 Elfo Oscuro Blitzer | Esquivar | Primaria élite | 30.000 |
+| 5 Elfo Oscuro Asesino | Esquivar | Primaria élite | 30.000 |
+| 6 Elfo Oscuro Runner | Líder | Primaria | 20.000 |
+| 7 Elfo Oscuro Línea | Forcejear | Primaria | 20.000 |
+| 8 Elfo Oscuro Línea | Forcejear | Primaria | 20.000 |
+| **Total** | | | **190.000** |
 
-**Ocho** jugadores con **un** bloque de avance cada uno. Desglose **orientativo** que suma **190.000 M.O.** (ajusta tipos si tu builder etiqueta distinto):
+## Notas de la build
 
-| Nº | Jugador | Habilidad (EN → ES) | Tipo (referencia #euro26) | Coste Skill Gold |
-|----|---------|---------------------|---------------------------|------------------|
-| 1 Bruja Elfa | Wrestle → **Forcejeo** | Sec. General no élite | 40.000 |
-| 2 Bruja Elfa | Wrestle → **Forcejeo** | Prim. General no élite | 20.000 |
-| 3 Blitzer | Dodge → **Esquivar** | Prim. Agilidad no élite | 20.000 |
-| 4 Blitzer | Dodge → **Esquivar** | Prim. Agilidad no élite | 20.000 |
-| 5 Asesino | Dodge → **Esquivar** | Prim. Agilidad no élite | 20.000 |
-| 6 Runner | Leader → **Líder** | Prim. General **élite** | 30.000 |
-| 7 Línea | Wrestle → **Forcejeo** | Prim. General no élite | 20.000 |
-| 8 Línea | Wrestle → **Forcejeo** | Prim. General no élite | 20.000 |
-| **Total Skill Gold** | | | **190.000** |
-
-**Límites #euro26:** **1** secundario en este desglose; **1** primaria **élite**; **0** Stack.
-
-*Si **Forcejeo** en Brujas / Líneas cuenta todo como **secundaria** (40k), el total sube por encima de **190k** salvo que otras filas bajen de coste (p. ej. **Líder** no élite a **20k**). Mantén **190k** y los techos del pack al alinear con el export del torneo.*
-
-## Estrellas (Tiers 1–4)
-
-Sin Veterans ni Legends en la captura. Listas: [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
-
-## Inducements
-
-Solo los permitidos en `eurobowl-2026.md`. Captura: ninguno.
-
-## Estrategia (breve)
-
-- **Brujas** con **Forcejeo** y **Furia** para cadena y bajar portadores; **Blitzers** con **Placar** y **Esquivar** en cabeza.
-- **Asesino** con **Esquivar** y kit de **Apuñalar** / **Perseguir**; **Runner** con **Líder** y despeje.
-- **Líneas** con **Forcejeo** en dos piezas y tres **65k** «limpios» para marcaje y TV.
-
-## Progresión sugerida
-
-Tras #euro26, seguir tablas **AG / AD / DF / GF / GP** de `elfos-oscuros.md` por posición.
+- Esquivar en Blitzers y Asesino; Forcejear en Brujas y 2 Líneas; Runner con Líder.
+- Los 30k de Flowing van íntegros a Skill Gold (190k); sobran 5k de equipo.
+- Tier 3 igual en BETA y FINAL: la lista se mantiene.

@@ -2,7 +2,7 @@
 
 ![Altos Elfos](../images/equipos/altos-elfos.webp)
 
-**Autoridad reglamentaria:** [Reglamento GW — Season 3 / 3ª temporada (PDF en repo)](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf) · [Blood Bowl Downloads](https://www.warhammer-community.com/blood-bowl-downloads/).  
+**Autoridad reglamentaria:** Reglamento GW — Season 3 / 3ª temporada *(copia local, no publicada)* · [Blood Bowl Downloads](https://www.warhammer-community.com/blood-bowl-downloads/).  
 **Lista de equipo:** [Nuffle Zone — Altos Elfos](https://nufflezone.com/equipos-blood-bowl/altos-elfos/) (tabla **Altos Elfos 2026** / 3ª temporada vigente en Nuffle).  
 **Fuente:** verificado con [Blood Bowl Base — High Elf](https://bloodbowlbase.ru/bb2025/teams/High_Elf/).
 

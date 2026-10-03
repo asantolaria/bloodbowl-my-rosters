@@ -1,90 +1,35 @@
-# Rosters — EuroBowl 2026 (#euro26)
+# Rosters — EuroBowl 2026 FINAL (#euro26)
 
-Plantillas de equipo para la copa NAF **EuroBowl 2026** (*Living Ruleset* BETA + HE patch), **Blood Bowl 3ª temporada / BB2025**.
+Listas para la copa NAF **EuroBowl 2026** (17–18 de octubre de 2026, Varsovia) según el reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md) (7 tiers). **Blood Bowl Temporada 3 / BB2025.**
 
-> **Estado a 08/09/2026:** estas **31 listas conservan la BETA**. La [versión FINAL](../../source/tiers/eurobowl-2026-final.md) cambia tiers y presupuestos. Los nombres de archivo y el índice inferior muestran los tiers anteriores. Consultar la [auditoría y propuesta de actualización](../../source/revision-2026-09-08.md); no están certificadas para inscripción.
+Cada lista está **validada** con [`_build_final.py`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/rosters/eurobowl-2026/_build_final.py): presupuesto de equipo, Skill Gold y Flowing Funds del tier, cupos de cada posición, categoría primaria/secundaria de cada avance, máx. 3 secundarias y 3 stacks, estrellas y regla de Insignificantes.
 
-**Referencia histórica:** [BETA + HE patch](../../source/tiers/eurobowl-2026.md). **Formato actual comprobado:** [FINAL](../../source/tiers/eurobowl-2026-final.md).
+| Tier | Equipo | Skill Gold | Flowing | Listas |
+|------|--------|-----------|---------|--------|
+| **1** | 1070k | 120k | 10k | [Alianza del Viejo Mundo](eurobowl-26-alianza-viejo-mundo-tier1.md) · [Elfos Silvanos](eurobowl-26-elfos-silvanos-tier1.md) · [Orcos](eurobowl-26-orcos-tier1.md) |
+| **2** | 1070k | 140k | 20k | [Amazonas](eurobowl-26-amazonas-tier2.md) · [Habitantes del Inframundo](eurobowl-26-habitantes-inframundo-tier2.md) · [Skavens](eurobowl-26-skavens-tier2.md) |
+| **3** | 1080k | 160k | 30k | [Altos Elfos](eurobowl-26-altos-elfos-tier3.md) · [Elfos Oscuros](eurobowl-26-elfos-oscuros-tier3.md) · [Hombres Lagarto](eurobowl-26-hombres-lagarto-tier3.md) · [Humanos](eurobowl-26-humanos-tier3.md) · [No Muertos](eurobowl-26-no-muertos-tier3.md) · [Vampiros](eurobowl-26-vampiros-tier3.md) |
+| **4** | 1100k | 190k | 30k | [Nigromantes](eurobowl-26-nigromantes-tier4.md) · [Nurgle](eurobowl-26-nurgle-tier4.md) · [Nórdicos](eurobowl-26-nordicos-tier4.md) · [Reyes Funerarios](eurobowl-26-reyes-funerarios-tier4.md) · [Slann](eurobowl-26-slann-tier4.md) |
+| **5** | 1120k | 220k | 30k | [Elegidos del Caos](eurobowl-26-elegidos-del-caos-tier5.md) · [Enanos del Caos](eurobowl-26-enanos-del-caos-tier5.md) · [Enanos](eurobowl-26-enanos-tier5.md) · [Nobleza Imperial](eurobowl-26-nobleza-imperial-tier5.md) · [Snotlings](eurobowl-26-snotlings-tier5.md) · [Unión Élfica](eurobowl-26-union-elfica-tier5.md) |
+| **6** | 1140k | 240k | 40k | [Bretonia](eurobowl-26-bretonia-tier6.md) · [Gnomos](eurobowl-26-gnomos-tier6.md) · [Goblins](eurobowl-26-goblins-tier6.md) · [Halflings](eurobowl-26-halflings-tier6.md) · [Khorne](eurobowl-26-khorne-tier6.md) · [Orcos Negros](eurobowl-26-orcos-negros-tier6.md) · [Renegados del Caos](eurobowl-26-renegados-del-caos-tier6.md) |
+| **7** | 1150k | 270k | 50k | [Ogros](eurobowl-26-ogros-tier7.md) |
 
-**Listas desde vídeo (comunidad):** [YouTube — wrmKRBFNqcM](https://www.youtube.com/watch?v=wrmKRBFNqcM). Donde un `.md` cite ese enlace, la alineación intenta reproducir el builder del vídeo; el resto de equipos necesitan la misma fuente o el PDF oficial del torneo para cuadrar jugadores y Skill Gold.
+## Origen de las builds
 
----
+- **Base:** capturas del builder del vídeo [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptadas al presupuesto FINAL (cada lista explica el cambio en «Notas de la build»).
+- **Ajustes:** [Artemis Black — Road to Eurobowl 2026](https://www.youtube.com/@ArtemisBlackBB) (sept. 2026) en Altos Elfos, Humanos y Unión Élfica.
+- **Goblins:** diseño propio (sin captura).
+- Inventario completo de fuentes: [fuentes de rosters](../../source/referencias-rosters-torneos.md).
 
-## Rosters desde captura (manual)
+!!! warning "Antes del torneo"
+    Listas **válidas en cifras**, sin revisión táctica propia. Confirmar con el pack del organizador las listas de incentivos y estrellas permitidas en la FINAL.
 
-Estos `.md` **no** se regeneran con `_build_rosters.py` (están en `SKIP_EMIT` en `_build_rosters.py`) y reflejan **capturas** del builder / vídeo: composición, sideline, Flowing, Skill Gold e inducements cuando aplica.
+## Cómo modificar una lista
 
-| Archivo |
-|---------|
-| [Khorne](eurobowl-26-khorne-tier5.md) |
-| [Snotlings](eurobowl-26-snotlings-tier5.md) |
-| [Gnomos](eurobowl-26-gnomos-tier6.md) |
-| [Halflings](eurobowl-26-halflings-tier6.md) |
-| [Ogros](eurobowl-26-ogros-tier6.md) |
-| [Elfos Silvanos](eurobowl-26-elfos-silvanos-tier1.md) |
-| [Alianza del Viejo Mundo](eurobowl-26-alianza-viejo-mundo-tier1.md) |
-| [Amazonas](eurobowl-26-amazonas-tier2.md) |
-| [Orcos](eurobowl-26-orcos-tier2.md) |
-| [Habitantes del Inframundo](eurobowl-26-habitantes-inframundo-tier2.md) |
-| [Elfos Oscuros](eurobowl-26-elfos-oscuros-tier3.md) |
-| [Altos Elfos](eurobowl-26-altos-elfos-tier3.md) |
-| [Humanos](eurobowl-26-humanos-tier3.md) |
-| [Nigromantes](eurobowl-26-nigromantes-tier3.md) |
-| [Vampiros](eurobowl-26-vampiros-tier3.md) |
-| [Slann](eurobowl-26-slann-tier4.md) |
-| [Enanos](eurobowl-26-enanos-tier4.md) |
+1. Editar el equipo en `_final_data_g1.py` … `_final_data_g4.py` (posiciones y habilidades con los nombres exactos de `source/teams/` y `source/habilidades/`).
+2. Validar: `python3 rosters/eurobowl-2026/_build_final.py` (o `--check <slug>`).
+3. Generar los `.md`: `python3 rosters/eurobowl-2026/_build_final.py --write`.
 
-**Pendiente de trasladar a `.md`:** si en otro chat adjuntaste capturas que no están en la tabla de arriba, los `.md` de esos equipos pueden seguir siendo la **plantilla autogenerada** (párrafo *Sin avances de Skill Gold*). Para volcarlas aquí: **vuelve a adjuntar** cada captura en Cursor o pega tabla completa + sideline + Team budget / Skill Gold / Flowing + avances en negrita.
+## Histórico BETA
 
----
-
-## Estado — revisión reglamentaria y competitiva pendiente
-
-> **No usar como listas “finales” para torneo** sin repasar.  
-> La auditoría local encuentra discrepancias de cupos y costes, además de nombres no reconocidos. También hay errores de clasificación de habilidades que el script no comprueba. **No se garantiza el cumplimiento del marco económico ni reglamentario.**
-> **Trabajo pendiente:** revisar por raza/tier composición, reparto de avances, estrellas e inducements antes de jugar en serio.
-
-**Etiqueta de seguimiento (búsqueda en repo):** `eurobowl-2026-wip-competitive`
-
----
-
-## Convención de archivos
-
-`eurobowl-26-[slug-equipo]-tier[N].md`
-
-- **slug-equipo:** como en `source/teams/` (ej. `altos-elfos`, `enanos-del-caos`).
-- **tier:** tier EuroBowl 1–6 (presupuesto de equipo 1.060k–1.140k según tabla del reglamento).
-
-## Índice por tier BETA (histórico)
-
-| Tier | Team Budget | Skill Gold (pool) | Flowing | Equipos (archivo) |
-|------|-------------|-------------------|---------|-------------------|
-| 1 | 1.060k | 120k | 10k | [Elfos Silvanos](eurobowl-26-elfos-silvanos-tier1.md), [Alianza del Viejo Mundo](eurobowl-26-alianza-viejo-mundo-tier1.md) |
-| 2 | 1.070k | 140k | 20k | [Amazonas](eurobowl-26-amazonas-tier2.md), [Orcos](eurobowl-26-orcos-tier2.md), [No Muertos](eurobowl-26-no-muertos-tier2.md), [Skavens](eurobowl-26-skavens-tier2.md), [Habitantes del Inframundo](eurobowl-26-habitantes-inframundo-tier2.md) |
-| 3 | 1.080k | 160k | 30k | [Elfos Oscuros](eurobowl-26-elfos-oscuros-tier3.md), [Altos Elfos](eurobowl-26-altos-elfos-tier3.md), [Humanos](eurobowl-26-humanos-tier3.md), [Hombres Lagarto](eurobowl-26-hombres-lagarto-tier3.md), [Nigromantes](eurobowl-26-nigromantes-tier3.md), [Nórdicos](eurobowl-26-nordicos-tier3.md), [Vampiros](eurobowl-26-vampiros-tier3.md) |
-| 4 | 1.100k | 190k | 30k | [Elegidos del Caos](eurobowl-26-elegidos-del-caos-tier4.md), [Enanos](eurobowl-26-enanos-tier4.md), [Nobleza Imperial](eurobowl-26-nobleza-imperial-tier4.md), [Nurgle](eurobowl-26-nurgle-tier4.md), [Slann](eurobowl-26-slann-tier4.md), [Reyes Funerarios](eurobowl-26-reyes-funerarios-tier4.md) |
-| 5 | 1.120k | 220k | 30k | [Orcos Negros](eurobowl-26-orcos-negros-tier5.md), [Bretonia](eurobowl-26-bretonia-tier5.md), [Enanos del Caos](eurobowl-26-enanos-del-caos-tier5.md), [Renegados del Caos](eurobowl-26-renegados-del-caos-tier5.md), [Unión Élfica](eurobowl-26-union-elfica-tier5.md), [Goblins](eurobowl-26-goblins-tier5.md), [Khorne](eurobowl-26-khorne-tier5.md), [Snotlings](eurobowl-26-snotlings-tier5.md) |
-| 6 | 1.140k | 240k | 40k | [Gnomos](eurobowl-26-gnomos-tier6.md), [Halflings](eurobowl-26-halflings-tier6.md), [Ogros](eurobowl-26-ogros-tier6.md) |
-
-## Contenido de cada roster
-
-- Tabla de **jugadores** al coste de lista (sin Skill Gold).
-- **Desglose** que suma exactamente el **Team Budget base** del tier: rerolls, apotecario (si aplica), Hinchas y, si hace falta, una línea de **Flowing Funds** en oro suelto (resto no múltiplo de 10k).
-- Bloque editable para **gastar Skill Gold** en avances (Primary / Secondary / Stack según reglamento).
-- Referencias a estrellas (por tier) e inducements permitidos.
-
-## Regenerar archivos
-
-**El generador sigue usando la BETA y contiene datos pendientes de corregir.** Ejecutarlo no migra las listas a FINAL. Véase la [valoración técnica](../../source/revision-2026-09-08.md).
-
-Tras editar datos en `_build_rosters.py`:
-
-```bash
-python rosters/eurobowl-2026/_build_rosters.py
-```
-
-Los slugs listados en **`SKIP_EMIT`** dentro de `_build_rosters.py` **no** se sobrescriben al ejecutar el script (rosters manuales desde captura).
-
-## Plantillas incompletas
-
-**Vampiros:** `source/teams/vampiros.md` incluye tabla **provisional** desde captura hasta alinear con Nuffle/PDF GW; el roster EuroBowl manual está en `eurobowl-26-vampiros-tier3.md` (la captura original muestra **TV por encima** del presupuesto tier — revisar antes de torneo). **Renegados del Caos** usa roster 2025 en `source/teams/renegados-del-caos.md` (fuente Nuffle EN).
+Las listas anteriores (reglamento BETA + HE patch, 6 tiers) están en [`beta/`](beta/README.md) con su generador `_build_rosters.py`. **No usar para torneo.**

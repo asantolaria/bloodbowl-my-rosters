@@ -1,110 +1,70 @@
-# Habitantes del Inframundo — EuroBowl 2026 (Tier 2, Team Budget 1070k)
+# Habitantes del Inframundo — EuroBowl 2026 FINAL (Tier 2)
 
 ![Habitantes del Inframundo](../../source/images/equipos/habitantes-inframundo.webp)
 
-> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Lista alineada con captura del builder (vídeo [EuroBowl / listas — YouTube](https://www.youtube.com/watch?v=wrmKRBFNqcM)). Equipo mixto **Underworld Denizens**; referencia de habilidades: [`source/teams/skavens.md`](../../source/teams/skavens.md), [`source/teams/goblins.md`](../../source/teams/goblins.md), [`source/teams/snotlings.md`](../../source/teams/snotlings.md) y [`source/teams/habitantes-inframundo.md`](../../source/teams/habitantes-inframundo.md).
+> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/habitantes-inframundo.md`](../../source/teams/habitantes-inframundo.md). Generado con `_build_final.py`.
+>
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), ajustada con el cambio que propone el propio AndyDavo.
+>
+> **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
-> **Estado:** plantilla **desde captura**. **15 jugadores**. No regenerar con `_build_rosters.py` (ver `SKIP_EMIT`). Tag: `eurobowl-2026-wip-competitive`.
+## Presupuesto
 
-## Presupuesto EuroBowl (tier 2)
-
-| Concepto | Valor |
-|----------|--------|
-| **Tier** | 2 |
-| **Team Budget (base)** | 1.070.000 M.O. |
-| **Skill Gold (pool)** | 140.000 M.O. |
-| **Flowing Funds (máx.)** | 20.000 M.O. |
-
-*En la captura: **Team budget** 1070k / 1070k; **Skill Gold** 150k / 140k (**140k** pool + **10k** Flowing a Skill Gold = **150k** en avances); **Flowing Funds** 10k / 20k (**10k** de Flowing usados hacia Skill Gold; **10k** de Flowing máximo sin asignar en la lectura de la captura).*
+| Concepto | Disponible | Usado |
+|----------|-----------|-------|
+| **Presupuesto de equipo** | 1.070.000 M.O. | 1.070.000 M.O. |
+| **Skill Gold** | 140.000 M.O. | 160.000 M.O. |
+| **Flowing Funds** | 20.000 M.O. | 0 → equipo · 20.000 → Skill Gold |
 
 ## Alineación
 
-*En **negrita**, avances de Skill Gold. **Animosidad (Goblin)** en captura EN = **Animosidad (Goblin)**.*
+*Rellenar nombres. Habilidades compradas con Skill Gold en **negrita**.*
 
-| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
-|----|--------|----------|-------|----|----|----|----|-----|-------------|
-| 1 | ____ | Rata Ogro | 150k | 6 | 5 | 4+ | 6+ | 9+ | Ferocidad animal, Furia, Solitario (4+), Golpe mortífero, Cola prensil, **Imparable** |
-| 2 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Animosidad (Goblin), Esquivar, Apuñalar, **Echarse a un lado**, **Dos cabezas** |
-| 3 | ____ | Blitzer skaven | 90k | 8 | 3 | 3+ | 4+ | 9+ | Animosidad (Goblin), Placar, Robar balón, **Derribar** |
-| 4 | ____ | Clanrat skaven | 50k | 7 | 3 | 3+ | 4+ | 8+ | Animosidad (Goblin), **Forcejeo** |
-| 5 | ____ | Clanrat skaven | 50k | 7 | 3 | 3+ | 4+ | 8+ | Animosidad (Goblin), **Jugar sucio** |
-| 6 | ____ | Clanrat skaven | 50k | 7 | 3 | 3+ | 4+ | 8+ | Animosidad (Goblin) |
-| 7 | ____ | Lanzador skaven | 80k | 7 | 3 | 3+ | 2+ | 8+ | Animosidad (Goblin), Pasar, Manos seguras, **Líder** |
-| 8 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide bala, Escurridizo |
-| 9 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide bala, Escurridizo |
-| 10 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide bala, Escurridizo |
-| 11 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide bala, Escurridizo |
-| 12 | ____ | Goblin | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide bala, Escurridizo |
-| 13 | ____ | Snotling | 15k | 5 | 1 | 3+ | 4+ | 6+ | Esquivar, Insignificante, Humanoide bala, Echarse a un lado, Escurridizo, Canijo |
-| 14 | ____ | Snotling | 15k | 5 | 1 | 3+ | 4+ | 6+ | Esquivar, Insignificante, Humanoide bala, Echarse a un lado, Escurridizo, Canijo |
-| 15 | ____ | Snotling | 15k | 5 | 1 | 3+ | 4+ | 6+ | Esquivar, Insignificante, Humanoide bala, Echarse a un lado, Escurridizo, Canijo |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
+|----|--------|----------|-------|----|----|----|----|----|-------------|------------|
+| 1 | ____ | Rata Ogro | 150k | 6 | 5 | 4+ | 6+ | 9+ | Cola prensil, Ferocidad animal, Furia, Golpe mortífero, Solitario (4+), **Imparable** | Primaria 20k |
+| 2 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Animosidad (Goblin), Apuñalar, Esquivar, **Echarse a un lado**, **Dos cabezas** | Stack 50k |
+| 3 | ____ | Skaven Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Animosidad (Goblin), Placar, Robar balón, **Golpe mortífero** | Primaria élite 30k |
+| 4 | ____ | Skaven Thrower | 80k | 7 | 3 | 3+ | 2+ | 8+ | Animosidad (Goblin), Manos seguras, Pasar, **Líder** | Primaria 20k |
+| 5 | ____ | Skaven Clanrat (Línea) | 50k | 7 | 3 | 3+ | 4+ | 8+ | Animosidad (Goblin), **Forcejear** | Primaria 20k |
+| 6 | ____ | Skaven Clanrat (Línea) | 50k | 7 | 3 | 3+ | 4+ | 8+ | Animosidad (Goblin), **Jugar sucio** | Primaria 20k |
+| 7 | ____ | Skaven Clanrat (Línea) | 50k | 7 | 3 | 3+ | 4+ | 8+ | Animosidad (Goblin) | – |
+| 8 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Escurridizo, Esquivar, Humanoide bala | – |
+| 9 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Escurridizo, Esquivar, Humanoide bala | – |
+| 10 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Escurridizo, Esquivar, Humanoide bala | – |
+| 11 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Escurridizo, Esquivar, Humanoide bala | – |
+| 12 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Escurridizo, Esquivar, Humanoide bala | – |
+| 13 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante | – |
+| 14 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante | – |
+| 15 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante | – |
 
-**Total jugadores:** 15 | **Suma jugadores:** 800.000 M.O.
-
-**Desglose presupuesto de equipo (captura, cuadrando 1070k):**
+**Total jugadores:** 15
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (150k + 85k + 90k + 3×50k + 80k + 5×40k + 3×15k) | 800.000 |
-| Rerolls de equipo (2 × 50.000) | 100.000 |
-| Apotecario | 0 (no en captura) |
-| **Soborno** (×1; equipo con **Sobornos y corrupción** → **50.000** en reglamento GW BB2025) | 50.000 |
-| **Biased Referee: Dodgy League Rep** (×1; precio **120.000** «cualquier equipo» en GW BB2025) | 120.000 |
-| Asistentes / cheerleaders / Hinchas | 0 |
-| **Total gastado** | **1.070.000** |
-| **Team Budget base (tier 2)** | 1.070.000 |
+| Jugadores | 800.000 |
+| Segundas oportunidades (2 × 70.000) | 140.000 |
+| Apotecario | No |
+| Incentivo: Sobornos (1 × 50.000 (precio reducido por regla del equipo)) | 50.000 |
+| Incentivo: Amañafaltas (1 × 80.000 (precio reducido por regla del equipo)) | 80.000 |
+| **Total** | **1.070.000** |
 
-*Con **Sobornos y corrupción**, el **Dodgy League Rep** cuesta **80.000** en el reglamento GW (no 120k); entonces sumaría **1030k** con esta plantilla. La captura a **1070k** encaja tomando el representante a **120k** (precio sin descuento) o el builder aplica otra regla de precio; ajusta estas dos líneas si tu PDF de torneo o el export del builder marcan otra cifra.*
+## Skill Gold
 
-*Inducements en #euro26:* «**Bribes**» = **Soborno**; «**Dodgy League Rep**» = **Árbitro poco imparcial: representante corrupto de la liga** (lista común GW).*
+Un avance por jugador. Secundarias: **0/3** · Stacks: **1/3**.
 
-## Información del equipo
+| Jugador (Nº) | Avance | Tipo | Coste |
+|--------------|--------|------|-------|
+| 1 Rata Ogro | Imparable | Primaria | 20.000 |
+| 2 Gutter Runner | Echarse a un lado + Dos cabezas | Stack | 50.000 |
+| 3 Skaven Blitzer | Golpe mortífero | Primaria élite | 30.000 |
+| 4 Skaven Thrower | Líder | Primaria | 20.000 |
+| 5 Skaven Clanrat (Línea) | Forcejear | Primaria | 20.000 |
+| 6 Skaven Clanrat (Línea) | Jugar sucio | Primaria | 20.000 |
+| **Total** | | | **160.000** |
 
-| Concepto | Valor |
-|----------|--------|
-| **Tier NAF / EuroBowl** | 2 |
-| **Team Budget (captura)** | 1070k / 1070k |
-| **Skill Gold (captura)** | 150k / 140k (+10k Flowing) |
-| **Flowing Funds (captura)** | 10k / 20k |
-| **Rerolls** | 2 |
-| **Apotecario** | No |
-| **Inducements** | Soborno (×1); Dodgy League Rep (×1) |
-| **Opción listas** | Sin estrellas |
-| **Ligas / reglas (captura EN)** | Underworld Challenge; Bribery and Corruption |
-| **Equivalencia repo (ES)** | **Reto del Inframundo**; **Sobornos y corrupción** |
+## Notas de la build
 
-## Skill Gold — avances (según captura)
-
-**Seis** jugadores con **un** bloque de avance cada uno (el Gutter Runner usa **Stack** de dos primarias). Desglose que suma **150.000 M.O.**:
-
-| Nº | Jugador | Habilidad (EN → ES) | Tipo (referencia #euro26) | Coste Skill Gold |
-|----|---------|---------------------|---------------------------|------------------|
-| 1 Rata Ogro | Juggernaut → **Imparable** | Prim. Fuerza no élite | 20.000 |
-| 2 Gutter Runner | Side Step + Two Heads → **Echarse a un lado** + **Dos cabezas** | **Stack** (2× prim. no élite) | 50.000 |
-| 3 Blitzer skaven | Tackle → **Derribar** | Prim. General no élite | 20.000 |
-| 4 Clanrat skaven | Wrestle → **Forcejeo** | Prim. General no élite | 20.000 |
-| 5 Clanrat skaven | Dirty Player → **Jugar sucio** | Prim. General no élite (según acceso Clanrat / pack) | 20.000 |
-| 7 Lanzador skaven | Leader → **Líder** | Prim. General no élite | 20.000 |
-| **Total Skill Gold** | | | **150.000** |
-
-**Límites #euro26:** **1** Stack; **0** secundarios en este desglose; **0** primarias **élite**.
-
-*Si **Jugar sucio** aparece como otra categoría (p. ej. mutación / secundaria), reclasifica filas manteniendo **150k** y los techos del pack.*
-
-## Estrellas (Tiers 1–4)
-
-Sin Veterans ni Legends en la captura. Listas: [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
-
-## Inducements
-
-Permitidos en `eurobowl-2026.md`. En roster: **Soborno** + **Dodgy League Rep** (costes según nota del desglose de presupuesto).
-
-## Estrategia (breve)
-
-- **Rata Ogro** con **Imparable** y cadena **Furia** / **Ferocidad animal**; **Gutter** con **Echarse a un lado** y **Dos cabezas** para esquiva y apuñalar.
-- **Blitzer** con **Derribar** y **Robar balón**; **Clanrats** con **Forcejeo** / **Jugar sucio**; **Lanzador** con **Líder**.
-- **Masas:** cinco **Goblin** y tres **Snotling** para marcaje, balón y faltas; **Soborno** + **representante corrupto** para apoyo arbitral.
-
-## Progresión sugerida
-
-Tras #euro26, seguir accesos de skills por posición en listas GW / Nuffle **2025** para Underworld (skaven + goblin + snotling).
+- Rata Ogro con Imparable y Gutter Runner con Echarse a un lado + Dos cabezas: piezas de one-turn.
+- Plan de faltas: Soborno + Amañafaltas (precio con Sobornos y corrupción) y Jugar sucio en un Clanrat.
+- Cambio: el Skaven Blitzer pasa de Placaje defensivo a Golpe mortífero, como sugiere AndyDavo; los 10k que sobraban de Flowing lo pagan.

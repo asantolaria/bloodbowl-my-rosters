@@ -1,62 +1,66 @@
-# Enanos del Caos — EuroBowl 2026 (Tier 5, Team Budget 1120k)
+# Enanos del Caos — EuroBowl 2026 FINAL (Tier 5)
 
+> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/enanos-del-caos.md`](../../source/teams/enanos-del-caos.md). Generado con `_build_final.py`.
+>
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA); mismo tier y presupuesto en la FINAL, se mantiene sin cambios.
+>
+> **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
-> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/enanos-del-caos.md`](../../source/teams/enanos-del-caos.md).
+!!! note "Nota"
+    Solo 11 jugadores: todo el presupuesto va a posicionales caros. El Flowing (30k) se gasta en Skill Gold.
 
-> **Estado competitivo:** presupuesto EuroBowl válido en cifras; **sin revisión meta**. Repaso táctico pendiente — [README `eurobowl-2026`](README.md) · tag `eurobowl-2026-wip-competitive`.
+## Presupuesto
 
-## Presupuesto EuroBowl
+| Concepto | Disponible | Usado |
+|----------|-----------|-------|
+| **Presupuesto de equipo** | 1.120.000 M.O. | 1.120.000 M.O. |
+| **Skill Gold** | 220.000 M.O. | 250.000 M.O. |
+| **Flowing Funds** | 30.000 M.O. | 0 → equipo · 30.000 → Skill Gold |
 
-| Concepto | Valor |
-|----------|--------|
-| **Tier** | 5 |
-| **Team Budget (base)** | 1120.000 M.O. |
-| **Skill Gold (pool)** | 220.000 M.O. |
-| **Flowing Funds (máx.)** | 30.000 M.O. |
+## Alineación
 
-*Desglose de equipo = **1120k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Rellenar nombres. Habilidades compradas con Skill Gold en **negrita**.*
 
-## Alineación (gasto de presupuesto de equipo)
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
+|----|--------|----------|-------|----|----|----|----|----|-------------|------------|
+| 1 | ____ | Minotauro Esclavizado | 150k | 5 | 5 | 4+ | 6+ | 9+ | Furia, Cuernos, Solitario (4+), Golpe mortífero, Cabeza dura, Ira descontrolada, **Defensa** | Primaria élite 30k |
+| 2 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, Pies firmes, Cabeza dura, Tembloroso, **Abrirse paso**, **Forcejear** | Stack 50k |
+| 3 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, Pies firmes, Cabeza dura, Tembloroso, **Abrirse paso**, **Forcejear** | Stack 50k |
+| 4 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura, **Golpe mortífero** | Primaria élite 30k |
+| 5 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura, **Defensa** | Primaria élite 30k |
+| 6 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura, **Defensa** | Primaria élite 30k |
+| 7 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura, **Defensa** | Primaria élite 30k |
+| 8 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Luchador, Exhalar fuego, Presencia perturbadora, Cabeza dura | – |
+| 9 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Luchador, Exhalar fuego, Presencia perturbadora, Cabeza dura | – |
+| 10 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – | – |
+| 11 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – | – |
 
-*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
-
-| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
-|----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Minotauro esclavizado | 150k | 5 | 5 | 4+ | 6+ | 9+ | Furia, Cuernos, Solitario (4+), GM (+1), Cabeza dura, Ira descontrolada |
-| 2 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, Equilibrio firme, Cabeza dura |
-| 3 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, Equilibrio firme, Cabeza dura |
-| 4 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura |
-| 5 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura |
-| 6 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura |
-| 7 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura |
-| 8 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Peleón, Aliento de Fuego, Presencia perturbadora, Cabeza dura |
-| 9 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Peleón, Aliento de Fuego, Presencia perturbadora, Cabeza dura |
-| 10 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | — |
-| 11 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | — |
-
-**Total jugadores:** 11 | **Presupuesto equipo usado:** 1120k M.O.
+**Total jugadores:** 11
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 930k) | 930.000 |
-| Rerolls (2 × 70.000) | 140.000 |
+| Jugadores | 930.000 |
+| Segundas oportunidades (2 × 70.000) | 140.000 |
 | Apotecario | 50.000 |
 | **Total** | **1.120.000** |
 
-## Skill Gold — avances (ejemplo editable)
+## Skill Gold
 
-Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack en todo el equipo. Costes: ver tabla en [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+Un avance por jugador. Secundarias: **0/3** · Stacks: **2/3**.
 
-| Jugador (Nº) | Tipo | Coste (Skill Gold) |
-|--------------|------|---------------------|
-| _pendiente_ | 1 primaria no élite | 20.000 |
+| Jugador (Nº) | Avance | Tipo | Coste |
+|--------------|--------|------|-------|
+| 1 Minotauro Esclavizado | Defensa | Primaria élite | 30.000 |
+| 2 Bull Centaur | Abrirse paso + Forcejear | Stack | 50.000 |
+| 3 Bull Centaur | Abrirse paso + Forcejear | Stack | 50.000 |
+| 4 Enano del Caos Blocker | Golpe mortífero | Primaria élite | 30.000 |
+| 5 Enano del Caos Blocker | Defensa | Primaria élite | 30.000 |
+| 6 Enano del Caos Blocker | Defensa | Primaria élite | 30.000 |
+| 7 Enano del Caos Blocker | Defensa | Primaria élite | 30.000 |
+| **Total** | | | **250.000** |
 
-**Pool Skill Gold base:** 220.000 M.O. (+ Flowing si lo asignas).
+## Notas de la build
 
-## Estrellas (Tiers 1–4)
-
-Sin Veterans ni Legends. Con estrella (tier 5–6): no avances Secondary ni Stack en jugadores de plantilla.
-
-## Inducements
-
-Solo los listados como permitidos en `eurobowl-2026.md`.
+- Bull Centaurs con stack Abrirse paso + Forcejear: corredores FU4 difíciles de parar.
+- Defensa en Minotauro y tres Blockers; Golpe mortífero en el cuarto. Los Flamesmith aportan Exhalar fuego.
+- Sin cambios: tier 5 en BETA y en FINAL (1120k/220k/30k).

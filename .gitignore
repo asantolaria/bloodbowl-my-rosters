@@ -11,3 +11,8 @@ _bmad/
 .maia/
 # MkDocs build output
 /site/
+
+# Reglamento GW (copyright): solo copia local, no versionar
+source/reglamento/*.pdf
+
+__pycache__/

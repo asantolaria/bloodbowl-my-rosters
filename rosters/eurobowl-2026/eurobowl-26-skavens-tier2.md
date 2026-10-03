@@ -1,65 +1,68 @@
-# Skavens — EuroBowl 2026 (Tier 2, Team Budget 1070k)
+# Skavens — EuroBowl 2026 FINAL (Tier 2)
 
 ![Skavens](../../source/images/equipos/skavens.webp)
 
-> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/skavens.md`](../../source/teams/skavens.md).
+> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/skavens.md`](../../source/teams/skavens.md). Generado con `_build_final.py`.
+>
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA); mismo tier y presupuesto en FINAL, sin cambios.
+>
+> **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
-> **Estado competitivo:** presupuesto EuroBowl válido en cifras; **sin revisión meta**. Repaso táctico pendiente — [README `eurobowl-2026`](README.md) · tag `eurobowl-2026-wip-competitive`.
+## Presupuesto
 
-## Presupuesto EuroBowl
+| Concepto | Disponible | Usado |
+|----------|-----------|-------|
+| **Presupuesto de equipo** | 1.070.000 M.O. | 1.070.000 M.O. |
+| **Skill Gold** | 140.000 M.O. | 160.000 M.O. |
+| **Flowing Funds** | 20.000 M.O. | 0 → equipo · 20.000 → Skill Gold |
 
-| Concepto | Valor |
-|----------|--------|
-| **Tier** | 2 |
-| **Team Budget (base)** | 1070.000 M.O. |
-| **Skill Gold (pool)** | 140.000 M.O. |
-| **Flowing Funds (máx.)** | 20.000 M.O. |
+## Alineación
 
-*Desglose de equipo = **1070k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Rellenar nombres. Habilidades compradas con Skill Gold en **negrita**.*
 
-## Alineación (gasto de presupuesto de equipo)
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
+|----|--------|----------|-------|----|----|----|----|----|-------------|------------|
+| 1 | ____ | Rata Ogro | 150k | 6 | 5 | 4+ | 6+ | 9+ | Ferocidad animal, Cola prensil, Furia, Golpe mortífero, Solitario (4+), **Imparable** | Primaria 20k |
+| 2 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar balón, **Abrirse paso** | Primaria 20k |
+| 3 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar balón, **Abrirse paso** | Primaria 20k |
+| 4 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar, **Forcejear** | Primaria 20k |
+| 5 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar, **Forcejear** | Primaria 20k |
+| 6 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | **Forcejear** | Primaria 20k |
+| 7 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | **Forcejear** | Primaria 20k |
+| 8 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | **Forcejear** | Primaria 20k |
+| 9 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – | – |
+| 10 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – | – |
+| 11 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – | – |
+| 12 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – | – |
 
-*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
-
-| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
-|----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Rata Ogro | 150k | 6 | 5 | 4+ | — | 9+ | Ferocidad animal, … |
-| 2 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar balón |
-| 3 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar balón |
-| 4 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
-| 5 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
-| 6 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
-| 7 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
-| 8 | ____ | Thrower | 80k | 7 | 3 | 3+ | 2+ | 8+ | Manos seguras, Pasar |
-| 9 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – |
-| 10 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – |
-| 11 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – |
-| 12 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | – |
-
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1070k M.O.
+**Total jugadores:** 12
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 950k) | 950.000 |
-| Rerolls (2 × 50.000) | 100.000 |
-| Apotecario | No (lista del equipo) |
-| Hinchas (2 × 10.000) | 20.000 |
+| Jugadores | 850.000 |
+| Segundas oportunidades (3 × 50.000) | 150.000 |
+| Apotecario | 50.000 |
+| Ayudantes del entrenador (2 × 10.000) | 20.000 |
 | **Total** | **1.070.000** |
 
-## Skill Gold — avances (ejemplo editable)
+## Skill Gold
 
-Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack en todo el equipo. Costes: ver tabla en [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 
-| Jugador (Nº) | Tipo | Coste (Skill Gold) |
-|--------------|------|---------------------|
-| _pendiente_ | 1 primaria no élite | 20.000 |
+| Jugador (Nº) | Avance | Tipo | Coste |
+|--------------|--------|------|-------|
+| 1 Rata Ogro | Imparable | Primaria | 20.000 |
+| 2 Blitzer | Abrirse paso | Primaria | 20.000 |
+| 3 Blitzer | Abrirse paso | Primaria | 20.000 |
+| 4 Gutter Runner | Forcejear | Primaria | 20.000 |
+| 5 Gutter Runner | Forcejear | Primaria | 20.000 |
+| 6 Linemen | Forcejear | Primaria | 20.000 |
+| 7 Linemen | Forcejear | Primaria | 20.000 |
+| 8 Linemen | Forcejear | Primaria | 20.000 |
+| **Total** | | | **160.000** |
 
-**Pool Skill Gold base:** 140.000 M.O. (+ Flowing si lo asignas).
+## Notas de la build
 
-## Estrellas (Tiers 1–4)
-
-Sin Veterans ni Legends. Con estrella (tier 5–6): no avances Secondary ni Stack en jugadores de plantilla.
-
-## Inducements
-
-Solo los listados como permitidos en `eurobowl-2026.md`.
+- Forcejear en Gutter Runners y 3 Linemen; Abrirse paso en los Blitzers; Rata Ogro con Imparable.
+- 3 segundas oportunidades baratas (50k) y 2 ayudantes.
+- Tier 2 igual en BETA y FINAL: la lista se mantiene.

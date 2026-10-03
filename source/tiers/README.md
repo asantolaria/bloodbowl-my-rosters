@@ -6,7 +6,7 @@ Referencia para rosters de **torneo**: **EuroBowl 2026** (Skill Gold + Flowing F
 
 | Archivo | Contenido |
 |---------|-----------|
-| [**eurobowl-2026-final.md**](eurobowl-2026-final.md) | **FINAL comprobada el 08/09/2026:** 7 tiers; las alineaciones existentes aún no se han migrado. |
+| [**eurobowl-2026-final.md**](eurobowl-2026-final.md) | **FINAL comprobada el 08/09/2026:** 7 tiers; [31 listas FINAL validadas](../../rosters/eurobowl-2026/README.md). |
 | **eurobowl-2026.md** | **BETA histórica** (#euro26): 6 tiers, Team Budget + **Skill Gold** + Flowing Funds, avances Primary/Secondary/Stack. Rosters ejemplo: [rosters/eurobowl-2026/README.md](../../rosters/eurobowl-2026/README.md). |
 | **oro-presupuesto.md** | Presupuesto de construcción (M.O.) por tier y tabla Tier \| Equipos (GW / NAF genérico). No sustituye al reglamento del torneo. |
 

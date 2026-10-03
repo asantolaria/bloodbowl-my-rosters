@@ -4,7 +4,7 @@
 
 **Marco válido:** solo **Blood Bowl 3ª temporada / BB2025**. No usar como autoridad artículos, tablas o guías de ediciones anteriores ni sitios que mezclen reglas viejas sin etiquetar **BB2025 / Third Season**.
 
-**Reglamento (máxima prioridad):** [referencias-reglamento-bb3.md](referencias-reglamento-bb3.md) y PDF en repo: [reglamento-bb3-season3.pdf](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). Respaldo oficial: [Blood Bowl Downloads](https://www.warhammer-community.com/blood-bowl-downloads/).
+**Reglamento (máxima prioridad):** [referencias-reglamento-bb3.md](referencias-reglamento-bb3.md) y PDF en repo: reglamento-bb3-season3.pdf *(copia local, no publicada)*. Respaldo oficial: [Blood Bowl Downloads](https://www.warhammer-community.com/blood-bowl-downloads/).
 
 **Listas, posicionales y costes:** [Nuffle Zone](https://nufflezone.com/equipos-blood-bowl/) — equipos en pestaña **2025 / Third Season** por raza.
 

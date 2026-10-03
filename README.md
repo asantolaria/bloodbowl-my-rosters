@@ -1,10 +1,10 @@
 # Blood Bowl — My Rosters
 
-> Sitio web: activa GitHub Pages con la fuente `GitHub Actions` para publicar la portada estática desde [`docs/`](docs/). También puedes abrir la versión local en [`docs/index.html`](docs/index.html).
+> 🌐 **Web para consultar durante el partido: [https://asantolaria.github.io/bloodbowl-my-rosters/](https://asantolaria.github.io/bloodbowl-my-rosters/)** — se publica sola con cada push a `main` (MkDocs, workflow `.github/workflows/pages.yml`).
 
 Repositorio para guardar y consultar **rosters de Blood Bowl** en Markdown, enfocado en **Blood Bowl Third Season (2025)**.
 
-> **Revisión 08/09/2026:** disponible la [referencia EuroBowl FINAL de 7 tiers](source/tiers/eurobowl-2026-final.md). Las listas existentes conservan la BETA y tienen discrepancias pendientes. Ver [auditoría, novedades y propuesta de actualización](source/revision-2026-09-08.md) antes de utilizarlas en torneo.
+> **EuroBowl 2026:** las [31 listas FINAL](rosters/eurobowl-2026/README.md) (7 tiers) están validadas con `_build_final.py`; las BETA quedan en [`rosters/eurobowl-2026/beta/`](rosters/eurobowl-2026/beta/README.md).
 
 **Torneos NAF recientes:** el formato **EuroBowl 2026** (#euro26) usa **Skill Gold** y presupuestos por tier descritos en la [referencia FINAL](source/tiers/eurobowl-2026-final.md). Plantillas BETA pendientes de migrar en [`rosters/eurobowl-2026/`](rosters/eurobowl-2026/). Para presupuestos genéricos Season 3 (p. ej. **~1.000k–1.100k** Unión Élfica, **~1.060k–1.100k** No Muertos, **~1.000k–1.060k** Skavens, **~1.100k** Orcos Negros con paquete de skills, **~1.100k–1.135k** Elegidos del Caos (variantes Big Guy), **~1.150k–1.155k** Nobleza Imperial (1 o 2 Throwers), **~1.150k–1.200k** Hombres Lagarto), ver [`rosters/torneos-season-3/`](rosters/torneos-season-3/). Otros torneos: reglamento del evento + si aplica oro escalado, [`source/tiers/oro-presupuesto.md`](source/tiers/oro-presupuesto.md).
 
@@ -61,7 +61,7 @@ Toda la referencia de equipos, habilidades, jugadores estrella, tablas y tiers e
 | **Jugadores estrella** | [Jugadores estrella](source/jugadores-estrella/README.md) · [Carpeta `jugadores-estrella/`](source/jugadores-estrella/) | Coste, estadísticas, habilidades y equipos para los que juegan. |
 | **Tiers** | [README tiers](source/tiers/README.md) · [EuroBowl 2026 FINAL](source/tiers/eurobowl-2026-final.md) · [Oro / presupuesto](source/tiers/oro-presupuesto.md) | #euro26: Team Budget + Skill Gold + Flowing. Otros: oro por tier genérico en `oro-presupuesto.md`. |
 | **Tablas de juego** | [Tablas de juego](source/tablas/README.md) · [Carpeta `tablas/`](source/tablas/) | Heridas y lesiones, clima, patada inicial, Plegarias a Nuffle, experiencia y SPP. |
-| **Reglamento GW (Season 3)** | [referencias-reglamento-bb3.md](source/referencias-reglamento-bb3.md) · [PDF](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf) | Texto oficial de reglas (3ª temporada / 2025); contenido © Games Workshop. |
+| **Reglamento GW (Season 3)** | [referencias-reglamento-bb3.md](source/referencias-reglamento-bb3.md) · PDF *(copia local, no publicada)* | Texto oficial de reglas (3ª temporada / 2025); contenido © Games Workshop. |
 | **Plantilla y más** | [Plantilla roster](source/plantilla-roster.md) · [Convenciones](source/README.md) | Plantilla para crear rosters y convenciones del repo (coste en k, CTD, etc.). |
 | **Comprobación local** | [`scripts/audit_rosters.py`](scripts/audit_rosters.py) | Opcional: valida cupos CTD y costes de la primera tabla de alineación frente a `source/teams/` (`python scripts/audit_rosters.py`). |
 

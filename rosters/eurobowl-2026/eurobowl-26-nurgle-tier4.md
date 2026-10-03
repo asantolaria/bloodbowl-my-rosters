@@ -1,64 +1,65 @@
-# Nurgle — EuroBowl 2026 (Tier 4, Team Budget 1100k)
+# Nurgle — EuroBowl 2026 FINAL (Tier 4)
 
+> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/nurgle.md`](../../source/teams/nurgle.md). Generado con `_build_final.py`.
+>
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL.
+>
+> **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
-> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/nurgle.md`](../../source/teams/nurgle.md).
+## Presupuesto
 
-> **Estado competitivo:** presupuesto EuroBowl válido en cifras; **sin revisión meta**. Repaso táctico pendiente — [README `eurobowl-2026`](README.md) · tag `eurobowl-2026-wip-competitive`.
+| Concepto | Disponible | Usado |
+|----------|-----------|-------|
+| **Presupuesto de equipo** | 1.100.000 M.O. | 1.100.000 M.O. |
+| **Skill Gold** | 190.000 M.O. | 220.000 M.O. |
+| **Flowing Funds** | 30.000 M.O. | 0 → equipo · 30.000 → Skill Gold |
 
-## Presupuesto EuroBowl
+## Alineación
 
-| Concepto | Valor |
-|----------|--------|
-| **Tier** | 4 |
-| **Team Budget (base)** | 1100.000 M.O. |
-| **Skill Gold (pool)** | 190.000 M.O. |
-| **Flowing Funds (máx.)** | 30.000 M.O. |
+*Rellenar nombres. Habilidades compradas con Skill Gold en **negrita**.*
 
-*Desglose de equipo = **1100k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
+|----|--------|----------|-------|----|----|----|----|----|-------------|------------|
+| 1 | ____ | Rotspawn | 140k | 4 | 5 | 5+ | 6+ | 10+ | Levantar compañero, Presencia perturbadora, Apariencia asquerosa, Solitario (4+), Golpe mortífero, Infectado, Realmente estúpido, Regeneración, Tentáculos, **Defensa** | Primaria élite 30k |
+| 2 | ____ | Bloater | 110k | 4 | 4 | 4+ | 6+ | 10+ | Apariencia asquerosa, Tembloroso, Mantenerse firme, Presencia perturbadora, Infectado, Regeneración, **Placar** | Primaria élite 30k |
+| 3 | ____ | Bloater | 110k | 4 | 4 | 4+ | 6+ | 10+ | Apariencia asquerosa, Tembloroso, Mantenerse firme, Presencia perturbadora, Infectado, Regeneración, **Placar** | Primaria élite 30k |
+| 4 | ____ | Bloater | 110k | 4 | 4 | 4+ | 6+ | 10+ | Apariencia asquerosa, Tembloroso, Mantenerse firme, Presencia perturbadora, Infectado, Regeneración, **Placar** | Primaria élite 30k |
+| 5 | ____ | Bloater | 110k | 4 | 4 | 4+ | 6+ | 10+ | Apariencia asquerosa, Tembloroso, Mantenerse firme, Presencia perturbadora, Infectado, Regeneración, **Placar** | Primaria élite 30k |
+| 6 | ____ | Pestigor | 70k | 6 | 3 | 3+ | 4+ | 9+ | Cabeza dura, Cuernos, Infectado, Regeneración, Equilibrio firme, **Forcejear** | Primaria 20k |
+| 7 | ____ | Pestigor | 70k | 6 | 3 | 3+ | 4+ | 9+ | Cabeza dura, Cuernos, Infectado, Regeneración, Equilibrio firme, **Placar** | Primaria élite 30k |
+| 8 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Infectado, **Forcejear** | Primaria 20k |
+| 9 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Infectado | – |
+| 10 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Infectado | – |
+| 11 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Infectado | – |
+| 12 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Infectado | – |
 
-## Alineación (gasto de presupuesto de equipo)
-
-*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
-
-| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
-|----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Bloaters | 115k | 4 | 4 | 4+ | 6+ | 10+ | Cabeza dura, Distraer, … |
-| 2 | ____ | Bloaters | 115k | 4 | 4 | 4+ | 6+ | 10+ | Cabeza dura, Distraer, … |
-| 3 | ____ | Bloaters | 115k | 4 | 4 | 4+ | 6+ | 10+ | Cabeza dura, Distraer, … |
-| 4 | ____ | Bloaters | 115k | 4 | 4 | 4+ | 6+ | 10+ | Cabeza dura, Distraer, … |
-| 5 | ____ | Pestigor | 80k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, GM, … |
-| 6 | ____ | Pestigor | 80k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, GM, … |
-| 7 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-| 8 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-| 9 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-| 10 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-| 11 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-| 12 | ____ | Rotter | 35k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración, … |
-
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k M.O.
+**Total jugadores:** 12
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 830k) | 830.000 |
-| Rerolls (4 × 60.000) | 240.000 |
-| Apotecario | No (lista del equipo) |
-| Hinchas (3 × 10.000) | 30.000 |
+| Jugadores | 920.000 |
+| Segundas oportunidades (3 × 60.000) | 180.000 |
+| Apotecario | No |
 | **Total** | **1.100.000** |
 
-## Skill Gold — avances (ejemplo editable)
+## Skill Gold
 
-Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack en todo el equipo. Costes: ver tabla en [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 
-| Jugador (Nº) | Tipo | Coste (Skill Gold) |
-|--------------|------|---------------------|
-| _pendiente_ | 1 primaria no élite | 20.000 |
+| Jugador (Nº) | Avance | Tipo | Coste |
+|--------------|--------|------|-------|
+| 1 Rotspawn | Defensa | Primaria élite | 30.000 |
+| 2 Bloater | Placar | Primaria élite | 30.000 |
+| 3 Bloater | Placar | Primaria élite | 30.000 |
+| 4 Bloater | Placar | Primaria élite | 30.000 |
+| 5 Bloater | Placar | Primaria élite | 30.000 |
+| 6 Pestigor | Forcejear | Primaria | 20.000 |
+| 7 Pestigor | Placar | Primaria élite | 30.000 |
+| 8 Rotter | Forcejear | Primaria | 20.000 |
+| **Total** | | | **220.000** |
 
-**Pool Skill Gold base:** 190.000 M.O. (+ Flowing si lo asignas).
+## Notas de la build
 
-## Estrellas (Tiers 1–4)
-
-Sin Veterans ni Legends. Con estrella (tier 5–6): no avances Secondary ni Stack en jugadores de plantilla.
-
-## Inducements
-
-Solo los listados como permitidos en `eurobowl-2026.md`.
+- Cuatro Bloaters con Placar y Rotspawn con Defensa: muro lento de AV10 y Regeneración.
+- Sin cambios: Nurgle sigue en Tier 4 con el mismo presupuesto; los 30k de Flowing cubren el exceso de Skill Gold (220/190).
+- Sin apotecario (no disponible).

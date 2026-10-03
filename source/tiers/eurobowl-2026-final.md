@@ -20,6 +20,4 @@ Estrellas: prohibidas en tiers 1–4. Tier 5: recargo **60k** por Veteran o **10
 
 ## Estado del repositorio
 
-Las [31 listas existentes](../../rosters/eurobowl-2026/README.md) proceden de la [BETA + HE patch](eurobowl-2026.md). **Esta referencia no las migra ni valida.** Sus nombres de archivo conservan el tier anterior.
-
-La [revisión del repositorio](../revision-2026-09-08.md) detalla discrepancias, fuentes y prioridades. Para preparar una lista nueva, registrar explícitamente `EuroBowl 2026 FINAL`, la fecha de comprobación y el reparto de ambos presupuestos. No reutilizar `_build_rosters.py` como generador del formato FINAL: conserva datos BETA.
+Las [31 listas FINAL](../../rosters/eurobowl-2026/README.md) están migradas y **validadas** con `rosters/eurobowl-2026/_build_final.py` (presupuestos, Skill Gold, Flowing, cupos, secundarias/stacks y estrellas). Las listas BETA se conservan en [`rosters/eurobowl-2026/beta/`](../../rosters/eurobowl-2026/beta/README.md). Incentivos y estrellas permitidos: confirmar con la lámina del organizador.
