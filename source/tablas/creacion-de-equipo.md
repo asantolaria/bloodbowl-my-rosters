@@ -65,4 +65,4 @@ Algunos incentivos y Jugadores Estrella solo están disponibles para ciertas lig
 | **Colar jugadores** (Swarming) | Tras el despliegue, añade **D3** Líneas más desde Reservas (más de 11 en el campo). | Snotlings |
 | **Capitán del equipo** | Un jugador inicial (no Big Guy) es **Capitán**: gana **Profesional** sin coste. Con él en el campo, al usar un Reroll de equipo tira 1D6: **6 natural** → el Reroll es gratis. Debe alinearse si puede. Si sale del roster, se nombra otro en el prepartido del siguiente partido (errata). | Humanos, Orcos |
 
-Ver también: [Incentivos](incentivos.md) · [Juego igualado](juego-igualado.md) · [Liga y postpartido](liga-postpartido.md) · Presupuestos de torneo en [source/tiers/](../tiers/).
+Ver también: [Incentivos](incentivos.md) · [Juego igualado](juego-igualado.md) · [Liga y postpartido](liga-postpartido.md) · Presupuestos de torneo en [source/tiers/](../tiers/README.md).

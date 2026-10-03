@@ -1,7 +1,5 @@
 # Vampiros — Datos 2025
 
-![Vampiros](../images/equipos/vampiros.webp)
-
 Fuente: [Nuffle Zone — Vampires](https://nufflezone.com/en/blood-bowl-teams/vampires/) · contrastado con [Mordorbihan — Vampires (BB2025)](https://mordorbihan.fr/en/bloodbowl/2025/team/Vampires). Nombres de posición traducidos en el repo.
 
 ## Roster 2025

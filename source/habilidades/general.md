@@ -1,6 +1,6 @@
 # Habilidades — General
 
-Fuente: [Nuffle Zone — Habilidades Blood Bowl](https://nufflezone.com/habilidades-blood-bowl/) (bloque **Tercera Temporada 2025**). [PDF Season 3 en repo](../reglamento/reglamento-bb3-season3.pdf). Verificado contra [bloodbowlbase — Skills & Traits (BB2025)](https://bloodbowlbase.ru/bb2025/core_rules/skills_and_traits/) y FAQ de mayo 2026.
+Fuente: [Nuffle Zone — Habilidades Blood Bowl](https://nufflezone.com/habilidades-blood-bowl/) (bloque **Tercera Temporada 2025**). [PDF Season 3 en repo](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). Verificado contra [bloodbowlbase — Skills & Traits (BB2025)](https://bloodbowlbase.ru/bb2025/core_rules/skills_and_traits/) y FAQ de mayo 2026.
 
 | Habilidad (ES) | Inglés | Tipo | +TV (prog.) | Resumen |
 |----------------|--------|------|--------------|---------|

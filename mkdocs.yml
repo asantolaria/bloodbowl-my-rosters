@@ -1,23 +1,37 @@
 site_name: Blood Bowl · My Rosters
-site_description: Rosters y referencia de Blood Bowl Third Season en español
+site_description: Referencia de Blood Bowl Temporada 3 (BB2025) en español para consultar durante el partido
 site_url: https://asantolaria.github.io/bloodbowl-my-rosters/
 repo_url: https://github.com/asantolaria/bloodbowl-my-rosters
 repo_name: asantolaria/bloodbowl-my-rosters
+edit_uri: ""
 
 docs_dir: docs
 exclude_docs: |
+  *.pdf
+  *.py
   source/README.md
+  source/images/README.md
+  rosters/limite-valoracion/
+
 theme:
   name: material
   language: es
   logo: assets/logo.svg
   favicon: assets/logo.svg
   features:
-    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
-    - content.code.copy
+    - search.share
+    - toc.follow
+    - content.tooltips
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -35,39 +49,120 @@ theme:
         name: Cambiar a modo claro
 
 markdown_extensions:
+  - abbr
   - admonition
   - attr_list
   - md_in_html
   - tables
   - toc:
       permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.superfences
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.snippets
 
 plugins:
-  - search
+  - search:
+      lang: es
+
+validation:
+  links:
+    anchors: warn
 
 nav:
   - Inicio: index.md
-  - Rosters:
-      - Todos los rosters: rosters/README.md
+  - Jugar:
+      - Durante el partido: partido.md
+      - Guía rápida: source/guia-referencia-rapida.md
+      - Secuencia de partido: source/tablas/secuencia-de-partido.md
+      - Acciones y modificadores: source/tablas/acciones-y-modificadores.md
+      - Tablas:
+          - Patada inicial: source/tablas/patada-inicial.md
+          - Clima: source/tablas/clima.md
+          - Heridas y lesiones: source/tablas/heridas-y-lesiones.md
+          - Plegarias a Nuffle: source/tablas/plegarias-nuffle.md
+      - Fundamentos y principios: source/tablas/fundamentos-y-principios.md
+      - FAQ y errata: source/tablas/faq-errata.md
+  - Equipos:
+      - source/teams/README.md
+      - Alianza del Viejo Mundo: source/teams/alianza-viejo-mundo.md
+      - Altos Elfos: source/teams/altos-elfos.md
+      - Amazonas: source/teams/amazonas.md
+      - Bretonia: source/teams/bretonia.md
+      - Elegidos del Caos: source/teams/elegidos-del-caos.md
+      - Elfos Oscuros: source/teams/elfos-oscuros.md
+      - Elfos Silvanos: source/teams/elfos-silvanos.md
+      - Enanos: source/teams/enanos.md
+      - Enanos del Caos: source/teams/enanos-del-caos.md
+      - Gnomos: source/teams/gnomos.md
+      - Goblins: source/teams/goblins.md
+      - Habitantes del Inframundo: source/teams/habitantes-inframundo.md
+      - Halflings: source/teams/halflings.md
+      - Hombres Lagarto: source/teams/hombres-lagarto.md
+      - Humanos: source/teams/humanos.md
+      - Khorne: source/teams/khorne.md
+      - Nigromantes: source/teams/nigromantes.md
+      - No Muertos: source/teams/no-muertos.md
+      - Nobleza Imperial: source/teams/nobleza-imperial.md
+      - Nórdicos: source/teams/nordicos.md
+      - Nurgle: source/teams/nurgle.md
+      - Ogros: source/teams/ogros.md
+      - Orcos: source/teams/orcos.md
+      - Orcos Negros: source/teams/orcos-negros.md
+      - Renegados del Caos: source/teams/renegados-del-caos.md
+      - Reyes Funerarios: source/teams/reyes-funerarios.md
+      - Skavens: source/teams/skavens.md
+      - Slann (NAF): source/teams/slann.md
+      - Snotlings: source/teams/snotlings.md
+      - Unión Élfica: source/teams/union-elfica.md
+      - Vampiros: source/teams/vampiros.md
+      - Demonios de Khorne (NAF): source/teams/demonios-khorne.md
+      - Slaanesh (no oficial): source/teams/slaanesh.md
+  - Habilidades:
+      - Todas en una página: habilidades.md
+      - Por categoría:
+          - Índice y Elite: source/habilidades/README.md
+          - General: source/habilidades/general.md
+          - Agilidad: source/habilidades/agilidad.md
+          - Fuerza: source/habilidades/fuerza.md
+          - Pase: source/habilidades/pase.md
+          - Triquiñuelas: source/habilidades/triquinuelas.md
+          - Mutaciones: source/habilidades/mutaciones.md
+          - Rasgos: source/habilidades/rasgos.md
+  - Estrellas: source/jugadores-estrella/README.md
+  - Liga y torneos:
+      - Crear un equipo: source/tablas/creacion-de-equipo.md
+      - Incentivos: source/tablas/incentivos.md
+      - Liga y postpartido: source/tablas/liga-postpartido.md
+      - Experiencia y PE: source/tablas/experiencia-y-spp.md
+      - Juego igualado y exhibición: source/tablas/juego-igualado.md
+      - Tiers y presupuestos: source/tiers/README.md
+      - EuroBowl 2026 FINAL: source/tiers/eurobowl-2026-final.md
+      - EuroBowl 2026 BETA: source/tiers/eurobowl-2026.md
+      - Oro por tier (genérico): source/tiers/oro-presupuesto.md
+      - Blood Bowl Sevens: source/tablas/sevens.md
+      - Copas temáticas (Spike!): source/tablas/copas-tematicas-spike.md
+  - Mis rosters:
+      - rosters/README.md
       - Iniciales 1.000k: rosters/iniciales/README.md
-      - Torneos Season 3: rosters/torneos-season-3/README.md
-      - EuroBowl 2026 · FINAL: source/tiers/eurobowl-2026-final.md
-      - EuroBowl 2026 · BETA: rosters/eurobowl-2026/README.md
+      - Torneos Temporada 3: rosters/torneos-season-3/README.md
+      - EuroBowl 2026 (BETA): rosters/eurobowl-2026/README.md
+      - Fuentes de rosters: source/referencias-rosters-torneos.md
+      - Plantilla de roster: source/plantilla-roster.md
+      - Nombres de equipo: source/nombres-equipos-sugeridos.md
   - Referencia:
+      - Glosario oficial: source/glosario-oficial.md
       - Mapa del contenido: source/index.md
-      - Equipos: source/teams/README.md
-      - Habilidades: habilidades.md
-      - Jugadores estrella: source/jugadores-estrella/README.md
-      - Tablas de juego: source/tablas/README.md
-      - Tiers: source/tiers/README.md
-      - EuroBowl FINAL: source/tiers/eurobowl-2026-final.md
-      - Reglamento: source/referencias-reglamento-bb3.md
-  - Proyecto:
-      - Revisión 2026: source/revision-2026-09-08.md
+      - Reglamento y fuentes: source/referencias-reglamento-bb3.md
+      - Revisión 2026-09-08: source/revision-2026-09-08.md
 
 extra_css:
   - assets/extra.css

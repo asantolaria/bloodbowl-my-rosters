@@ -1,7 +1,5 @@
 # Renegados del Caos — Datos 2025
 
-![Renegados del Caos](../images/equipos/renegados-del-caos.webp)
-
 Fuente: [Nuffle Zone — Chaos Renegades](https://nufflezone.com/en/blood-bowl-teams/chaos-renegade-pact/) · roster completo de [Mordorbihan — Chaos Renegades (BB2025)](https://mordorbihan.fr/en/bloodbowl/2025/team/Chaos-Renegades). La página española de Nuffle Zone (`/equipos-blood-bowl/renegados-del-caos/`) da 404. Nombres de posición traducidos en el repo. · verificado con [Blood Bowl Base — Chaos Renegades](https://bloodbowlbase.ru/bb2025/teams/Chaos_Renegades/)
 
 ## Roster 2025

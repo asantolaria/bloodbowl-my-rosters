@@ -2,7 +2,7 @@
 
 Fuente: [bloodbowlbase — Matched Play (BB2025)](https://bloodbowlbase.ru/bb2025/core_rules/matched_play/) · [Exhibition Play](https://bloodbowlbase.ru/bb2025/core_rules/exhibition_play/) · [FAQ y Tiers mayo 2026](https://bloodbowlbase.ru/bb2025/core_rules/latest_faq/).
 
-Formato de **torneos** y partidos sueltos. Los torneos (NAF, EuroBowl…) suelen publicar su propio reglamento con presupuestos y tiers diferentes: ver [source/tiers/](../tiers/).
+Formato de **torneos** y partidos sueltos. Los torneos (NAF, EuroBowl…) suelen publicar su propio reglamento con presupuestos y tiers diferentes: ver [source/tiers/](../tiers/README.md).
 
 ## Reglas de creación
 
@@ -53,7 +53,7 @@ Formato de **torneos** y partidos sueltos. Los torneos (NAF, EuroBowl…) suelen
 | | Reyes Funerarios | | |
 | | Vampiros | | |
 
-*Estos tiers (4 niveles) son los de GW; los tiers de EuroBowl/NAF usados en este repo son distintos (ver [source/tiers/](../tiers/)).*
+*Estos tiers (4 niveles) son los de GW; los tiers de EuroBowl/NAF usados en este repo son distintos (ver [source/tiers/](../tiers/README.md)).*
 
 ## Exhibición
 

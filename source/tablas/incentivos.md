@@ -29,7 +29,7 @@ Fuente: [bloodbowlbase — Inducements (BB2025)](https://bloodbowlbase.ru/bb2025
 | **Árbitro poco imparcial** | 0-1 | Variable | — | Ver abajo. |
 | **Miembro del cuadro técnico famoso (o infame)** | 0-1 | Variable | — | Ver abajo. |
 | **Mercenarios** | 0-3 | Coste del jugador **+30.000** | Todos | Jugador de tu roster con **Solitario (4+)**; cuenta para el QTY de su posición (los MNG no). Puede comprar **una Primaria** por 50.000. No se contratan en el postpartido. |
-| **Jugadores Estrella** | 0-2 | Variable | Según su ficha | No supera 16 jugadores. Las parejas cuentan como 1 elección (2 huecos). Ambos equipos pueden tener la misma Estrella. No ganan PE ni MVP; sus Lesiones se anulan. Ver [jugadores estrella](../jugadores-estrella/). |
+| **Jugadores Estrella** | 0-2 | Variable | Según su ficha | No supera 16 jugadores. Las parejas cuentan como 1 elección (2 huecos). Ambos equipos pueden tener la misma Estrella. No ganan PE ni MVP; sus Lesiones se anulan. Ver [jugadores estrella](../jugadores-estrella/README.md). |
 | **Mago** | 0-1 | Variable | — | Ver abajo. |
 
 ## Incentivos con nombre (reglamento base)

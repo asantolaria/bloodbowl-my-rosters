@@ -1,1 +1,12 @@
 :root{--md-primary-fg-color:#c83f32;--md-accent-fg-color:#dda849}.md-header{background:#1b1d20}.md-main__inner{max-width:1200px}.md-typeset h1{font-weight:800}.md-typeset .grid.cards>ul>li{border-top:3px solid #c83f32}.md-button--primary{background:#c83f32!important;border-color:#c83f32!important}.md-typeset table:not([class]) th{background:#1b1d20;color:#fff}.skill-index{position:sticky;top:3.5rem;z-index:2;margin:1rem 0 2rem;padding:1rem 1.25rem;border-left:4px solid #dda849;background:var(--md-code-bg-color);font-weight:700}.skill-index a{margin-right:.75rem;white-space:nowrap}
+
+/* Consulta en mesa: tablas compactas y botones grandes en móvil */
+.md-typeset table:not([class]){font-size:.78rem}
+.md-typeset table:not([class]) td,.md-typeset table:not([class]) th{padding:.45em .7em}
+.md-typeset .grid.cards .md-button{margin:.2rem .2rem 0 0;padding:.45em 1em}
+@media screen and (max-width:44.9375em){
+  .md-typeset{font-size:.78rem}
+  .md-typeset table:not([class]){font-size:.72rem}
+  .md-typeset .grid.cards>ul{grid-template-columns:1fr}
+  .md-typeset .grid.cards .md-button{display:inline-block;width:100%;text-align:center;margin:.25rem 0 0}
+}

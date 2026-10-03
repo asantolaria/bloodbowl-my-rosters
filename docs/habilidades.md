@@ -8,7 +8,7 @@ Consulta todas las habilidades de Blood Bowl BB2025 en una sola página. Usa el 
 
 <div class="skill-index" markdown>
 
-[Agilidad](#agilidad) · [Fuerza](#fuerza) · [General](#general) · [Mutaciones](#mutaciones) · [Pase](#pase) · [Rasgos](#rasgos) · [Triquiñuelas](#triquinuelas)
+[Agilidad](#agilidad) · [Fuerza](#fuerza) · [General](#general) · [Mutaciones](#mutaciones) · [Pase](#pase) · [Rasgos](#rasgos) · [Triquiñuelas](#triquiñuelas)
 
 </div>
 
