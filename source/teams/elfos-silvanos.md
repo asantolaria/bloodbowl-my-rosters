@@ -19,6 +19,8 @@ Fuente: [Nuffle Zone — Elfos Silvanos](https://nufflezone.com/equipos-blood-bo
 - **Reglas especiales:** Ninguna  
 - **Ligas:** Liga de los Reinos Élficos, Liga de los Bosques  
 
+*En inglés del builder GW: **Elven Kingdom League** = **Liga de los Reinos Élficos**.*
+
 ## Descripción oficial de las habilidades
 
 * **Atrapar (Catch) — incl.:** Puede repetir chequeo de AG fallido al atrapar el balón.

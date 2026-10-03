@@ -18,7 +18,7 @@ Regla: todo lo que tenga precio debe aparecer al lado del nombre (o en la misma 
 
 # [RAZA] — [NOMBRE DEL EQUIPO] ([TV]k)
 
-![RAZA](images/equipos/[SLUG_EQUIPO].webp)
+> Imagen del equipo: sustituye `[SLUG_EQUIPO]` por el slug correspondiente.
 
 *Si copias esta plantilla a `rosters/` o `rosters/iniciales/`, cambia la imagen a `../../source/images/equipos/[SLUG_EQUIPO].webp` (o la ruta relativa que corresponda desde ese archivo).*
 

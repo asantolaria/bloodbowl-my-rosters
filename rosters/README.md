@@ -1,6 +1,6 @@
 # Alineaciones Blood Bowl (Markdown)
 
-Alineaciones en Markdown (tablas estilo Nuffle Zone, 3ª temporada / BB2025). Para la descripción del repositorio y los **tiers NAF** usados en torneos, ver el [README principal](../README.md).
+Alineaciones en Markdown (tablas estilo Nuffle Zone, 3ª temporada / BB2025). Para la descripción del repositorio y los **tiers NAF** usados en torneos, ver el [Inicio](../index.md).
 
 ## Nombre de los archivos
 
@@ -48,7 +48,7 @@ En formato slug: minúsculas, guiones, sin acentos, extensión `.md`. Ejemplos:
 | Torneo S3 | No Muertos | 1.060k | [torneo-s3-no-muertos-1060k.md](torneos-season-3/torneo-s3-no-muertos-1060k.md) |
 | Torneo S3 | No Muertos | 1.100k | [torneo-s3-no-muertos-1100k.md](torneos-season-3/torneo-s3-no-muertos-1100k.md) |
 
-**Torneos:** plantillas **EuroBowl 2026** en [eurobowl-2026/](eurobowl-2026/) (#euro26, Skill Gold); builds genéricos Season 3 en [torneos-season-3/](torneos-season-3/) (~1.000k–1.100k Unión Élfica, ~1.060k–1.100k No Muertos, ~1.000k Skavens, ~1.100k Elegidos del Caos / Orcos Negros con skills, ~1.150k Nobleza Imperial, ~1.150k–1.200k Hombres Lagarto, etc.). Nuevos rosters: [plantilla](../source/plantilla-roster.md). Comprobación opcional: [../scripts/audit_rosters.py](../scripts/audit_rosters.py). Tiers y oro genérico: [../source/tiers/README.md](../source/tiers/README.md).
+**Torneos:** plantillas **EuroBowl 2026** en [EuroBowl BETA](eurobowl-2026/README.md) (#euro26, Skill Gold); builds genéricos Season 3 en [Torneos Season 3](torneos-season-3/README.md) (~1.000k–1.100k Unión Élfica, ~1.060k–1.100k No Muertos, ~1.000k Skavens, ~1.100k Elegidos del Caos / Orcos Negros con skills, ~1.150k Nobleza Imperial, ~1.150k–1.200k Hombres Lagarto, etc.). Nuevos rosters: [plantilla](../source/plantilla-roster.md). Comprobación opcional: `scripts/audit_rosters.py`. Tiers y oro genérico: [../source/tiers/README.md](../source/tiers/README.md).
 
 **Origen de datos:** Las alineaciones se han actualizado con la información exportada desde [BB Roster](https://bbroster.net) (gestor de equipos). Habilidades ganadas por progresión aparecen en **negrita** en cada roster.
 
@@ -56,8 +56,8 @@ En formato slug: minúsculas, guiones, sin acentos, extensión `.md`. Ejemplos:
 
 | Carpeta | Contenido |
 |---------|-----------|
-| **[eurobowl-2026/](eurobowl-2026/)** | **EuroBowl 2026** (#euro26): Team Budget + Skill Gold + Flowing Funds. Ver [README](eurobowl-2026/README.md). |
-| **[torneos-season-3/](torneos-season-3/)** | Torneos genéricos **BB2025 / 3ª temporada** (~1.0M–1.1M Unión Élfica, ~1.06M–1.1M No Muertos, Skavens ~1.0M, Orcos Negros ~1.1M+ con skills, Elegidos del Caos ~1.10M–1.135M (Troll/Ogro/Minotauro), Nobleza Imperial ~1.15M–1.155M, ~1.15M–1.2M Hombres Lagarto; sin marco #euro26). Ver [README](torneos-season-3/README.md). |
+| **[EuroBowl BETA](eurobowl-2026/README.md)** | **EuroBowl 2026** (#euro26): Team Budget + Skill Gold + Flowing Funds. Ver [README](eurobowl-2026/README.md). |
+| **[Torneos Season 3](torneos-season-3/README.md)** | Torneos genéricos **BB2025 / 3ª temporada** (~1.0M–1.1M Unión Élfica, ~1.06M–1.1M No Muertos, Skavens ~1.0M, Orcos Negros ~1.1M+ con skills, Elegidos del Caos ~1.10M–1.135M (Troll/Ogro/Minotauro), Nobleza Imperial ~1.15M–1.155M, ~1.15M–1.2M Hombres Lagarto; sin marco #euro26). Ver [README](torneos-season-3/README.md). |
 
 ## Referencias para rosters 1000k y torneos por tier
 

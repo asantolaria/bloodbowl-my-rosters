@@ -20,6 +20,8 @@ Tablas y resúmenes de reglas de **Blood Bowl 3ª temporada (BB2025)**, verifica
 | [sevens.md](sevens.md) | Blood Bowl Sevens (Spike! Journal 22) |
 | [copas-tematicas-spike.md](copas-tematicas-spike.md) | Copas temáticas opcionales (Spike! Journal 19-21): incentivos, clima y patada inicial alternativos |
 
+Volver a [Referencia](../index.md) · [Equipos](../teams/README.md) · [Habilidades](../habilidades/README.md)
+
 **Índice completo:** [source/index.md — Tablas de juego](../index.md#tablas-de-juego) · **Reglamento:** [referencias-reglamento-bb3.md](../referencias-reglamento-bb3.md)
 
 Resúmenes anteriores: [Resumen de Tablas](https://nufflezone.com/resumen-tablas-blood-bowl/), [Lo Básico](https://nufflezone.com/lo-basico/) (Nuffle Zone).

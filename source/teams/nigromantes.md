@@ -1,6 +1,5 @@
 # Nigromantes (Horror Nigromántico) — Datos 2025
 
-![Nigromantes](../images/equipos/nigromantes.webp)
 
 Fuente: [Nuffle Zone — Nigromantes](https://nufflezone.com/equipos-blood-bowl/nigromantes/) · verificado con [Blood Bowl Base — Necromantic Horror](https://bloodbowlbase.ru/bb2025/teams/Necromantic_Horror/)
 
@@ -18,6 +17,8 @@ Fuente: [Nuffle Zone — Nigromantes](https://nufflezone.com/equipos-blood-bowl/
 - **Apotecario:** No  
 - **Reglas especiales:** Señores de los No Muertos  
 - **Liga:** Selectiva de Sylvania  
+
+*En inglés del builder GW: **Necromantic Horror** = **Nigromantes (Horror Nigromántico)**; **Sylvanian Spotlight** = **Selectiva de Sylvania**; **Masters of Undeath** = **Señores de los No Muertos**; **Flesh Golem** = **Gólem de Carne**; **Ghoul Runner** = **Ghoul**; **Zombie Lineman** = **Zombie Línea**; **Eye Gouge** = **Piquete de ojos**; **Stand Firm** = **Mantenerse firme**; **Thick Skull** = **Cabeza dura**; **Foul Appearance** = **Apariencia asquerosa**; **No Ball** = **Sin Manos**; **Sidestep** = **Echarse a un lado**.*
 
 ## Descripción oficial de las habilidades
 

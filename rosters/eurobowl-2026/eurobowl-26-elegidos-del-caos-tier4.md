@@ -19,22 +19,22 @@
 
 ## Alineación (gasto de presupuesto de equipo)
 
-*Sin avances de Skill Gold. Rellenar nombres. **Dorsales:** Beastman **1–8** (siete en esta plantilla; **8** libre para una cabra más), Guerrero **9–12**, **Troll del Caos 20** / **Minotauro 21** según Big Guy elegido (aquí Minotauro **21**; **20** libre). Stats: [`source/teams/elegidos-del-caos.md`](../../source/teams/elegidos-del-caos.md).*
+*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
 | Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
-| 2 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
-| 3 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
-| 4 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
-| 5 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
-| 6 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
-| 7 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
-| 9 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de brazo |
-| 10 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de brazo |
-| 11 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de brazo |
-| 12 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de brazo |
-| 21 | ____ | Minotauro | 150k | 5 | 5 | 4+ | 6+ | 9+ | Frenesí, Cuernos, Solitario (4+), Golpe mortífero, Cabeza dura, Ira descontrolada |
+| 1 | ____ | Minotauro | 150k | 5 | 5 | 4+ | 6+ | 9+ | Frenesí, Imparable, … |
+| 2 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | — | 10+ | Brazo armado |
+| 3 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | — | 10+ | Brazo armado |
+| 4 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | — | 10+ | Brazo armado |
+| 5 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | — | 10+ | Brazo armado |
+| 6 | ____ | Beastman | 55k | 6 | 3 | 3+ | — | 9+ | Cuernos, Cabeza dura |
+| 7 | ____ | Beastman | 55k | 6 | 3 | 3+ | — | 9+ | Cuernos, Cabeza dura |
+| 8 | ____ | Beastman | 55k | 6 | 3 | 3+ | — | 9+ | Cuernos, Cabeza dura |
+| 9 | ____ | Beastman | 55k | 6 | 3 | 3+ | — | 9+ | Cuernos, Cabeza dura |
+| 10 | ____ | Beastman | 55k | 6 | 3 | 3+ | — | 9+ | Cuernos, Cabeza dura |
+| 11 | ____ | Beastman | 55k | 6 | 3 | 3+ | — | 9+ | Cuernos, Cabeza dura |
+| 12 | ____ | Beastman | 55k | 6 | 3 | 3+ | — | 9+ | Cuernos, Cabeza dura |
 
 **Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k M.O.
 

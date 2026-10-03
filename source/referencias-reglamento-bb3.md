@@ -1,10 +1,12 @@
 # Reglamento oficial — Blood Bowl 3ª temporada (Season 3 / 2025)
 
-Para **texto reglamentario** (secuencia de turno, acciones, interacciones de habilidades, muerte del balón, etc.), la **autoridad** es el material publicado por **Games Workshop** para **Blood Bowl Second Season / 3ª temporada**, incluidas actualizaciones y *Designer's Commentary* vigentes.
+Para **texto reglamentario** (secuencia de turno, acciones, interacciones de habilidades, muerte del balón, etc.), la **autoridad** es el material publicado por **Games Workshop** para **Blood Bowl Third Season / 3ª temporada (BB2025)**, incluidas actualizaciones y *Designer's Commentary* vigentes.
+
+**Actualización 08/09/2026:** consultar las [notas oficiales de la FAQ de mayo de 2026](https://www.warhammer-community.com/en-gb/articles/wqewdcvv/blood-bowl-faqs-games-designers-notes/) y las [aclaraciones NAF](https://www.thenaf.net/naf-recommendations-and-clarifications-for-bb2025/) cuando las adopte el evento. La copia local no sustituye esas actualizaciones. Véase la [revisión del repositorio](revision-2026-09-08.md).
 
 ## Copia en este repositorio
 
-**PDF (Season 3 / BB2025):** [reglamento/reglamento-bb3-season3.pdf](reglamento/reglamento-bb3-season3.pdf)
+**PDF (Season 3 / BB2025):** [reglamento/reglamento-bb3-season3.pdf](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf)
 
 - **Uso en el proyecto:** priorizar este archivo (ruta estable en el workspace) frente a wikis o resúmenes no verificados para la **letra de la regla**.
 - **Ámbito:** mismo marco que **BB 3ª temporada / Blood Bowl 2025** (`Nuffle Zone` para listas; **bloodbowlbase** para tablas y texto de reglas con FAQ; **reglamento GW** como autoridad final).
@@ -38,7 +40,7 @@ Detalles de la carpeta: [reglamento/README.md](reglamento/README.md).
 
 | Tema | Fuente principal en el repo |
 |------|-----------------------------|
-| Texto legal de reglas | [reglamento-bb3-season3.pdf](reglamento/reglamento-bb3-season3.pdf) + GW downloads |
+| Texto legal de reglas | [reglamento-bb3-season3.pdf](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf) + GW downloads |
 | Rosters, costes, habilidades por posición | `source/teams/*.md` + [Nuffle Zone](https://nufflezone.com) |
 | Tablas resumidas y reglas de juego | `source/tablas/` (verificado contra bloodbowlbase BB2025, FAQ mayo 2026) |
 | Torneos NAF / EuroBowl | `source/tiers/*.md` y reglamentos de evento |

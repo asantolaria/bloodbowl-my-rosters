@@ -1,6 +1,5 @@
 # Goblins — Datos 2025
 
-![Goblins](../images/equipos/goblins.webp)
 
 Fuente: [Nuffle Zone — Goblins](https://nufflezone.com/equipos-blood-bowl/goblins/) · verificado con [Blood Bowl Base — Goblin](https://bloodbowlbase.ru/bb2025/teams/Goblin/)
 

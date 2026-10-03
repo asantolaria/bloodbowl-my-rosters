@@ -6,6 +6,8 @@
 **Lista de equipo:** [Nuffle Zone — Altos Elfos](https://nufflezone.com/equipos-blood-bowl/altos-elfos/) (tabla **Altos Elfos 2026** / 3ª temporada vigente en Nuffle).  
 **Fuente:** verificado con [Blood Bowl Base — High Elf](https://bloodbowlbase.ru/bb2025/teams/High_Elf/).
 
+*En inglés del builder GW: **Elven Kingdom League** = **Liga de los Reinos Élficos**; **Dragon Prince** = **Alto Elfo Dragon Warrior**; **White Lion** = **Alto Elfo White Lion Blitzer**; **Phoenix Warrior** = **Alto Elfo Phoenix Prince Thrower**; **High Elf Lineman** = **Alto Elfo Línea**.*
+
 ## Roster 2026
 
 | CTD | Posición | Coste | MV | FU | AG | PS | AR | Habilidades (resumen) | Pri | Sec |

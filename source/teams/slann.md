@@ -4,6 +4,10 @@
 
 Fuente: [Nuffle Zone — Slann](https://nufflezone.com/equipos-blood-bowl/slann/)
 
+*El reglamento GW / builder actual incluye un equipo **Slann** renovado (sin Kroxigor en la lista de captura EuroBowl); la tabla siguiente es la **lista clásica** en Nuffle a fecha de ficha. Para alineación **EuroBowl desde captura** (13 jugadores, 1100k, 4 RR, stats nuevos): [`../../rosters/eurobowl-2026/eurobowl-26-slann-tier4.md`](../../rosters/eurobowl-2026/eurobowl-26-slann-tier4.md).*
+
+*En inglés del builder GW: **Lustrian Superleague** = **Superliga Lustriana**; **Slann Blitzer** / **Slann Catcher** / **Slann Lineman** = posiciones homónimas; **Diving Tackle** = **Placaje heroico**; **Diving Catch** = **Atrapada de inmersión** (validar nombre en PDF); **Hit and Run** = **Golpe a la carrera**; **Jump Up** = **En pie de un salto**; **On the Ball** = **Atento al balón**; **Very Long Legs** = **Piernas muy largas**.*
+
 ## Roster 2025
 
 | CTD | Posición | Coste | MV | FU | AG | PS | AR | Habilidades (resumen) | Pri | Sec |

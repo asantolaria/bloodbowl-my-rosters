@@ -24,6 +24,10 @@ Fuente: [Nuffle Zone — Habitantes del Inframundo](https://nufflezone.com/equip
 - **Reglas especiales:** Sobornos y corrupción  
 - **Liga:** Reto del Inframundo  
 
+*En inglés del builder GW: **Underworld Denizens** = **Habitantes del Inframundo**; **Underworld Challenge** = **Reto del Inframundo**; **Bribery and Corruption** = **Sobornos y corrupción**; **Rat Ogre** = **Rata Ogro**; **Skaven Blitzer** / **Skaven Clanrat** / **Skaven Thrower** = posiciones skaven del equipo mixto; **Goblin Lineman** = **Goblin**; **Snotling Lineman** = **Snotling**.*
+
+*La tabla CTD de arriba puede no reflejar aún el roster mixto completo (goblins, snotlings, clanrats) del PDF GW / Nuffle **2025**; para alineaciones tipo EuroBowl prioriza el builder oficial.*
+
 ## Descripción oficial de las habilidades
 
 * **Animosidad (Animosity) — incl.:** Al Pasar o Entregar a un compañero de la clave indicada: 1D6, 1 = se niega y termina la activación. **(Goblin)** = solo hacia compañeros Goblin.

@@ -2,14 +2,46 @@
 
 Plantillas de equipo para la copa NAF **EuroBowl 2026** (*Living Ruleset* BETA + HE patch), **Blood Bowl 3ª temporada / BB2025**.
 
-**Reglas y presupuestos:** [source/tiers/eurobowl-2026.md](../../source/tiers/eurobowl-2026.md).
+> **Estado a 08/09/2026:** estas **31 listas conservan la BETA**. La [versión FINAL](../../source/tiers/eurobowl-2026-final.md) cambia tiers y presupuestos. Los nombres de archivo y el índice inferior muestran los tiers anteriores. Consultar la [auditoría y propuesta de actualización](../../source/revision-2026-09-08.md); no están certificadas para inscripción.
+
+**Referencia histórica:** [BETA + HE patch](../../source/tiers/eurobowl-2026.md). **Formato actual comprobado:** [FINAL](../../source/tiers/eurobowl-2026-final.md).
+
+**Listas desde vídeo (comunidad):** [YouTube — wrmKRBFNqcM](https://www.youtube.com/watch?v=wrmKRBFNqcM). Donde un `.md` cite ese enlace, la alineación intenta reproducir el builder del vídeo; el resto de equipos necesitan la misma fuente o el PDF oficial del torneo para cuadrar jugadores y Skill Gold.
 
 ---
 
-## Estado — revisión competitiva pendiente
+## Rosters desde captura (manual)
+
+Estos `.md` **no** se regeneran con `_build_rosters.py` (están en `SKIP_EMIT` en `_build_rosters.py`) y reflejan **capturas** del builder / vídeo: composición, sideline, Flowing, Skill Gold e inducements cuando aplica.
+
+| Archivo |
+|---------|
+| [Khorne](eurobowl-26-khorne-tier5.md) |
+| [Snotlings](eurobowl-26-snotlings-tier5.md) |
+| [Gnomos](eurobowl-26-gnomos-tier6.md) |
+| [Halflings](eurobowl-26-halflings-tier6.md) |
+| [Ogros](eurobowl-26-ogros-tier6.md) |
+| [Elfos Silvanos](eurobowl-26-elfos-silvanos-tier1.md) |
+| [Alianza del Viejo Mundo](eurobowl-26-alianza-viejo-mundo-tier1.md) |
+| [Amazonas](eurobowl-26-amazonas-tier2.md) |
+| [Orcos](eurobowl-26-orcos-tier2.md) |
+| [Habitantes del Inframundo](eurobowl-26-habitantes-inframundo-tier2.md) |
+| [Elfos Oscuros](eurobowl-26-elfos-oscuros-tier3.md) |
+| [Altos Elfos](eurobowl-26-altos-elfos-tier3.md) |
+| [Humanos](eurobowl-26-humanos-tier3.md) |
+| [Nigromantes](eurobowl-26-nigromantes-tier3.md) |
+| [Vampiros](eurobowl-26-vampiros-tier3.md) |
+| [Slann](eurobowl-26-slann-tier4.md) |
+| [Enanos](eurobowl-26-enanos-tier4.md) |
+
+**Pendiente de trasladar a `.md`:** si en otro chat adjuntaste capturas que no están en la tabla de arriba, los `.md` de esos equipos pueden seguir siendo la **plantilla autogenerada** (párrafo *Sin avances de Skill Gold*). Para volcarlas aquí: **vuelve a adjuntar** cada captura en Cursor o pega tabla completa + sideline + Team budget / Skill Gold / Flowing + avances en negrita.
+
+---
+
+## Estado — revisión reglamentaria y competitiva pendiente
 
 > **No usar como listas “finales” para torneo** sin repasar.  
-> Cada archivo cumple el **marco económico** EuroBowl 2026 (Team Budget, rerolls/apo/fans, Skill Gold y Flowing según tier), pero las **alineaciones de ejemplo** y el bloque de **Skill Gold** no están optimizados para **meta competitiva** (ni contrastados con estadísticas NAF / guías recientes).  
+> La auditoría local encuentra discrepancias de cupos y costes, además de nombres no reconocidos. También hay errores de clasificación de habilidades que el script no comprueba. **No se garantiza el cumplimiento del marco económico ni reglamentario.**
 > **Trabajo pendiente:** revisar por raza/tier composición, reparto de avances, estrellas e inducements antes de jugar en serio.
 
 **Etiqueta de seguimiento (búsqueda en repo):** `eurobowl-2026-wip-competitive`
@@ -23,7 +55,7 @@ Plantillas de equipo para la copa NAF **EuroBowl 2026** (*Living Ruleset* BETA +
 - **slug-equipo:** como en `source/teams/` (ej. `altos-elfos`, `enanos-del-caos`).
 - **tier:** tier EuroBowl 1–6 (presupuesto de equipo 1.060k–1.140k según tabla del reglamento).
 
-## Índice por tier
+## Índice por tier BETA (histórico)
 
 | Tier | Team Budget | Skill Gold (pool) | Flowing | Equipos (archivo) |
 |------|-------------|-------------------|---------|-------------------|
@@ -43,8 +75,16 @@ Plantillas de equipo para la copa NAF **EuroBowl 2026** (*Living Ruleset* BETA +
 
 ## Regenerar archivos
 
+**El generador sigue usando la BETA y contiene datos pendientes de corregir.** Ejecutarlo no migra las listas a FINAL. Véase la [valoración técnica](../../source/revision-2026-09-08.md).
+
 Tras editar datos en `_build_rosters.py`:
 
 ```bash
 python rosters/eurobowl-2026/_build_rosters.py
 ```
+
+Los slugs listados en **`SKIP_EMIT`** dentro de `_build_rosters.py` **no** se sobrescriben al ejecutar el script (rosters manuales desde captura).
+
+## Plantillas incompletas
+
+**Vampiros:** `source/teams/vampiros.md` incluye tabla **provisional** desde captura hasta alinear con Nuffle/PDF GW; el roster EuroBowl manual está en `eurobowl-26-vampiros-tier3.md` (la captura original muestra **TV por encima** del presupuesto tier — revisar antes de torneo). **Renegados del Caos** usa roster 2025 en `source/teams/renegados-del-caos.md` (fuente Nuffle EN).

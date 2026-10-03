@@ -1,6 +1,5 @@
 # Nurgle — Datos 2025
 
-![Nurgle](../images/equipos/nurgle.webp)
 
 Fuente: [Nuffle Zone — Nurgle](https://nufflezone.com/equipos-blood-bowl/nurgle/) · verificado con [Blood Bowl Base — Nurgle](https://bloodbowlbase.ru/bb2025/teams/Nurgle/)
 

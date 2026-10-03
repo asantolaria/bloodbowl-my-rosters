@@ -2,7 +2,7 @@
 
 ![Unión Élfica](../../source/images/equipos/union-elfica.webp)
 
-> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/union-elfica.md`](../../source/teams/union-elfica.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). **2 Blitzers, 1 Catcher, 8 Línea, 3 RR** = 1.000k exactos.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/union-elfica.md`](../../source/teams/union-elfica.md). Reglamento: [`reglamento-bb3-season3.pdf`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). **2 Blitzers, 1 Catcher, 8 Línea, 3 RR** = 1.000k exactos.
 
 ## Alineación
 

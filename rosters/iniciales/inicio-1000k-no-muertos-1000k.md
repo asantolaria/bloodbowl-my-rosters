@@ -2,7 +2,7 @@
 
 ![No Muertos](../../source/images/equipos/no-muertos.webp)
 
-> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/no-muertos.md`](../../source/teams/no-muertos.md). Reglamento: [`reglamento-bb3-season3.pdf`](../../source/reglamento/reglamento-bb3-season3.pdf). Con la lista 2025 suele priorizarse **Zombie** frente a **Esqueleto** en el núcleo barato (AR y rasgos de línea).
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/no-muertos.md`](../../source/teams/no-muertos.md). Reglamento: [`reglamento-bb3-season3.pdf`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/source/reglamento/reglamento-bb3-season3.pdf). Con la lista 2025 suele priorizarse **Zombie** frente a **Esqueleto** en el núcleo barato (AR y rasgos de línea).
 
 ## Alineación
 

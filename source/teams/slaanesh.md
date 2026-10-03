@@ -1,6 +1,5 @@
 # Slaanesh — Datos (#Unoficial)
 
-![Slaanesh](../images/equipos/slaanesh.webp)
 
 Fuente: [Nuffle Zone — Slaanesh](https://nufflezone.com/equipos-blood-bowl/slaanesh/)
 

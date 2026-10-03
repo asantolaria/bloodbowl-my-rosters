@@ -9,3 +9,5 @@ _bmad/
 .claude/
 
 .maia/
+# MkDocs build output
+/site/

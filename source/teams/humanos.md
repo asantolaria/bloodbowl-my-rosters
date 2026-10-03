@@ -20,6 +20,8 @@ Fuente: [Nuffle Zone — Humanos](https://nufflezone.com/equipos-blood-bowl/huma
 - **Reglas especiales:** Capitán del equipo  
 - **Liga:** Clásica del Viejo Mundo  
 
+*En inglés del builder GW: **Old World Classic** = **Clásica del Viejo Mundo**; **Team Captain** = **Capitán del equipo**; **Human Blitzer** / **Human Catcher** / **Human Thrower** / **Human Lineman** = **Blitzer** / **Catcher** / **Thrower** / **Línea**; **Halfling Hopeful** = **Halfling**; **Bone Head** = **Estúpido**; **Tackle** (habilidad) = **Placaje defensivo**.*
+
 ## Descripción oficial de las habilidades
 
 * **Atrapar (Catch) — incl.:** Puede repetir chequeo de AG fallido al atrapar el balón.

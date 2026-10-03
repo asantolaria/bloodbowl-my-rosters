@@ -1,8 +1,15 @@
-# Índice — Source
+# Mapa del contenido
 
-Navegación unificada de equipos, habilidades, jugadores estrella y tablas. Fuente: [NuffleZone.com](https://nufflezone.com/) (Blood Bowl 3ª Temporada, 11-2025).
+Acceso rápido a las referencias de Blood Bowl BB2025 y a las listas de equipos.
 
-**Reglamento oficial (texto de reglas):** [referencias-reglamento-bb3.md](referencias-reglamento-bb3.md) · [PDF Season 3](reglamento/reglamento-bb3-season3.pdf)
+| Sección | Contenido |
+|---|---|
+| [Equipos](teams/README.md) | Fichas de las 33 razas con roster, costes, estadísticas y progresión. |
+| [Habilidades](../habilidades.md) | Todas las habilidades en una sola página, agrupadas por categoría. |
+| [Jugadores estrella](jugadores-estrella/README.md) | Catálogo completo con coste, estadísticas, equipos y ficha individual. |
+| [Tablas de juego](tablas/README.md) | Clima, patada inicial, heridas, lesiones, SPP y Plegarias a Nuffle. |
+| [Tiers y presupuestos](tiers/README.md) | Tiers genéricos y referencias de presupuestos. |
+| [Reglamento](referencias-reglamento-bb3.md) | Fuentes y referencias del reglamento BB2025. |
 
 **Guía de referencia rápida (Cheat Sheet BB2025 en español):** [guia-referencia-rapida.md](guia-referencia-rapida.md) · Fundamentos y principios: [tablas/fundamentos-y-principios.md](tablas/fundamentos-y-principios.md). Datos verificados contra [bloodbowlbase.ru/bb2025](https://bloodbowlbase.ru/bb2025/) (oct. 2026).
 
@@ -166,3 +173,7 @@ Reglas y tablas BB2025 verificadas contra [bloodbowlbase — Core Rules](https:/
 | **Copas temáticas** | [copas-tematicas-spike.md](tablas/copas-tematicas-spike.md) | Reglas opcionales de Spike! Journal 19-21 (Bretonia, Nehekhara, Elfos) |
 
 Otras referencias: [Reglas Especiales](https://nufflezone.com/equipos-blood-bowl/reglas-especiales-blood-bowl/) (Nuffle Zone) · [Reglamento oficial](referencias-reglamento-bb3.md)
+
+## Fuentes
+
+Los datos proceden de [Nuffle Zone](https://nufflezone.com/) y de las fuentes oficiales enlazadas en cada página.

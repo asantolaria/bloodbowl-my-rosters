@@ -1,6 +1,5 @@
 # Orcos — Datos 2025
 
-![Orcos](../images/equipos/orcos.webp)
 
 Fuente: [Nuffle Zone — Orcos](https://nufflezone.com/equipos-blood-bowl/orcos/) · verificado con [Blood Bowl Base — Orc](https://bloodbowlbase.ru/bb2025/teams/Orc/)
 
@@ -19,6 +18,8 @@ Fuente: [Nuffle Zone — Orcos](https://nufflezone.com/equipos-blood-bowl/orcos/
 - **Apotecario:** Sí  
 - **Reglas especiales:** Brutos brutales, Capitán del equipo  
 - **Liga:** Reyerta en las Yermas  
+
+*En inglés del builder GW: **Badlands Brawl** = **Reyerta en las Yermas**; **Brawlin’ Brutes** = **Brutos brutales**; **Team Captain** = **Capitán del equipo**; **Orc Lineman** = **Orco Línea**; **Orc Thrower** = **Orco Lanzador**; **Orc Blitzer** = **Orco Blitzer**; **Goblin Lineman** = **Goblin**.*
 
 ## Descripción oficial de las habilidades
 

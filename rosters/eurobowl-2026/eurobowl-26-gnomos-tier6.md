@@ -2,76 +2,111 @@
 
 ![Gnomos](../../source/images/equipos/gnomos.webp)
 
-> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/gnomos.md`](../../source/teams/gnomos.md).
+> **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Lista alineada con captura del builder (15 jugadores, sideline, Skill Gold). Posiciones y costes: [`source/teams/gnomos.md`](../../source/teams/gnomos.md).
 
-> **Build de referencia:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, ruleset previo a `EB2026_04`), revalidada contra las fichas BB2025 actuales y [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
->
-> **Estado competitivo:** build de un comentarista, **sin revisión propia**. — [README `eurobowl-2026`](README.md) · tag `eurobowl-2026-wip-competitive`.
+> **Estado:** plantilla **desde captura** (nombres EN → español Nuffle). **Rerolls 50k** (tier 6 Gnomos 2025). No regenerar con `_build_rosters.py` (ver `SKIP_EMIT`). Tag: `eurobowl-2026-wip-competitive`.
 
-## Presupuesto EuroBowl
+## Presupuesto EuroBowl (tier 6)
 
-| Concepto | Disponible | Usado |
-|----------|-----------|-------|
-| **Tier** | 6 | |
-| **Team Budget** | 1.140.000 M.O. | 1.140.000 M.O. |
-| **Skill Gold** | 240.000 M.O. | 280.000 M.O. |
-| **Flowing Funds** | 40.000 M.O. | 0 → equipo · 40.000 → Skill Gold |
+| Concepto | Valor |
+|----------|--------|
+| **Tier** | 6 |
+| **Team Budget (base)** | 1.140.000 M.O. |
+| **Skill Gold (pool)** | 240.000 M.O. |
+| **Flowing Funds (máx.)** | 40.000 M.O. |
+
+*En la captura: **Team budget** 1140k / 1140k (todo el presupuesto de equipo en la base **1140k** del tier 6); **Skill Gold** 280k / 240k (**240k** pool + **40k** Flowing íntegros a Skill Gold); **Flowing Funds** 40k / 40k.*
 
 ## Alineación
 
-*Rellenar nombres. Habilidades de Skill Gold en **negrita**.*
+*En **negrita**, avances de Skill Gold. **FU** en tabla = **FU** en fichas ES.*
 
-| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
-|----|--------|----------|-------|----|----|----|----|----|-------------|------------|
-| 1 | ____ | Hombre Árbol del Bosque de Altern | 120k | 2 | 6 | 5+ | 5+ | 11+ | Brazo fuerte, Cabeza dura, Echar raíces, Golpe mortífero, Lanzar compañero, Mantenerse firme, ¡Tronco va!, **Defensa** | Primaria élite 30k |
-| 2 | ____ | Hombre Árbol del Bosque de Altern | 120k | 2 | 6 | 5+ | 5+ | 11+ | Brazo fuerte, Cabeza dura, Echar raíces, Golpe mortífero, Lanzar compañero, Mantenerse firme, ¡Tronco va!, **Ojo de halcón** | Primaria 20k |
-| 3 | ____ | Gnomo Domador de Bestias (Beastmaster) | 55k | 5 | 2 | 3+ | 4+ | 8+ | Defensa, En pie de un salto, Escurridizo, Forcejear, **Esquivar** | Primaria élite 30k |
-| 4 | ____ | Gnomo Domador de Bestias (Beastmaster) | 55k | 5 | 2 | 3+ | 4+ | 8+ | Defensa, En pie de un salto, Escurridizo, Forcejear, **Esquivar** | Primaria élite 30k |
-| 5 | ____ | Gnomo Ilusionista | 50k | 5 | 2 | 3+ | 3+ | 7+ | Embustero, En pie de un salto, Escurridizo, Forcejear, **Esquivar** | Primaria élite 30k |
-| 6 | ____ | Gnomo Ilusionista | 50k | 5 | 2 | 3+ | 3+ | 7+ | Embustero, En pie de un salto, Escurridizo, Forcejear, **Esquivar** | Primaria élite 30k |
-| 7 | ____ | Zorro del Bosque (Woodland Fox) | 50k | 7 | 2 | 2+ | – | 6+ | Echarse a un lado, El balón es mío, Escurridizo, Esquivar | – |
-| 8 | ____ | Zorro del Bosque (Woodland Fox) | 50k | 7 | 2 | 2+ | – | 6+ | Echarse a un lado, El balón es mío, Escurridizo, Esquivar | – |
-| 9 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Escurridizo, Forcejear, Humanoide bala, **Esquivar** | Primaria élite 30k |
-| 10 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Escurridizo, Forcejear, Humanoide bala, **Esquivar** | Primaria élite 30k |
-| 11 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Escurridizo, Forcejear, Humanoide bala, **Esquivar** | Primaria élite 30k |
-| 12 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Escurridizo, Forcejear, Humanoide bala, **Placaje heroico** | Primaria 20k |
-| 13 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Escurridizo, Forcejear, Humanoide bala | – |
-| 14 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Escurridizo, Forcejear, Humanoide bala | – |
-| 15 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Escurridizo, Forcejear, Humanoide bala | – |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
+|----|--------|----------|-------|----|----|----|----|----|-------------|
+| 1 | ____ | Hombre-Árbol | 120k | 2 | 6 | 5+ | 5+ | 11+ | Golpe mortífero, Mantenerse firme, Brazo fuerte, Echar raíces, Cabeza dura, Lanzar compañero, ¡Tronco va!, **Vigilar** |
+| 2 | ____ | Hombre-Árbol | 120k | 2 | 6 | 5+ | 5+ | 11+ | Golpe mortífero, Mantenerse firme, Brazo fuerte, Echar raíces, Cabeza dura, Lanzar compañero, ¡Tronco va!, **Ojo de halcón** |
+| 3 | ____ | Gnomo Maestro de las Bestias | 55k | 5 | 2 | 3+ | 4+ | 8+ | Vigilar, En pie de un salto, Escurridizo, Forcejeo, **Esquivar** |
+| 4 | ____ | Gnomo Maestro de las Bestias | 55k | 5 | 2 | 3+ | 4+ | 8+ | Vigilar, En pie de un salto, Escurridizo, Forcejeo, **Esquivar** |
+| 5 | ____ | Gnomo Ilusionista | 50k | 5 | 2 | 3+ | 3+ | 7+ | En pie de un salto, Escurridizo, Embaucador, Forcejeo, **Esquivar** |
+| 6 | ____ | Gnomo Ilusionista | 50k | 5 | 2 | 3+ | 3+ | 7+ | En pie de un salto, Escurridizo, Embaucador, Forcejeo, **Esquivar** |
+| 7 | ____ | Zorro de Bosque | 50k | 7 | 2 | 2+ | — | 6+ | Esquivar, Mi Balón, Echarse a un lado, Escurridizo |
+| 8 | ____ | Zorro de Bosque | 50k | 7 | 2 | 2+ | — | 6+ | Esquivar, Mi Balón, Echarse a un lado, Escurridizo |
+| 9 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Humanoide bala, Escurridizo, Forcejeo, **Esquivar** |
+| 10 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Humanoide bala, Escurridizo, Forcejeo, **Esquivar** |
+| 11 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Humanoide bala, Escurridizo, Forcejeo, **Esquivar** |
+| 12 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Humanoide bala, Escurridizo, Forcejeo, **Placaje heroico** |
+| 13 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Humanoide bala, Escurridizo, Forcejeo |
+| 14 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Humanoide bala, Escurridizo, Forcejeo |
+| 15 | ____ | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Humanoide bala, Escurridizo, Forcejeo |
 
-**Total jugadores:** 15
+**Total jugadores:** 15 | **Suma jugadores:** 830.000 M.O.
+
+**Desglose presupuesto de equipo (captura):**
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores | 830.000 |
-| Rerolls (5 × 50.000) | 250.000 |
+| Jugadores (2×120k + 2×55k + 2×50k + 2×50k + 7×40k) | 830.000 |
+| Rerolls de equipo (5 × 50.000) | 250.000 |
 | Apotecario | 50.000 |
-| Ayudantes del entrenador (1 × 10.000) | 10.000 |
-| **Total** | **1.140.000** |
+| Asistente de entrenador (1 × 10.000) | 10.000 |
+| Animadoras / Hinchas | 0 |
+| **Total presupuesto equipo** | **1.140.000** |
 
-## Skill Gold — avances
+## Información del equipo
 
-Un bloque por jugador. Secundarias: **0/3** · Stacks: **0/3**. Costes: [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+| Concepto | Valor |
+|----------|--------|
+| **Tier NAF / EuroBowl** | 6 |
+| **Team Budget (captura)** | 1140k / 1140k |
+| **Skill Gold (captura)** | 280k / 240k (+40k Flowing) |
+| **Rerolls** | 5 |
+| **Apotecario** | Sí |
+| **Asistentes** | 1 |
+| **Inducements** | Ninguno (captura) |
+| **Opción listas** | Sin estrellas (implícito en captura) |
+| **Liga / regla (captura EN)** | Halfling Thimble Cup |
+| **Equivalencia repo (ES)** | **Copa Dedal Halfling** (`source/teams/gnomos.md`; también **Liga de los Bosques** en listas Nuffle) |
 
-| Jugador (Nº) | Avance | Tipo | Coste |
-|--------------|--------|------|-------|
-| 1 Hombre Árbol del Bosque de Altern | Defensa | Primaria élite | 30.000 |
-| 2 Hombre Árbol del Bosque de Altern | Ojo de halcón | Primaria | 20.000 |
-| 3 Gnomo Domador de Bestias (Beastmaster) | Esquivar | Primaria élite | 30.000 |
-| 4 Gnomo Domador de Bestias (Beastmaster) | Esquivar | Primaria élite | 30.000 |
-| 5 Gnomo Ilusionista | Esquivar | Primaria élite | 30.000 |
-| 6 Gnomo Ilusionista | Esquivar | Primaria élite | 30.000 |
-| 9 Gnomo Línea | Esquivar | Primaria élite | 30.000 |
-| 10 Gnomo Línea | Esquivar | Primaria élite | 30.000 |
-| 11 Gnomo Línea | Esquivar | Primaria élite | 30.000 |
-| 12 Gnomo Línea | Placaje heroico | Primaria | 20.000 |
-| **Total** | | | **280.000** |
+## Skill Gold — avances (según captura)
 
-## Notas de la build
+**Nueve** jugadores con **un** bloque de avance cada uno. Desglose que suma **280.000 M.O.** (**240k** pool + **40k** Flowing a Skill Gold), coherente con #euro26:
 
-- 5 Rerolls a 50k: el equipo vive de repetir tiradas.
-- Variantes de AndyDavo con Rumbelow Sheepskin o Deeproot Strongbranch.
+| Jugador (Nº) | Habilidad(es) | Tipo (referencia #euro26) | Coste Skill Gold |
+|--------------|---------------|---------------------------|------------------|
+| 1 Hombre-Árbol | Vigilar (Guard) | Prim. Fuerza **élite** | 30.000 |
+| 2 Hombre-Árbol | Ojo de halcón (Bullseye) | Prim. Fuerza **élite** | 30.000 |
+| 3–4 Maestro de las Bestias | Esquivar (Dodge) | Prim. Agilidad no élite (×2) | 40.000 |
+| 5 Ilusionista | Esquivar (Dodge) | Sec. Agilidad no élite | 40.000 |
+| 6 Ilusionista | Esquivar (Dodge) | Sec. Agilidad **élite** | 50.000 |
+| 9 Gnomo Línea | Esquivar (Dodge) | Prim. Agilidad **élite** | 30.000 |
+| 10–11 Gnomo Línea | Esquivar (Dodge) | Prim. Agilidad no élite (×2) | 40.000 |
+| 12 Gnomo Línea | Placaje heroico (Diving Tackle) | Prim. Agilidad no élite | 20.000 |
+| **Total Skill Gold** | | | **280.000** |
 
-## Estrellas e incentivos
+**Límites #euro26:** **0** Stack; **2** jugadores con avance **Secondary** (Ilusionistas); **3** primarias **élite** en total (2 Hombre-Árbol + 1 Gnomo Línea); **1** secundaria **élite**.
 
-Sin estrellas. Incentivos solo de la lista permitida en `eurobowl-2026.md`.
+*Otras permutaciones (p. ej. cuál Ilusionista lleva sec. élite, o qué línea lleva Esquivar élite) son válidas si suman **280k** y respetan los techos del pack.*
+
+## Estrellas (Tiers 1–4)
+
+Sin Veterans ni Legends salvo que el pack del torneo indique lo contrario. Listas: [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+
+## Inducements
+
+Solo los permitidos en `eurobowl-2026.md`. Captura: ninguno.
+
+## Descripción breve de avances
+
+* **Vigilar / Ojo de halcón:** ver [`source/habilidades/fuerza.md`](../../source/habilidades/fuerza.md).
+* **Esquivar:** repetir un chequeo de esquiva por turno; ver `source/habilidades/agilidad.md`.
+* **Placaje heroico (Diving Tackle):** rival que sale de tu zona de defensa esquivando, saltando o brincando: tras su AG, −2 y tú quedas tumbado boca arriba en la casilla que deja.
+
+## Estrategia (breve)
+
+- **Balón:** Ilusionistas con **Esquivar** y PS 3+; Zorros **Mi Balón** y AG 2+.
+- **Contacto:** Maestros de las Bestias con **Vigilar** de serie y **Esquivar** añadido; líneas con **Forcejeo** y mezcla **Esquivar** / **Placaje heroico**.
+- **Big Guys:** Hombres-Árbol con **Vigilar** y **Ojo de halcón** para cadenas de **Lanzar compañero**; **5** rerolls para soportar el dado.
+
+## Progresión sugerida
+
+Tras #euro26, seguir tablas **A / AP / F** de `gnomos.md` (movilidad en Zorro, control en Ilusionista, tablero en Hombre-Árbol).

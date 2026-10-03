@@ -23,31 +23,27 @@
 
 | Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Momia | 125k | 3 | 5 | 5+ | 6+ | 10+ | Golpe mortífero, Regeneración |
-| 2 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Cabeza dura, Placar, Placaje defensivo, Regeneración |
-| 3 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Cabeza dura, Placar, Placaje defensivo, Regeneración |
+| 1 | ____ | Momia | 125k | 3 | 5 | 5+ | 6+ | 10+ | GM, Regeneración |
+| 2 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Placar, Placaje def., … |
+| 3 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Placar, Placaje def., … |
 | 4 | ____ | Necrófago | 75k | 7 | 3 | 3+ | 3+ | 8+ | Esquivar, Regeneración |
 | 5 | ____ | Necrófago | 75k | 7 | 3 | 3+ | 3+ | 8+ | Esquivar, Regeneración |
-| 6 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza dura |
-| 7 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza dura |
+| 6 | ____ | Necrófago | 75k | 7 | 3 | 3+ | 3+ | 8+ | Esquivar, Regeneración |
+| 7 | ____ | Necrófago | 75k | 7 | 3 | 3+ | 3+ | 8+ | Esquivar, Regeneración |
 | 8 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza dura |
 | 9 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza dura |
-| 10 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
-| 11 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
-| 12 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
-| 13 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
+| 10 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Regeneración, Inestable, … |
+| 11 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Regeneración, Inestable, … |
 
-**Total jugadores:** 13 | **Presupuesto equipo usado:** 1070k M.O.
-
-*Lista 2025: Necrófago **0-2**; una Momia libera TV para 8 líneas a 40k y cuadra **785k** en jugadores con 4 Esqueletos + 4 Zombies (ajustable).*
+**Total jugadores:** 11 | **Presupuesto equipo usado:** 1070k M.O.
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (1 Momia 125k, 2 Caballeros 190k, 2 Necrófagos 150k, 4 Esqueletos 160k, 4 Zombies 160k) | 785.000 |
+| Jugadores (total 775k) | 775.000 |
 | Rerolls (4 × 70.000) | 280.000 |
 | Apotecario | No (lista del equipo) |
-| Hinchas | 0 |
-| Flowing Funds → presupuesto equipo | 5.000 |
+| Hinchas (1 × 10.000) | 10.000 |
+| Flowing Funds → presupuesto equipo (resto no múltiplo de 10k) | 5.000 |
 | **Total** | **1.070.000** |
 
 ## Skill Gold — avances (ejemplo editable)

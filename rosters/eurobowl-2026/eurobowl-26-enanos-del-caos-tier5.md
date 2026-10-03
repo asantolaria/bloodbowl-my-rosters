@@ -1,6 +1,5 @@
 # Enanos del Caos — EuroBowl 2026 (Tier 5, Team Budget 1120k)
 
-![Enanos del Caos](../../source/images/equipos/enanos-del-caos.webp)
 
 > **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/enanos-del-caos.md`](../../source/teams/enanos-del-caos.md).
 
@@ -23,27 +22,25 @@
 
 | Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Minotauro Esclavizado | 150k | 5 | 5 | 4+ | 6+ | 9+ | Furia, GM, … |
-| 2 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, … |
-| 3 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, … |
-| 4 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, … |
-| 5 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, … |
-| 6 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, … |
-| 7 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Aliento de fuego, … |
-| 8 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Aliento de fuego, … |
-| 9 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – |
-| 10 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – |
-| 11 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – |
-| 12 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | – |
+| 1 | ____ | Minotauro esclavizado | 150k | 5 | 5 | 4+ | 6+ | 9+ | Furia, Cuernos, Solitario (4+), GM (+1), Cabeza dura, Ira descontrolada |
+| 2 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, Equilibrio firme, Cabeza dura |
+| 3 | ____ | Bull Centaur | 130k | 6 | 4 | 4+ | 6+ | 10+ | Esprintar, Equilibrio firme, Cabeza dura |
+| 4 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura |
+| 5 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura |
+| 6 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura |
+| 7 | ____ | Enano del Caos Blocker | 70k | 4 | 3 | 4+ | 6+ | 10+ | Placar, Piel férrea, Cabeza dura |
+| 8 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Peleón, Aliento de Fuego, Presencia perturbadora, Cabeza dura |
+| 9 | ____ | Flamesmith | 80k | 5 | 3 | 4+ | 6+ | 10+ | Peleón, Aliento de Fuego, Presencia perturbadora, Cabeza dura |
+| 10 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | — |
+| 11 | ____ | Hobgoblin Línea | 40k | 6 | 3 | 3+ | 4+ | 8+ | — |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1120k M.O.
+**Total jugadores:** 11 | **Presupuesto equipo usado:** 1120k M.O.
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 880k) | 880.000 |
-| Rerolls (3 × 70.000) | 210.000 |
-| Apotecario | No (lista del equipo) |
-| Hinchas (3 × 10.000) | 30.000 |
+| Jugadores (total 930k) | 930.000 |
+| Rerolls (2 × 70.000) | 140.000 |
+| Apotecario | 50.000 |
 | **Total** | **1.120.000** |
 
 ## Skill Gold — avances (ejemplo editable)
