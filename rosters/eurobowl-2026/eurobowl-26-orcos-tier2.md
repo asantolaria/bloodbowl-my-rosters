@@ -11,17 +11,17 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 2 |
-| **Team Budget (base)** | 1070.000 gp |
-| **Skill Gold (pool)** | 140.000 gp |
-| **Flowing Funds (máx.)** | 20.000 gp |
+| **Team Budget (base)** | 1070.000 M.O. |
+| **Skill Gold (pool)** | 140.000 M.O. |
+| **Flowing Funds (máx.)** | 20.000 M.O. |
 
-*Desglose de equipo = **1070k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Desglose de equipo = **1070k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
 
 ## Alineación (gasto de presupuesto de equipo)
 
 *Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
 | 1 | ____ | Troll | 115k | 4 | 5 | 5+ | 5+ | 10+ | Hambriento, GM, … |
 | 2 | ____ | Big Un Blocker | 95k | 5 | 4 | 4+ | 6+ | 10+ | Cabeza dura, GM, … |
@@ -38,14 +38,14 @@
 | 13 | ____ | Orco Línea | 50k | 5 | 3 | 3+ | 4+ | 10+ | – |
 | 14 | ____ | Orco Línea | 50k | 5 | 3 | 3+ | 4+ | 10+ | – |
 
-**Total jugadores:** 14 | **Presupuesto equipo usado:** 1070k gp
+**Total jugadores:** 14 | **Presupuesto equipo usado:** 1070k M.O.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (total 930k) | 930.000 |
 | Rerolls (2 × 60.000) | 120.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (2 × 10.000) | 20.000 |
+| Hinchas (2 × 10.000) | 20.000 |
 | **Total** | **1.070.000** |
 
 ## Skill Gold — avances (ejemplo editable)
@@ -56,7 +56,7 @@ Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack 
 |--------------|------|---------------------|
 | _pendiente_ | 1 primaria no élite | 20.000 |
 
-**Pool Skill Gold base:** 140.000 gp (+ Flowing si lo asignas).
+**Pool Skill Gold base:** 140.000 M.O. (+ Flowing si lo asignas).
 
 ## Estrellas (Tiers 1–4)
 

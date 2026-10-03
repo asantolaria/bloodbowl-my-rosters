@@ -4,62 +4,70 @@
 
 > **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/humanos.md`](../../source/teams/humanos.md).
 
-> **Estado competitivo:** presupuesto EuroBowl válido en cifras; **sin revisión meta**. Repaso táctico pendiente — [README `eurobowl-2026`](README.md) · tag `eurobowl-2026-wip-competitive`.
+> **Build de referencia:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, ruleset previo a `EB2026_04`), revalidada contra las fichas BB2025 actuales y [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+>
+> **Estado competitivo:** build de un comentarista, **sin revisión propia**. — [README `eurobowl-2026`](README.md) · tag `eurobowl-2026-wip-competitive`.
+
+> **Nota:** El Capitán del equipo (Team Captain) da Pro a un jugador gratis; AndyDavo lo pone en el Catcher con Furia + Forcejear.
 
 ## Presupuesto EuroBowl
 
-| Concepto | Valor |
-|----------|--------|
-| **Tier** | 3 |
-| **Team Budget (base)** | 1080.000 gp |
-| **Skill Gold (pool)** | 160.000 gp |
-| **Flowing Funds (máx.)** | 30.000 gp |
+| Concepto | Disponible | Usado |
+|----------|-----------|-------|
+| **Tier** | 3 | |
+| **Team Budget** | 1.080.000 M.O. | 1.075.000 M.O. |
+| **Skill Gold** | 160.000 M.O. | 190.000 M.O. |
+| **Flowing Funds** | 30.000 M.O. | 0 → equipo · 30.000 → Skill Gold |
 
-*Desglose de equipo = **1080k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+## Alineación
 
-## Alineación (gasto de presupuesto de equipo)
+*Rellenar nombres. Habilidades de Skill Gold en **negrita**.*
 
-*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
+|----|--------|----------|-------|----|----|----|----|----|-------------|------------|
+| 1 | ____ | Ogre | 140k | 5 | 5 | 4+ | 5+ | 10+ | Estúpido, Solitario (3+), Golpe mortífero, Cabeza dura, Lanzar compañero, **Defensa** | Primaria élite 30k |
+| 2 | ____ | Blitzer | 85k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Placaje defensivo, **Defensa** | Primaria élite 30k |
+| 3 | ____ | Blitzer | 85k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Placaje defensivo, **Defensa** | Primaria élite 30k |
+| 4 | ____ | Catcher | 75k | 8 | 3 | 3+ | 4+ | 8+ | Atrapar, Esquivar, **Furia**, **Forcejear** | Stack 50k |
+| 5 | ____ | Catcher | 75k | 8 | 3 | 3+ | 4+ | 8+ | Atrapar, Esquivar, **Forcejear** | Primaria 20k |
+| 6 | ____ | Thrower | 75k | 6 | 3 | 3+ | 3+ | 9+ | Manos seguras, Pasar, **Placar** | Primaria élite 30k |
+| 7 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – | – |
+| 8 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – | – |
+| 9 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – | – |
+| 10 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – | – |
+| 11 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – | – |
+| 12 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – | – |
+| 13 | ____ | Halfling | 30k | 5 | 2 | 3+ | 4+ | 7+ | Escurridizo, Esquivar, Humanoide bala | – |
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
-|----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Ogre | 140k | 5 | 5 | 4+ | 5+ | 10+ | Estúpido, GM, … |
-| 2 | ____ | Blitzer | 85k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Placaje def. |
-| 3 | ____ | Blitzer | 85k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Placaje def. |
-| 4 | ____ | Blitzer | 85k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Placaje def. |
-| 5 | ____ | Catcher | 75k | 8 | 3 | 3+ | 4+ | 8+ | Atrapar, Esquivar |
-| 6 | ____ | Catcher | 75k | 8 | 3 | 3+ | 4+ | 8+ | Atrapar, Esquivar |
-| 7 | ____ | Thrower | 75k | 6 | 3 | 3+ | 3+ | 9+ | Manos seguras, Pasar |
-| 8 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – |
-| 9 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – |
-| 10 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – |
-| 11 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – |
-| 12 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 9+ | – |
-
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1080k gp
+**Total jugadores:** 13
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 870k) | 870.000 |
-| Rerolls (4 × 50.000) | 200.000 |
-| Apotecario | No (lista del equipo) |
-| Fans dedicados (1 × 10.000) | 10.000 |
-| **Total** | **1.080.000** |
+| Jugadores | 865.000 |
+| Rerolls (3 × 50.000) | 150.000 |
+| Apotecario | 50.000 |
+| Ayudantes del entrenador (1 × 10.000) | 10.000 |
+| **Total** | **1.075.000** |
 
-## Skill Gold — avances (ejemplo editable)
+## Skill Gold — avances
 
-Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack en todo el equipo. Costes: ver tabla en [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+Un bloque por jugador. Secundarias: **0/3** · Stacks: **1/3**. Costes: [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
 
-| Jugador (Nº) | Tipo | Coste (Skill Gold) |
-|--------------|------|---------------------|
-| _pendiente_ | 1 primaria no élite | 20.000 |
+| Jugador (Nº) | Avance | Tipo | Coste |
+|--------------|--------|------|-------|
+| 1 Ogre | Defensa | Primaria élite | 30.000 |
+| 2 Blitzer | Defensa | Primaria élite | 30.000 |
+| 3 Blitzer | Defensa | Primaria élite | 30.000 |
+| 4 Catcher | Furia + Forcejear | Stack | 50.000 |
+| 5 Catcher | Forcejear | Primaria | 20.000 |
+| 6 Thrower | Placar | Primaria élite | 30.000 |
+| **Total** | | | **190.000** |
 
-**Pool Skill Gold base:** 160.000 gp (+ Flowing si lo asignas).
+## Notas de la build
 
-## Estrellas (Tiers 1–4)
+- Defensa en Ogro y Blitzers: equipo de apoyos.
+- Artemis Black (Road to Eurobowl) prefiere Golpe mortífero en un Blitzer y Placar/Forcejear en los Catchers; alternativa: Líder en vez de un Forcejear.
 
-Sin Veterans ni Legends. Con estrella (tier 5–6): no avances Secondary ni Stack en jugadores de plantilla.
+## Estrellas e incentivos
 
-## Inducements
-
-Solo los listados como permitidos en `eurobowl-2026.md`.
+Sin estrellas. Incentivos solo de la lista permitida en `eurobowl-2026.md`.

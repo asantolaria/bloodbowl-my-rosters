@@ -8,10 +8,10 @@ Presupuesto de construcción (tesorería) por tier. Estándar usado en torneos c
 
 | Tier (presupuesto) | Presupuesto   |
 |--------------------|---------------|
-| Tier 1 — 1.140.000 gp | 1.140.000 gp  |
-| Tier 2 — 1.160.000 gp | 1.160.000 gp  |
-| Tier 3 — 1.180.000 gp | 1.180.000 gp  |
-| Tier 4/5 — 1.200.000 gp+ | 1.200.000 gp+ |
+| Tier 1 — 1.140.000 M.O. | 1.140.000 M.O.  |
+| Tier 2 — 1.160.000 M.O. | 1.160.000 M.O.  |
+| Tier 3 — 1.180.000 M.O. | 1.180.000 M.O.  |
+| Tier 4/5 — 1.200.000 M.O.+ | 1.200.000 M.O.+ |
 
 Todo el oro debe gastarse (jugadores, rerolls, apotecario, aficionados, etc.). No superar el tope del tier.
 

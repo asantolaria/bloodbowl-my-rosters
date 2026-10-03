@@ -11,17 +11,17 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 3 |
-| **Team Budget (base)** | 1080.000 gp |
-| **Skill Gold (pool)** | 160.000 gp |
-| **Flowing Funds (máx.)** | 30.000 gp |
+| **Team Budget (base)** | 1080.000 M.O. |
+| **Skill Gold (pool)** | 160.000 M.O. |
+| **Flowing Funds (máx.)** | 30.000 M.O. |
 
-*Desglose de equipo = **1080k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Desglose de equipo = **1080k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
 
 ## Alineación (gasto de presupuesto de equipo)
 
 *Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
 | 1 | ____ | Yhetee | 140k | 5 | 5 | 4+ | 6+ | 9+ | Garras, Furia, … |
 | 2 | ____ | Ulfwerener | 105k | 6 | 4 | 4+ | 6+ | 9+ | Furia, Inestable |
@@ -30,22 +30,22 @@
 | 5 | ____ | Valkyrie | 95k | 7 | 3 | 3+ | 3+ | 8+ | Atrapar, Agallas, Pasar, … |
 | 6 | ____ | Berserker | 90k | 6 | 3 | 3+ | 5+ | 8+ | Placar, Furia, En pie de un salto |
 | 7 | ____ | Berserker | 90k | 6 | 3 | 3+ | 5+ | 8+ | Placar, Furia, En pie de un salto |
-| 8 | ____ | Cerdo Cervecero | 20k | 5 | 1 | 3+ | – | 6+ | Escurridizo, Sin manos, … |
-| 9 | ____ | Cerdo Cervecero | 20k | 5 | 1 | 3+ | – | 6+ | Escurridizo, Sin manos, … |
+| 8 | ____ | Cerdo Cervecero | 20k | 5 | 1 | 3+ | – | 6+ | Escurridizo, El balón ni verlo, … |
+| 9 | ____ | Cerdo Cervecero | 20k | 5 | 1 | 3+ | – | 6+ | Escurridizo, El balón ni verlo, … |
 | 10 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Borracho, Cabeza dura, Inestable, Placar |
 | 11 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Borracho, Cabeza dura, Inestable, Placar |
 | 12 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Borracho, Cabeza dura, Inestable, Placar |
 | 13 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Borracho, Cabeza dura, Inestable, Placar |
 | 14 | ____ | Línea | 50k | 6 | 3 | 3+ | 4+ | 8+ | Borracho, Cabeza dura, Inestable, Placar |
 
-**Total jugadores:** 14 | **Presupuesto equipo usado:** 1080k gp
+**Total jugadores:** 14 | **Presupuesto equipo usado:** 1080k M.O.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (1 Yhetee 140k, 2 Ulfwerener 210k, 2 Valkyrie 190k, 2 Berserker 180k, 2 Cerdo 40k, 5 Línea 250k) | 1.010.000 |
 | Rerolls (1 × 60.000) | 60.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (1 × 10.000) | 10.000 |
+| Hinchas (1 × 10.000) | 10.000 |
 | **Total** | **1.080.000** |
 
 ## Skill Gold — avances (ejemplo editable)
@@ -56,7 +56,7 @@ Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack 
 |--------------|------|---------------------|
 | _pendiente_ | 1 primaria no élite | 20.000 |
 
-**Pool Skill Gold base:** 160.000 gp (+ Flowing si lo asignas).
+**Pool Skill Gold base:** 160.000 M.O. (+ Flowing si lo asignas).
 
 ## Estrellas (Tiers 1–4)
 

@@ -2,37 +2,38 @@
 
 ![Gnomos](../images/equipos/gnomos.webp)
 
-Fuente: [Nuffle Zone — Gnomos](https://nufflezone.com/equipos-blood-bowl/gnomos/)
+Fuente: [Nuffle Zone — Gnomos](https://nufflezone.com/equipos-blood-bowl/gnomos/) · verificado con [Blood Bowl Base — Gnome](https://bloodbowlbase.ru/bb2025/teams/Gnome/) (roster BB2025 reescrito: la versión anterior no correspondía a la hoja oficial).
 
 ## Roster 2025
 
-| CTD | Posición | Coste | MA | FU | AG | PA | AR | Habilidades (resumen) | Pri | Sec |
+| CTD | Posición | Coste | MV | FU | AG | PS | AR | Habilidades (resumen) | Pri | Sec |
 |-----|-----------|-------|----|----|----|----|-----|------------------------|-----|-----|
-| 0-16 | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo | A | DGF |
-| 0-2 | Gnomo Blitzer | 70k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Placar | A | DGF |
-| 0-2 | Gnomo Thrower | 65k | 5 | 2 | 3+ | 3+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Pasar | AP | DGF |
-| 0-2 | Gnomo Troll Slayer | 95k | 5 | 2 | 3+ | 4+ | 9+ | Esquivar, Humanoide Bala, Escurridizo, Berserker, Romper Defensas | AF | DG |
-| 0-2 | Forest Troll | 110k | 4 | 5 | 5+ | 5+ | 10+ | Golpe Mortífero, Lanzar Compañero, Realmente Estúpido, Regeneración, Siempre Hambriento | F | AGP |
-| 0-2 | Bombardero | 40k | 5 | 2 | 3+ | 4+ | 8+ | Arma Secreta, Bombardero, Esquivar, Humanoide Bala, Escurridizo | DP | AGF |
+| 0-16 | Gnomo Línea | 40k | 5 | 2 | 3+ | 4+ | 7+ | En pie de un salto, Escurridizo, Forcejear, Humanoide bala | A | DGF |
+| 0-2 | Zorro del Bosque (Woodland Fox) | 50k | 7 | 2 | 2+ | – | 6+ | Echarse a un lado, El balón es mío, Escurridizo, Esquivar | – | A |
+| 0-2 | Gnomo Ilusionista | 50k | 5 | 2 | 3+ | 3+ | 7+ | Embustero, En pie de un salto, Escurridizo, Forcejear | AP | DG |
+| 0-2 | Gnomo Domador de Bestias (Beastmaster) | 55k | 5 | 2 | 3+ | 4+ | 8+ | Defensa, En pie de un salto, Escurridizo, Forcejear | A | DGF |
+| 0-2 | Hombre Árbol del Bosque de Altern | 120k | 2 | 6 | 5+ | 5+ | 11+ | Brazo fuerte, Cabeza dura, Echar raíces, Golpe mortífero, Lanzar compañero, Mantenerse firme, ¡Tronco va! | F | AGP |
 
-- **Rerolls:** 70k  
+- **Rerolls:** 50k  
 - **Apotecario:** Sí  
-- **Reglas especiales:** Soborno y Corrupción  
-- **Liga:** Reyerta en las Yermas  
+- **Reglas especiales:** Ninguna  
+- **Ligas:** Copa Dedal Halfling, Liga de los Bosques  
 
 ## Descripción oficial de las habilidades
 
-* **Arma Secreta (Secret Weapon) — incl.:** Al final de la entrada en que haya participado, es Expulsado.
-* **Bombardero (Bombardier) — incl.:** Acción especial Lanzar bomba (como pase; si cae al suelo explota; 1D6 por adyacentes, 4+ impactados).
+* **Brazo fuerte (Strong Arm) — incl.:** +1 al chequeo de Pase en Lanzar compañero. Solo si tiene Lanzar compañero.
+* **Cabeza dura (Thick Skull) — incl.:** En tirada de Heridas: Inconsciente solo con 9; 8 = Aturdido. Con Escurridizo: Inconsciente con 8, 7 = Aturdido.
+* **Defensa (Guard) — incl.:** Siempre puede apoyar (ofensivo y defensivo) en Placajes aunque lo marquen varios rivales.
+* **Echar raíces (Take Root) — incl.:** Al activarse: 1D6; 1 = Echa raíces (no moverse, no empujado, etc.) hasta final de entrada o ser derribado.
+* **Echarse a un lado (Side Step) — incl.:** Si es empujado, su entrenador elige la casilla de destino (adyacente desocupada).
+* **El balón es mío (My Ball) — incl.:** No puede soltar el balón voluntariamente (no pasar ni entregar); solo lo pierde por reglas/efectos.
+* **Embustero (Trickster) — incl.:** Ante Placaje o acción especial que lo tome como blanco (no el Placaje de Bola con cadena): antes de determinar los dados, puede retirarse del campo y colocarse en otra casilla desocupada adyacente al atacante; la acción sigue normal.
+* **En pie de un salto (Jump Up) — incl.:** Levantarse «gratis»; puede declarar Placaje desde tumbado con AG+1.
 * **Escurridizo (Stunty) — incl.:** No sufre -1 por estar marcado al esquivar; -1 AG al interceptar; tirada de Heridas en tabla Escurridizos.
 * **Esquivar (Dodge) — incl.:** Repetir un chequeo de esquivar por turno; afecta a Desequilibrado en placajes recibidos.
-* **Furia (Frenzy) — incl.:** Si empuja en Placaje debe hacer impulso; si el blanco sigue en pie debe segundo Placaje (y impulso si empuja).
-* **Golpe Mortífero (Mighty Blow) — incl.:** Al derribar en Placaje puede aplicar +1 a tirada de Armadura o de Heridas (decidir después de tirar).
-* **Humanoide Bala (Right Stuff) — incl.:** Puede ser lanzado por compañero con Lanzar compañero (incluso tumbado).
-* **Lanzar Compañero (Throw Team-Mate) — incl.:** Puede declarar la acción de Lanzar compañero.
-* **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
-* **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
-* **Realmente Estúpido (Really Stupid) — incl.:** Al activarse: 1D6 (+2 si adyacente a compañero en pie sin este rasgo); 4+=normal, 1-3=Distraído.
-* **Regeneración (Regeneration) — incl.:** Al sufrir Lesión: 1D6; 4+=se ignora la lesión y va a reservas; 1-3=normal.
-* **Romper Defensas (Defensive) — incl.:** Rivales que marque no pueden usar Defensa ni Meter la Bota en turnos rivales.
-* **Siempre Hambriento (Always Hungry) — incl.:** Antes del chequeo de Lanzar compañero: 1D6; 1=intenta comerse al compañero (segundo 1D6: 1=devorado).
+* **Forcejear (Wrestle) — incl.:** En placaje con «Ambos derribados» puede elegir que ambos queden tumbados boca arriba.
+* **Golpe mortífero (Mighty Blow) — incl.:** Al derribar en Placaje puede aplicar +1 a tirada de Armadura o de Heridas (decidir después de tirar).
+* **Humanoide bala (Right Stuff) — incl.:** Puede ser lanzado por compañero con Lanzar compañero (incluso tumbado).
+* **Lanzar compañero (Throw Team-Mate) — incl.:** Puede declarar la acción de Lanzar compañero.
+* **Mantenerse firme (Stand Firm) — incl.:** Puede elegir no ser empujado (incl. cadena). No impide segundo Placaje por Furia.
+* **¡Tronco va! (Timm-ber!) — incl.:** Si **MV ≤ 2**, **+1** a tirada para levantarse por cada compañero **desmarcado y en pie** adyacente; **1 natural** sigue fallando.

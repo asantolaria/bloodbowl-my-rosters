@@ -11,20 +11,20 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 5 |
-| **Team Budget (base)** | 1120.000 gp |
-| **Skill Gold (pool)** | 220.000 gp |
-| **Flowing Funds (máx.)** | 30.000 gp |
+| **Team Budget (base)** | 1120.000 M.O. |
+| **Skill Gold (pool)** | 220.000 M.O. |
+| **Flowing Funds (máx.)** | 30.000 M.O. |
 
-*Desglose de equipo = **1120k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Desglose de equipo = **1120k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
 
 ## Alineación (gasto de presupuesto de equipo)
 
 *Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
 | 1 | ____ | Troll Entrenado | 115k | 4 | 5 | 5+ | 5+ | 10+ | Hambriento, GM, … |
-| 2 | ____ | Pogo Saltarín | 75k | 7 | 2 | 3+ | 4+ | 8+ | Esquivar, Pogo Saltarín, … |
+| 2 | ____ | Pogo saltarín | 75k | 7 | 2 | 3+ | 4+ | 8+ | Esquivar, Pogo saltarín, … |
 | 3 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
 | 4 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
 | 5 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
@@ -36,14 +36,14 @@
 | 11 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
 | 12 | ____ | Goblin Línea | 40k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo, … |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1120k gp
+**Total jugadores:** 12 | **Presupuesto equipo usado:** 1120k M.O.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (total 590k: 1 Troll 115k, 1 Pogo 75k, 10 Goblin Línea 400k) | 590.000 |
 | Rerolls (5 × 60.000) | 300.000 |
 | Apotecario | 50.000 |
-| Fans dedicados (18 × 10.000) | 180.000 |
+| Hinchas (18 × 10.000) | 180.000 |
 | **Total** | **1.120.000** |
 
 ## Skill Gold — avances (ejemplo editable)
@@ -54,7 +54,7 @@ Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack 
 |--------------|------|---------------------|
 | _pendiente_ | 1 primaria no élite | 20.000 |
 
-**Pool Skill Gold base:** 220.000 gp (+ Flowing si lo asignas).
+**Pool Skill Gold base:** 220.000 M.O. (+ Flowing si lo asignas).
 
 ## Estrellas (Tiers 1–4)
 

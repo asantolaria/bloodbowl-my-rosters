@@ -224,7 +224,7 @@ def parse_team_position_costs(text: str) -> list[tuple[str, int]]:
 
 
 def parse_cost_gp(cell: str) -> int | None:
-    s = cell.strip().lower().replace(" ", "").replace("gp", "")
+    s = cell.strip().lower().replace(" ", "").replace("m.o.", "").replace("gp", "")
     if not s:
         return None
     if s.endswith("k"):

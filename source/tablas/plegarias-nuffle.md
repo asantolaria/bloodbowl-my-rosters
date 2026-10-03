@@ -1,30 +1,45 @@
-# Tabla de Plegarias de Nuffle
+# Tabla de Plegarias a Nuffle
 
-Fuente: [Resumen de Tablas de Blood Bowl](https://nufflezone.com/resumen-tablas-blood-bowl/) (Nuffle Zone).
+Fuente: [bloodbowlbase — Inducements (BB2025)](https://bloodbowlbase.ru/bb2025/core_rules/inducements/) · Sevens: [Spike! Journal 22](https://bloodbowlbase.ru/bb2025/spike_journal/issue_22/).
 
-Se tira cuando un equipo con **Valoración de equipo inferior** a la del rival puede hacerlo (p. ej. por evento «Los Hinchas Animan»). Se usa un **D16** (o equivalente) para el resultado.
+En BB2025 las **Plegarias a Nuffle** son un **incentivo**: **0-3** por **10.000 M.O.** cada una, disponible para cualquier equipo ([Incentivos](incentivos.md)). Por cada plegaria comprada se tira **1D16** (repitiendo los resultados que el equipo ya haya obtenido). **Todos los efectos duran hasta el final del partido.** Si una plegaria pide elegir jugadores, **nunca** se puede elegir a un **Jugador Estrella**.
 
 | D16 | Resultado | Efecto |
 |-----|-----------|--------|
-| 1 | **Trampilla Traicionera** | Hasta el final de la parte: cada vez que un jugador entre en una casilla de trampilla, tirar 1D6; 1 → trampilla se abre, jugador retirado como empujado fuera del campo; si tenía el balón, rebota desde la trampilla. |
-| 2 | **Amigo del Árbitro** | Hasta el final de la entrada: una tirada de 5 en «Protestar al árbitro» puede tratarse como «Ahora que lo dices…» en lugar de «¡Me da igual!». |
-| 3 | **Puñal** | Eliges un jugador aleatorio de tu equipo (disponible, sin Solitario). Hasta el final de la entrada tiene **Apuñalar**. |
-| 4 | **Músculos de Hierro** | Eliges un jugador aleatorio de tu equipo (disponible, sin Solitario). Hasta el final del partido +1 AR (máx. 11+). |
-| 5 | **Nudilleras** | Eliges un jugador aleatorio de tu equipo (disponible, sin Solitario). Hasta el final de la entrada tiene **Golpe mortífero (+1)**. |
-| 6 | **Malas Costumbres** | Eliges aleatoriamente 1D3 jugadores rivales (disponibles, sin Solitario). Hasta el final de la entrada tienen **Solitario (2+)**. |
-| 7 | **Tacos Engrasados** | Eliges un jugador rival aleatorio (disponible). Hasta el final de la entrada su **MA** se reduce en 1. |
-| 8 | **Estatua Bendita de Nuffle** | Eliges un jugador aleatorio de tu equipo (disponible, sin Solitario). Hasta el final del partido tiene **Profesional**. |
-| 9 | **Topos Debajo del Campo** | Hasta el final de la parte: -1 a Forzar la marcha (-2 si ambos entrenadores sacan este resultado). |
-| 10 | **Pase Perfecto** | Hasta el final del partido: Pase Completo da **2 PE** en lugar de 1. |
-| 11 | **Apoyo del Público** | Hasta el final de la entrada: si un jugador tuyo deja Lesionado a un rival **empujándolo fuera del campo**, gana 2 PE como si fuera por Placaje. |
-| 12 | **Violencia Necesaria** | Hasta el final de la entrada: jugadores de tu equipo que ganen PE por Lesionar a un rival ganan **3 PE** en lugar de 2. |
-| 13 | **Con Faltas y a lo Loco** | Hasta el final de la entrada: si un jugador tuyo deja Lesionado a un rival con **Falta**, gana 2 PE como si fuera por Placaje. |
-| 14 | **Pedrada** | Hasta el final de la entrada: si un jugador rival tiene el balón, al final del turno de su equipo puedes tirar 1D6; 5+ → hincha lanza piedra, jugador Derribado. |
-| 15 | **Escrutinio Arbitral** | Hasta el final de la parte: cualquier jugador rival que cometa Falta es visto **automáticamente** por el árbitro (aunque no salga doble en Armadura). |
-| 16 | **Entrenamiento Intensivo** | Eliges aleatoriamente un jugador de tu equipo (disponible, sin Solitario). Hasta el final del partido obtiene **una Habilidad Primaria** a tu elección. |
+| 1 | **Trampilla traicionera** | Cada vez que un jugador de **cualquier** equipo entre en una casilla de trampilla, 1D6: con **1** cae por ella → tirada de **Heridas** como si fuera **empujado al público**. Si llevaba el balón, **rebota** desde la trampilla. |
+| 2 | **Amigo del árbitro** | Al **Protestar al árbitro**, un **5 o 6** cuenta como «Ahora que lo dices...». |
+| 3 | **Puñal** | Un jugador **al azar** de tu equipo que juegue el partido gana **Apuñalar** (Stab). |
+| 4 | **Músculos de hierro** | Un jugador **elegido** de tu equipo mejora su **AR en 1** (máx. 11+). |
+| 5 | **Nudilleras** | Un jugador **elegido** de tu equipo gana **Golpe mortífero** (Mighty Blow). |
+| 6 | **Malas costumbres** | **D3** jugadores **rivales al azar** ganan **Solitario (2+)**. |
+| 7 | **Tacos engrasados** | Un jugador **rival al azar** reduce su **MV en 1** (mín. 1). |
+| 8 | **Bendición de Nuffle** | Un jugador **al azar** de tu equipo gana **Profesional** (Pro). |
+| 9 | **Topos bajo el campo** | Los jugadores **rivales** aplican **-1** al **Forzar la marcha**. |
+| 10 | **Pase perfecto** | Tus jugadores ganan **2 PE** por **Pase completo** en lugar de 1. |
+| 11 | **Recepciones deslumbrantes** | Tus jugadores ganan **1 PE** al **atrapar** con éxito un balón procedente de una **acción de Pase**. |
+| 12 | **Apoyo del público** | Si un rival sufre una **Lesión** (Casualty) al ser **empujado al público**, el jugador que lo empujó gana **2 PE**. |
+| 13 | **Con faltas y a lo loco** | Tus jugadores ganan **2 PE** al causar una **Lesión** con una **acción de Falta**. |
+| 14 | **¡Pedrada!** | **Una vez por partido**, al inicio de uno de tus turnos (antes de activar a nadie), eliges al azar un rival en el campo y tiras 1D6: **4+** → queda **derribado**. |
+| 15 | **Escrutinio arbitral** | Cualquier rival que haga una **Falta** y **rompa la armadura** es **expulsado** automáticamente, aunque no saque dobles. |
+| 16 | **Entrenamiento intensivo** | Un jugador **al azar** de tu equipo gana **una Habilidad Primaria** a tu elección. |
+
+> **Corrección:** la versión anterior (BB2020) decía que las plegarias se ganaban por el evento «Los Hinchas Animan» o por menor TV y que muchos efectos duraban «hasta el final de la entrada/parte». En BB2025 se **compran** como incentivo, duran **todo el partido** y varios resultados cambiaron (11 Recepciones deslumbrantes, 12 Apoyo del público, 14 Pedrada «una vez por partido», 15 Escrutinio arbitral automático).
 
 ---
 
-## Plegarias de Nuffle — Exhibición (D8)
+## Plegarias a Nuffle — Blood Bowl Sevens (D8)
 
-En partidos de **exhibición** se puede usar una tabla reducida con **D8** (solo resultados 1-8 de la tabla anterior: Trampilla, Amigo del Árbitro, Puñal, Músculos de Hierro, Nudilleras, Malas Costumbres, Tacos Engrasados, Estatua Bendita).
+En **Sevens** (Spike! Journal 22) las plegarias cuestan **5.000 M.O.** (0-2) y se usa una tabla **D8** reducida:
+
+| D8 | Resultado |
+|----|-----------|
+| 1 | Trampilla traicionera |
+| 2 | Puñal |
+| 3 | Músculos de hierro |
+| 4 | Nudilleras |
+| 5 | Bendición de Nuffle |
+| 6 | Topos bajo el campo |
+| 7 | Escrutinio arbitral |
+| 8 | Entrenamiento intensivo |
+
+*No existe una tabla D8 «de exhibición» en el reglamento BB2025; la D8 es exclusiva de Sevens. Ver [Blood Bowl Sevens](sevens.md).*

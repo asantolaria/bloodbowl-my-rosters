@@ -10,7 +10,7 @@ Copa oficial **NAF** con **valoración estándar** escalada por tier. Este docum
 
 Cada tier tiene **Team Budget** (presupuesto de equipo), **Skill Gold** (oro para avances de jugadores) y **Flowing Funds** (fondos flexibles).
 
-| Tier | Equipos (inglés oficial) | Presupuesto equipo (gp) | Skill Gold (gp) | Flowing Funds (gp) |
+| Tier | Equipos (inglés oficial) | Presupuesto equipo (M.O.) | Skill Gold (M.O.) | Flowing Funds (M.O.) |
 |------|--------------------------|-------------------------|-----------------|---------------------|
 | **1** | Old World Alliance, Wood Elves | 1.060.000 | 120.000 | 10.000 |
 | **2** | Amazons, Orcs, Shambling Undead, Skaven, Underworld Denizens | 1.070.000 | 140.000 | 20.000 |

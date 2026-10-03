@@ -11,17 +11,17 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 1 |
-| **Team Budget (base)** | 1060.000 gp |
-| **Skill Gold (pool)** | 120.000 gp |
-| **Flowing Funds (máx.)** | 10.000 gp |
+| **Team Budget (base)** | 1060.000 M.O. |
+| **Skill Gold (pool)** | 120.000 M.O. |
+| **Flowing Funds (máx.)** | 10.000 M.O. |
 
-*Desglose de equipo = **1060k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Desglose de equipo = **1060k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
 
 ## Alineación (gasto de presupuesto de equipo)
 
 *Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
 | 1 | ____ | Loren Forest Treeman | 120k | 2 | 6 | 5+ | 5+ | 11+ | GM, MF, … |
 | 2 | ____ | Wardancer | 130k | 8 | 3 | 2+ | 3+ | 8+ | Placar, Esquivar, Saltar |
@@ -36,14 +36,14 @@
 | 11 | ____ | Elfo Silvano Línea | 65k | 7 | 3 | 2+ | 3+ | 8+ | – |
 | 12 | ____ | Elfo Silvano Línea | 65k | 7 | 3 | 2+ | 3+ | 8+ | – |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1060k gp
+**Total jugadores:** 12 | **Presupuesto equipo usado:** 1060k M.O.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (total 990k) | 990.000 |
 | Rerolls (1 × 50.000) | 50.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (2 × 10.000) | 20.000 |
+| Hinchas (2 × 10.000) | 20.000 |
 | **Total** | **1.060.000** |
 
 ## Skill Gold — avances (ejemplo editable)
@@ -54,7 +54,7 @@ Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack 
 |--------------|------|---------------------|
 | _pendiente_ | 1 primaria no élite | 20.000 |
 
-**Pool Skill Gold base:** 120.000 gp (+ Flowing si lo asignas).
+**Pool Skill Gold base:** 120.000 M.O. (+ Flowing si lo asignas).
 
 ## Estrellas (Tiers 1–4)
 

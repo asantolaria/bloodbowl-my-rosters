@@ -2,27 +2,28 @@
 
 ![Reyes Funerarios](../images/equipos/reyes-funerarios.webp)
 
-Fuente: [Nuffle Zone — Reyes Funerarios](https://nufflezone.com/equipos-blood-bowl/reyes-funerarios/)
+Fuente: [Nuffle Zone — Reyes Funerarios](https://nufflezone.com/equipos-blood-bowl/reyes-funerarios/) · verificado con [Blood Bowl Base — Tomb Kings](https://bloodbowlbase.ru/bb2025/teams/Tomb_Kings/) (roster BB2025 reescrito).
 
 ## Roster 2025
 
-| CTD | Posición | Coste | MA | FU | AG | PA | AR | Habilidades (resumen) | Pri | Sec |
+| CTD | Posición | Coste | MV | FU | AG | PS | AR | Habilidades (resumen) | Pri | Sec |
 |-----|-----------|-------|----|----|----|----|-----|------------------------|-----|-----|
-| 0-16 | Esqueleto de Reyes Funerarios Línea | 40k | 5 | 3 | 4+ | 6+ | 9+ | Regeneración | DG | AF |
-| 0-4 | Guardián de Reyes Funerarios | 70k | 6 | 3 | 3+ | 4+ | 9+ | Regeneración, Mantenerse Firme | GF | AD |
-| 0-2 | Blitzer de Reyes Funerarios | 90k | 6 | 3 | 3+ | 4+ | 9+ | Placar, Regeneración | GF | AD |
-| 0-2 | Thrower de Reyes Funerarios | 70k | 6 | 3 | 3+ | 3+ | 9+ | Pasar, Regeneración | GP | ADF |
-| 0-1 | Momia de Reyes Funerarios | 110k | 3 | 5 | 5+ | 6+ | 10+ | Golpe Mortífero(+1), Mantenerse Firme, Regeneración, Lentitud | F | AGD |
+| 0-16 | Esqueleto Línea | 40k | 5 | 3 | 4+ | 6+ | 8+ | Cabeza dura, Regeneración | G | ADF |
+| 0-2 | Thrower de Reyes Funerarios | 65k | 6 | 3 | 4+ | 3+ | 9+ | Cabeza dura, Manos seguras, Pasar, Regeneración | GP | ADF |
+| 0-2 | Blitzer de Reyes Funerarios | 85k | 6 | 3 | 4+ | 5+ | 9+ | Cabeza dura, Placar, Regeneración | GF | AD |
+| 0-4 | Guardián de la Tumba (Tomb Guardian) | 115k | 4 | 5 | 5+ | 6+ | 10+ | Descomposición, Luchador, Regeneración | F | AG |
 
-- **Rerolls:** 70k  
+- **Rerolls:** 60k  
 - **Apotecario:** No  
 - **Reglas especiales:** Señores de los No Muertos  
-- **Liga:** Liga de la Arena Mortuoria  
+- **Liga:** Selectiva de Sylvania  
 
 ## Descripción oficial de las habilidades
 
-* **Golpe Mortífero (Mighty Blow) — incl.:** Al derribar en Placaje puede aplicar +1 a tirada de Armadura o de Heridas (decidir después de tirar).
-* **Mantenerse Firme (Stand Firm) — incl.:** Puede elegir no ser empujado (incl. cadena). No impide segundo Placaje por Furia.
+* **Cabeza dura (Thick Skull) — incl.:** En tirada de Heridas: Inconsciente solo con 9; 8 = Aturdido. Con Escurridizo: Inconsciente con 8, 7 = Aturdido.
+* **Descomposición (Decay) — incl.:** +1 a todas las tiradas de Lesiones contra este jugador.
+* **Luchador (Brawler) — incl.:** En Placaje puede repetir un único resultado de «Ambos derribados».
+* **Manos seguras (Sure Hands) — incl.:** Puede repetir D6 al recoger el balón (no Asegurar el balón). Robar balón no puede usarse contra él.
 * **Pasar (Pass) — incl.:** Puede repetir cualquier chequeo de Pase fallido en una acción de Pase.
 * **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
 * **Regeneración (Regeneration) — incl.:** Al sufrir Lesión: 1D6; 4+=se ignora la lesión y va a reservas; 1-3=normal.

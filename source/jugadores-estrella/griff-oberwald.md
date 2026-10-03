@@ -1,12 +1,16 @@
 # Griff Oberwald
 
+Verificado con [bloodbowlbase.ru — Griff Oberwald](https://bloodbowlbase.ru/bb2025/starplayers/Griff_Oberwald/) (BB2025).
+
 Fuente: [Nuffle Zone — Jugadores Estrella](https://nufflezone.com/jugadores-estrella-blood-bowl/)
 
-| MA | ST | AG | PA | AR | Coste |
+| MV | FU | AG | PS | AR | Coste |
 |----|----|----|----|-----|-------|
 | 7  | 4  | 2+ | 3+ | 9+ | 300.000 |
 
-**Habilidades y rasgos:** Esprintar, Esquivar, Pies Firmes, Placar, Solitario (3+), Zafarse
+**Habilidades y rasgos:** Esprintar, Esquivar, Pies firmes, Placar, Solitario (3+), Zafarse
+
+**Categoría:** Megaestrella (MEGA-STAR)
 
 **Juega para:** Clásica del Viejo Mundo
 
@@ -16,7 +20,7 @@ Fuente: [Nuffle Zone — Jugadores Estrella](https://nufflezone.com/jugadores-es
 
 * **Esprintar (Sprint):** Una vez por movimiento puede forzar la marcha una vez más.
 * **Esquivar (Dodge):** Repetir un chequeo de esquivar por turno; afecta a Desequilibrado en placajes recibidos.
-* **Pies Firmes (Sure Feet):** Una vez por turno puede repetir la tirada de forzar la marcha.
+* **Pies firmes (Sure Feet):** Una vez por turno puede repetir la tirada de forzar la marcha.
 * **Placar (Block):** En placaje con «Ambos derribados» puede elegir no ser derribado.
 * **Solitario (Loner):** Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite.
-* **Zafarse (Fend):** Si es empujado por Placaje, el rival no puede hacer impulso. No contra Bola y cadena ni Imparable en Penetración.
+* **Zafarse (Fend):** Si es empujado por Placaje, el rival no puede hacer impulso. No contra Bola con cadena ni Imparable en Penetración.

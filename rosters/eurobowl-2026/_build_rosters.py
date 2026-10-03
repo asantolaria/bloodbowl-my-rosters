@@ -71,17 +71,17 @@ def emit(team: dict) -> str:
         "| Concepto | Valor |",
         "|----------|--------|",
         f"| **Tier** | {tier} |",
-        f"| **Team Budget (base)** | {b}.000 gp |",
-        f"| **Skill Gold (pool)** | {sk}.000 gp |",
-        f"| **Flowing Funds (máx.)** | {fl}.000 gp |",
+        f"| **Team Budget (base)** | {b}.000 M.O. |",
+        f"| **Skill Gold (pool)** | {sk}.000 M.O. |",
+        f"| **Flowing Funds (máx.)** | {fl}.000 M.O. |",
         "",
-        f"*Desglose de equipo = **{total_k}k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*",
+        f"*Desglose de equipo = **{total_k}k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*",
         "",
         "## Alineación (gasto de presupuesto de equipo)",
         "",
         "*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*",
         "",
-        "| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |",
+        "| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |",
         "|----|--------|----------|-------|----|----|----|----|----|-------------|",
     ]
     for i, r in enumerate(rows, 1):
@@ -90,7 +90,7 @@ def emit(team: dict) -> str:
     lines.extend(
         [
             "",
-            f"**Total jugadores:** {npl} | **Presupuesto equipo usado:** {total_k}k gp",
+            f"**Total jugadores:** {npl} | **Presupuesto equipo usado:** {total_k}k M.O.",
             "",
             "| Concepto | Coste |",
             "|----------|--------|",
@@ -101,9 +101,11 @@ def emit(team: dict) -> str:
     if apo:
         lines.append("| Apotecario | 50.000 |")
     else:
-        lines.append("| Apotecario | No (lista del equipo) |")
+        lines.append(
+            "| Apotecario | No (lista del equipo) |" if slug in NO_APO else "| Apotecario | No contratado |"
+        )
     if n_fan:
-        lines.append(f"| Fans dedicados ({n_fan} × 10.000) | {extra_fan:,} |".replace(",", "."))
+        lines.append(f"| Hinchas ({n_fan} × 10.000) | {extra_fan:,} |".replace(",", "."))
     if rflow:
         lines.append(
             f"| Flowing Funds → presupuesto equipo (resto no múltiplo de 10k) | {rflow:,} |".replace(
@@ -122,7 +124,7 @@ def emit(team: dict) -> str:
             "|--------------|------|---------------------|",
             "| _pendiente_ | 1 primaria no élite | 20.000 |",
             "",
-            f"**Pool Skill Gold base:** {sk}.000 gp (+ Flowing si lo asignas).",
+            f"**Pool Skill Gold base:** {sk}.000 M.O. (+ Flowing si lo asignas).",
             "",
             "## Estrellas (Tiers 1–4)",
             "",
@@ -188,10 +190,10 @@ TEAMS: list[dict] = [
         "img": "amazonas",
         "rr": 60,
         "rows": [
-            ("Guerrera Jaguar Blocker", 110, 6, 4, "3+", "4+", "9+", "Esquivar, Romper Defensas"),
-            ("Guerrera Jaguar Blocker", 110, 6, 4, "3+", "4+", "9+", "Esquivar, Romper Defensas"),
-            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Golpe a la Carrera, …"),
-            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Golpe a la Carrera, …"),
+            ("Guerrera Jaguar Blocker", 110, 6, 4, "3+", "4+", "9+", "Esquivar, Romper defensas"),
+            ("Guerrera Jaguar Blocker", 110, 6, 4, "3+", "4+", "9+", "Esquivar, Romper defensas"),
+            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Golpe a la carrera, …"),
+            ("Guerrera Piraña Blitzer", 90, 7, 3, "3+", "4+", "8+", "Golpe a la carrera, …"),
             ("Guerrera Pitón Thrower", 80, 6, 3, "3+", "3+", "8+", "Pasar, Pase seguro, …"),
             ("Guerrera Pitón Thrower", 80, 6, 3, "3+", "3+", "8+", "Pasar, Pase seguro, …"),
             *[
@@ -291,7 +293,7 @@ TEAMS: list[dict] = [
         "img": "elfos-oscuros",
         "rr": 50,
         "rows": [
-            ("Elfo Oscuro Asesino", 90, 7, 3, "2+", "4+", "8+", "Apuñalar, Golpe a la Carrera, …"),
+            ("Elfo Oscuro Asesino", 90, 7, 3, "2+", "4+", "8+", "Apuñalar, Golpe a la carrera, …"),
             *[
                 ("Elfo Oscuro Blitzer", 105, 7, 3, "2+", "3+", "9+", "Placar")
                 for _ in range(2)
@@ -454,7 +456,7 @@ TEAMS: list[dict] = [
             ],
             ("Enano Runner", 80, 6, 3, "3+", "4+", "9+", "Esprintar, Manos seguras, …"),
             *[
-                ("Enano Línea", 70, 4, 3, "4+", "5+", "10+", "Placar, Romper Defensas, …")
+                ("Enano Línea", 70, 4, 3, "4+", "5+", "10+", "Placar, Romper defensas, …")
                 for _ in range(7)
             ],
         ],
@@ -468,7 +470,7 @@ TEAMS: list[dict] = [
         "rows": [
             ("Ogre", 140, 5, 5, "4+", "5+", "10+", "Estúpido, GM, …"),
             *[
-                ("Bodyguard", 85, 5, 3, "3+", "4+", "9+", "Mantenerse Firme, Forcejear")
+                ("Bodyguard", 85, 5, 3, "3+", "4+", "9+", "Mantenerse firme, Forcejear")
                 for _ in range(3)
             ],
             *[
@@ -538,7 +540,7 @@ TEAMS: list[dict] = [
                 for _ in range(2)
             ],
             *[
-                ("Guardián de Reyes Funerarios", 70, 6, 3, "3+", "4+", "9+", "Mantenerse Firme, …")
+                ("Guardián de Reyes Funerarios", 70, 6, 3, "3+", "4+", "9+", "Mantenerse firme, …")
                 for _ in range(4)
             ],
             ("Thrower de Reyes Funerarios", 70, 6, 3, "3+", "3+", "9+", "Pasar, …"),
@@ -606,7 +608,7 @@ TEAMS: list[dict] = [
             ("Minotauro Esclavizado", 150, 5, 5, "4+", "6+", "9+", "Furia, GM, …"),
             ("Bull Centaur", 130, 6, 4, "4+", "6+", "10+", "Esprintar, …"),
             *[
-                ("Enano del Caos Blocker", 70, 4, 3, "4+", "6+", "10+", "Placar, Piel Ferrea, …")
+                ("Enano del Caos Blocker", 70, 4, 3, "4+", "6+", "10+", "Placar, Piel férrea, …")
                 for _ in range(4)
             ],
             *[
@@ -764,25 +766,50 @@ TEAMS: list[dict] = [
             ],
         ],
     },
+    {
+        "slug": "vampiros",
+        "name": "Vampiros",
+        "tier": 3,
+        "img": "vampiros",
+        "rr": 60,
+        "rows": [
+            ("Vargheist", 150, 5, 5, "4+", "6+", "10+", "Sed de sangre (3+), Garras, Furia, Solitario (4+), Regeneración"),
+            ("Blitzer Vampiro", 110, 6, 4, "2+", "4+", "9+", "Sed de sangre (3+), Mirada hipnótica, Imparable, Regeneración"),
+            ("Blitzer Vampiro", 110, 6, 4, "2+", "4+", "9+", "Sed de sangre (3+), Mirada hipnótica, Imparable, Regeneración"),
+            ("Lanzador Vampiro", 110, 6, 4, "2+", "2+", "9+", "Sed de sangre (2+), Mirada hipnótica, Pasar, Regeneración"),
+            ("Corredor Vampiro", 100, 8, 3, "2+", "3+", "8+", "Sed de sangre (2+), Mirada hipnótica, Regeneración"),
+            ("Corredor Vampiro", 100, 8, 3, "2+", "3+", "8+", "Sed de sangre (2+), Mirada hipnótica, Regeneración"),
+            *[
+                ("Thrall Línea", 40, 6, 3, "3+", "4+", "8+", "–")
+                for _ in range(7)
+            ],
+        ],
+    },
+    {
+        "slug": "renegados-del-caos",
+        "name": "Renegados del Caos",
+        "tier": 5,
+        "img": "renegados-del-caos",
+        "rr": 70,
+        "rows": [
+            ("Minotauro Renegado", 150, 5, 5, "4+", "6+", "9+", "Furia, Cuernos, GM, Cabeza dura, Ira descontrolada, Solitario (4+)"),
+            ("Rata Ogro Renegada", 150, 6, 5, "4+", "6+", "9+", "Ferocidad animal, Furia, GM, Cola prensil, Solitario (4+)"),
+            ("Ogro Renegado", 140, 5, 5, "4+", "5+", "10+", "Estúpido, GM, Cabeza dura, Lanzar compañero, Solitario (3+)"),
+            ("Lanzador Humano Renegado", 75, 6, 3, "3+", "3+", "9+", "Animosidad (todos), Pasar, Manos seguras"),
+            ("Elfo Oscuro Renegado", 65, 6, 3, "2+", "3+", "9+", "Animosidad (todos)"),
+            ("Skaven Renegado", 50, 7, 3, "3+", "4+", "8+", "Animosidad (todos)"),
+            ("Orco Renegado", 50, 5, 3, "3+", "4+", "10+", "Animosidad (todos)"),
+            ("Goblin Renegado", 40, 6, 2, "3+", "4+", "8+", "Animosidad (todos), Esquivar, Humanoide bala, Escurridizo"),
+            *[
+                ("Humano Renegado Línea", 50, 6, 3, "3+", "4+", "9+", "Animosidad (todos)")
+                for _ in range(4)
+            ],
+        ],
+    },
 ]
 
 
-STUBS = [
-    (
-        "vampiros",
-        "Vampiros",
-        3,
-        "vampiros",
-        "La ficha `source/teams/vampiros.md` aún no incluye el roster oficial BB2025; completar cuando Nuffle Zone publique costes y posiciones.",
-    ),
-    (
-        "renegados-del-caos",
-        "Renegados del Caos",
-        5,
-        "renegados-del-caos",
-        "La ficha `source/teams/renegados-del-caos.md` está pendiente de roster oficial; construir desde GW / NAF y validar con el reglamento EuroBowl.",
-    ),
-]
+STUBS: list[tuple[str, str, int, str, str]] = []
 
 
 def emit_stub(slug: str, name: str, tier: int, img: str, note: str) -> str:
@@ -802,9 +829,9 @@ def emit_stub(slug: str, name: str, tier: int, img: str, note: str) -> str:
 
 | Concepto | Valor |
 |----------|--------|
-| **Team Budget (base)** | {b}.000 gp |
-| **Skill Gold (pool)** | {sk}.000 gp |
-| **Flowing Funds** | {fl}.000 gp |
+| **Team Budget (base)** | {b}.000 M.O. |
+| **Skill Gold (pool)** | {sk}.000 M.O. |
+| **Flowing Funds** | {fl}.000 M.O. |
 
 ## Alineación
 
@@ -812,7 +839,7 @@ def emit_stub(slug: str, name: str, tier: int, img: str, note: str) -> str:
 
 ## Skill Gold
 
-Pool de {sk}.000 gp para avances según tablas del reglamento EuroBowl.
+Pool de {sk}.000 M.O. para avances según tablas del reglamento EuroBowl.
 """
 
 

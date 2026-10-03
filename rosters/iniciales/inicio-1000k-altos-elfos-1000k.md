@@ -8,7 +8,7 @@
 
 *Roster inicial sin habilidades de progresión. Lista **2026** en fuente: White Lion Blitzer → Dragon Warrior → Línea. Sin Thrower para cerrar a 1000k.*
 
-| Nº | Nombre | Posición     | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición     | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|--------------|-------|----|----|----|----|----|-------------|
 | ____ | ____________________ | Alto Elfo White Lion Blitzer | 110k | 7 | 3 | 2+ | 3+ | 9+ | Forcejear, Garras |
 | ____ | ____________________ | Alto Elfo White Lion Blitzer | 110k | 7 | 3 | 2+ | 3+ | 9+ | Forcejear, Garras |
@@ -23,13 +23,13 @@
 
 **Total jugadores:** 10 | **TV:** 1.000k
 
-**Desglose TV (todo lo que tiene precio):** Referencia de precios: Reroll 50.000 | Apotecario 50.000 | Fans dedicados 10.000 c/u.
+**Desglose TV (todo lo que tiene precio):** Referencia de precios: Reroll 50.000 | Apotecario 50.000 | Hinchas 10.000 c/u.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (2 White Lion 220k, 2 Dragon Warrior 220k, 6 Línea 390k) | 830.000 |
 | Rerolls (3 × 50.000) | 150.000 |
-| Fans dedicados (2 × 10.000) | 20.000 |
+| Hinchas (2 × 10.000) | 20.000 |
 | **Total TV** | **1.000.000** |
 
 ## Información del equipo
@@ -42,14 +42,14 @@
 | **Tesorería actual** | 0 |
 | **Rerolls** | 3 |
 | **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 7 |
+| **Animadoras** | 0 |
+| **Hinchas** | 7 |
 | **Apotecario** | No (incluible como inducement) |
 
 
 ## Descripción oficial de las habilidades
 
-* **Equilibrio Firme (Steady Footing) — incl.:** Al ir a ser derribado/caer: 1D6; con 6 no cae y no hay cambio de turno si es en su activación.
+* **Equilibrio firme (Steady Footing) — incl.:** Al ir a ser derribado/caer: 1D6; con 6 no cae y no hay cambio de turno si es en su activación.
 * **Forcejear (Wrestle) — incl.:** En placaje con «Ambos derribados» puede elegir que ambos queden tumbados boca arriba.
 * **Garras (Claws) — incl.:** En tirada de Armadura contra rival derribado por su placaje, un 8+ natural rompe armadura sea cual sea el AR.
 * **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
@@ -60,11 +60,11 @@
 
 ## Estrategia
 
-- **Ataque:** Blitzers (MA7, Placar, Equilibrio Firme) para llevar el balón y blitz; Catchers (MA7, Garras, Forcejear) para recepción y presión; Línea para pantalla y bloques. Con AG2+ y 3 RR, juego de pase y movimiento.
-- **Defensa:** Marcar con Blitzers y Catchers; Línea para frenar carreras. Equilibrio Firme ayuda a mantener posesión bajo presión.
+- **Ataque:** Blitzers (MV7, Placar, Equilibrio firme) para llevar el balón y blitz; Catchers (MV7, Garras, Forcejear) para recepción y presión; Línea para pantalla y bloques. Con AG2+ y 3 RR, juego de pase y movimiento.
+- **Defensa:** Marcar con Blitzers y Catchers; Línea para frenar carreras. Equilibrio firme ayuda a mantener posesión bajo presión.
 
 ## Progresión recomendada
 
-- **Blitzer:** Primaria Echarse a un Lado o Forcejear; secundarias Manos Seguras, Profesional (GA / SP según FUMBBL).
-- **Catcher:** Primaria Echarse a un Lado; secundarias Manos Seguras, Esquivar (GA / S).
-- **Alto Elfo Línea:** Primaria Placar o Echarse a un Lado; secundarias Manos Seguras, Esquivar (GA / PF).
+- **Blitzer:** Primaria Echarse a un lado o Forcejear; secundarias Manos seguras, Profesional (GA / SP según FUMBBL).
+- **Catcher:** Primaria Echarse a un lado; secundarias Manos seguras, Esquivar (GA / S).
+- **Alto Elfo Línea:** Primaria Placar o Echarse a un lado; secundarias Manos seguras, Esquivar (GA / PF).

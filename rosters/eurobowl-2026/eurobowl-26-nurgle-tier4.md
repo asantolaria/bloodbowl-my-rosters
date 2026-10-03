@@ -11,17 +11,17 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 4 |
-| **Team Budget (base)** | 1100.000 gp |
-| **Skill Gold (pool)** | 190.000 gp |
-| **Flowing Funds (máx.)** | 30.000 gp |
+| **Team Budget (base)** | 1100.000 M.O. |
+| **Skill Gold (pool)** | 190.000 M.O. |
+| **Flowing Funds (máx.)** | 30.000 M.O. |
 
-*Desglose de equipo = **1100k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Desglose de equipo = **1100k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
 
 ## Alineación (gasto de presupuesto de equipo)
 
 *Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
 | 1 | ____ | Bloater | 110k | 4 | 4 | 4+ | 6+ | 10+ | Apariencia asquerosa, Inestable, … |
 | 2 | ____ | Bloater | 110k | 4 | 4 | 4+ | 6+ | 10+ | Apariencia asquerosa, Inestable, … |
@@ -36,14 +36,14 @@
 | 11 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Putrefacción de Nurgle, … |
 | 12 | ____ | Rotter | 40k | 5 | 3 | 4+ | 6+ | 9+ | Descomposición, Putrefacción de Nurgle, … |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k gp
+**Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k M.O.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (4 Bloater 440k, 2 Pestigor 140k, 6 Rotter 240k) | 820.000 |
 | Rerolls (4 × 60.000) | 240.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (4 × 10.000) | 40.000 |
+| Hinchas (4 × 10.000) | 40.000 |
 | **Total** | **1.100.000** |
 
 ## Skill Gold — avances (ejemplo editable)
@@ -54,7 +54,7 @@ Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack 
 |--------------|------|---------------------|
 | _pendiente_ | 1 primaria no élite | 20.000 |
 
-**Pool Skill Gold base:** 190.000 gp (+ Flowing si lo asignas).
+**Pool Skill Gold base:** 190.000 M.O. (+ Flowing si lo asignas).
 
 ## Estrellas (Tiers 1–4)
 

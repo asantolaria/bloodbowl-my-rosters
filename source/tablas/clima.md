@@ -1,15 +1,19 @@
 # Tabla de Clima
 
-Fuente: [Resumen de Tablas de Blood Bowl](https://nufflezone.com/resumen-tablas-blood-bowl/) (Nuffle Zone).
+Fuente: [bloodbowlbase — The Game of Blood Bowl (BB2025)](https://bloodbowlbase.ru/bb2025/core_rules/the_game_of_blood_bowl/) · [Cheat Sheet](https://bloodbowlbase.ru/bb2025/core_rules/cheat_sheet/). Resumen previo: [Nuffle Zone](https://nufflezone.com/resumen-tablas-blood-bowl/).
 
-Durante la **secuencia anterior al partido**, cada entrenador tira **1D6**; se **suman** ambos resultados (2D6) y se consulta la tabla.
+Durante la **secuencia anterior al partido**, cada entrenador tira **1D6**; se **suman** ambos resultados (2D6) y se consulta la tabla. El clima dura hasta que un evento **Clima cambiante** (patada inicial, 8) o un **Cambiaclimas** (incentivo) lo cambie.
 
 | 2D6 | Resultado | Efecto |
 |-----|-----------|--------|
-| 2 | **Calor Asfixiante** | Al final de cada entrada, 1D3 jugadores aleatorios de cada equipo que estén en el campo se colocan en Reservas y deben perderse la siguiente entrada. |
-| 3 | **Muy Soleado** | -1 a todos los chequeos de **Pasar**. |
-| 4-5 | **Clima Perfecto** | Día cálido, seco y ligeramente nublado. Sin modificadores. |
-| 6-7 | **Lluvioso** | -1 a chequeos de **Agilidad** para atrapar, recoger el balón o interferir en un pase. |
-| 8+ | **Ventisca** | -1 a intentos de **Forzar la marcha**. Solo se pueden intentar Pases Rápidos y Pases Cortos. |
+| 2 | **Calor asfixiante** | Al final de cada **entrada**, un entrenador tira **1D3**; cada entrenador elige **al azar** esa cantidad de jugadores suyos que estaban en el campo. Van a **Reservas** y **no** pueden desplegarse en la siguiente entrada. |
+| 3 | **Muy soleado** | **-1** a todos los chequeos de **Pase** (PS). |
+| 4-10 | **Clima perfecto** | Sin efecto. |
+| 11 | **Lluvioso** | **-1** al **recoger** el balón, **atrapar** y **interceptar**. (FAQ: también aplica a la tirada de **Asegurar el balón**.) |
+| 12 | **Ventisca** | **-1 adicional** a **Forzar la marcha**. Solo se pueden intentar **Pases Rápidos** y **Pases Cortos**. |
 
-*Valores 2D6 típicos: 2, 3, 4-5, 6-7, 8-12 según edición; confirmar en reglamento actual.*
+> **Corrección:** la versión anterior de este archivo (Perfecto 4-5, Lluvioso 6-7, Ventisca 8+) era incorrecta. En BB2025 «Clima perfecto» ocupa **4-10**; la lluvia solo sale con **11** y la ventisca con **12**.
+
+En los primeros partidos de aprendizaje el reglamento permite ignorar el clima (siempre **Clima perfecto**).
+
+Ver también: [Patada inicial](patada-inicial.md) · [Secuencia de partido](secuencia-de-partido.md) · Tablas de clima temáticas en [Copas temáticas (Spike! Journal)](copas-tematicas-spike.md).

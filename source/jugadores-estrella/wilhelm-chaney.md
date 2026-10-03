@@ -1,6 +1,8 @@
 # Wilhelm Chaney
 
-| MA | ST | AG | PA | AR | Coste |
+Verificado con [bloodbowlbase.ru — Wilhelm Chaney](https://bloodbowlbase.ru/bb2025/starplayers/Wilhelm_Chaney/) (BB2025).
+
+| MV | FU | AG | PS | AR | Coste |
 |----|----|----|----|-----|-------|
 | 8  | 4  | 3+ | 4+ | 9+ | 220.000 |
 

@@ -8,19 +8,19 @@
 
 *Sin avances de torneo en la TV. **Dorsales:** Thrower **1–2**, Gutter Runner **3–4**, Blitzer **5–6**, Linemen **7–10**, Rata Ogro **20**.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Thrower | 80k | 7 | 3 | 3+ | 2+ | 8+ | Manos Seguras, Pasar |
-| 2 | ____ | Thrower | 80k | 7 | 3 | 3+ | 2+ | 8+ | Manos Seguras, Pasar |
+| 1 | ____ | Thrower | 80k | 7 | 3 | 3+ | 2+ | 8+ | Manos seguras, Pasar |
+| 2 | ____ | Thrower | 80k | 7 | 3 | 3+ | 2+ | 8+ | Manos seguras, Pasar |
 | 3 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
 | 4 | ____ | Gutter Runner | 85k | 9 | 2 | 2+ | 4+ | 8+ | Apuñalar, Esquivar |
-| 5 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar Balón |
-| 6 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar Balón |
+| 5 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar balón |
+| 6 | ____ | Blitzer | 90k | 8 | 3 | 3+ | 4+ | 9+ | Placar, Robar balón |
 | 7 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
 | 8 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
 | 9 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
 | 10 | ____ | Linemen | 50k | 7 | 3 | 3+ | 4+ | 8+ | — |
-| 20 | ____ | Rata Ogro | 150k | 6 | 5 | 4+ | — | 9+ | Ferocidad Animal, Cola Prensil, Furia, Golpe Mortífero (+1), Solitario (4+) |
+| 20 | ____ | Rata Ogro | 150k | 6 | 5 | 4+ | — | 9+ | Ferocidad animal, Cola prensil, Furia, Golpe mortífero (+1), Solitario (4+) |
 
 **Total jugadores:** 11 | **TV:** 1.010k
 
@@ -39,7 +39,7 @@
 | **Valoración del equipo (TV)** | 1.010k |
 | **Total plantilla** | 11 jugadores |
 | **Rerolls** | 2 |
-| **Fans dedicados** | 0 |
+| **Hinchas** | 0 |
 | **Apotecario** | Sí (en suma) |
 
 ## Notas

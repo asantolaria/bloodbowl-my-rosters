@@ -8,30 +8,30 @@
 
 *Sin avances de habilidades en la TV. Orden: Momias → Caballeros → Necrófagos → Zombies.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Momia | 125k | 3 | 5 | 5+ | 6+ | 10+ | Golpe Mortífero, Regeneración |
-| 2 | ____ | Momia | 125k | 3 | 5 | 5+ | 6+ | 10+ | Golpe Mortífero, Regeneración |
-| 3 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Cabeza Dura, Placar, Placaje Defensivo, Regeneración |
-| 4 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Cabeza Dura, Placar, Placaje Defensivo, Regeneración |
+| 1 | ____ | Momia | 125k | 3 | 5 | 5+ | 6+ | 10+ | Golpe mortífero, Regeneración |
+| 2 | ____ | Momia | 125k | 3 | 5 | 5+ | 6+ | 10+ | Golpe mortífero, Regeneración |
+| 3 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Cabeza dura, Placar, Placaje defensivo, Regeneración |
+| 4 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Cabeza dura, Placar, Placaje defensivo, Regeneración |
 | 5 | ____ | Necrófago | 75k | 7 | 3 | 3+ | 3+ | 8+ | Esquivar, Regeneración |
 | 6 | ____ | Necrófago | 75k | 7 | 3 | 3+ | 3+ | 8+ | Esquivar, Regeneración |
-| 7 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de Ojos, Tembloroso, Regeneración |
-| 8 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de Ojos, Tembloroso, Regeneración |
-| 9 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de Ojos, Tembloroso, Regeneración |
-| 10 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de Ojos, Tembloroso, Regeneración |
-| 11 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de Ojos, Tembloroso, Regeneración |
-| 12 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de Ojos, Tembloroso, Regeneración |
+| 7 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
+| 8 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
+| 9 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
+| 10 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
+| 11 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
+| 12 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
 
 **Total jugadores:** 12 | **TV:** 1.060k
 
-**Desglose TV (todo lo que tiene precio):** Reroll 70.000 (No Muertos) | Apotecario no disponible | Fans dedicados 10.000 c/u.
+**Desglose TV (todo lo que tiene precio):** Reroll 70.000 (No Muertos) | Apotecario no disponible | Hinchas 10.000 c/u.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (2 Momias 250k, 2 Caballeros 190k, 2 Necrófagos 150k, 6 Zombies 240k) | 830.000 |
 | Rerolls (3 × 70.000) | 210.000 |
-| Fans dedicados (2 × 10.000) | 20.000 |
+| Hinchas (2 × 10.000) | 20.000 |
 | **Total TV** | **1.060.000** |
 
 ## Información del equipo
@@ -44,8 +44,8 @@
 | **Tesorería actual** | 0 |
 | **Rerolls** | 3 |
 | **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 2 |
+| **Animadoras** | 0 |
+| **Hinchas** | 2 |
 | **Apotecario** | No (equipo No Muertos) |
 
 ## Paquete de torneo — habilidades (ejemplo 2 primarias + 1 secundaria)
@@ -54,14 +54,14 @@
 
 - **Secundaria prioritaria:** **Placar** (*Block*) en una **Momia** (General como secundaria; la ficha mejora mucho la fiabilidad en el choque).
 - **Primaria 1:** **Defensa** (*Guard*) en Momia o Caballero para anclar la línea.
-- **Primaria 2:** **Golpe Mortífero** en un Caballero o **Defensa** en otra pieza clave; los Caballeros ya llevan **Placaje Defensivo** (*Tackle*) de lista.
+- **Primaria 2:** **Golpe mortífero** en un Caballero o **Defensa** en otra pieza clave; los Caballeros ya llevan **Placaje defensivo** (*Tackle*) de lista.
 
-En **Necrófagos**, en agilidad: **Atrapar**, **Saltar**; **Manos Seguras** es General (a menudo secundaria en torneo) para el portador; **Placar** como secundaria si priorizas contacto.
+En **Necrófagos**, en agilidad: **Atrapar**, **Saltar**; **Manos seguras** es General (a menudo secundaria en torneo) para el portador; **Placar** como secundaria si priorizas contacto.
 
 ## Reglas y contexto Season 3 (resumen)
 
 - **Señores de los No Muertos** (*Masters of Undeath*): si matas a un rival estándar (FU 4 o menos, sin Escurridizo), ganas un **Zombie** gratis en reservas que puedes fichar de forma permanente según reglamento — confirma el texto de tu edición/torneo.
-- **Foco silvano** (*Sylvanian Spotlight*): condiciona estrellas permitidas y abre fichas útiles (p. ej. estrellas asociadas a Sylvania en el reglamento de torneo).
+- **Selectiva de Sylvania** (*Sylvanian Spotlight*): condiciona estrellas permitidas y abre fichas útiles (p. ej. estrellas asociadas a Sylvania en el reglamento de torneo).
 - **Resiliencia:** **Necrófagos** y líneas con **Regeneración**; el equipo aguanta mejor el desgaste.
 - **Sin apotecario:** no se contrata apo en este equipo.
 
@@ -75,10 +75,10 @@ En **Necrófagos**, en agilidad: **Atrapar**, **Saltar**; **Manos Seguras** es G
 
 ## Estrategia
 
-- **Momias:** muro FU 5 y **Golpe Mortífero**; suelen ser el primer objetivo de **Defensa** en torneo.
-- **Caballeros:** blitzers con **Placar** y **Placaje Defensivo**; **Golpe Mortífero** o más **Defensa** según meta.
+- **Momias:** muro FU 5 y **Golpe mortífero**; suelen ser el primer objetivo de **Defensa** en torneo.
+- **Caballeros:** blitzers con **Placar** y **Placaje defensivo**; **Golpe mortífero** o más **Defensa** según meta.
 - **Necrófagos:** velocidad y balón con **Regeneración**; máximo **2** en lista 2025.
-- **Zombies / Esqueleto:** carne de cañón; **Tembloroso** limita **Asegurar el balón**. Mezcla **Esqueleto** (MA 5, AR 8+) vs **Zombie** (MA 4, AR 9+) en otras variantes si el TO lo permite.
+- **Zombies / Esqueleto:** carne de cañón; **Tembloroso** limita **Asegurar el balón**. Mezcla **Esqueleto** (MV 5, AR 8+) vs **Zombie** (MV 4, AR 9+) en otras variantes si el TO lo permite.
 
 ## Variante ~1.050k (1 fan)
 
@@ -86,7 +86,7 @@ Misma plantilla con **1 fan** (10k): TV **1.050k** (830k + 210k + 10k).
 
 ## Progresión recomendada (liga)
 
-- **Momia:** primarias Defensa, Luchador; secundarias Placar, Abrirse Paso (F / AG).
-- **Caballero:** primarias Golpe Mortífero, Defensa; secundarias según `source/teams/no-muertos.md` (GF / AD).
-- **Necrófago:** primarias Atrapar, Saltar (AG); secundarias Manos Seguras (G), Placar (G) según coste del torneo (AG / DPF).
-- **Zombie / Esqueleto:** primarias Placar, Luchador; secundarias **Jugar Sucio** si hay acceso a Triquiñuelas en tu marco (DG / AF) o (G / ADF).
+- **Momia:** primarias Defensa, Luchador; secundarias Placar, Abrirse paso (F / AG).
+- **Caballero:** primarias Golpe mortífero, Defensa; secundarias según `source/teams/no-muertos.md` (GF / AD).
+- **Necrófago:** primarias Atrapar, Saltar (AG); secundarias Manos seguras (G), Placar (G) según coste del torneo (AG / DPF).
+- **Zombie / Esqueleto:** primarias Placar, Luchador; secundarias **Jugar sucio** si hay acceso a Triquiñuelas en tu marco (DG / AF) o (G / ADF).

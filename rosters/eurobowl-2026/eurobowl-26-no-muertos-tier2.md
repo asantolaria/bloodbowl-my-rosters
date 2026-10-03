@@ -11,33 +11,33 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 2 |
-| **Team Budget (base)** | 1070.000 gp |
-| **Skill Gold (pool)** | 140.000 gp |
-| **Flowing Funds (máx.)** | 20.000 gp |
+| **Team Budget (base)** | 1070.000 M.O. |
+| **Skill Gold (pool)** | 140.000 M.O. |
+| **Flowing Funds (máx.)** | 20.000 M.O. |
 
-*Desglose de equipo = **1070k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Desglose de equipo = **1070k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
 
 ## Alineación (gasto de presupuesto de equipo)
 
 *Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Momia | 125k | 3 | 5 | 5+ | 6+ | 10+ | Golpe Mortífero, Regeneración |
-| 2 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Cabeza Dura, Placar, Placaje Defensivo, Regeneración |
-| 3 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Cabeza Dura, Placar, Placaje Defensivo, Regeneración |
+| 1 | ____ | Momia | 125k | 3 | 5 | 5+ | 6+ | 10+ | Golpe mortífero, Regeneración |
+| 2 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Cabeza dura, Placar, Placaje defensivo, Regeneración |
+| 3 | ____ | Caballero | 95k | 6 | 3 | 3+ | 5+ | 9+ | Cabeza dura, Placar, Placaje defensivo, Regeneración |
 | 4 | ____ | Necrófago | 75k | 7 | 3 | 3+ | 3+ | 8+ | Esquivar, Regeneración |
 | 5 | ____ | Necrófago | 75k | 7 | 3 | 3+ | 3+ | 8+ | Esquivar, Regeneración |
-| 6 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza Dura |
-| 7 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza Dura |
-| 8 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza Dura |
-| 9 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza Dura |
-| 10 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de Ojos, Tembloroso, Regeneración |
-| 11 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de Ojos, Tembloroso, Regeneración |
-| 12 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de Ojos, Tembloroso, Regeneración |
-| 13 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de Ojos, Tembloroso, Regeneración |
+| 6 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza dura |
+| 7 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza dura |
+| 8 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza dura |
+| 9 | ____ | Esqueleto | 40k | 5 | 3 | 4+ | 6+ | 8+ | Regeneración, Cabeza dura |
+| 10 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
+| 11 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
+| 12 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
+| 13 | ____ | Zombie | 40k | 4 | 3 | 4+ | 6+ | 9+ | Piquete de ojos, Tembloroso, Regeneración |
 
-**Total jugadores:** 13 | **Presupuesto equipo usado:** 1070k gp
+**Total jugadores:** 13 | **Presupuesto equipo usado:** 1070k M.O.
 
 *Lista 2025: Necrófago **0-2**; una Momia libera TV para 8 líneas a 40k y cuadra **785k** en jugadores con 4 Esqueletos + 4 Zombies (ajustable).*
 
@@ -46,7 +46,7 @@
 | Jugadores (1 Momia 125k, 2 Caballeros 190k, 2 Necrófagos 150k, 4 Esqueletos 160k, 4 Zombies 160k) | 785.000 |
 | Rerolls (4 × 70.000) | 280.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados | 0 |
+| Hinchas | 0 |
 | Flowing Funds → presupuesto equipo | 5.000 |
 | **Total** | **1.070.000** |
 
@@ -58,7 +58,7 @@ Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack 
 |--------------|------|---------------------|
 | _pendiente_ | 1 primaria no élite | 20.000 |
 
-**Pool Skill Gold base:** 140.000 gp (+ Flowing si lo asignas).
+**Pool Skill Gold base:** 140.000 M.O. (+ Flowing si lo asignas).
 
 ## Estrellas (Tiers 1–4)
 

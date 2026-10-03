@@ -11,17 +11,17 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 4 |
-| **Team Budget (base)** | 1100.000 gp |
-| **Skill Gold (pool)** | 190.000 gp |
-| **Flowing Funds (máx.)** | 30.000 gp |
+| **Team Budget (base)** | 1100.000 M.O. |
+| **Skill Gold (pool)** | 190.000 M.O. |
+| **Flowing Funds (máx.)** | 30.000 M.O. |
 
-*Desglose de equipo = **1100k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Desglose de equipo = **1100k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
 
 ## Alineación (gasto de presupuesto de equipo)
 
 *Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
 | 1 | ____ | Kroxigor | 140k | 6 | 5 | 5+ | 6+ | 10+ | Cola prensil, GM, … |
 | 2 | ____ | Blitzer | 95k | 7 | 3 | 2+ | 4+ | 9+ | Placar, Saltar, … |
@@ -36,7 +36,7 @@
 | 11 | ____ | Linemen | 60k | 7 | 2 | 2+ | 4+ | 8+ | Saltar, Esquivar |
 | 12 | ____ | Linemen | 60k | 7 | 2 | 2+ | 4+ | 8+ | Saltar, Esquivar |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k gp
+**Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k M.O.
 
 | Concepto | Coste |
 |----------|--------|
@@ -53,7 +53,7 @@ Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack 
 |--------------|------|---------------------|
 | _pendiente_ | 1 primaria no élite | 20.000 |
 
-**Pool Skill Gold base:** 190.000 gp (+ Flowing si lo asignas).
+**Pool Skill Gold base:** 190.000 M.O. (+ Flowing si lo asignas).
 
 ## Estrellas (Tiers 1–4)
 

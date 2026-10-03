@@ -8,13 +8,13 @@
 
 *Sin avances de habilidades en la TV. **Dorsales:** Lanzador **1**, Blitzers **2** y **5**, Catchers **3** y **4**, Líneas **6, 7, 8, 9, 12** (el **11** queda libre por convención del repo para un segundo Lanzador).*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Elfo Lanzador | 75k | 6 | 3 | 2+ | 2+ | 8+ | Pasar, Pase a lo Loco |
-| 2 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Placar, Echarse a un Lado |
-| 3 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de Acero, Recepción Heroica |
-| 4 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de Acero, Recepción Heroica |
-| 5 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Placar, Echarse a un Lado |
+| 1 | ____ | Elfo Lanzador | 75k | 6 | 3 | 2+ | 2+ | 8+ | Pasar, Pase a lo loco |
+| 2 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Placar, Echarse a un lado |
+| 3 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de acero, Recepción heroica |
+| 4 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de acero, Recepción heroica |
+| 5 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Placar, Echarse a un lado |
 | 6 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
 | 7 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
 | 8 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada |
@@ -23,14 +23,14 @@
 
 **Total jugadores:** 11 | **TV:** 1.000k
 
-**Desglose TV (todo lo que tiene precio):** Reroll 50.000 | Apotecario 50.000 | Fans dedicados 10.000 c/u.
+**Desglose TV (todo lo que tiene precio):** Reroll 50.000 | Apotecario 50.000 | Hinchas 10.000 c/u.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (2 Blitzers 230k, 2 Catchers 200k, 1 Lanzador 75k, 5 Línea 325k) | 830.000 |
 | Rerolls (2 × 50.000) | 100.000 |
 | Apotecario | 50.000 |
-| Fans dedicados (2 × 10.000) | 20.000 |
+| Hinchas (2 × 10.000) | 20.000 |
 | **Total TV** | **1.000.000** |
 
 ## Información del equipo
@@ -43,13 +43,13 @@
 | **Tesorería actual** | 0 |
 | **Rerolls** | 2 |
 | **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 2 |
+| **Animadoras** | 0 |
+| **Hinchas** | 2 |
 | **Apotecario** | Sí |
 
 ## Enfoque de torneo (resumen)
 
-- **Velocidad y pase:** AG **2+** y **PA 2+** en el Lanzador; Catchers **MA 8** para anotar; Blitzers **MA 7** y **AR 9+** para presión y bloqueo con **Placar** + **Echarse a un Lado** (base del *blodge* al sumar **Esquivar**).
+- **Velocidad y pase:** AG **2+** y **PS 2+** en el Lanzador; Catchers **MV 8** para anotar; Blitzers **MV 7** y **AR 9+** para presión y bloqueo con **Placar** + **Echarse a un lado** (base del *blodge* al sumar **Esquivar**).
 - **Cristal:** AR 8+ en muchas piezas; **no prescindas del banco** cuando subas TV ([1095k](torneo-s3-union-elfica-1095k.md)).
 - **Rerolls:** a **50k** en lista oficial; si tu evento usa otro precio (p. ej. 60k), recalcula el desglose.
 
@@ -69,7 +69,7 @@
 * **Líder (Leader) — prog.:** Al inicio de cada parte, si hay un Líder en el campo, el equipo gana una Segunda oportunidad adicional «de Líder» (se pierde si no queda ningún Líder en el campo).
 * **Patada (Kick) — prog.:** Si es pateador, al desviar el balón su entrenador puede elegir 1D3 casillas en lugar de 1D6.
 
-*(**Atrapar**, **Dejada**, **Echarse a un Lado**, **Nervios de Acero**, **Pasar**, **Pase a lo Loco**, **Placar**, **Recepción Heroica** — incl. en coste de jugador.)*
+*(**Atrapar**, **Dejada**, **Echarse a un lado**, **Nervios de acero**, **Pasar**, **Pase a lo loco**, **Placar**, **Recepción heroica** — incl. en coste de jugador.)*
 
 ## Inducements
 
@@ -77,7 +77,7 @@
 
 ## Estrategia
 
-- **Ataque:** cadena de pase con **Pasar** y **Pase a lo Loco**; Catchers rompen profundidad con **MA 8**; **Dejada** en líneas para juego de posesión.
+- **Ataque:** cadena de pase con **Pasar** y **Pase a lo loco**; Catchers rompen profundidad con **MV 8**; **Dejada** en líneas para juego de posesión.
 - **Defensa:** Blitzers marcan y placan; cuidado con bajas: por eso **apotecario** y, a mayor TV, más **líneas** de banco.
 
 ## Progresión recomendada (liga)

@@ -1,8 +1,8 @@
 # Tablas de Heridas y Lesiones
 
-Fuente: [Resumen de Tablas de Blood Bowl](https://nufflezone.com/resumen-tablas-blood-bowl/), [Lo Básico](https://nufflezone.com/lo-basico/) (Nuffle Zone).
+Fuente: [bloodbowlbase — The Game of Blood Bowl (BB2025)](https://bloodbowlbase.ru/bb2025/core_rules/the_game_of_blood_bowl/) · [Cheat Sheet](https://bloodbowlbase.ru/bb2025/core_rules/cheat_sheet/) · [League Play](https://bloodbowlbase.ru/bb2025/core_rules/league_play/).
 
-Cuando se **rompe la Armadura** de un jugador, el entrenador rival hace la **Tirada de Heridas** (2D6). Si el resultado es «¡Lesionado!», luego se hace la **Tirada de Lesiones** (D16) y, si aplica, la **Tabla de Heridas Permanentes** (D6).
+Cuando un jugador es **derribado** o **se cae**, queda **tumbado** y el entrenador rival hace una **tirada de Armadura** (2D6 ≥ AR → armadura **rota**). Si la armadura se rompe, el entrenador rival hace la **Tirada de Heridas** (2D6). Si el resultado es **Lesión** (Casualty), luego tira la **Tabla de Lesiones** (D16) y, si aplica, la **Tabla de Heridas permanentes** (D6).
 
 ---
 
@@ -10,60 +10,73 @@ Cuando se **rompe la Armadura** de un jugador, el entrenador rival hace la **Tir
 
 | 2D6 | Resultado | Efecto |
 |-----|-----------|--------|
-| 2-7 | **Aturdido** | El jugador queda aturdido y se coloca boca abajo en el campo. |
-| 8-9 | **Inconsciente** | Se retira al jugador y se coloca en la Zona de Inconscientes del Banquillo. Al final de cada entrada se tira para recuperación (4+ vuelve a Reservas). |
-| 10+ | **¡Lesionado!** | Se retira al jugador a la Zona de Lesionados. El entrenador rival hace una **Tirada de Lesiones** (D16) contra ese jugador. |
+| 2-7 | **Aturdido** | El jugador queda **Aturdido** (ficha roja). Al final de su siguiente turno de equipo pasa a **tumbado**. |
+| 8-9 | **Inconsciente** (KO) | Se retira a la casilla de **Inconscientes** del banquillo. Al final de cada entrada: 1D6, **4+** vuelve a **Reservas**. |
+| 10-12 | **Lesión** (Casualty) | Se retira a la casilla de **Lesionados**. El entrenador rival hace una tirada en la **Tabla de Lesiones** (D16). |
 
----
+## Tabla de Heridas para Escurridizos (Stunty)
 
-## Tabla de Heridas para Escurridizos
-
-Si la tirada de Heridas es contra un jugador con el rasgo **Escurridizo** [Stunty], se usa esta tabla en lugar de la normal:
+Se usa en lugar de la normal si el jugador tiene el rasgo **Escurridizo**:
 
 | 2D6 | Resultado | Efecto |
 |-----|-----------|--------|
-| 2-6 | **Aturdido** | El jugador queda aturdido y se coloca boca abajo en el campo. |
-| 7-8 | **Inconsciente** | Se retira a la Zona de Inconscientes; recuperación como arriba. |
-| 9 | **Magullado** | Se retira a Lesionados. **No** se tira en la Tabla de Lesiones; se aplica automáticamente resultado **Malherido** (pierde el partido, sin secuelas). |
-| 10+ | **¡Lesionado!** | Se retira a Lesionados. El entrenador rival hace la **Tirada de Lesiones** (D16). |
+| 2-6 | **Aturdido** | Como arriba. |
+| 7-8 | **Inconsciente** | Como arriba. |
+| 9 | **Magullado** (Badly Hurt) | Lesión: va a **Lesionados**. En liga **no** se tira la Tabla de Lesiones: se aplica automáticamente **Magullado** (sin secuelas). |
+| 10-12 | **Lesión** | Va a **Lesionados**; el rival tira en la **Tabla de Lesiones** (D16). |
 
 ---
 
-## Tirada de Lesiones (D16)
+## Tabla de Lesiones (D16)
 
-Solo se tira cuando el resultado de la Tirada de Heridas es «¡Lesionado!». El entrenador del equipo contrario tira **D16** (o 1D6+1D8, o 2D6 con convención 1-6/1-6 para 1-36 interpretado como 1-16).
+En todos los casos el jugador se pierde **el resto del partido**. En **Juego igualado** y **Exhibición** se puede omitir salvo que haya **Apotecario** o reglas que dependan del resultado (p. ej. **Muerto** para Señores de los No Muertos).
 
 | D16 | Resultado | Efecto |
 |-----|-----------|--------|
-| 1-6 | **Malherido** | El jugador se pierde el resto del partido, sin secuelas duraderas. |
-| 7-9 | **Gravemente Herido** | El jugador se pierde el próximo partido. |
-| 10-12 | **Lesión Seria** | El jugador se pierde el próximo partido y recibe **+1** en la próxima tirada en la Tabla de Lesiones. |
-| 13-14 | **Lesión Permanente** | El jugador se pierde el próximo partido. Tirar en la **Tabla de Heridas Permanentes** (D6) para la reducción de característica. |
-| 15-16 | **Muerto** | El jugador está demasiado muerto para jugar a Blood Bowl. |
+| 1-8 | **Magullado** (Badly Hurt) | Sin secuelas a largo plazo. |
+| 9-10 | **Apaleado** (Seriously Hurt) | Se pierde el **próximo partido** (MNG). |
+| 11-12 | **Herida grave** (Serious Injury) | Sufre una **Lesión mal curada** (Niggling Injury, NI) y se pierde el próximo partido. |
+| 13-14 | **Herida permanente** (Lasting Injury) | **Reducción de atributo** (tabla D6) y se pierde el próximo partido. |
+| 15-16 | **Muerto** | Se borra del roster. |
+
+- **Lesión mal curada:** **+1** a cada futura tirada en la Tabla de Lesiones **por cada** Lesión mal curada que tenga el jugador.
+- **Perderse el próximo partido (MNG):** anotarlo en el roster; no cuenta para el **CTV** del siguiente partido.
+
+> **Corrección:** la versión anterior usaba bandas de BB2020 (1-6 / 7-9 / 10-12). En BB2025 Magullado es **1-8** y Apaleado **9-10**.
+
+## Tabla de Heridas permanentes (D6)
+
+| D6 | Herida permanente | Reducción |
+|----|--------------------|-----------|
+| 1-2 | Cabeza fracturada | **-1 AR** |
+| 3 | Rodilla aplastada | **-1 MV** |
+| 4 | Brazo roto | **-1 PS** (el objetivo sube: 3+ → 4+) |
+| 5 | Cadera dislocada | **-1 AG** (el objetivo sube: 3+ → 4+) |
+| 6 | Rotura de hombro | **-1 FU** |
+
+**Si la reducción no se puede aplicar** (la característica ya está en su mínimo: MV 1, FU 1, AG 6+, PS 6+, AR 3+), **no** se aplica y el resultado se trata como **Perderse el próximo partido** («Nuffle cree que ya ha sufrido bastante»).
+
+> **Corrección:** la versión anterior indicaba que había que **repetir** la tirada en ese caso y llamaba «Lesión Cervical»/«Hombro Dislocado» a los resultados 5-6. En BB2025 son **Cadera dislocada (-1 AG)** y **Rotura de hombro (-1 FU)**, y el resultado no aplicable se convierte en MNG.
 
 ---
 
-## Tabla de Heridas Permanentes (D6)
+## Reglas relacionadas
 
-Se usa solo cuando el resultado de la Tirada de Lesiones es **Lesión Permanente**.
+| Regla | Resumen |
+|-------|---------|
+| **Herido por el público** | Jugador **empujado al público** (o que cae en él): tirada de **Heridas** directa (sin Armadura). Si saldría **Aturdido**, va a **Reservas**; si no, se aplica el resultado de la tabla correspondiente. Si es del equipo activo → **cambio de turno**. |
+| **Apotecario** | **Una vez por partido**. Sobre un **Inconsciente**: en lugar de ir al banquillo queda **Aturdido** en su casilla (si fue KO por el público, va a **Reservas**). Sobre una **Lesión**: tras la tirada D16, el rival tira **otra vez** y tú eliges cuál aplicar; si eliges **Magullado**, el jugador vuelve a **Reservas**. |
+| **Recuperar Inconscientes** | Al final de cada entrada: **1D6** por jugador, **4+** vuelve a Reservas (+1 por cada Barril de Blitzer o con Josef Bugman). |
+| **Devolver el favor** (Getting Even, solo liga) | Si una Lesión con **Apaleado**, **Herida grave** o **Herida permanente** hace perder el próximo partido: 1D6, **4+** → gana **Odio (X)** contra una palabra clave del jugador que lo lesionó (no puede ser Big Guy, Blitzer, Blocker, Catcher, Lineman, Runner, Special ni Thrower). |
+| **Jugadores Estrella** | Sus tiradas de Lesión se anulan al final del partido. |
 
-| D6 | Lesión permanente | Reducción de característica |
-|----|--------------------|------------------------------|
-| 1-2 | Herida en la Cabeza | -1 AR |
-| 3 | Rodilla Destrozada | -1 MA |
-| 4 | Brazo Roto | -1 PA |
-| 5 | Lesión Cervical | -1 AG |
-| 6 | Hombro Dislocado | -1 FU |
+## Blood Bowl Sevens
 
-### FAQ (regla oficial)
-
-Si la característica a reducir **ya está en su valor mínimo** (p. ej. FU 1 con Hombro Dislocado, o PA 6+ con Brazo Roto), no puede reducirse más. En su lugar, **se vuelve a tirar** en la Tabla de Heridas Permanentes hasta obtener un resultado que sí se pueda aplicar.
-
----
+Sevens usa tablas propias simplificadas (sin D16): ver [Blood Bowl Sevens](sevens.md#heridas).
 
 ## Resumen rápido
 
-- **Heridas:** 2D6 → Aturdido (2-7), Inconsciente (8-9), Lesionado (10+).
-- **Escurridizos:** 2D6 → Aturdido (2-6), Inconsciente (7-8), Magullado/Malherido (9), Lesionado (10+).
-- **Lesiones:** D16 → Malherido (1-6), Gravemente Herido (7-9), Lesión Seria (10-12), Permanente (13-14), Muerto (15-16).
-- **Permanentes:** D6 → Cabeza -1AR, Rodilla -1MA, Brazo -1PA, Cervical -1AG, Hombro -1FU.
+- **Heridas:** 2D6 → Aturdido (2-7), Inconsciente (8-9), Lesión (10-12).
+- **Escurridizos:** 2D6 → Aturdido (2-6), Inconsciente (7-8), Magullado (9), Lesión (10-12).
+- **Lesiones:** D16 → Magullado (1-8), Apaleado (9-10), Herida grave/NI (11-12), Herida permanente (13-14), Muerto (15-16).
+- **Permanentes:** D6 → Cabeza -1 AR (1-2), Rodilla -1 MV (3), Brazo -1 PS (4), Cadera -1 AG (5), Hombro -1 FU (6).

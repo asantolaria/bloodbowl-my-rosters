@@ -4,63 +4,75 @@
 
 > **#euro26** — [EuroBowl 2026](../../source/tiers/eurobowl-2026.md). **BB 3ª temporada / BB2025.** Posiciones y costes: [`source/teams/snotlings.md`](../../source/teams/snotlings.md).
 
-> **Estado competitivo:** presupuesto EuroBowl válido en cifras; **sin revisión meta**. Repaso táctico pendiente — [README `eurobowl-2026`](README.md) · tag `eurobowl-2026-wip-competitive`.
+> **Build de referencia:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, ruleset previo a `EB2026_04`), revalidada contra las fichas BB2025 actuales y [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+>
+> **Estado competitivo:** build de un comentarista, **sin revisión propia**. — [README `eurobowl-2026`](README.md) · tag `eurobowl-2026-wip-competitive`.
 
 ## Presupuesto EuroBowl
 
-| Concepto | Valor |
-|----------|--------|
-| **Tier** | 5 |
-| **Team Budget (base)** | 1120.000 gp |
-| **Skill Gold (pool)** | 220.000 gp |
-| **Flowing Funds (máx.)** | 30.000 gp |
+| Concepto | Disponible | Usado |
+|----------|-----------|-------|
+| **Tier** | 5 | |
+| **Team Budget** | 1.120.000 M.O. | 1.140.000 M.O. |
+| **Skill Gold** | 220.000 M.O. | 230.000 M.O. |
+| **Flowing Funds** | 30.000 M.O. | 20.000 → equipo · 10.000 → Skill Gold |
 
-*Desglose de equipo = **1120k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+## Alineación
 
-## Alineación (gasto de presupuesto de equipo)
+*Rellenar nombres. Habilidades de Skill Gold en **negrita**.*
 
-*Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
+|----|--------|----------|-------|----|----|----|----|----|-------------|------------|
+| 1 | ____ | Troll Entrenado | 115k | 4 | 5 | 5+ | 5+ | 10+ | Golpe mortífero, Lanzar compañero, Proyectil de vómito, Realmente estúpido, Regeneración, Siempre hambriento, **Ojo de halcón**, **Defensa** | Stack 60k |
+| 2 | ____ | Troll Entrenado | 115k | 4 | 5 | 5+ | 5+ | 10+ | Golpe mortífero, Lanzar compañero, Proyectil de vómito, Realmente estúpido, Regeneración, Siempre hambriento, **Defensa** | Primaria élite 30k |
+| 3 | ____ | Pump Wagon | 100k | 5 | 5 | 5+ | 6+ | 9+ | Golpe mortífero, Imparable, Jugar sucio, Mantenerse firme, Realmente estúpido, **Abrirse paso** | Primaria 20k |
+| 4 | ____ | Pump Wagon | 100k | 5 | 5 | 5+ | 6+ | 9+ | Golpe mortífero, Imparable, Jugar sucio, Mantenerse firme, Realmente estúpido, **Crujir** | Primaria 20k |
+| 5 | ____ | Stilty Runna | 20k | 6 | 1 | 3+ | 4+ | 6+ | Echarse a un lado, Escurridizo, Esprintar, Esquivar, Humanoide bala, **Placaje heroico** | Primaria 20k |
+| 6 | ____ | Stilty Runna | 20k | 6 | 1 | 3+ | 4+ | 6+ | Echarse a un lado, Escurridizo, Esprintar, Esquivar, Humanoide bala, **Pies firmes** | Primaria 20k |
+| 7 | ____ | Fun-hoppa | 20k | 6 | 1 | 3+ | 4+ | 6+ | Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Pogo saltarín, **Placaje heroico** | Primaria 20k |
+| 8 | ____ | Fun-hoppa | 20k | 6 | 1 | 3+ | 4+ | 6+ | Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Pogo saltarín, **Placaje heroico** | Primaria 20k |
+| 9 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante, **Jugar sucio** | Primaria 20k |
+| 10 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante | – |
+| 11 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante | – |
+| 12 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante | – |
+| 13 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante | – |
+| 14 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante | – |
+| 15 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante | – |
+| 16 | ____ | Snotling Línea | 15k | 5 | 1 | 3+ | 4+ | 6+ | Canijo, Echarse a un lado, Escurridizo, Esquivar, Humanoide bala, Insignificante | – |
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
-|----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Troll Entrenado | 95k | 4 | 5 | 5+ | 5+ | 10+ | GM, Regeneración, … |
-| 2 | ____ | Troll Entrenado | 95k | 4 | 5 | 5+ | 5+ | 10+ | GM, Regeneración, … |
-| 3 | ____ | Pump Wagon | 80k | 5 | 5 | 5+ | 6+ | 9+ | Arma secreta, GM, … |
-| 4 | ____ | Riotous Rookie | 40k | 5 | 2 | 4+ | 6+ | 7+ | Lanzar compañero, … |
-| 5 | ____ | Riotous Rookie | 40k | 5 | 2 | 4+ | 6+ | 7+ | Lanzar compañero, … |
-| 6 | ____ | Fungus Flinga | 30k | 5 | 1 | 4+ | 6+ | 6+ | Lanzar compañero, … |
-| 7 | ____ | Fungus Flinga | 30k | 5 | 1 | 4+ | 6+ | 6+ | Lanzar compañero, … |
-| 8 | ____ | Stilty Runna | 25k | 7 | 1 | 4+ | 6+ | 6+ | Esprintar, … |
-| 9 | ____ | Stilty Runna | 25k | 7 | 1 | 4+ | 6+ | 6+ | Esprintar, … |
-| 10 | ____ | Snotling Línea | 15k | 5 | 1 | 4+ | 6+ | 6+ | Escurridizo, … |
-| 11 | ____ | Snotling Línea | 15k | 5 | 1 | 4+ | 6+ | 6+ | Escurridizo, … |
-| 12 | ____ | Snotling Línea | 15k | 5 | 1 | 4+ | 6+ | 6+ | Escurridizo, … |
-
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1120k gp
+**Total jugadores:** 16
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (total 505k) | 505.000 |
-| Rerolls (5 × 60.000) | 300.000 |
-| Apotecario | 50.000 |
-| Fans dedicados (26 × 10.000) | 260.000 |
-| Flowing Funds → presupuesto equipo (resto no múltiplo de 10k) | 5.000 |
-| **Total** | **1.120.000** |
+| Jugadores | 630.000 |
+| Rerolls (3 × 70.000) | 210.000 |
+| Apotecario | No |
+| Incentivo: Sobornos (3 × 50.000, Sobornos y corrupción) | 150.000 |
+| Incentivo: Novatos embravecidos (1 × 150.000) | 150.000 |
+| **Total** | **1.140.000** |
 
-## Skill Gold — avances (ejemplo editable)
+## Skill Gold — avances
 
-Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack en todo el equipo. Costes: ver tabla en [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
+Un bloque por jugador. Secundarias: **0/3** · Stacks: **1/3**. Costes: [`eurobowl-2026.md`](../../source/tiers/eurobowl-2026.md).
 
-| Jugador (Nº) | Tipo | Coste (Skill Gold) |
-|--------------|------|---------------------|
-| _pendiente_ | 1 primaria no élite | 20.000 |
+| Jugador (Nº) | Avance | Tipo | Coste |
+|--------------|--------|------|-------|
+| 1 Troll Entrenado | Ojo de halcón + Defensa | Stack | 60.000 |
+| 2 Troll Entrenado | Defensa | Primaria élite | 30.000 |
+| 3 Pump Wagon | Abrirse paso | Primaria | 20.000 |
+| 4 Pump Wagon | Crujir | Primaria | 20.000 |
+| 5 Stilty Runna | Placaje heroico | Primaria | 20.000 |
+| 6 Stilty Runna | Pies firmes | Primaria | 20.000 |
+| 7 Fun-hoppa | Placaje heroico | Primaria | 20.000 |
+| 8 Fun-hoppa | Placaje heroico | Primaria | 20.000 |
+| 9 Snotling Línea | Jugar sucio | Primaria | 20.000 |
+| **Total** | | | **230.000** |
 
-**Pool Skill Gold base:** 220.000 gp (+ Flowing si lo asignas).
+## Notas de la build
 
-## Estrellas (Tiers 1–4)
+- Troll con Ojo de halcón para lanzar Snotlings; 3 Sobornos y Novatos embravecidos para el plan de faltas y desgaste.
+- Variantes de AndyDavo: Glart Smashrip (Veteran) o Skitter Stab-Stab (Legend) como portador.
 
-Sin Veterans ni Legends. Con estrella (tier 5–6): no avances Secondary ni Stack en jugadores de plantilla.
+## Estrellas e incentivos
 
-## Inducements
-
-Solo los listados como permitidos en `eurobowl-2026.md`.
+Sin estrellas. Incentivos solo de la lista permitida en `eurobowl-2026.md`.

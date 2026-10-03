@@ -7,7 +7,7 @@ Referencia para rosters de **torneo**: **EuroBowl 2026** (Skill Gold + Flowing F
 | Archivo | Contenido |
 |---------|-----------|
 | **eurobowl-2026.md** | **EuroBowl 2026** (#euro26): 6 tiers, Team Budget + **Skill Gold** + Flowing Funds, avances Primary/Secondary/Stack. Rosters ejemplo: [rosters/eurobowl-2026/README.md](../../rosters/eurobowl-2026/README.md). |
-| **oro-presupuesto.md** | Presupuesto de construcción (gp) por tier y tabla Tier \| Equipos (GW / NAF genérico). No sustituye al reglamento del torneo. |
+| **oro-presupuesto.md** | Presupuesto de construcción (M.O.) por tier y tabla Tier \| Equipos (GW / NAF genérico). No sustituye al reglamento del torneo. |
 
 **Rosters en `rosters/`**
 

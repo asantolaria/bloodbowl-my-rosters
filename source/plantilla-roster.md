@@ -28,22 +28,22 @@ Regla: todo lo que tenga precio debe aparecer al lado del nombre (o en la misma 
 
 *En **negrita**, las habilidades ganadas por progresión. Orden: [indicar orden usado, ej. Big Guy → Throwers → Blitzers → Catchers → Linemen].*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1  | [— / nombre] | [Posición] | [Coste]k | [MA] | [ST] | [AG] | [PA / —] | [AR] | [Habilidades de roster], **[Habilidad progresión]** |
+| 1  | [— / nombre] | [Posición] | [Coste]k | [MV] | [FU] | [AG] | [PS / —] | [AR] | [Habilidades de roster], **[Habilidad progresión]** |
 | …  | …      | …         | …     | …  | …  | …  | …  | …  | … |
 | N  | …      | …         | …     | …  | …  | …  | …  | …  | … |
 
 **Total jugadores:** [N] | **TV:** [TV]k
 
-**Desglose TV (todo lo que tiene precio):** Incluir siempre una tabla con cada partida. Referencia de precios: Reroll 50.000 | Apotecario 50.000 | Fans dedicados 10.000 c/u | Habilidades: primaria elegida +20k, secundaria elegida +40k (`source/tablas/experiencia-y-spp.md`).
+**Desglose TV (todo lo que tiene precio):** Incluir siempre una tabla con cada partida. Referencia de precios: Reroll 50.000 | Apotecario 50.000 | Hinchas 10.000 c/u | Habilidades: primaria elegida +20k, secundaria elegida +40k (`source/tablas/experiencia-y-spp.md`).
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (desglose por posición o total) | [XXX].000 |
 | Rerolls ([N] × 50.000) | [XXX].000 |
 | Apotecario (si Sí) | 50.000 |
-| Fans dedicados ([N] × 10.000) | [XXX].000 |
+| Hinchas ([N] × 10.000) | [XXX].000 |
 | Habilidades progresión (listar o total) | [XXX].000 |
 | **Total TV** | **[TV].000** |
 
@@ -57,8 +57,8 @@ Regla: todo lo que tenga precio debe aparecer al lado del nombre (o en la misma 
 | **Tesorería actual** | [0 / positivo / negativo; ej. -60.000] |
 | **Rerolls** | [N] |
 | **Asistentes de entrenador** | [N] |
-| **Cheerleaders** | [N] |
-| **Fans dedicados** | [N] |
+| **Animadoras** | [N] |
+| **Hinchas** | [N] |
 | **Apotecario** | [Sí / No / No aplica + motivo si procede] |
 
 ## Descripción oficial de las habilidades
@@ -71,7 +71,7 @@ Regla: todo lo que tenga precio debe aparecer al lado del nombre (o en la misma 
 
 ## Inducements
 
-- Rerolls, Apothecary (si aplica), Fans dedicados — según reglamento del torneo.
+- Rerolls, Apothecary (si aplica), Hinchas — según reglamento del torneo.
 
 ## Estrategia
 

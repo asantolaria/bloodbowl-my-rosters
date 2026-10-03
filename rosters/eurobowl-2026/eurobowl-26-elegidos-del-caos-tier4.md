@@ -11,39 +11,39 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 4 |
-| **Team Budget (base)** | 1100.000 gp |
-| **Skill Gold (pool)** | 190.000 gp |
-| **Flowing Funds (máx.)** | 30.000 gp |
+| **Team Budget (base)** | 1100.000 M.O. |
+| **Skill Gold (pool)** | 190.000 M.O. |
+| **Flowing Funds (máx.)** | 30.000 M.O. |
 
-*Desglose de equipo = **1100k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Desglose de equipo = **1100k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
 
 ## Alineación (gasto de presupuesto de equipo)
 
 *Sin avances de Skill Gold. Rellenar nombres. **Dorsales:** Beastman **1–8** (siete en esta plantilla; **8** libre para una cabra más), Guerrero **9–12**, **Troll del Caos 20** / **Minotauro 21** según Big Guy elegido (aquí Minotauro **21**; **20** libre). Stats: [`source/teams/elegidos-del-caos.md`](../../source/teams/elegidos-del-caos.md).*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
-| 2 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
-| 3 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
-| 4 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
-| 5 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
-| 6 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
-| 7 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza Dura |
-| 9 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de Brazo |
-| 10 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de Brazo |
-| 11 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de Brazo |
-| 12 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de Brazo |
-| 21 | ____ | Minotauro | 150k | 5 | 5 | 4+ | 6+ | 9+ | Frenesí, Cuernos, Solitario (4+), Golpe Mortífero, Cabeza Dura, Ira Descontrolada |
+| 1 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
+| 2 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
+| 3 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
+| 4 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
+| 5 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
+| 6 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
+| 7 | ____ | Beastman | 55k | 6 | 3 | 3+ | 4+ | 9+ | Cuernos, Cabeza dura |
+| 9 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de brazo |
+| 10 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de brazo |
+| 11 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de brazo |
+| 12 | ____ | Guerrero Caos | 100k | 5 | 4 | 3+ | 5+ | 10+ | Llave de brazo |
+| 21 | ____ | Minotauro | 150k | 5 | 5 | 4+ | 6+ | 9+ | Frenesí, Cuernos, Solitario (4+), Golpe mortífero, Cabeza dura, Ira descontrolada |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k gp
+**Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k M.O.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (total 935k) | 935.000 |
 | Rerolls (3 × 50.000) | 150.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (1 × 10.000) | 10.000 |
+| Hinchas (1 × 10.000) | 10.000 |
 | Flowing Funds → presupuesto equipo (resto no múltiplo de 10k) | 5.000 |
 | **Total** | **1.100.000** |
 
@@ -55,7 +55,7 @@ Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack 
 |--------------|------|---------------------|
 | _pendiente_ | 1 primaria no élite | 20.000 |
 
-**Pool Skill Gold base:** 190.000 gp (+ Flowing si lo asignas).
+**Pool Skill Gold base:** 190.000 M.O. (+ Flowing si lo asignas).
 
 ## Estrellas (Tiers 1–4)
 

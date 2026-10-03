@@ -11,32 +11,32 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 4 |
-| **Team Budget (base)** | 1100.000 gp |
-| **Skill Gold (pool)** | 190.000 gp |
-| **Flowing Funds (máx.)** | 30.000 gp |
+| **Team Budget (base)** | 1100.000 M.O. |
+| **Skill Gold (pool)** | 190.000 M.O. |
+| **Flowing Funds (máx.)** | 30.000 M.O. |
 
-*Desglose de equipo = **1100k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Desglose de equipo = **1100k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
 
 ## Alineación (gasto de presupuesto de equipo)
 
 *Sin avances de Skill Gold. Rellenar nombres. Texto de habilidades resumido.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
 | 1 | ____ | Apisonadora Enana | 170k | 5 | 7 | 5+ | — | 11+ | Arma secreta, … |
 | 2 | ____ | MataTrols | 95k | 5 | 3 | 4+ | 5+ | 9+ | Agallas, Furia, … |
 | 3 | ____ | Enano Blitzer | 100k | 5 | 3 | 4+ | 4+ | 10+ | Placar, Placaje def., … |
 | 4 | ____ | Enano Blitzer | 100k | 5 | 3 | 4+ | 4+ | 10+ | Placar, Placaje def., … |
 | 5 | ____ | Enano Runner | 80k | 6 | 3 | 3+ | 4+ | 9+ | Esprintar, Manos seguras, … |
-| 6 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
-| 7 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
-| 8 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
-| 9 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
-| 10 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
-| 11 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
-| 12 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper Defensas, … |
+| 6 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
+| 7 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
+| 8 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
+| 9 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
+| 10 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
+| 11 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
+| 12 | ____ | Enano Línea | 70k | 4 | 3 | 4+ | 5+ | 10+ | Placar, Romper defensas, … |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k gp
+**Total jugadores:** 12 | **Presupuesto equipo usado:** 1100k M.O.
 
 | Concepto | Coste |
 |----------|--------|
@@ -54,7 +54,7 @@ Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack 
 |--------------|------|---------------------|
 | _pendiente_ | 1 primaria no élite | 20.000 |
 
-**Pool Skill Gold base:** 190.000 gp (+ Flowing si lo asignas).
+**Pool Skill Gold base:** 190.000 M.O. (+ Flowing si lo asignas).
 
 ## Estrellas (Tiers 1–4)
 

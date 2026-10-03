@@ -8,20 +8,20 @@
 
 *Mismas **8 mejoras** que 1.115k. **Dorsales:** Orcos **3–8**, Goblins **9–13**, Troll **20**.*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 20 | ____ | Troll Adiestrado | 115k | 4 | 5 | 5+ | 5+ | 10+ | Siempre Hambriento, Solitario (3+), Golpe Mortífero (+1), Proyectil Vómito, Realmente Estúpido, Regeneración, Lanzar Compañero, **Placar** |
-| 3 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar, **Golpe Mortífero** |
+| 20 | ____ | Troll Adiestrado | 115k | 4 | 5 | 5+ | 5+ | 10+ | Siempre hambriento, Solitario (3+), Golpe mortífero (+1), Proyectil de vómito, Realmente estúpido, Regeneración, Lanzar compañero, **Placar** |
+| 3 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar, **Golpe mortífero** |
 | 4 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar, **Defensa** |
 | 5 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar, **Defensa** |
 | 6 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar, **Placar** |
 | 7 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar, **Placar** |
-| 8 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar, **Placaje Defensivo** |
-| 9 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura, **Jugar Sucio** |
-| 10 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
-| 11 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
-| 12 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
-| 13 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide Bala, Escurridizo, Cabeza Dura |
+| 8 | ____ | Orco Negro | 90k | 4 | 4 | 4+ | 5+ | 10+ | Luchador, Apartar, **Placaje defensivo** |
+| 9 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide bala, Escurridizo, Cabeza dura, **Jugar sucio** |
+| 10 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide bala, Escurridizo, Cabeza dura |
+| 11 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide bala, Escurridizo, Cabeza dura |
+| 12 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide bala, Escurridizo, Cabeza dura |
+| 13 | ____ | Goblin Bruiser | 45k | 6 | 2 | 3+ | 4+ | 8+ | Esquivar, Humanoide bala, Escurridizo, Cabeza dura |
 
 **Total jugadores:** 12 | **TV:** 1.160k
 
@@ -40,7 +40,7 @@
 | **Valoración del equipo (TV)** | 1.160k |
 | **Total plantilla** | 12 jugadores |
 | **Rerolls** | 2 |
-| **Fans dedicados** | 0 |
+| **Hinchas** | 0 |
 | **Apotecario** | No en esta suma |
 
 ## Notas

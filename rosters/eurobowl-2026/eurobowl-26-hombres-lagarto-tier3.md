@@ -11,23 +11,23 @@
 | Concepto | Valor |
 |----------|--------|
 | **Tier** | 3 |
-| **Team Budget (base)** | 1080.000 gp |
-| **Skill Gold (pool)** | 160.000 gp |
-| **Flowing Funds (máx.)** | 30.000 gp |
+| **Team Budget (base)** | 1080.000 M.O. |
+| **Skill Gold (pool)** | 160.000 M.O. |
+| **Flowing Funds (máx.)** | 30.000 M.O. |
 
-*Desglose de equipo = **1080k** gp (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
+*Desglose de equipo = **1080k** M.O. (debe coincidir con Team Budget base + la parte de Flowing que asignes al equipo). Resto de Flowing puede ir a Skill Gold.*
 
 ## Alineación (gasto de presupuesto de equipo)
 
 *Sin avances de Skill Gold. Rellenar nombres. **Dorsales:** Saurios **1–6**, Camaleones **7–8**, Kroxigor **9**, Eslizones **10+**. Esta plantilla: 4 Saurios, sin Camaleón, 1 Kroxigor, 7 Eslizones (dorsales **5–8** libres / sin miniatura). Stats según [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md).*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
 | 1 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
 | 2 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
 | 3 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
 | 4 | ____ | Saurio | 90k | 6 | 4 | 5+ | 6+ | 10+ | Imparable, Tembloroso |
-| 9 | ____ | Kroxigor | 140k | 6 | 5 | 5+ | 6+ | 10+ | Cabeza Dura, Estúpido, Cola Prensil, Golpe Mortífero (+1), Solitario (4+) |
+| 9 | ____ | Kroxigor | 140k | 6 | 5 | 5+ | 6+ | 10+ | Cabeza dura, Estúpido, Cola prensil, Golpe mortífero (+1), Solitario (4+) |
 | 10 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
 | 11 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
 | 12 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
@@ -36,14 +36,14 @@
 | 15 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
 | 16 | ____ | Eslizón Línea | 60k | 8 | 2 | 3+ | 4+ | 8+ | Esquivar, Escurridizo |
 
-**Total jugadores:** 12 | **Presupuesto equipo usado:** 1080k gp
+**Total jugadores:** 12 | **Presupuesto equipo usado:** 1080k M.O.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (total 920k) | 920.000 |
 | Rerolls (2 × 70.000) | 140.000 |
 | Apotecario | No (lista del equipo) |
-| Fans dedicados (2 × 10.000) | 20.000 |
+| Hinchas (2 × 10.000) | 20.000 |
 | **Total** | **1.080.000** |
 
 ## Skill Gold — avances (ejemplo editable)
@@ -54,7 +54,7 @@ Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack 
 |--------------|------|---------------------|
 | _pendiente_ | 1 primaria no élite | 20.000 |
 
-**Pool Skill Gold base:** 160.000 gp (+ Flowing si lo asignas).
+**Pool Skill Gold base:** 160.000 M.O. (+ Flowing si lo asignas).
 
 ## Estrellas (Tiers 1–4)
 

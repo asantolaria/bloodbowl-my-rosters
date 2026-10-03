@@ -8,29 +8,29 @@
 
 *Sin avances de habilidades en la TV. **Dorsales:** Thrower **1** y **2**, Blitzers **3** y **4**, Bodyguards **5–8**, Retainer **9**, Ogro **20** (**10–12** libres).*
 
-| Nº | Nombre | Posición | Coste | MA | ST | AG | PA | AR | Habilidades |
+| Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|----------|-------|----|----|----|----|----|-------------|
-| 1 | ____ | Imperial Thrower | 75k | 6 | 3 | 3+ | 2+ | 9+ | Pasar, Pasar y Seguir, Profesional |
-| 2 | ____ | Imperial Thrower | 75k | 6 | 3 | 3+ | 2+ | 9+ | Pasar, Pasar y Seguir, Profesional |
+| 1 | ____ | Imperial Thrower | 75k | 6 | 3 | 3+ | 2+ | 9+ | Pasar, Pasar y seguir, Profesional |
+| 2 | ____ | Imperial Thrower | 75k | 6 | 3 | 3+ | 2+ | 9+ | Pasar, Pasar y seguir, Profesional |
 | 3 | ____ | Noble Blitzer | 90k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Atrapar, Profesional |
 | 4 | ____ | Noble Blitzer | 90k | 7 | 3 | 3+ | 4+ | 9+ | Placar, Atrapar, Profesional |
-| 5 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
-| 6 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
-| 7 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
-| 8 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse Firme, Forcejear |
+| 5 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, Forcejear |
+| 6 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, Forcejear |
+| 7 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, Forcejear |
+| 8 | ____ | Bodyguard | 85k | 5 | 3 | 3+ | 4+ | 9+ | Mantenerse firme, Forcejear |
 | 9 | ____ | Retainer Línea | 45k | 6 | 3 | 3+ | 4+ | 8+ | Zafarse |
-| 20 | ____ | Ogro | 140k | 5 | 5 | 4+ | 5+ | 10+ | Estúpido, Solitario (3+), Golpe Mortífero (+1), Cabeza Dura, Lanzar Compañero |
+| 20 | ____ | Ogro | 140k | 5 | 5 | 4+ | 5+ | 10+ | Estúpido, Solitario (3+), Golpe mortífero (+1), Cabeza dura, Lanzar compañero |
 
 **Total jugadores:** 11 | **TV:** 1.155k
 
-**Desglose TV (todo lo que tiene precio):** Reroll 50.000 | Apotecario 50.000 | Fans dedicados 10.000 c/u.
+**Desglose TV (todo lo que tiene precio):** Reroll 50.000 | Apotecario 50.000 | Hinchas 10.000 c/u.
 
 | Concepto | Coste |
 |----------|--------|
 | Jugadores (1 Ogro 140k, 2 Noble Blitzers 180k, 4 Bodyguards 340k, 2 Throwers 150k, 1 Retainer 45k) | 855.000 |
 | Rerolls (3 × 50.000) | 150.000 |
 | Apotecario | 50.000 |
-| Fans dedicados (10 × 10.000) | 100.000 |
+| Hinchas (10 × 10.000) | 100.000 |
 | **Total TV** | **1.155.000** |
 
 ## Información del equipo
@@ -43,13 +43,13 @@
 | **Tesorería actual** | 0 |
 | **Rerolls** | 3 |
 | **Asistentes de entrenador** | 0 |
-| **Cheerleaders** | 0 |
-| **Fans dedicados** | 10 |
+| **Animadoras** | 0 |
+| **Hinchas** | 10 |
 | **Apotecario** | Sí |
 
 ## Notas
 
-- **Dos Throwers:** **Pasar**, **Pasar y Seguir** y **Profesional** en dos piezas **PA 2+**; menos **Retainers** para pantalla/faltas — compensa con **10 fans**.
+- **Dos Throwers:** **Pasar**, **Pasar y seguir** y **Profesional** en dos piezas **PS 2+**; menos **Retainers** para pantalla/faltas — compensa con **10 fans**.
 - Resto igual que la ficha [1.150k](torneo-s3-nobleza-imperial-1150k.md): Bodyguards, Blitzers, Ogro, Season 3.
 
 ## Apotecario vs mascota
@@ -59,7 +59,7 @@ Ajusta según reglamento del torneo si aplica mascota u otro asistente.
 ## Paquete de habilidades (torneo — referencia)
 
 - **Bodyguards:** **Defensa**.
-- **Noble Blitzers:** **Placaje Defensivo** o **Esquivar**.
+- **Noble Blitzers:** **Placaje defensivo** o **Esquivar**.
 - **Throwers:** **Líder**, **Precisión** según paquete.
 
 ## Estrellas (presupuesto amplio)
@@ -76,13 +76,13 @@ Ajusta según reglamento del torneo si aplica mascota u otro asistente.
 
 ## Estrategia
 
-- **Pase:** dos piezas **PA 2+** con **Profesional** rotan el balón y presionan menos al único **Retainer** de apoyo.
+- **Pase:** dos piezas **PS 2+** con **Profesional** rotan el balón y presionan menos al único **Retainer** de apoyo.
 - **Control:** cuatro Bodyguards + Ogro como en la variante de 1.150k.
 
 ## Progresión recomendada (liga)
 
 - **Bodyguard:** primarias Defensa, Placar; secundarias (GF / A).
-- **Noble Blitzer:** primarias Placaje Defensivo, Esquivar; secundarias (AG / PF).
+- **Noble Blitzer:** primarias Placaje defensivo, Esquivar; secundarias (AG / PF).
 - **Imperial Thrower:** primarias Líder, Precisión; secundarias (GP / AF).
 - **Retainer Línea:** primarias Placar, Luchador; secundarias (G / AF).
-- **Ogro:** primarias Defensa, Abrirse Paso; secundarias (F / AG).
+- **Ogro:** primarias Defensa, Abrirse paso; secundarias (F / AG).
