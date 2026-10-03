@@ -165,3 +165,6 @@ nav:
 
 extra_css:
   - assets/extra.css
+
+extra_javascript:
+  - assets/roster-tables.js

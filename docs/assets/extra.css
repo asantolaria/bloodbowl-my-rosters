@@ -10,3 +10,54 @@
   .md-typeset .grid.cards>ul{grid-template-columns:1fr}
   .md-typeset .grid.cards .md-button{display:inline-block;width:100%;text-align:center;margin:.25rem 0 0}
 }
+
+/* ===== Tablas de alineación (rosters) ===== */
+/* Páginas de roster: sin columna de menú vacía y contenido a todo el ancho */
+.pagina-roster .md-grid{max-width:100rem}
+@media screen and (min-width:76.25em){.pagina-roster .md-sidebar--primary{display:none}}
+.md-typeset table.tabla-roster{display:table;width:100%;font-size:.74rem}
+.md-typeset table.tabla-roster th,.md-typeset table.tabla-roster td{min-width:0;padding:.4em .5em;vertical-align:top}
+.md-typeset table.tabla-roster .c-num,.md-typeset table.tabla-roster .c-stat{text-align:center;white-space:nowrap;width:2.6em}
+.md-typeset table.tabla-roster .c-coste{white-space:nowrap}
+.md-typeset table.tabla-roster .c-pos{font-weight:700;min-width:7em}
+.md-typeset table.tabla-roster .c-hab{min-width:16em}
+.md-typeset table.tabla-roster .c-sg{white-space:nowrap;font-size:.92em}
+
+/* Móvil y tablet: cada jugador es una tarjeta */
+@media screen and (max-width:60em){
+  .md-typeset .md-typeset__scrollwrap:has(table.tabla-roster){overflow:visible}
+  .md-typeset table.tabla-roster,.md-typeset table.tabla-roster tbody{display:block;border:0;font-size:.8rem}
+  .md-typeset table.tabla-roster thead{display:none}
+  .md-typeset table.tabla-roster tr{display:flex;flex-wrap:wrap;align-items:baseline;gap:.15rem .55rem;margin:0 0 .6rem;padding:.55rem .7rem;border:1px solid var(--md-default-fg-color--lightest);border-left:4px solid #c83f32;border-radius:.3rem;background:var(--md-default-bg-color)}
+  .md-typeset table.tabla-roster td{display:inline;border:0;padding:0;width:auto;min-width:0;text-align:left}
+  .md-typeset table.tabla-roster td.c-num{color:var(--md-default-fg-color--light);font-weight:700}
+  .md-typeset table.tabla-roster td.c-num::before{content:"#"}
+  .md-typeset table.tabla-roster td.c-nombre.vacio{display:none}
+  .md-typeset table.tabla-roster td.c-pos{font-size:1.05em}
+  .md-typeset table.tabla-roster td.c-coste{color:var(--md-default-fg-color--light)}
+  .md-typeset table.tabla-roster td.c-stat::before{content:attr(data-label) " ";font-size:.8em;color:var(--md-default-fg-color--light)}
+  .md-typeset table.tabla-roster td.c-stat{font-weight:600}
+  .md-typeset table.tabla-roster td.c-hab,.md-typeset table.tabla-roster td.c-sg,.md-typeset table.tabla-roster td.c-otro{flex-basis:100%}
+  .md-typeset table.tabla-roster td.c-sg::before,.md-typeset table.tabla-roster td.c-otro::before{content:attr(data-label) ": ";color:var(--md-default-fg-color--light)}
+  .md-typeset table.tabla-roster td.c-pos::after{content:""}
+}
+.md-typeset table.tabla-roster{border:.05rem solid var(--md-typeset-table-color);border-radius:.1rem}
+.md-typeset table.tabla-roster th{background:#1b1d20;color:#fff;font-weight:700}
+.md-typeset table.tabla-roster td{border-top:.05rem solid var(--md-typeset-table-color)}
+.md-typeset table.tabla-roster tbody tr:hover{background:var(--md-accent-fg-color--transparent)}
+.md-typeset table.tabla-roster.sin-nombres .c-nombre{display:none}
+@media screen and (max-width:60em){
+  .md-typeset table.tabla-roster{border:0}
+  .md-typeset table.tabla-roster td{border-top:0}
+  .md-typeset table.tabla-roster td.c-pos{flex:1 1 calc(100% - 7.5em)}
+}
+@media screen and (max-width:60em){
+  .md-typeset table.tabla-roster td.c-hab{order:5}
+  .md-typeset table.tabla-roster td.c-sg{order:6}
+  .md-typeset table.tabla-roster td.c-otro{order:10;flex-basis:auto;font-size:.9em}
+}
+.md-typeset table.tabla-roster td.c-salto{display:none}
+@media screen and (max-width:60em){
+  .md-typeset table.tabla-roster td.c-salto{display:block;flex-basis:100%;height:0;padding:0;margin:0}
+  .md-typeset table.tabla-roster td.c-pos{flex:1 1 auto}
+}
