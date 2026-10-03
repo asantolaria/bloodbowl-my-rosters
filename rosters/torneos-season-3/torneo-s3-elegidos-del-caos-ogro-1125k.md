@@ -34,6 +34,22 @@
 | Apotecario | 50.000 |
 | **Total TV** | **1.125.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Cabeza dura](../../source/habilidades/fuerza.md)** (*Thick Skull* · Fuerza · Pasiva): Tirada de **Heridas**: **Inconsciente** solo con **9**; **8** = **Aturdido**. Con **Escurridizo**: Inconsciente con **8**, **7** = Aturdido.
+- **[Cuernos](../../source/habilidades/mutaciones.md)** (*Horns* · Mutaciones · Activa): En **Penetración**: **+1** a su **FU** en **todos** los Placajes de esa acción.
+- **[Estúpido](../../source/habilidades/rasgos.md)** (*Bone Head* · Rasgo · Pasiva (obligatoria)): Tras declarar acción: **1D6** **2+** OK; **1** = **Distraído**.
+- **[Golpe mortífero](../../source/habilidades/fuerza.md)** (*Mighty Blow* · Fuerza · Activa (Elite)): Si **derriba** a un rival en **Placaje** (aunque él también quede derribado), **+1** a **Armadura** **o** a **Heridas** (eliges **después** de tirar ese dado).
+- **[Lanzar compañero](../../source/habilidades/rasgos.md)** (*Throw Team-Mate* · Rasgo · Activa): Puede declarar **Lanzar compañero**.
+- **[Llave de brazo](../../source/habilidades/fuerza.md)** (*Arm Bar* · Fuerza · Activa): Si un rival **cae** por fallar **esquivar/saltar/brincar** desde su zona de defensa: **+1** a **Armadura** o **Heridas** (tras tirar); si hay **Lesión**, este jugador gana **SPP**. **Solo uno** por intento de salida.
+- **[Solitario](../../source/habilidades/rasgos.md)** (*Loner* · Rasgo · Pasiva (obligatoria)): Para usar **Segunda oportunidad**: **1D6** vs número entre paréntesis; si falla **no** repite pero **gasta** el reroll.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |
@@ -63,10 +79,6 @@
 
 - [Lord Borak the Despoiler](../../source/jugadores-estrella/lord-borak-the-despoiler.md)
 - [Withergrasp Doubledrool](../../source/jugadores-estrella/withergrasp-doubledrool.md) — si **Elegidos de Nurgle**.
-
-## Descripción oficial de las habilidades
-
-*[`source/teams/elegidos-del-caos.md`](../../source/teams/elegidos-del-caos.md) · [`source/habilidades/mutaciones.md`](../../source/habilidades/mutaciones.md).*
 
 ## Inducements
 

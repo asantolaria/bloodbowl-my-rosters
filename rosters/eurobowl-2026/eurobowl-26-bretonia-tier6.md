@@ -47,6 +47,26 @@
 | Animadoras (2 × 10.000) | 20.000 |
 | **Total** | **1.140.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Agallas](../../source/habilidades/general.md)** (*Dauntless* · General · Activa): En **Placaje** contra rival con **FU mayor** (**antes** de mods.): **1D6 + FU** propia; si el total **>** FU **sin modificar** del rival, su FU **iguala** al rival **solo** para ese Placaje; luego mods. normales. Con **Furia**, una tirada **por** Placaje.
+- **[Atrapar](../../source/habilidades/agilidad.md)** (*Catch* · Agilidad · Activa): Puede **repetir** cualquier chequeo de AG fallido al **intentar atrapar** el balón.
+- **[Defensa](../../source/habilidades/fuerza.md)** (*Guard* · Fuerza · Activa (Elite)): Siempre puede **apoyar** (ofensivo y defensivo) en Placajes aunque lo marquen **varios** rivales.
+- **[Equilibrio firme](../../source/habilidades/general.md)** (*Steady Footing* · General · Activa): Al ir a ser **derribado** o **caerse** por cualquier motivo: **1D6**; con **6** **no** cae (sin Armadura ni **cambio de turno**); si es en **su activación**, la continúa. **No** se activa si queda **tumbado** sin ser «derribado»/«caerse» (p. ej. **Forcejear**, **Motosierra**) (FAQ).
+- **[Esquivar](../../source/habilidades/agilidad.md)** (*Dodge* · Agilidad · Activa (Elite)): **Una vez por turno** puede repetir un **único** chequeo de AG al **intentar esquivar**. Afecta al resultado **Desequilibrado** cuando un rival le hace un Placaje.
+- **[Forcejear](../../source/habilidades/general.md)** (*Wrestle* · General · Activa): En **Placaje** (activo o como blanco), si aplicaría **Ambos derribados**, puede usarla: **ambos** quedan **tumbados boca arriba**, sin importar otras habilidades.
+- **[Nervios de acero](../../source/habilidades/pase.md)** (*Nerves of Steel* · Pase · Activa): **Ignora** mods. por **marcado** en chequeos de **AG** (atrapar) y de **Pase**.
+- **[Pasar](../../source/habilidades/pase.md)** (*Pass* · Pase · Activa): Puede **repetir** cualquier chequeo de **Pase** fallido en acción de **Pase**.
+- **[Placar](../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+
+<!-- habilidades-roster:fin -->
+
+
+
+
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **2/3**.

@@ -45,6 +45,27 @@
 | Incentivo: Mascota del equipo (1 × 25.000) | 25.000 |
 | **Total** | **1.150.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Cabeza dura](../../source/habilidades/fuerza.md)** (*Thick Skull* · Fuerza · Pasiva): Tirada de **Heridas**: **Inconsciente** solo con **9**; **8** = **Aturdido**. Con **Escurridizo**: Inconsciente con **8**, **7** = Aturdido.
+- **[Cuernos](../../source/habilidades/mutaciones.md)** (*Horns* · Mutaciones · Activa): En **Penetración**: **+1** a su **FU** en **todos** los Placajes de esa acción.
+- **[Defensa](../../source/habilidades/fuerza.md)** (*Guard* · Fuerza · Activa (Elite)): Siempre puede **apoyar** (ofensivo y defensivo) en Placajes aunque lo marquen **varios** rivales.
+- **[Estúpido](../../source/habilidades/rasgos.md)** (*Bone Head* · Rasgo · Pasiva (obligatoria)): Tras declarar acción: **1D6** **2+** OK; **1** = **Distraído**.
+- **[Forcejear](../../source/habilidades/general.md)** (*Wrestle* · General · Activa): En **Placaje** (activo o como blanco), si aplicaría **Ambos derribados**, puede usarla: **ambos** quedan **tumbados boca arriba**, sin importar otras habilidades.
+- **[Golpe mortífero](../../source/habilidades/fuerza.md)** (*Mighty Blow* · Fuerza · Activa (Elite)): Si **derriba** a un rival en **Placaje** (aunque él también quede derribado), **+1** a **Armadura** **o** a **Heridas** (eliges **después** de tirar ese dado).
+- **[Lanzar compañero](../../source/habilidades/rasgos.md)** (*Throw Team-Mate* · Rasgo · Activa): Puede declarar **Lanzar compañero**.
+- **[Llave de brazo](../../source/habilidades/fuerza.md)** (*Arm Bar* · Fuerza · Activa): Si un rival **cae** por fallar **esquivar/saltar/brincar** desde su zona de defensa: **+1** a **Armadura** o **Heridas** (tras tirar); si hay **Lesión**, este jugador gana **SPP**. **Solo uno** por intento de salida.
+- **[Placar](../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+- **[Solitario](../../source/habilidades/rasgos.md)** (*Loner* · Rasgo · Pasiva (obligatoria)): Para usar **Segunda oportunidad**: **1D6** vs número entre paréntesis; si falla **no** repite pero **gasta** el reroll.
+
+<!-- habilidades-roster:fin -->
+
+
+
+
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.

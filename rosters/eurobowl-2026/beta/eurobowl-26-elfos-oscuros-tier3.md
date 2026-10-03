@@ -49,6 +49,26 @@
 | **Team Budget base (tier 3)** | 1.080.000 |
 | **Presupuesto equipo sin usar (captura)** | 5.000 |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Apuñalar](../../../source/habilidades/rasgos.md)** (*Stab* · Rasgo · Activa): Acción **Apuñalar** (sin límite por turno): rival **en pie** adyacente, **Armadura** sin mods.; si rompe → **Heridas**. Puede **sustituir** Placaje en **Penetración** (activación termina igualmente).
+- **[En pie de un salto](../../../source/habilidades/agilidad.md)** (*Jump Up* · Agilidad · Activa): **Tumbado boca arriba:** puede levantarse sin gastar **tres** casillas de movimiento. Puede declarar **Placaje** estando así: chequeo de **AG con +1**; si falla, sigue tumbado y termina la activación.
+- **[Esquivar](../../../source/habilidades/agilidad.md)** (*Dodge* · Agilidad · Activa (Elite)): **Una vez por turno** puede repetir un **único** chequeo de AG al **intentar esquivar**. Afecta al resultado **Desequilibrado** cuando un rival le hace un Placaje.
+- **[Forcejear](../../../source/habilidades/general.md)** (*Wrestle* · General · Activa): En **Placaje** (activo o como blanco), si aplicaría **Ambos derribados**, puede usarla: **ambos** quedan **tumbados boca arriba**, sin importar otras habilidades.
+- **[Furia](../../../source/habilidades/general.md)** (*Frenzy* · General · Activa (obligatoria)): Tras **empujar** en Placaje debe **impulso** si puede; si el blanco sigue **en pie**, **segundo Placaje** al mismo (e impulso otra vez). En **Penetración**, el segundo cuesta **movimiento**; si no puede forzar marcha, **no** hay segundo placaje. **No** **Apartar**, **Golpe a la carrera** ni **Placaje múltiple**.
+- **[Golpe a la carrera](../../../source/habilidades/agilidad.md)** (*Hit and Run* · Agilidad · Activa): Tras **Placaje** o acción especial **Apuñalar**, si sigue **en pie**: mueve **1 casilla** gratis ignorando zonas de defensa; al acabar **no** puede estar marcado ni marcando. **No** puede tener **Furia**.
+- **[Líder](../../../source/habilidades/pase.md)** (*Leader* · Pase · Pasiva): Con **≥1** con Líder **en campo** al inicio de cualquier mitad: gana **Segunda oportunidad de Líder** (como reroll normal salvo que **Chef Maestro Halfling** no la quite). Si **todos** los Líder salen **antes** de usarla, se **pierde**.
+- **[Pase precipitado](../../../source/habilidades/pase.md)** (*Dump-Off* · Pase · Activa): Antes de resolver **Placaje** o acción especial que lo **tome como blanco**: **Pase rápido** (no puede provocar cambio de turno; luego sigue la acción contra él).
+- **[Patada de despeje](../../../source/habilidades/pase.md)** (*Punt* · Pase · Activa): Acción especial **Patada de despeje** (**1** por turno): puede **Movimiento** antes; si tras mover es **portador**, plantilla de devolución, **1D6** dirección + **1D6** distancia (**Patada** puede repetir una o ambas, decidiendo dirección antes de distancia). Ocupa → atrapar o rebote. **No** cambio si balón al suelo; **sí** si rival lo tiene o va al público.
+- **[Perseguir](../../../source/habilidades/triquinuelas.md)** (*Shadowing* · Triquiñuelas · Activa): Rival **esquiva** saliendo de su ZD: **1D6** **4+** → ocupa la casilla vacada (**máx.** **MV** veces por turno). **Solo uno** por intento de salida.
+- **[Placar](../../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |

@@ -33,6 +33,26 @@
 | Rerolls (3 × 70.000) | 210.000 |
 | **Total TV** | **1.200.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Atento al balón](../../source/habilidades/pase.md)** (*On the Ball* · Pase · Activa): Tras **objetivo** de **Pase** rival y **antes** del chequeo de Pase: mueve **hasta 3** (sin forzar marcha); si **cae**, termina el movimiento y sigue el pase. Varios con la habilidad **uno tras otro**. Tras **desvío** en inicio, **un** desmarcado receptor puede mover **hasta 3** antes del evento de patada (**no** con recepción libre; **no** cruzar mitad rival).
+- **[Cabeza dura](../../source/habilidades/fuerza.md)** (*Thick Skull* · Fuerza · Pasiva): Tirada de **Heridas**: **Inconsciente** solo con **9**; **8** = **Aturdido**. Con **Escurridizo**: Inconsciente con **8**, **7** = Aturdido.
+- **[Cola prensil](../../source/habilidades/mutaciones.md)** (*Prehensile Tail* · Mutaciones · Activa): **-1** adicional al AG de rivales que **esquivan, saltan o brincan** desde su zona de defensa. **Solo uno** por intento de salida.
+- **[Escurridizo](../../source/habilidades/rasgos.md)** (*Stunty* · Rasgo · Pasiva (obligatoria)): Al **esquivar**, **sin** mods. negativos por marcadores rivales. **-1** al **interceptar**. Heridas en **tabla Escurridizos**.
+- **[Esquivar](../../source/habilidades/agilidad.md)** (*Dodge* · Agilidad · Activa (Elite)): **Una vez por turno** puede repetir un **único** chequeo de AG al **intentar esquivar**. Afecta al resultado **Desequilibrado** cuando un rival le hace un Placaje.
+- **[Estúpido](../../source/habilidades/rasgos.md)** (*Bone Head* · Rasgo · Pasiva (obligatoria)): Tras declarar acción: **1D6** **2+** OK; **1** = **Distraído**.
+- **[Golpe mortífero](../../source/habilidades/fuerza.md)** (*Mighty Blow* · Fuerza · Activa (Elite)): Si **derriba** a un rival en **Placaje** (aunque él también quede derribado), **+1** a **Armadura** **o** a **Heridas** (eliges **después** de tirar ese dado).
+- **[Imparable](../../source/habilidades/fuerza.md)** (*Juggernaut* · Fuerza · Activa): En **Penetración**: cada **Ambos derribados** en sus Placajes cuenta como **Empujón**. Rivales **no** pueden **Forcejear**, **Mantenerse firme** ni **Zafarse** frente a sus Placajes en esa Penetración.
+- **[Perseguir](../../source/habilidades/triquinuelas.md)** (*Shadowing* · Triquiñuelas · Activa): Rival **esquiva** saliendo de su ZD: **1D6** **4+** → ocupa la casilla vacada (**máx.** **MV** veces por turno). **Solo uno** por intento de salida.
+- **[Solitario](../../source/habilidades/rasgos.md)** (*Loner* · Rasgo · Pasiva (obligatoria)): Para usar **Segunda oportunidad**: **1D6** vs número entre paréntesis; si falla **no** repite pero **gasta** el reroll.
+- **[Tembloroso](../../source/habilidades/rasgos.md)** (*Unsteady* · Rasgo · Pasiva (obligatoria)): **No** puede **Asegurar el balón**.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |
@@ -57,22 +77,6 @@
 
 - **Saurio:** coste revisado a **90k** con **Imparable** en ficha; mejor cadena de empujones en penetración.
 - **Tembloroso:** el balón sigue en manos de Eslizones; los Saurios son músculo y control de campo.
-
-## Descripción oficial de las habilidades
-
-*Igual que en [torneo-s3-hombres-lagarto-1150k.md](torneo-s3-hombres-lagarto-1150k.md); detalle en [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md).*
-
-* **Atento al balón (On the Ball) — incl.:** Cuando rival declara pase: puede moverse hasta 3 casillas antes del chequeo. En patada inicial (tras desvío, antes del evento): un desmarcado con esta habilidad puede moverse hasta 3 casillas.
-* **Cabeza dura (Thick Skull) — incl.:** En tirada de Heridas: Inconsciente solo con 9; 8 = Aturdido. Con Escurridizo: Inconsciente con 8, 7 = Aturdido.
-* **Cola prensil (Prehensile Tail) — incl.:** Rival que esquivando/saltando/brincando desde su zona de defensa: -1 adicional al chequeo. Solo uno por casilla.
-* **Escurridizo (Stunty) — incl.:** No sufre -1 por estar marcado al esquivar; -1 AG al interceptar; tirada de Heridas en tabla Escurridizos.
-* **Esquivar (Dodge) — incl.:** Repetir un chequeo de esquivar por turno; afecta a Desequilibrado en placajes recibidos.
-* **Estúpido (Bone Head) — incl.:** Al activarse: 1D6; 1 = Distraído.
-* **Golpe mortífero (Mighty Blow) — incl.:** Al derribar en Placaje puede aplicar +1 a tirada de Armadura o de Heridas (decidir después de tirar).
-* **Imparable (Juggernaut) — incl.:** En Penetración: «Ambos derribados» → Empujón; rival no puede usar Forcejear, Mantenerse firme ni Zafarse.
-* **Perseguir (Shadowing) — incl.:** Cuando rival esquivando sale de su zona: 1D6; 4+=este jugador se coloca en la casilla que deja (máx. MV veces por turno). Solo uno por casilla.
-* **Solitario (Loner) — incl.:** Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite.
-* **Tembloroso (Unsteady) — incl.:** No puede declarar Asegurar el balón.
 
 ## Inducements
 

@@ -44,6 +44,28 @@
 | Ayudantes del entrenador (1 × 10.000) | 10.000 |
 | **Total** | **1.080.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[El balón es mío](../../source/habilidades/rasgos.md)** (*My Ball* · Rasgo · Pasiva (obligatoria)): Portador: **no** puede soltar voluntariamente (ni Pase, Entregar, ni habilidades que cedan balón). Solo suelta por derribo/caída/tumba o efecto **rival**.
+- **[Equilibrio firme](../../source/habilidades/general.md)** (*Steady Footing* · General · Activa): Al ir a ser **derribado** o **caerse** por cualquier motivo: **1D6**; con **6** **no** cae (sin Armadura ni **cambio de turno**); si es en **su activación**, la continúa. **No** se activa si queda **tumbado** sin ser «derribado»/«caerse» (p. ej. **Forcejear**, **Motosierra**) (FAQ).
+- **[Esquivar](../../source/habilidades/agilidad.md)** (*Dodge* · Agilidad · Activa (Elite)): **Una vez por turno** puede repetir un **único** chequeo de AG al **intentar esquivar**. Afecta al resultado **Desequilibrado** cuando un rival le hace un Placaje.
+- **[Forcejear](../../source/habilidades/general.md)** (*Wrestle* · General · Activa): En **Placaje** (activo o como blanco), si aplicaría **Ambos derribados**, puede usarla: **ambos** quedan **tumbados boca arriba**, sin importar otras habilidades.
+- **[Garras](../../source/habilidades/mutaciones.md)** (*Claws* · Mutaciones · Pasiva): Tirada de **Armadura** vs rival **derribado** en **Placaje** (aunque él también caiga): **8+ natural** en el dado de armadura **rompe** armadura sea cual sea **AR** del rival.
+- **[Líder](../../source/habilidades/pase.md)** (*Leader* · Pase · Pasiva): Con **≥1** con Líder **en campo** al inicio de cualquier mitad: gana **Segunda oportunidad de Líder** (como reroll normal salvo que **Chef Maestro Halfling** no la quite). Si **todos** los Líder salen **antes** de usarla, se **pierde**.
+- **[Partenubes](../../source/habilidades/pase.md)** (*Cloud Burster* · Pase · Activa): En su **Pase**, rivales **no** pueden **interceptar**.
+- **[Pasar](../../source/habilidades/pase.md)** (*Pass* · Pase · Activa): Puede **repetir** cualquier chequeo de **Pase** fallido en acción de **Pase**.
+- **[Pase seguro](../../source/habilidades/pase.md)** (*Safe Pass* · Pase · Activa): **1 natural** en chequeo de Pase: **no** balón perdido; **mantiene** balón y **termina activación** (sin cambio de turno).
+- **[Placaje defensivo](../../source/habilidades/general.md)** (*Tackle* · General · Activa): Rival que **esquive** para salir de su zona de defensa **no** puede usar **Esquivar**. Si **él** hace un Placaje y sale **Desequilibrado**, el rival se trata **como sin Esquivar**.
+- **[Placar](../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+
+<!-- habilidades-roster:fin -->
+
+
+
+
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **1/3**.

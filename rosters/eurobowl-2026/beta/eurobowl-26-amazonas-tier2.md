@@ -51,6 +51,26 @@
 | **Total gastado** | **1.070.000** |
 | **Team Budget base (tier 2)** | 1.070.000 |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Atento al balón](../../../source/habilidades/pase.md)** (*On the Ball* · Pase · Activa): Tras **objetivo** de **Pase** rival y **antes** del chequeo de Pase: mueve **hasta 3** (sin forzar marcha); si **cae**, termina el movimiento y sigue el pase. Varios con la habilidad **uno tras otro**. Tras **desvío** en inicio, **un** desmarcado receptor puede mover **hasta 3** antes del evento de patada (**no** con recepción libre; **no** cruzar mitad rival).
+- **[Defensa](../../../source/habilidades/fuerza.md)** (*Guard* · Fuerza · Activa (Elite)): Siempre puede **apoyar** (ofensivo y defensivo) en Placajes aunque lo marquen **varios** rivales.
+- **[En pie de un salto](../../../source/habilidades/agilidad.md)** (*Jump Up* · Agilidad · Activa): **Tumbado boca arriba:** puede levantarse sin gastar **tres** casillas de movimiento. Puede declarar **Placaje** estando así: chequeo de **AG con +1**; si falla, sigue tumbado y termina la activación.
+- **[Esquivar](../../../source/habilidades/agilidad.md)** (*Dodge* · Agilidad · Activa (Elite)): **Una vez por turno** puede repetir un **único** chequeo de AG al **intentar esquivar**. Afecta al resultado **Desequilibrado** cuando un rival le hace un Placaje.
+- **[Forcejear](../../../source/habilidades/general.md)** (*Wrestle* · General · Activa): En **Placaje** (activo o como blanco), si aplicaría **Ambos derribados**, puede usarla: **ambos** quedan **tumbados boca arriba**, sin importar otras habilidades.
+- **[Golpe a la carrera](../../../source/habilidades/agilidad.md)** (*Hit and Run* · Agilidad · Activa): Tras **Placaje** o acción especial **Apuñalar**, si sigue **en pie**: mueve **1 casilla** gratis ignorando zonas de defensa; al acabar **no** puede estar marcado ni marcando. **No** puede tener **Furia**.
+- **[Líder](../../../source/habilidades/pase.md)** (*Leader* · Pase · Pasiva): Con **≥1** con Líder **en campo** al inicio de cualquier mitad: gana **Segunda oportunidad de Líder** (como reroll normal salvo que **Chef Maestro Halfling** no la quite). Si **todos** los Líder salen **antes** de usarla, se **pierde**.
+- **[Pasar](../../../source/habilidades/pase.md)** (*Pass* · Pase · Activa): Puede **repetir** cualquier chequeo de **Pase** fallido en acción de **Pase**.
+- **[Pase seguro](../../../source/habilidades/pase.md)** (*Safe Pass* · Pase · Activa): **1 natural** en chequeo de Pase: **no** balón perdido; **mantiene** balón y **termina activación** (sin cambio de turno).
+- **[Placar](../../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+- **[Romper defensas](../../../source/habilidades/agilidad.md)** (*Defensive* · Agilidad · Activa): En **turnos rivales**, rivales que esté **marcando** no pueden usar **Defensa** ni **Meter la bota**.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |

@@ -33,6 +33,23 @@
 | Hinchas (2 × 10.000) | 20.000 |
 | **Total TV** | **1.000.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Atrapar](../../source/habilidades/agilidad.md)** (*Catch* · Agilidad · Activa): Puede **repetir** cualquier chequeo de AG fallido al **intentar atrapar** el balón.
+- **[Dejada](../../source/habilidades/triquinuelas.md)** (*Fumblerooski* · Triquiñuelas · Activa): Portador en **Movimiento** puede **dejar** el balón en una casilla que **abandone** (sin cambio de turno).
+- **[Echarse a un lado](../../source/habilidades/agilidad.md)** (*Side Step* · Agilidad · Activa): Si es **empujado** por cualquier motivo, su entrenador elige una casilla **adyacente desocupada** (no el rival). Si **no hay** ninguna, la habilidad **no** se usa.
+- **[Nervios de acero](../../source/habilidades/pase.md)** (*Nerves of Steel* · Pase · Activa): **Ignora** mods. por **marcado** en chequeos de **AG** (atrapar) y de **Pase**.
+- **[Pasar](../../source/habilidades/pase.md)** (*Pass* · Pase · Activa): Puede **repetir** cualquier chequeo de **Pase** fallido en acción de **Pase**.
+- **[Pase a lo loco](../../source/habilidades/pase.md)** (*Hail Mary Pass* · Pase · Activa): En **Pase** o **Lanzar bomba** puede elegir **cualquier** casilla como objetivo (sin regla de alcance); chequeo como **bomba larga**; preciso → **impreciso**. **No** interceptable.
+- **[Placar](../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+- **[Recepción heroica](../../source/habilidades/agilidad.md)** (*Diving Catch* · Agilidad · Activa): Puede intentar atrapar si el balón **cae** en su zona de defensa por **pase**, **patada inicial** o **devolución** (**no** si solo **rebota** ahí). **+1** al AG al atrapar como parte de un **Pase** si está en la **casilla objetivo**.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |
@@ -60,16 +77,6 @@
 - **Blitzers / Catchers:** **Esquivar** (*Dodge*) para completar *blodge* en blitzers y proteger catchers.
 - **Lanzador:** **Líder** (*Leader*) o **Placar** según paquete.
 - **Línea:** **Patada** (*Kick*) en un elfo de línea si el torneo lo incluye en el presupuesto de skills.
-
-## Descripción oficial de las habilidades (roster + ejemplo)
-
-*Roster: ver [`source/teams/union-elfica.md`](../../source/teams/union-elfica.md). Ejemplo de torneo:*
-
-* **Esquivar (Dodge) — prog.:** Repetir un chequeo de esquivar por turno; afecta a Desequilibrado en placajes recibidos.
-* **Líder (Leader) — prog.:** Al inicio de cada parte, si hay un Líder en el campo, el equipo gana una Segunda oportunidad adicional «de Líder» (se pierde si no queda ningún Líder en el campo).
-* **Patada (Kick) — prog.:** Si es pateador, al desviar el balón su entrenador puede elegir 1D3 casillas en lugar de 1D6.
-
-*(**Atrapar**, **Dejada**, **Echarse a un lado**, **Nervios de acero**, **Pasar**, **Pase a lo loco**, **Placar**, **Recepción heroica** — incl. en coste de jugador.)*
 
 ## Inducements
 

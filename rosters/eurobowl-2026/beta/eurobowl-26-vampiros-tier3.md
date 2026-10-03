@@ -54,6 +54,26 @@
 
 *Para cuadrar en **1080k** sin tocar plantilla de 920k: bajar a **2 rerolls** (ahorra **60k**) y usar **20k** de Flowing al presupuesto de equipo, o sustituir un siervo por opción más barata si el pack lo permite. Ajusta según PDF #euro26.*
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Esquivar](../../../source/habilidades/agilidad.md)** (*Dodge* · Agilidad · Activa (Elite)): **Una vez por turno** puede repetir un **único** chequeo de AG al **intentar esquivar**. Afecta al resultado **Desequilibrado** cuando un rival le hace un Placaje.
+- **[Forcejear](../../../source/habilidades/general.md)** (*Wrestle* · General · Activa): En **Placaje** (activo o como blanco), si aplicaría **Ambos derribados**, puede usarla: **ambos** quedan **tumbados boca arriba**, sin importar otras habilidades.
+- **[Furia](../../../source/habilidades/general.md)** (*Frenzy* · General · Activa (obligatoria)): Tras **empujar** en Placaje debe **impulso** si puede; si el blanco sigue **en pie**, **segundo Placaje** al mismo (e impulso otra vez). En **Penetración**, el segundo cuesta **movimiento**; si no puede forzar marcha, **no** hay segundo placaje. **No** **Apartar**, **Golpe a la carrera** ni **Placaje múltiple**.
+- **[Imparable](../../../source/habilidades/fuerza.md)** (*Juggernaut* · Fuerza · Activa): En **Penetración**: cada **Ambos derribados** en sus Placajes cuenta como **Empujón**. Rivales **no** pueden **Forcejear**, **Mantenerse firme** ni **Zafarse** frente a sus Placajes en esa Penetración.
+- **[Líder](../../../source/habilidades/pase.md)** (*Leader* · Pase · Pasiva): Con **≥1** con Líder **en campo** al inicio de cualquier mitad: gana **Segunda oportunidad de Líder** (como reroll normal salvo que **Chef Maestro Halfling** no la quite). Si **todos** los Líder salen **antes** de usarla, se **pierde**.
+- **[Mirada hipnótica](../../../source/habilidades/rasgos.md)** (*Hypnotic Gaze* · Rasgo · Activa): **Mirada** (varios/turno): puede **Movimiento** antes, luego rival **en pie** adyacente **1D6** **1–2** nada (fin); **3+** rival **Distraído** (fin).
+- **[Pasar](../../../source/habilidades/pase.md)** (*Pass* · Pase · Activa): Puede **repetir** cualquier chequeo de **Pase** fallido en acción de **Pase**.
+- **[Placar](../../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+- **[Regeneración](../../../source/habilidades/rasgos.md)** (*Regeneration* · Rasgo · Pasiva): Al sufrir **Lesión**, antes de tabla de lesiones: **1D6** **1–3** normal; **4+** **regenera** (ignora lesión; SPP al causante igual); va a **reservas**.
+- **[Robar balón](../../../source/habilidades/general.md)** (*Strip Ball* · General · Activa): Placaje al **portador** y **empuje**: el balón **cae y rebota** desde la casilla de destino **antes** de que el rival quede tumbado, pero **después** de que **este jugador** elija si hace **impulso**.
+- **[Sed de sangre](../../../source/habilidades/rasgos.md)** (*Bloodlust* · Rasgo · Pasiva (obligatoria)): Tras declarar: **1D6** (**+1** si Placaje/Penetración). Si **≥** número entre paréntesis → normal. Si **menor** o **1 natural**: activa normal pero puede cambiar a **Movimiento**; acciones «1/turno» (p. ej. Penetración) siguen contando. Al **final** de activación puede **morder** a un **Thrall de línea** (Thrall Lineman) **compañero** adyacente (cualquier estado); Heridas (Lesión = **Magullado**; cambio de turno solo si el Thrall llevaba el balón); si **no** muerde → **cambio de turno**, **Distraído**, suelta balón y, si estaba en la zona de anotación rival, **no** anota. Para **Pase**, **Entregar** o **TD** tras fallar la tirada debe morder **antes**.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |

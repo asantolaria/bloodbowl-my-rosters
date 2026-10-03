@@ -32,6 +32,20 @@
 | Hinchas (2 × 10.000) | 20.000 |
 | **Total TV** | **1.000.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[El balón es mío](../../source/habilidades/rasgos.md)** (*My Ball* · Rasgo · Pasiva (obligatoria)): Portador: **no** puede soltar voluntariamente (ni Pase, Entregar, ni habilidades que cedan balón). Solo suelta por derribo/caída/tumba o efecto **rival**.
+- **[Equilibrio firme](../../source/habilidades/general.md)** (*Steady Footing* · General · Activa): Al ir a ser **derribado** o **caerse** por cualquier motivo: **1D6**; con **6** **no** cae (sin Armadura ni **cambio de turno**); si es en **su activación**, la continúa. **No** se activa si queda **tumbado** sin ser «derribado»/«caerse» (p. ej. **Forcejear**, **Motosierra**) (FAQ).
+- **[Forcejear](../../source/habilidades/general.md)** (*Wrestle* · General · Activa): En **Placaje** (activo o como blanco), si aplicaría **Ambos derribados**, puede usarla: **ambos** quedan **tumbados boca arriba**, sin importar otras habilidades.
+- **[Garras](../../source/habilidades/mutaciones.md)** (*Claws* · Mutaciones · Pasiva): Tirada de **Armadura** vs rival **derribado** en **Placaje** (aunque él también caiga): **8+ natural** en el dado de armadura **rompe** armadura sea cual sea **AR** del rival.
+- **[Placar](../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |
@@ -46,13 +60,6 @@
 | **Hinchas** | 7 |
 | **Apotecario** | No (incluible como inducement) |
 
-
-## Descripción oficial de las habilidades
-
-* **Equilibrio firme (Steady Footing) — incl.:** Al ir a ser derribado/caer: 1D6; con 6 no cae y no hay cambio de turno si es en su activación.
-* **Forcejear (Wrestle) — incl.:** En placaje con «Ambos derribados» puede elegir que ambos queden tumbados boca arriba.
-* **Garras (Claws) — incl.:** En tirada de Armadura contra rival derribado por su placaje, un 8+ natural rompe armadura sea cual sea el AR.
-* **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
 
 ## Inducements
 

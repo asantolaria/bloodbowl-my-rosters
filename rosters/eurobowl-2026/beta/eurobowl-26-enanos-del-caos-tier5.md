@@ -43,6 +43,30 @@
 | Apotecario | 50.000 |
 | **Total** | **1.120.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Cabeza dura](../../../source/habilidades/fuerza.md)** (*Thick Skull* · Fuerza · Pasiva): Tirada de **Heridas**: **Inconsciente** solo con **9**; **8** = **Aturdido**. Con **Escurridizo**: Inconsciente con **8**, **7** = Aturdido.
+- **[Cuernos](../../../source/habilidades/mutaciones.md)** (*Horns* · Mutaciones · Activa): En **Penetración**: **+1** a su **FU** en **todos** los Placajes de esa acción.
+- **[Equilibrio firme](../../../source/habilidades/general.md)** (*Steady Footing* · General · Activa): Al ir a ser **derribado** o **caerse** por cualquier motivo: **1D6**; con **6** **no** cae (sin Armadura ni **cambio de turno**); si es en **su activación**, la continúa. **No** se activa si queda **tumbado** sin ser «derribado»/«caerse» (p. ej. **Forcejear**, **Motosierra**) (FAQ).
+- **[Esprintar](../../../source/habilidades/agilidad.md)** (*Sprint* · Agilidad · Activa): En una acción de **Movimiento** puede intentar **forzar la marcha una vez más** de lo que podría normalmente.
+- **[Exhalar fuego](../../../source/habilidades/rasgos.md)** (*Breathe Fire* · Rasgo · Activa): **Exhalar fuego** (varios/turno): rival marcado **en pie**, **1D6** **-1** si blanco **FU ≥ 5**. **1** = este derribado; **2–3** nada; **4+** rival **tumbado boca arriba**; **6** rival **derribado**. Termina activación. Puede sustituir Placaje en **Penetración** (activación termina).
+- **[Furia](../../../source/habilidades/general.md)** (*Frenzy* · General · Activa (obligatoria)): Tras **empujar** en Placaje debe **impulso** si puede; si el blanco sigue **en pie**, **segundo Placaje** al mismo (e impulso otra vez). En **Penetración**, el segundo cuesta **movimiento**; si no puede forzar marcha, **no** hay segundo placaje. **No** **Apartar**, **Golpe a la carrera** ni **Placaje múltiple**.
+- **[Golpe mortífero](../../../source/habilidades/fuerza.md)** (*Mighty Blow* · Fuerza · Activa (Elite)): Si **derriba** a un rival en **Placaje** (aunque él también quede derribado), **+1** a **Armadura** **o** a **Heridas** (eliges **después** de tirar ese dado).
+- **[Ira descontrolada](../../../source/habilidades/rasgos.md)** (*Unchannelled Fury* · Rasgo · Pasiva (obligatoria)): Tras declarar: **1D6** (**+2** si Placaje/Penetración). **4+** OK; **1–3** rugido, **termina** activación.
+- **[Luchador](../../../source/habilidades/fuerza.md)** (*Brawler* · Fuerza · Activa): Al **declarar Placaje** puede **repetir un único** resultado de **Ambos derribados**. **No** en **Penetración**; **una vez por activación** aunque haga varios Placajes (p. ej. con **Furia**) (FAQ).
+- **[Piel férrea](../../../source/habilidades/mutaciones.md)** (*Iron Hard Skin* · Mutaciones · Pasiva): Rivales **no** pueden aplicar **mods.** a la Armadura contra él. **Garras** **no** se usa contra él.
+- **[Pies firmes](../../../source/habilidades/agilidad.md)** (*Sure Feet* · Agilidad · Activa): **Una vez por turno** puede **repetir** el **1D6** al intentar **forzar la marcha**.
+- **[Placar](../../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+- **[Presencia perturbadora](../../../source/habilidades/mutaciones.md)** (*Disturbing Presence* · Mutaciones · Pasiva (obligatoria)): Cada compañero **tuyo** con esta habilidad a **≤3** casillas del rival: **-1** al chequeo de **Pase** o **AG** cuando el rival **pasa**, **Lanzar compañero**, **Lanzar bomba**, **intercepta** o **atrapa**.
+- **[Solitario](../../../source/habilidades/rasgos.md)** (*Loner* · Rasgo · Pasiva (obligatoria)): Para usar **Segunda oportunidad**: **1D6** vs número entre paréntesis; si falla **no** repite pero **gasta** el reroll.
+- **[Tembloroso](../../../source/habilidades/rasgos.md)** (*Unsteady* · Rasgo · Pasiva (obligatoria)): **No** puede **Asegurar el balón**.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Skill Gold — avances (ejemplo editable)
 
 Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack en todo el equipo. Costes: ver tabla en [`eurobowl-2026.md`](../../../source/tiers/eurobowl-2026.md).

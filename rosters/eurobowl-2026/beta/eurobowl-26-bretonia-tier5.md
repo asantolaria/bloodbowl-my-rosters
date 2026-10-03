@@ -47,6 +47,22 @@
 | Hinchas (1 × 10.000) | 10.000 |
 | **Total** | **1.120.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Agallas](../../../source/habilidades/general.md)** (*Dauntless* · General · Activa): En **Placaje** contra rival con **FU mayor** (**antes** de mods.): **1D6 + FU** propia; si el total **>** FU **sin modificar** del rival, su FU **iguala** al rival **solo** para ese Placaje; luego mods. normales. Con **Furia**, una tirada **por** Placaje.
+- **[Atrapar](../../../source/habilidades/agilidad.md)** (*Catch* · Agilidad · Activa): Puede **repetir** cualquier chequeo de AG fallido al **intentar atrapar** el balón.
+- **[Equilibrio firme](../../../source/habilidades/general.md)** (*Steady Footing* · General · Activa): Al ir a ser **derribado** o **caerse** por cualquier motivo: **1D6**; con **6** **no** cae (sin Armadura ni **cambio de turno**); si es en **su activación**, la continúa. **No** se activa si queda **tumbado** sin ser «derribado»/«caerse» (p. ej. **Forcejear**, **Motosierra**) (FAQ).
+- **[Forcejear](../../../source/habilidades/general.md)** (*Wrestle* · General · Activa): En **Placaje** (activo o como blanco), si aplicaría **Ambos derribados**, puede usarla: **ambos** quedan **tumbados boca arriba**, sin importar otras habilidades.
+- **[Nervios de acero](../../../source/habilidades/pase.md)** (*Nerves of Steel* · Pase · Activa): **Ignora** mods. por **marcado** en chequeos de **AG** (atrapar) y de **Pase**.
+- **[Pasar](../../../source/habilidades/pase.md)** (*Pass* · Pase · Activa): Puede **repetir** cualquier chequeo de **Pase** fallido en acción de **Pase**.
+- **[Placar](../../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Skill Gold — avances (ejemplo editable)
 
 Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack en todo el equipo. Costes: ver tabla en [`eurobowl-2026.md`](../../../source/tiers/eurobowl-2026.md).

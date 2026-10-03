@@ -42,6 +42,35 @@
 | Apotecario | No |
 | **Total** | **1.100.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Apariencia asquerosa](../../source/habilidades/mutaciones.md)** (*Foul Appearance* · Mutaciones · Pasiva (obligatoria)): Ante **Placaje** o acción especial que lo **tome como blanco**: **1D6** antes de cualquier otro dado; **2+** continúa, **1** la acción **cancela** y termina la activación del rival.
+- **[Cabeza dura](../../source/habilidades/fuerza.md)** (*Thick Skull* · Fuerza · Pasiva): Tirada de **Heridas**: **Inconsciente** solo con **9**; **8** = **Aturdido**. Con **Escurridizo**: Inconsciente con **8**, **7** = Aturdido.
+- **[Cuernos](../../source/habilidades/mutaciones.md)** (*Horns* · Mutaciones · Activa): En **Penetración**: **+1** a su **FU** en **todos** los Placajes de esa acción.
+- **[Defensa](../../source/habilidades/fuerza.md)** (*Guard* · Fuerza · Activa (Elite)): Siempre puede **apoyar** (ofensivo y defensivo) en Placajes aunque lo marquen **varios** rivales.
+- **[Descomposición](../../source/habilidades/rasgos.md)** (*Decay* · Rasgo · Pasiva (obligatoria)): **+1** a **todas** las tiradas de **Lesiones** contra él.
+- **[Equilibrio firme](../../source/habilidades/general.md)** (*Steady Footing* · General · Activa): Al ir a ser **derribado** o **caerse** por cualquier motivo: **1D6**; con **6** **no** cae (sin Armadura ni **cambio de turno**); si es en **su activación**, la continúa. **No** se activa si queda **tumbado** sin ser «derribado»/«caerse» (p. ej. **Forcejear**, **Motosierra**) (FAQ).
+- **[Forcejear](../../source/habilidades/general.md)** (*Wrestle* · General · Activa): En **Placaje** (activo o como blanco), si aplicaría **Ambos derribados**, puede usarla: **ambos** quedan **tumbados boca arriba**, sin importar otras habilidades.
+- **[Golpe mortífero](../../source/habilidades/fuerza.md)** (*Mighty Blow* · Fuerza · Activa (Elite)): Si **derriba** a un rival en **Placaje** (aunque él también quede derribado), **+1** a **Armadura** **o** a **Heridas** (eliges **después** de tirar ese dado).
+- **[Infectado](../../source/habilidades/rasgos.md)** (*Plague Ridden* · Rasgo · Pasiva): **1**/partido: Lesión rival por **Placaje** con resultado **Muerto** no salvado por apo → añade **Línea** de reservas al instante (>16 jugadores permitido ese partido). Postpartido puede ficharse como sustituto. **No** vs Grandullones ni rasgos Descomposición, Escurridizo, Regeneración.
+- **[Levantar compañero](../../source/habilidades/rasgos.md)** (*Pick-Me-Up* · Rasgo · Activa): Fin de **cada** turno rival: por cada compañero **tumbado boca arriba** a **≤3** de un **en pie** con este rasgo, **1D6** **5+** = se levanta. Si se levanta por esto, **ese** jugador **no** usa el rasgo ese turno.
+- **[Mantenerse firme](../../source/habilidades/fuerza.md)** (*Stand Firm* · Fuerza · Activa): Ante **empuje** por Placaje (incl. cadena) puede **no moverse**. **No** bloquea el **segundo Placaje** de **Furia** si sigue en pie.
+- **[Placar](../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+- **[Presencia perturbadora](../../source/habilidades/mutaciones.md)** (*Disturbing Presence* · Mutaciones · Pasiva (obligatoria)): Cada compañero **tuyo** con esta habilidad a **≤3** casillas del rival: **-1** al chequeo de **Pase** o **AG** cuando el rival **pasa**, **Lanzar compañero**, **Lanzar bomba**, **intercepta** o **atrapa**.
+- **[Realmente estúpido](../../source/habilidades/rasgos.md)** (*Really Stupid* · Rasgo · Pasiva (obligatoria)): Tras declarar: **1D6** (**+2** si adyacente a compañero **en pie**, no Distraído, sin este rasgo). **4+** OK; **1–3** Distraído.
+- **[Regeneración](../../source/habilidades/rasgos.md)** (*Regeneration* · Rasgo · Pasiva): Al sufrir **Lesión**, antes de tabla de lesiones: **1D6** **1–3** normal; **4+** **regenera** (ignora lesión; SPP al causante igual); va a **reservas**.
+- **[Solitario](../../source/habilidades/rasgos.md)** (*Loner* · Rasgo · Pasiva (obligatoria)): Para usar **Segunda oportunidad**: **1D6** vs número entre paréntesis; si falla **no** repite pero **gasta** el reroll.
+- **[Tembloroso](../../source/habilidades/rasgos.md)** (*Unsteady* · Rasgo · Pasiva (obligatoria)): **No** puede **Asegurar el balón**.
+- **[Tentáculos](../../source/habilidades/mutaciones.md)** (*Tentacles* · Mutaciones · Activa): Rival que **esquiva, brinca o salta** desde su zona de defensa: **1D6 + FU tuya − FU rival**; **≥6** o **6 natural** = no sale y **termina activación**; **≤5** o **1 natural** = sin efecto. **Solo uno** por intento de salida.
+
+<!-- habilidades-roster:fin -->
+
+
+
+
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.

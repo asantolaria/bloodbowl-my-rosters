@@ -226,6 +226,9 @@ def main():
         if "--write" in sys.argv and not r["errs"]:
             p = os.path.join(HERE, f"eurobowl-26-{t['slug']}-tier{r['tier']}.md")
             open(p, "w", encoding="utf-8", newline="\n").write(emit(t, r))
+            sys.path.insert(0, os.path.join(REPO, "scripts"))
+            import habilidades_en_rosters  # sección «Habilidades del roster»
+            habilidades_en_rosters.process(p)
     sys.exit(1 if bad else 0)
 
 

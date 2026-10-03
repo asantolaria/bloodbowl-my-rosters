@@ -45,6 +45,22 @@
 | Apotecario | No (lista del equipo) |
 | **Total** | **1.100.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Cabeza dura](../../../source/habilidades/fuerza.md)** (*Thick Skull* · Fuerza · Pasiva): Tirada de **Heridas**: **Inconsciente** solo con **9**; **8** = **Aturdido**. Con **Escurridizo**: Inconsciente con **8**, **7** = Aturdido.
+- **[Descomposición](../../../source/habilidades/rasgos.md)** (*Decay* · Rasgo · Pasiva (obligatoria)): **+1** a **todas** las tiradas de **Lesiones** contra él.
+- **[Luchador](../../../source/habilidades/fuerza.md)** (*Brawler* · Fuerza · Activa): Al **declarar Placaje** puede **repetir un único** resultado de **Ambos derribados**. **No** en **Penetración**; **una vez por activación** aunque haga varios Placajes (p. ej. con **Furia**) (FAQ).
+- **[Manos seguras](../../../source/habilidades/general.md)** (*Sure Hands* · General · Activa): Puede **repetir** el **D6** al **recoger** el balón (**no** en **Asegurar el balón**). **Robar balón** **no** puede usarse contra él.
+- **[Pasar](../../../source/habilidades/pase.md)** (*Pass* · Pase · Activa): Puede **repetir** cualquier chequeo de **Pase** fallido en acción de **Pase**.
+- **[Placar](../../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+- **[Regeneración](../../../source/habilidades/rasgos.md)** (*Regeneration* · Rasgo · Pasiva): Al sufrir **Lesión**, antes de tabla de lesiones: **1D6** **1–3** normal; **4+** **regenera** (ignora lesión; SPP al causante igual); va a **reservas**.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Skill Gold — avances (ejemplo editable)
 
 Cada jugador: **un solo bloque** de avance. Máx. **3** Secondary y **3** Stack en todo el equipo. Costes: ver tabla en [`eurobowl-2026.md`](../../../source/tiers/eurobowl-2026.md).

@@ -57,6 +57,40 @@
 
 *Inducement **Halfling Master Chef** a **100.000 M.O.** según tabla común de inducements BB2025 (p. ej. resumen en [Nuffle Zone — Halflings](https://nufflezone.com/equipos-blood-bowl/halflings/)).*
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Abrirse paso](../../../source/habilidades/fuerza.md)** (*Break Tackle* · Fuerza · Activa): **Una vez por turno**, al **intentar esquivar**: **+1** al AG si **FU ≤ 3**, **+2** si **FU = 4**, **+3** si **FU ≥ 5**.
+- **[Agallas](../../../source/habilidades/general.md)** (*Dauntless* · General · Activa): En **Placaje** contra rival con **FU mayor** (**antes** de mods.): **1D6 + FU** propia; si el total **>** FU **sin modificar** del rival, su FU **iguala** al rival **solo** para ese Placaje; luego mods. normales. Con **Furia**, una tirada **por** Placaje.
+- **[Atrapar](../../../source/habilidades/agilidad.md)** (*Catch* · Agilidad · Activa): Puede **repetir** cualquier chequeo de AG fallido al **intentar atrapar** el balón.
+- **[Brazo fuerte](../../../source/habilidades/fuerza.md)** (*Strong Arm* · Fuerza · Activa): En **Lanzar compañero**: **+1** al chequeo de **Pase**. Requiere el rasgo **Lanzar compañero**.
+- **[Cabeza dura](../../../source/habilidades/fuerza.md)** (*Thick Skull* · Fuerza · Pasiva): Tirada de **Heridas**: **Inconsciente** solo con **9**; **8** = **Aturdido**. Con **Escurridizo**: Inconsciente con **8**, **7** = Aturdido.
+- **[Cuernos](../../../source/habilidades/mutaciones.md)** (*Horns* · Mutaciones · Activa): En **Penetración**: **+1** a su **FU** en **todos** los Placajes de esa acción.
+- **[Defensa](../../../source/habilidades/fuerza.md)** (*Guard* · Fuerza · Activa (Elite)): Siempre puede **apoyar** (ofensivo y defensivo) en Placajes aunque lo marquen **varios** rivales.
+- **[Echar raíces](../../../source/habilidades/rasgos.md)** (*Take Root* · Rasgo · Pasiva (obligatoria)): Tras declarar acción, si está **en pie**: **1D6** **2+** normal; **1** = **raíces**: sin Movimiento, sin impulso, **no** empujable, no sale de casilla salvo KO/Lesión. Termina al **fin de entrada** o si **derribado/tumbado boca arriba**.
+- **[Escurridizo](../../../source/habilidades/rasgos.md)** (*Stunty* · Rasgo · Pasiva (obligatoria)): Al **esquivar**, **sin** mods. negativos por marcadores rivales. **-1** al **interceptar**. Heridas en **tabla Escurridizos**.
+- **[Esprintar](../../../source/habilidades/agilidad.md)** (*Sprint* · Agilidad · Activa): En una acción de **Movimiento** puede intentar **forzar la marcha una vez más** de lo que podría normalmente.
+- **[Esquivar](../../../source/habilidades/agilidad.md)** (*Dodge* · Agilidad · Activa (Elite)): **Una vez por turno** puede repetir un **único** chequeo de AG al **intentar esquivar**. Afecta al resultado **Desequilibrado** cuando un rival le hace un Placaje.
+- **[Golpe mortífero](../../../source/habilidades/fuerza.md)** (*Mighty Blow* · Fuerza · Activa (Elite)): Si **derriba** a un rival en **Placaje** (aunque él también quede derribado), **+1** a **Armadura** **o** a **Heridas** (eliges **después** de tirar ese dado).
+- **[Humanoide bala](../../../source/habilidades/rasgos.md)** (*Right Stuff* · Rasgo · Pasiva (obligatoria)): Puede ser **lanzado** aunque esté **tumbado boca arriba**.
+- **[Imparable](../../../source/habilidades/fuerza.md)** (*Juggernaut* · Fuerza · Activa): En **Penetración**: cada **Ambos derribados** en sus Placajes cuenta como **Empujón**. Rivales **no** pueden **Forcejear**, **Mantenerse firme** ni **Zafarse** frente a sus Placajes en esa Penetración.
+- **[Lanzar compañero](../../../source/habilidades/rasgos.md)** (*Throw Team-Mate* · Rasgo · Activa): Puede declarar **Lanzar compañero**.
+- **[Líder](../../../source/habilidades/pase.md)** (*Leader* · Pase · Pasiva): Con **≥1** con Líder **en campo** al inicio de cualquier mitad: gana **Segunda oportunidad de Líder** (como reroll normal salvo que **Chef Maestro Halfling** no la quite). Si **todos** los Líder salen **antes** de usarla, se **pierde**.
+- **[Mantenerse firme](../../../source/habilidades/fuerza.md)** (*Stand Firm* · Fuerza · Activa): Ante **empuje** por Placaje (incl. cadena) puede **no moverse**. **No** bloquea el **segundo Placaje** de **Furia** si sigue en pie.
+- **[Ojo de halcón](../../../source/habilidades/fuerza.md)** (*Bullseye* · Fuerza · Activa): En **Lanzar compañero**, si el resultado es **lanzamiento soberbio**, el compañero **no escora** y aterriza en la **casilla objetivo**. Requiere **Lanzar compañero**.
+- **[Pies firmes](../../../source/habilidades/agilidad.md)** (*Sure Feet* · Agilidad · Activa): **Una vez por turno** puede **repetir** el **1D6** al intentar **forzar la marcha**.
+- **[Placaje defensivo](../../../source/habilidades/general.md)** (*Tackle* · General · Activa): Rival que **esquive** para salir de su zona de defensa **no** puede usar **Esquivar**. Si **él** hace un Placaje y sale **Desequilibrado**, el rival se trata **como sin Esquivar**.
+- **[Placaje heroico](../../../source/habilidades/agilidad.md)** (*Diving Tackle* · Agilidad · Activa): Rival que **esquivando, saltando o brincando** sale de su zona de defensa: **después** de su chequeo de AG (con mods. y repeticiones), este jugador aplica **-2** al rival y se coloca **tumbado boca arriba** en la casilla que deja. **Solo uno** por intento de salida si varios tienen la habilidad.
+- **[Placar](../../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+- **[Solitario](../../../source/habilidades/rasgos.md)** (*Loner* · Rasgo · Pasiva (obligatoria)): Para usar **Segunda oportunidad**: **1D6** vs número entre paréntesis; si falla **no** repite pero **gasta** el reroll.
+- **[Zafarse](../../../source/habilidades/general.md)** (*Fend* · General · Activa): Si es **empujado** por Placaje **contra él**, el rival **no** puede **impulso**. **No** contra **Bola con cadena** ni **Imparable** en **Penetración**.
+- **[¡Tronco va!](../../../source/habilidades/rasgos.md)** (*Timmm-ber!* · Rasgo · Pasiva): Si **MV ≤ 2**, **+1** por cada compañero **desmarcado y en pie** adyacente al **intentar levantarse**; **1 natural** sigue fallando.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |

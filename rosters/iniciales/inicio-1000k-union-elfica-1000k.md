@@ -32,6 +32,21 @@
 | Rerolls (3 × 50.000) | 150.000 |
 | **Total TV** | **1.000.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Atrapar](../../source/habilidades/agilidad.md)** (*Catch* · Agilidad · Activa): Puede **repetir** cualquier chequeo de AG fallido al **intentar atrapar** el balón.
+- **[Dejada](../../source/habilidades/triquinuelas.md)** (*Fumblerooski* · Triquiñuelas · Activa): Portador en **Movimiento** puede **dejar** el balón en una casilla que **abandone** (sin cambio de turno).
+- **[Echarse a un lado](../../source/habilidades/agilidad.md)** (*Side Step* · Agilidad · Activa): Si es **empujado** por cualquier motivo, su entrenador elige una casilla **adyacente desocupada** (no el rival). Si **no hay** ninguna, la habilidad **no** se usa.
+- **[Nervios de acero](../../source/habilidades/pase.md)** (*Nerves of Steel* · Pase · Activa): **Ignora** mods. por **marcado** en chequeos de **AG** (atrapar) y de **Pase**.
+- **[Placar](../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+- **[Recepción heroica](../../source/habilidades/agilidad.md)** (*Diving Catch* · Agilidad · Activa): Puede intentar atrapar si el balón **cae** en su zona de defensa por **pase**, **patada inicial** o **devolución** (**no** si solo **rebota** ahí). **+1** al AG al atrapar como parte de un **Pase** si está en la **casilla objetivo**.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |
@@ -46,15 +61,6 @@
 | **Hinchas** | 0 |
 | **Apotecario** | No (incluible como inducement) |
 
-
-## Descripción oficial de las habilidades
-
-* **Atrapar (Catch) — incl.:** Puede repetir chequeo de AG fallido al atrapar el balón.
-* **Dejada (Fumblerooskie) — incl.:** Si es portador y hace Movimiento puede «dejar el balón» en una casilla que abandone durante el movimiento (no cambio de turno).
-* **Echarse a un lado (Side Step) — incl.:** Si es empujado, su entrenador elige la casilla de destino (adyacente desocupada).
-* **Nervios de acero (Nerves Of Steel) — incl.:** Ignora modificadores por estar marcado al atrapar o al hacer chequeo de Pase para pasar.
-* **Placar (Block) — incl.:** En placaje con «Ambos derribados» puede elegir no ser derribado.
-* **Recepción heroica (Diving Catch) — incl.:** Puede intentar atrapar si el balón cae en su zona de defensa por pase/patada inicial/devolución; +1 AG para atrapar en casilla objetivo de un pase.
 
 ## Inducements
 

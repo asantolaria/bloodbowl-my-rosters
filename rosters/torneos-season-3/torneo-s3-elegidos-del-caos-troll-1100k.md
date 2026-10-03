@@ -34,6 +34,25 @@
 | Apotecario | 50.000 |
 | **Total TV** | **1.100.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Cabeza dura](../../source/habilidades/fuerza.md)** (*Thick Skull* · Fuerza · Pasiva): Tirada de **Heridas**: **Inconsciente** solo con **9**; **8** = **Aturdido**. Con **Escurridizo**: Inconsciente con **8**, **7** = Aturdido.
+- **[Cuernos](../../source/habilidades/mutaciones.md)** (*Horns* · Mutaciones · Activa): En **Penetración**: **+1** a su **FU** en **todos** los Placajes de esa acción.
+- **[Golpe mortífero](../../source/habilidades/fuerza.md)** (*Mighty Blow* · Fuerza · Activa (Elite)): Si **derriba** a un rival en **Placaje** (aunque él también quede derribado), **+1** a **Armadura** **o** a **Heridas** (eliges **después** de tirar ese dado).
+- **[Lanzar compañero](../../source/habilidades/rasgos.md)** (*Throw Team-Mate* · Rasgo · Activa): Puede declarar **Lanzar compañero**.
+- **[Llave de brazo](../../source/habilidades/fuerza.md)** (*Arm Bar* · Fuerza · Activa): Si un rival **cae** por fallar **esquivar/saltar/brincar** desde su zona de defensa: **+1** a **Armadura** o **Heridas** (tras tirar); si hay **Lesión**, este jugador gana **SPP**. **Solo uno** por intento de salida.
+- **[Proyectil de vómito](../../source/habilidades/rasgos.md)** (*Projectile Vomit* · Rasgo · Activa): **Proyectil de vómito** (varios/turno): rival adyacente **en pie**, **1D6** **2+** Armadura sin mods. (rompe → Heridas); **1** Armadura sin mods. a **ti**. Puede sustituir Placaje en **Penetración** (activación termina).
+- **[Realmente estúpido](../../source/habilidades/rasgos.md)** (*Really Stupid* · Rasgo · Pasiva (obligatoria)): Tras declarar: **1D6** (**+2** si adyacente a compañero **en pie**, no Distraído, sin este rasgo). **4+** OK; **1–3** Distraído.
+- **[Regeneración](../../source/habilidades/rasgos.md)** (*Regeneration* · Rasgo · Pasiva): Al sufrir **Lesión**, antes de tabla de lesiones: **1D6** **1–3** normal; **4+** **regenera** (ignora lesión; SPP al causante igual); va a **reservas**.
+- **[Siempre hambriento](../../source/habilidades/rasgos.md)** (*Always Hungry* · Rasgo · Activa (obligatoria)): En **Lanzar compañero**, **antes** del chequeo de Pase: **1D6** **2+** OK; **1** intenta comérselo → **1D6** **2+** pifia de lanzamiento; **1** **devorado** (se retira de la plantilla; sin apo ni regen); si el compañero llevaba el balón, rebota desde **su** casilla. El texto dice «se produce cambio de turno», pero la FAQ aclara que solo si el devorado llevaba el balón.
+- **[Solitario](../../source/habilidades/rasgos.md)** (*Loner* · Rasgo · Pasiva (obligatoria)): Para usar **Segunda oportunidad**: **1D6** vs número entre paréntesis; si falla **no** repite pero **gasta** el reroll.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |
@@ -64,10 +83,6 @@
 
 - [Lord Borak the Despoiler](../../source/jugadores-estrella/lord-borak-the-despoiler.md) — **Competición del Caos**.
 - [Withergrasp Doubledrool](../../source/jugadores-estrella/withergrasp-doubledrool.md) — juega para **Elegidos de Nurgle**; encaje si el equipo elige **Elegidos de Nurgle**.
-
-## Descripción oficial de las habilidades
-
-*[`source/teams/elegidos-del-caos.md`](../../source/teams/elegidos-del-caos.md) · [`source/habilidades/mutaciones.md`](../../source/habilidades/mutaciones.md).*
 
 ## Inducements
 

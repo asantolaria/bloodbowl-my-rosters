@@ -45,6 +45,41 @@
 | Incentivo: Sobornos (2 × 50.000 (precio reducido por regla del equipo)) | 100.000 |
 | **Total** | **1.155.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Arma secreta](../../source/habilidades/rasgos.md)** (*Secret Weapon* · Rasgo · Pasiva (obligatoria)): Tras una **entrada** en que haya participado (aunque no esté en campo al final): **expulsado** por **Falta**.
+- **[Bola con cadena](../../source/habilidades/rasgos.md)** (*Ball & Chain* · Rasgo · Activa (obligatoria)): Solo acción **Bola con cadena** (varios por turno): plantilla **1D6** por casilla hasta **MV**; puede forzar marcha (**1**: entra, resuelve placajes/rebotes, luego **cae**); en ZD **no** esquiva (auto); rivales **no** **Perseguir** ni **Tentáculos**; la condición **Masticado** no le impide moverse (errata). Impactos según ocupación: jugador **en pie** (de cualquier equipo) → Placaje automático que ignora **Apariencia asquerosa** (si es compañero, su entrenador elige resultado); **tumbado/aturdido** → empuje + Armadura; balón → rebota (sin cambio de turno); fuera del campo → **empujado al público** (cambio de turno, FAQ). **Caída/derribo/tumba**: **Heridas** con Aturdido = Inconsciente. **No** puede tener: Apartar, Atento al balón, Equilibrio firme, Furia, Golpe a la carrera, Perseguir, Piquete de ojos, Placaje heroico, Placaje múltiple, Saltar.
+- **[Bombardero](../../source/habilidades/rasgos.md)** (*Bombardier* · Rasgo · Activa): **Lanzar bomba** (**1** por turno); como **Pase** salvo **Atento al balón**; **sin** Movimiento antes. Bomba al suelo o pifia/atrapar mal → **explota** en esa casilla (**no** rebota). Alcanza al jugador de la casilla y, con **1D6 4+**, a cada adyacente: en pie → **derribado**; tumbado/aturdido → Armadura. Atrapar/interceptar → **relanzar** al instante.
+- **[Echarse a un lado](../../source/habilidades/agilidad.md)** (*Side Step* · Agilidad · Activa): Si es **empujado** por cualquier motivo, su entrenador elige una casilla **adyacente desocupada** (no el rival). Si **no hay** ninguna, la habilidad **no** se usa.
+- **[El balón ni verlo](../../source/habilidades/rasgos.md)** (*No Ball* · Rasgo · Pasiva (obligatoria)): **Nunca** portador; atrapar/recoger = **fallo automático** (como **1** natural); **no** intercepta.
+- **[Escurridizo](../../source/habilidades/rasgos.md)** (*Stunty* · Rasgo · Pasiva (obligatoria)): Al **esquivar**, **sin** mods. negativos por marcadores rivales. **-1** al **interceptar**. Heridas en **tabla Escurridizos**.
+- **[Esquivar](../../source/habilidades/agilidad.md)** (*Dodge* · Agilidad · Activa (Elite)): **Una vez por turno** puede repetir un **único** chequeo de AG al **intentar esquivar**. Afecta al resultado **Desequilibrado** cuando un rival le hace un Placaje.
+- **[Furtivo](../../source/habilidades/triquinuelas.md)** (*Sneaky Git* · Triquiñuelas · Activa): **Doble natural** en Armadura de **Falta**: **no** expulsado **si** la armadura **no** se rompe; si **rompe**, expulsión normal.
+- **[Golpe mortífero](../../source/habilidades/fuerza.md)** (*Mighty Blow* · Fuerza · Activa (Elite)): Si **derriba** a un rival en **Placaje** (aunque él también quede derribado), **+1** a **Armadura** **o** a **Heridas** (eliges **después** de tirar ese dado).
+- **[Humanoide bala](../../source/habilidades/rasgos.md)** (*Right Stuff* · Rasgo · Pasiva (obligatoria)): Puede ser **lanzado** aunque esté **tumbado boca arriba**.
+- **[Jugar sucio](../../source/habilidades/triquinuelas.md)** (*Dirty Player* · Triquiñuelas · Activa): En **Falta**: **+1** a **Armadura** o **Heridas** (eliges **después** de tirar ese dado).
+- **[Lanzar compañero](../../source/habilidades/rasgos.md)** (*Throw Team-Mate* · Rasgo · Activa): Puede declarar **Lanzar compañero**.
+- **[Motosierra](../../source/habilidades/rasgos.md)** (*Chainsaw* · Rasgo · Activa (obligatoria)): **Ataque con motosierra** (varios/turno): **1D6** **2+** Armadura **+3** contra un rival al que **marque**; **1** = rebote, **tú** quedas derribado. Si es **derribado** o **cae** por cualquier motivo, el rival aplica **+3** a su Armadura (**siempre**). Puede usarla en **Falta** (tras tirada descontrol). Puede sustituir Placaje en **Penetración** (activación termina).
+- **[Placaje heroico](../../source/habilidades/agilidad.md)** (*Diving Tackle* · Agilidad · Activa): Rival que **esquivando, saltando o brincando** sale de su zona de defensa: **después** de su chequeo de AG (con mods. y repeticiones), este jugador aplica **-2** al rival y se coloca **tumbado boca arriba** en la casilla que deja. **Solo uno** por intento de salida si varios tienen la habilidad.
+- **[Placar](../../source/habilidades/general.md)** (*Block* · General · Activa (Elite)): En Placaje con **Ambos derribados** puede elegir **no** ser **derribado**.
+- **[Planear](../../source/habilidades/rasgos.md)** (*Swoop* · Rasgo · Activa): Si es **lanzado**: puede **no** escorar y usar la plantilla de devolución (**1D6** dirección + **1D6** distancia); si lo hace, puede **repetir** el chequeo de AG al aterrizar.
+- **[Pogo saltarín](../../source/habilidades/rasgos.md)** (*Pogo* · Rasgo · Activa): **Pogo** sobre una casilla adyacente como **Brincar** pero **ignora** mods. negativos. **No** puede tener **Saltar**.
+- **[Precisión](../../source/habilidades/pase.md)** (*Accurate* · Pase · Activa): **Pase rápido** o **pase corto**: **+1** al chequeo de Pase.
+- **[Presencia perturbadora](../../source/habilidades/mutaciones.md)** (*Disturbing Presence* · Mutaciones · Pasiva (obligatoria)): Cada compañero **tuyo** con esta habilidad a **≤3** casillas del rival: **-1** al chequeo de **Pase** o **AG** cuando el rival **pasa**, **Lanzar compañero**, **Lanzar bomba**, **intercepta** o **atrapa**.
+- **[Provocar](../../source/habilidades/general.md)** (*Taunt* · General · Activa): Si es **empujado** por un Placaje **contra él**, su entrenador puede obligar al rival a **hacer impulso**. **No** si el rival ha **Echado raíces**.
+- **[Proyectil de vómito](../../source/habilidades/rasgos.md)** (*Projectile Vomit* · Rasgo · Activa): **Proyectil de vómito** (varios/turno): rival adyacente **en pie**, **1D6** **2+** Armadura sin mods. (rompe → Heridas); **1** Armadura sin mods. a **ti**. Puede sustituir Placaje en **Penetración** (activación termina).
+- **[Realmente estúpido](../../source/habilidades/rasgos.md)** (*Really Stupid* · Rasgo · Pasiva (obligatoria)): Tras declarar: **1D6** (**+2** si adyacente a compañero **en pie**, no Distraído, sin este rasgo). **4+** OK; **1–3** Distraído.
+- **[Regeneración](../../source/habilidades/rasgos.md)** (*Regeneration* · Rasgo · Pasiva): Al sufrir **Lesión**, antes de tabla de lesiones: **1D6** **1–3** normal; **4+** **regenera** (ignora lesión; SPP al causante igual); va a **reservas**.
+- **[Siempre hambriento](../../source/habilidades/rasgos.md)** (*Always Hungry* · Rasgo · Activa (obligatoria)): En **Lanzar compañero**, **antes** del chequeo de Pase: **1D6** **2+** OK; **1** intenta comérselo → **1D6** **2+** pifia de lanzamiento; **1** **devorado** (se retira de la plantilla; sin apo ni regen); si el compañero llevaba el balón, rebota desde **su** casilla. El texto dice «se produce cambio de turno», pero la FAQ aclara que solo si el devorado llevaba el balón.
+
+<!-- habilidades-roster:fin -->
+
+
+
+
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **2/3** · Stacks: **0/3**.

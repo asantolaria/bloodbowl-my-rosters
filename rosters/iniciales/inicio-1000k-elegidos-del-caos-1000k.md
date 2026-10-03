@@ -32,6 +32,25 @@
 | Hinchas (6 × 10.000) | 60.000 |
 | **Total TV** | **1.000.000** |
 
+<!-- habilidades-roster:inicio -->
+## Habilidades del roster
+
+*Definición de todas las habilidades y rasgos de los jugadores de esta lista (de serie y compradas). Generado con `scripts/habilidades_en_rosters.py`.*
+
+- **[Cabeza dura](../../source/habilidades/fuerza.md)** (*Thick Skull* · Fuerza · Pasiva): Tirada de **Heridas**: **Inconsciente** solo con **9**; **8** = **Aturdido**. Con **Escurridizo**: Inconsciente con **8**, **7** = Aturdido.
+- **[Cuernos](../../source/habilidades/mutaciones.md)** (*Horns* · Mutaciones · Activa): En **Penetración**: **+1** a su **FU** en **todos** los Placajes de esa acción.
+- **[Golpe mortífero](../../source/habilidades/fuerza.md)** (*Mighty Blow* · Fuerza · Activa (Elite)): Si **derriba** a un rival en **Placaje** (aunque él también quede derribado), **+1** a **Armadura** **o** a **Heridas** (eliges **después** de tirar ese dado).
+- **[Lanzar compañero](../../source/habilidades/rasgos.md)** (*Throw Team-Mate* · Rasgo · Activa): Puede declarar **Lanzar compañero**.
+- **[Llave de brazo](../../source/habilidades/fuerza.md)** (*Arm Bar* · Fuerza · Activa): Si un rival **cae** por fallar **esquivar/saltar/brincar** desde su zona de defensa: **+1** a **Armadura** o **Heridas** (tras tirar); si hay **Lesión**, este jugador gana **SPP**. **Solo uno** por intento de salida.
+- **[Proyectil de vómito](../../source/habilidades/rasgos.md)** (*Projectile Vomit* · Rasgo · Activa): **Proyectil de vómito** (varios/turno): rival adyacente **en pie**, **1D6** **2+** Armadura sin mods. (rompe → Heridas); **1** Armadura sin mods. a **ti**. Puede sustituir Placaje en **Penetración** (activación termina).
+- **[Realmente estúpido](../../source/habilidades/rasgos.md)** (*Really Stupid* · Rasgo · Pasiva (obligatoria)): Tras declarar: **1D6** (**+2** si adyacente a compañero **en pie**, no Distraído, sin este rasgo). **4+** OK; **1–3** Distraído.
+- **[Regeneración](../../source/habilidades/rasgos.md)** (*Regeneration* · Rasgo · Pasiva): Al sufrir **Lesión**, antes de tabla de lesiones: **1D6** **1–3** normal; **4+** **regenera** (ignora lesión; SPP al causante igual); va a **reservas**.
+- **[Siempre hambriento](../../source/habilidades/rasgos.md)** (*Always Hungry* · Rasgo · Activa (obligatoria)): En **Lanzar compañero**, **antes** del chequeo de Pase: **1D6** **2+** OK; **1** intenta comérselo → **1D6** **2+** pifia de lanzamiento; **1** **devorado** (se retira de la plantilla; sin apo ni regen); si el compañero llevaba el balón, rebota desde **su** casilla. El texto dice «se produce cambio de turno», pero la FAQ aclara que solo si el devorado llevaba el balón.
+- **[Solitario](../../source/habilidades/rasgos.md)** (*Loner* · Rasgo · Pasiva (obligatoria)): Para usar **Segunda oportunidad**: **1D6** vs número entre paréntesis; si falla **no** repite pero **gasta** el reroll.
+
+<!-- habilidades-roster:fin -->
+
+
 ## Información del equipo
 
 | Concepto | Valor |
@@ -46,19 +65,6 @@
 | **Hinchas** | 6 |
 | **Apotecario** | No (incluible como inducement) |
 
-
-## Descripción oficial de las habilidades
-
-* **Cabeza dura (Thick Skull) — incl.:** En tirada de Heridas: Inconsciente solo con 9; 8 = Aturdido.
-* **Cuernos (Horns) — incl.:** En Penetración aplica +1 FU a sus placajes en esa acción.
-* **Golpe mortífero (Mighty Blow) — incl.:** Al derribar en Placaje puede aplicar +1 a tirada de Armadura o de Heridas (decidir después de tirar).
-* **Llave de brazo (Arm Bar) — incl.:** Si rival cae por fallar esquivar/saltar/brincar desde su zona de defensa: +1 a Armadura o Heridas; si lesiona, este jugador recibe SPP. Solo uno por casilla.
-* **Lanzar compañero (Throw Team-Mate) — incl.:** Puede declarar la acción de Lanzar compañero.
-* **Proyectil de vómito (Projectile Vomit) — incl.:** Acción especial: rival adyacente, 1D6; 2+=tirada Armadura no modificada; 1=tirada contra él.
-* **Realmente estúpido (Really Stupid) — incl.:** Al activarse: 1D6 (+2 si adyacente a compañero en pie sin este rasgo); 4+=normal, 1-3=Distraído.
-* **Regeneración (Regeneration) — incl.:** Al sufrir Lesión: 1D6; 4+=se ignora la lesión y va a reservas; 1-3=normal.
-* **Siempre hambriento (Always Hungry) — incl.:** Antes del chequeo de Lanzar compañero: 1D6; 1=intenta comerse al compañero (segundo 1D6: 1=devorado).
-* **Solitario (Loner) — incl.:** Para usar Segunda oportunidad en su tirada debe tirar 1D6 ≥ número entre paréntesis; si no, la RR se gasta pero no repite.
 
 ## Inducements
 
