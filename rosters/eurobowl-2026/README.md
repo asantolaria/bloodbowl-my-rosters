@@ -2,6 +2,8 @@
 
 Listas para la copa NAF **EuroBowl 2026** (17–18 de octubre de 2026, Varsovia) según el reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md) (7 tiers). **Blood Bowl Temporada 3 / BB2025.**
 
+**Origen de las reglas:** [lámina oficial FINAL del organizador](https://81ccd0e8d4.clvaw-cdnwnd.com/5c60ea6ad06557d471522410634695d3/200000051-e21a7e21a9/rules%20final.webp?ph=81ccd0e8d4) ([eurobowl.eu](https://www.eurobowl.eu/entrance-options/)), transcrita en [EuroBowl 2026 FINAL](../../source/tiers/eurobowl-2026-final.md).
+
 Cada lista está **validada** con [`_build_final.py`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/rosters/eurobowl-2026/_build_final.py): presupuesto de equipo, Skill Gold y Flowing Funds del tier, cupos de cada posición, categoría primaria/secundaria de cada avance, máx. 3 secundarias y 3 stacks, estrellas y regla de Insignificantes.
 
 | Tier | Equipo | Skill Gold | Flowing | Listas |
@@ -22,7 +24,7 @@ Cada lista está **validada** con [`_build_final.py`](https://github.com/asantol
 - Inventario completo de fuentes: [fuentes de rosters](../../source/referencias-rosters-torneos.md).
 
 !!! warning "Antes del torneo"
-    Listas **válidas en cifras**, sin revisión táctica propia. Confirmar con el pack del organizador las listas de incentivos y estrellas permitidas en la FINAL.
+    Listas **válidas en cifras** según la lámina FINAL (incentivos y estrellas incluidos), sin revisión táctica propia.
 
 ## Cómo modificar una lista
 

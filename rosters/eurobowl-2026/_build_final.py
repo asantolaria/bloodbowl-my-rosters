@@ -32,7 +32,7 @@ TIER = {
     "ogros": 7,
 }
 # Recargo en Skill Gold por estrella: tier -> (Veteran, Legend); tiers 1-4 no permiten estrellas
-STAR_TAX = {5: (60, 100), 6: (40, 80), 7: (40, 80)}
+STAR_TAX = {5: (50, 100), 6: (40, 80), 7: (40, 80)}  # lámina FINAL
 # Incentivos: nombre -> (coste, coste con Sobornos y corrupción)
 INDUC = {
     "Sobornos": (100, 50),
