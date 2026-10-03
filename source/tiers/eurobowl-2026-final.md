@@ -97,4 +97,4 @@ Solo estos (precios y efectos en [incentivos](../tablas/incentivos.md)):
 
 ## Listas del repositorio
 
-Las [31 listas FINAL](../../rosters/eurobowl-2026/README.md) están **validadas** contra esta página con `rosters/eurobowl-2026/_build_final.py` (presupuestos, Skill Gold, Flowing Funds, cupos, secundarias y stacks, estrellas). Las listas del reglamento anterior están en el [histórico BETA](../../rosters/eurobowl-2026/beta/README.md); el reglamento BETA, en [eurobowl-2026.md](eurobowl-2026.md).
+Las [31 listas FINAL](../../rosters/eurobowl-2026/README.md) están **validadas** contra esta página con `rosters/eurobowl-2026/_build_final.py` (presupuestos, Skill Gold, Flowing Funds, cupos, secundarias y stacks, estrellas).

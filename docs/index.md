@@ -49,7 +49,7 @@ Referencia en español para jugar: reglas, tablas, equipos, habilidades y mis ro
 | **Torneo** | [Juego igualado](source/tablas/juego-igualado.md) · [EuroBowl 2026 FINAL](source/tiers/eurobowl-2026-final.md) · [Mis rosters](rosters/README.md) |
 
 !!! success "EuroBowl 2026"
-    Las [31 listas FINAL](rosters/eurobowl-2026/README.md) (7 tiers) están validadas en cifras. Las BETA quedan como [histórico](rosters/eurobowl-2026/beta/README.md).
+    Las [31 listas FINAL](rosters/eurobowl-2026/README.md) (7 tiers) están validadas en cifras.
 
 !!! info "Fuentes"
     Reglas: [bloodbowlbase.ru](https://bloodbowlbase.ru/bb2025/) (BB2025 + FAQ). Terminología: reglamento oficial GW en español ([glosario](source/glosario-oficial.md)). Equipos y estrellas: [Nuffle Zone](https://nufflezone.com/). Contenido de reglas © Games Workshop; uso personal.

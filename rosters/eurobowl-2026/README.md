@@ -31,7 +31,3 @@ Cada lista está **validada** con [`_build_final.py`](https://github.com/asantol
 1. Editar el equipo en `_final_data_g1.py` … `_final_data_g4.py` (posiciones y habilidades con los nombres exactos de `source/teams/` y `source/habilidades/`).
 2. Validar: `python3 rosters/eurobowl-2026/_build_final.py` (o `--check <slug>`).
 3. Generar los `.md`: `python3 rosters/eurobowl-2026/_build_final.py --write`.
-
-## Histórico BETA
-
-Las listas anteriores (reglamento BETA + HE patch, 6 tiers) están en [`beta/`](beta/README.md) con su generador `_build_rosters.py`. **No usar para torneo.**

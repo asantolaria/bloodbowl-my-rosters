@@ -4,9 +4,9 @@
 
 Repositorio para guardar y consultar **rosters de Blood Bowl** en Markdown, enfocado en **Blood Bowl Third Season (2025)**.
 
-> **EuroBowl 2026:** las [31 listas FINAL](rosters/eurobowl-2026/README.md) (7 tiers) están validadas con `_build_final.py`; las BETA quedan en [`rosters/eurobowl-2026/beta/`](rosters/eurobowl-2026/beta/README.md).
+> **EuroBowl 2026:** las [31 listas FINAL](rosters/eurobowl-2026/README.md) (7 tiers) están validadas con `_build_final.py`.
 
-**Torneos NAF recientes:** el formato **EuroBowl 2026** (#euro26) usa **Skill Gold** y presupuestos por tier descritos en la [referencia FINAL](source/tiers/eurobowl-2026-final.md). Plantillas BETA pendientes de migrar en [`rosters/eurobowl-2026/`](rosters/eurobowl-2026/). Para presupuestos genéricos Season 3 (p. ej. **~1.000k–1.100k** Unión Élfica, **~1.060k–1.100k** No Muertos, **~1.000k–1.060k** Skavens, **~1.100k** Orcos Negros con paquete de skills, **~1.100k–1.135k** Elegidos del Caos (variantes Big Guy), **~1.150k–1.155k** Nobleza Imperial (1 o 2 Throwers), **~1.150k–1.200k** Hombres Lagarto), ver [`rosters/torneos-season-3/`](rosters/torneos-season-3/). Otros torneos: reglamento del evento + si aplica oro escalado, [`source/tiers/oro-presupuesto.md`](source/tiers/oro-presupuesto.md).
+**Torneos NAF recientes:** el formato **EuroBowl 2026** (#euro26) usa **Skill Gold** y presupuestos por tier descritos en la [referencia FINAL](source/tiers/eurobowl-2026-final.md). Listas FINAL validadas en [`rosters/eurobowl-2026/`](rosters/eurobowl-2026/README.md). Para presupuestos genéricos Season 3 (p. ej. **~1.000k–1.100k** Unión Élfica, **~1.060k–1.100k** No Muertos, **~1.000k–1.060k** Skavens, **~1.100k** Orcos Negros con paquete de skills, **~1.100k–1.135k** Elegidos del Caos (variantes Big Guy), **~1.150k–1.155k** Nobleza Imperial (1 o 2 Throwers), **~1.150k–1.200k** Hombres Lagarto), ver [`rosters/torneos-season-3/`](rosters/torneos-season-3/). Otros torneos: reglamento del evento + si aplica oro escalado, [`source/tiers/oro-presupuesto.md`](source/tiers/oro-presupuesto.md).
 
 ---
 

@@ -38,4 +38,4 @@ Plantillas de referencia para **torneos genéricos** en **Blood Bowl 3ª tempora
 | 1.150k | Hombres Lagarto | [torneo-s3-hombres-lagarto-1150k.md](torneo-s3-hombres-lagarto-1150k.md) |
 | 1.200k | Hombres Lagarto | [torneo-s3-hombres-lagarto-1200k.md](torneo-s3-hombres-lagarto-1200k.md) |
 
-**EuroBowl 2026** (#euro26) sigue en [EuroBowl BETA](../eurobowl-2026/README.md)(../eurobowl-2026/).
+**EuroBowl 2026** (#euro26) sigue en [EuroBowl 2026 FINAL](../eurobowl-2026/README.md).
