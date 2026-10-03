@@ -2,7 +2,7 @@
 
 Hoja de consulta en mesa: la **Cheat Sheet oficial** de Blood Bowl 3ª temporada (BB2025) traducida al español, con la terminología del repo.
 
-Fuente: [bloodbowlbase — Cheat Sheet (BB2025)](https://bloodbowlbase.ru/bb2025/core_rules/cheat_sheet/). Las referencias de página («pág.») son las del reglamento oficial.
+Fuente: [bloodbowlbase — Cheat Sheet (BB2025)](https://bloodbowlbase.ru/bb2025/core_rules/cheat_sheet/). Cada apartado enlaza a su detalle en esta web.
 
 ## Índice
 
@@ -28,19 +28,19 @@ Fuente: [bloodbowlbase — Cheat Sheet (BB2025)](https://bloodbowlbase.ru/bb2025
 
 ### Secuencia prepartido
 
-1. **Los Hinchas** — pág. 45
-2. **El Clima** — pág. 46
-3. **Contratar sustitutos** — pág. 94
-4. **Incentivos** — pág. 94
-5. **Elegir equipo pateador** — pág. 46
+1. **Los Hinchas** — [detalle](tablas/secuencia-de-partido.md#1-secuencia-prepartido)
+2. **El Clima** — [tabla de clima](#tabla-de-clima)
+3. **Contratar sustitutos** — [detalle](tablas/secuencia-de-partido.md#1-secuencia-prepartido)
+4. **Incentivos** — [lista de incentivos](tablas/incentivos.md)
+5. **Elegir equipo pateador** — [detalle](tablas/secuencia-de-partido.md#1-secuencia-prepartido)
 
 ### Secuencia de inicio de entrada
 
 Al inicio de **cada entrada**:
 
-1. **Despliegue** — pág. 47
-2. **Patada inicial** — pág. 47
-3. **Evento de patada inicial** — pág. 48
+1. **Despliegue** — [detalle](tablas/secuencia-de-partido.md#2-secuencia-de-inicio-de-entrada)
+2. **Patada inicial** — [detalle](tablas/secuencia-de-partido.md#2-secuencia-de-inicio-de-entrada)
+3. **Evento de patada inicial** — [tabla de eventos](#tabla-de-eventos-de-patada-inicial)
 
 ### Turnos de equipo
 
@@ -51,10 +51,10 @@ Al inicio de **cada entrada**:
 
 Cuando se anota un **touchdown** o se juega el **último turno de una parte**, la entrada acaba. Si quedan turnos, seguir esta secuencia y empezar una nueva entrada:
 
-1. **Armas Secretas** — pág. 83
-2. **Efectos de final de entrada** — pág. 83
-3. **Recuperar Inconscientes** — pág. 83
-4. **Fin de la entrada** — pág. 83
+1. **Armas Secretas** — [detalle](tablas/secuencia-de-partido.md#4-secuencia-de-final-de-entrada)
+2. **Efectos de final de entrada** — [detalle](tablas/secuencia-de-partido.md#4-secuencia-de-final-de-entrada)
+3. **Recuperar Inconscientes** — [detalle](tablas/secuencia-de-partido.md#4-secuencia-de-final-de-entrada)
+4. **Fin de la entrada** — [detalle](tablas/secuencia-de-partido.md#4-secuencia-de-final-de-entrada)
 
 → Detalle: [tablas/secuencia-de-partido.md](tablas/secuencia-de-partido.md)
 
@@ -98,12 +98,12 @@ Hay cambio de turno si:
 
 Solo en **liga**, al acabar el partido:
 
-1. **Registrar resultado y cobrar ganancias** — pág. 95
-2. **Actualizar Hinchas** — pág. 95
-3. **Mejoras de jugadores** — pág. 96
-4. **Contratar, despedir y retirar temporalmente** — pág. 99
-5. **Errores costosos** — pág. 100
-6. **Preparar el siguiente partido** — pág. 100
+1. **Registrar resultado y cobrar ganancias** — [detalle](tablas/liga-postpartido.md#secuencia-postpartido-en-orden)
+2. **Actualizar Hinchas** — [detalle](tablas/liga-postpartido.md#secuencia-postpartido-en-orden)
+3. **Mejoras de jugadores** — [experiencia y mejoras](tablas/experiencia-y-spp.md#coste-de-las-mejoras-advancement-table)
+4. **Contratar, despedir y retirar temporalmente** — [detalle](tablas/liga-postpartido.md#paso-4-contratar-despedir-y-retirar)
+5. **Errores costosos** — [tabla](tablas/liga-postpartido.md#errores-costosos-d6)
+6. **Preparar el siguiente partido** — [detalle](tablas/liga-postpartido.md#secuencia-postpartido-en-orden)
 
 → Detalle: [tablas/liga-postpartido.md](tablas/liga-postpartido.md)
 
@@ -213,7 +213,7 @@ La forma habitual de modificar la FU en un Placaje son los **apoyos**:
 
 ## Riesgo de herida
 
-Cuando un jugador es **derribado** o **se cae**, queda **tumbado** y arriesga una herida: el entrenador **rival** hace una **tirada de Armadura** contra él (pág. 37).
+Cuando un jugador es **derribado** o **se cae**, queda **tumbado** y arriesga una herida: el entrenador **rival** hace una **tirada de Armadura** contra él ([armadura y heridas](tablas/acciones-y-modificadores.md#armadura-y-heridas)).
 
 ### Tirada de Heridas
 
@@ -225,7 +225,7 @@ Si la armadura se **rompe**, el entrenador rival tira **2D6** en la tabla de Her
 |-----|-----------|--------|
 | 2-7 | **Aturdido** | El jugador queda **Aturdido** inmediatamente. |
 | 8-9 | **Inconsciente** | Se retira del campo a la casilla de **Inconscientes** de su banquillo. |
-| 10-12 | **Lesión** (Casualty) | Se retira a la casilla de **Lesionados** de su banquillo. El rival hace una tirada en la **Tabla de Lesiones** (pág. 67). |
+| 10-12 | **Lesión** (Casualty) | Se retira a la casilla de **Lesionados** de su banquillo. El rival hace una tirada en la [**Tabla de Lesiones**](#tabla-de-lesiones). |
 
 ### Tabla de Lesiones
 
@@ -253,7 +253,7 @@ Si la armadura se **rompe**, el entrenador rival tira **2D6** en la tabla de Her
 
 ## Herido por el público
 
-- Jugador **empujado al público** (pág. 68): se hace directamente una **Tirada de Heridas**.
+- Jugador **empujado al público** ([herido por el público](#herido-por-el-público)): se hace directamente una **Tirada de Heridas**.
 - Si saldría **Aturdido** → va a **Reservas**.
 - Si no → se aplica el resultado de la tabla de Heridas correspondiente.
 
@@ -281,12 +281,12 @@ Si la armadura se **rompe**, el entrenador rival tira **2D6** en la tabla de Her
 
 ## Ganar Puntos de Estrella (PE)
 
-En **liga**, los jugadores ganan PE (SPP) por (detalle en pág. 96):
+En **liga**, los jugadores ganan PE (SPP) por ([detalle y coste de las mejoras](tablas/experiencia-y-spp.md)):
 
 | Acción | PE |
 |--------|----|
 | **Pase completo** | 1 |
-| **Lanzar compañero** | Ver pág. 76 |
+| **Lanzar compañero** | 1 al lanzador si el lanzamiento es Excelente y el lanzado aterriza bien; 1 al lanzado si aterriza bien |
 | **Intercepción** | 2 |
 | **Causar una Lesión** | 2 |
 | **Touchdown** | 3 |
