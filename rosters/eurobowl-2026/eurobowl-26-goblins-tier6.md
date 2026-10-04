@@ -1,6 +1,6 @@
-# Goblins — EuroBowl 2026 FINAL (Tier 6)
+# Goblins — EuroBowl 2026 (Tier 6)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/goblins.md`](../../source/teams/goblins.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/goblins.md`](../../source/teams/goblins.md). Generado con `_build_rosters.py`.
 >
 > **Origen de la build:** Diseño propio a partir de la ficha BB2025 de `source/teams/goblins.md`: no hay captura de AndyDavo para este equipo.
 >
@@ -76,8 +76,6 @@
 - **[Siempre hambriento](../../source/habilidades/rasgos.md)** (*Always Hungry* · Rasgo · Activa (obligatoria)): En **Lanzar compañero**, **antes** del chequeo de Pase: **1D6** **2+** OK; **1** intenta comérselo → **1D6** **2+** pifia de lanzamiento; **1** **devorado** (se retira de la plantilla; sin apo ni regen); si el compañero llevaba el balón, rebota desde **su** casilla. El texto dice «se produce cambio de turno», pero la FAQ aclara que solo si el devorado llevaba el balón.
 
 <!-- habilidades-roster:fin -->
-
-
 
 
 ## Skill Gold

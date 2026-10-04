@@ -1,10 +1,10 @@
-# Humanos — EuroBowl 2026 FINAL (Tier 3)
+# Humanos — EuroBowl 2026 (Tier 3)
 
 ![Humanos](../../source/images/equipos/humanos.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/humanos.md`](../../source/teams/humanos.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/humanos.md`](../../source/teams/humanos.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA) con los avances de [Artemis Black — Road to Eurobowl 2026](https://www.youtube.com/watch?v=yI7pBwzeecE) (sep. 2026), adaptada al presupuesto FINAL.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar) con los avances de [Artemis Black — Road to Eurobowl 2026](https://www.youtube.com/watch?v=yI7pBwzeecE) (sep. 2026), adaptada al presupuesto actual.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -73,8 +73,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -92,6 +90,6 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 
 ## Notas de la build
 
-- Ogro + 3 RR + apotecario: base de AndyDavo; el Tier 3 FINAL tiene el mismo presupuesto que la BETA.
+- Ogro + 3 RR + apotecario: base de AndyDavo; el Tier 3 actual tiene el mismo presupuesto que el reglamento de abril.
 - Avances según Artemis Black: Golpe mortífero en un Blitzer y Defensa en el otro (AndyDavo ponía Defensa en ambos).
 - Catchers con Forcejear y Placar en lugar del stack Furia + Forcejear; los 30k de Flowing van a un Línea con Forcejear.

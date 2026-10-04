@@ -1,11 +1,11 @@
-"""EuroBowl 2026 FINAL — grupo 3: tiers 4-6 (Reyes Funerarios, Caos, Enanos, Unión Élfica, Nobleza, Snotlings, Orcos Negros)."""
+"""EuroBowl 2026 — grupo 3: tiers 4-6 (Reyes Funerarios, Caos, Enanos, Unión Élfica, Nobleza, Snotlings, Orcos Negros)."""
 
-ANDY = "[AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA)"
+ANDY = "[AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar)"
 ARTEMIS_EU = "[Artemis Black — Road to Eurobowl: Elven Union & HE](https://www.youtube.com/watch?v=GgfTtYKR3Ec) (sep. 2026, roster real de selección)"
 
 TEAMS = [
     dict(slug="reyes-funerarios", name="Reyes Funerarios", img="reyes-funerarios.webp",
-         fuente=f"{ANDY}; mismo tier y presupuesto en la FINAL, se mantiene sin cambios.",
+         fuente=f"{ANDY}; mismo tier y presupuesto en el reglamento actual, se mantiene sin cambios.",
          rr=3, apo=False, ac=0, cheer=0, induc=[], stars=[],
          players=[("Guardián de la Tumba (Tomb Guardian)", 3, ["Defensa"]),
                   ("Guardián de la Tumba (Tomb Guardian)", 1, ["Golpe mortífero"]),
@@ -15,10 +15,10 @@ TEAMS = [
                   ("Esqueleto Línea", 4, [])],
          tactica=["Cuatro Guardianes (tres con Defensa, uno con Golpe mortífero) forman el muro; Regeneración en todo el equipo y sin apotecario (Señores de los No Muertos).",
                   "Placar en los dos Throwers para que el portador aguante; los 30k de Flowing van íntegros al Skill Gold.",
-                  "Sin cambios respecto a la build de AndyDavo: el tier 4 conserva 1100k/190k/30k en la FINAL."]),
+                  "Sin cambios respecto a la build de AndyDavo: el tier 4 conserva 1100k/190k/30k en el reglamento actual."]),
 
     dict(slug="elegidos-del-caos", name="Elegidos del Caos", img="Chaos.webp",
-         fuente=f"{ANDY}, adaptada al presupuesto FINAL (sube de tier 4 a tier 5).",
+         fuente=f"{ANDY}, adaptada al presupuesto actual (sube de tier 4 a tier 5).",
          rr=3, apo=True, ac=0, cheer=0, induc=[("Mascota del equipo", 1)], stars=[],
          players=[("Ogro del Caos", 1, ["Defensa"]),
                   ("Guerrero Caos", 4, ["Placar"]),
@@ -30,7 +30,7 @@ TEAMS = [
                   "Con los 20k extra de equipo más 30k de Flowing se ficha un 12.º jugador (Beastman): AndyDavo jugaba con solo 11."]),
 
     dict(slug="enanos-del-caos", name="Enanos del Caos",
-         fuente=f"{ANDY}; mismo tier y presupuesto en la FINAL, se mantiene sin cambios.",
+         fuente=f"{ANDY}; mismo tier y presupuesto en el reglamento actual, se mantiene sin cambios.",
          rr=2, apo=True, ac=0, cheer=0, induc=[], stars=[],
          players=[("Minotauro Esclavizado", 1, ["Defensa"]),
                   ("Bull Centaur", 2, ["Abrirse paso", "Forcejear"]),
@@ -41,10 +41,10 @@ TEAMS = [
          nota="Solo 11 jugadores: todo el presupuesto va a posicionales caros. El Flowing (30k) se gasta en Skill Gold.",
          tactica=["Bull Centaurs con stack Abrirse paso + Forcejear: corredores FU4 difíciles de parar.",
                   "Defensa en Minotauro y tres Blockers; Golpe mortífero en el cuarto. Los Flamesmith aportan Exhalar fuego.",
-                  "Sin cambios: tier 5 en BETA y en FINAL (1120k/220k/30k)."]),
+                  "Sin cambios: tier 5 en el reglamento de abril y en el actual (1120k/220k/30k)."]),
 
     dict(slug="enanos", name="Enanos", img="enanos.webp",
-         fuente=f"{ANDY}, adaptada al presupuesto FINAL (sube de tier 4 a tier 5).",
+         fuente=f"{ANDY}, adaptada al presupuesto actual (sube de tier 4 a tier 5).",
          rr=2, apo=True, ac=0, cheer=0, induc=[], stars=[],
          players=[("MataTrols", 1, ["Golpe mortífero"]),
                   ("MataTrols", 1, ["Defensa"]),
@@ -73,7 +73,7 @@ TEAMS = [
                   "Cambio frente a AndyDavo: se sustituyen los stacks Placar + Esquivar y Furia + Forcejear de los Catchers por más Esquivar (también en un Línea); mismo tier y presupuesto."]),
 
     dict(slug="nobleza-imperial", name="Nobleza Imperial", img="nobleza-imperial.webp",
-         fuente=f"{ANDY}, adaptada al presupuesto FINAL (sube de tier 4 a tier 5).",
+         fuente=f"{ANDY}, adaptada al presupuesto actual (sube de tier 4 a tier 5).",
          rr=3, apo=True, ac=0, cheer=0, induc=[], stars=[],
          players=[("Ogre", 1, ["Defensa"]),
                   ("Noble Blitzer", 1, ["Esquivar"]),
@@ -86,7 +86,7 @@ TEAMS = [
                   "Cambio: con los 20k extra + Flowing se cambia el Ayudante del entrenador por un tercer reroll; el Skill Gold original (220k) cuadra exacto con el tier 5."]),
 
     dict(slug="snotlings", name="Snotlings", img="snotlings.webp",
-         fuente=f"{ANDY}; mismo tier y presupuesto en la FINAL, se mantiene sin cambios.",
+         fuente=f"{ANDY}; mismo tier y presupuesto en el reglamento actual, se mantiene sin cambios.",
          rr=3, apo=False, ac=0, cheer=0, induc=[("Sobornos", 3), ("Novatos embravecidos", 1)], stars=[],
          players=[("Troll Entrenado", 1, ["Ojo de halcón", "Defensa"]),
                   ("Troll Entrenado", 1, ["Defensa"]),
@@ -99,10 +99,10 @@ TEAMS = [
                   ("Snotling Línea", 7, [])],
          tactica=["Troll con Ojo de halcón + Defensa para lanzar Snotlings con precisión; Pump Wagons con Abrirse paso y Crujir.",
                   "Tres Sobornos (50k con Sobornos y corrupción) y Novatos embravecidos para el plan de faltas y desgaste.",
-                  "Sin cambios: tier 5 en BETA y en FINAL; el Flowing cubre 20k de equipo y 10k de Skill Gold."]),
+                  "Sin cambios: tier 5 en el reglamento de abril y en el actual; el Flowing cubre 20k de equipo y 10k de Skill Gold."]),
 
     dict(slug="orcos-negros", name="Orcos Negros", img="orcos-negros.webp",
-         fuente=f"{ANDY}, adaptada al presupuesto FINAL (sube de tier 5 a tier 6).",
+         fuente=f"{ANDY}, adaptada al presupuesto actual (sube de tier 5 a tier 6).",
          rr=4, apo=True, ac=0, cheer=0, induc=[], stars=[],
          players=[("Black Orc", 2, ["Defensa"]),
                   ("Black Orc", 1, ["Placaje defensivo"]),

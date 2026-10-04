@@ -1,10 +1,10 @@
-# Snotlings — EuroBowl 2026 FINAL (Tier 5)
+# Snotlings — EuroBowl 2026 (Tier 5)
 
 ![Snotlings](../../source/images/equipos/snotlings.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/snotlings.md`](../../source/teams/snotlings.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/snotlings.md`](../../source/teams/snotlings.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA); mismo tier y presupuesto en la FINAL, se mantiene sin cambios.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar); mismo tier y presupuesto en el reglamento actual, se mantiene sin cambios.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -82,8 +82,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **1/3**.
@@ -105,4 +103,4 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **1/3**.
 
 - Troll con Ojo de halcón + Defensa para lanzar Snotlings con precisión; Pump Wagons con Abrirse paso y Crujir.
 - Tres Sobornos (50k con Sobornos y corrupción) y Novatos embravecidos para el plan de faltas y desgaste.
-- Sin cambios: tier 5 en BETA y en FINAL; el Flowing cubre 20k de equipo y 10k de Skill Gold.
+- Sin cambios: tier 5 en el reglamento de abril y en el actual; el Flowing cubre 20k de equipo y 10k de Skill Gold.

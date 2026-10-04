@@ -1,10 +1,10 @@
-# Orcos Negros — EuroBowl 2026 FINAL (Tier 6)
+# Orcos Negros — EuroBowl 2026 (Tier 6)
 
 ![Orcos Negros](../../source/images/equipos/orcos-negros.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/orcos-negros.md`](../../source/teams/orcos-negros.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/orcos-negros.md`](../../source/teams/orcos-negros.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL (sube de tier 5 a tier 6).
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual (sube de tier 5 a tier 6).
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -68,8 +68,6 @@
 - **[Siempre hambriento](../../source/habilidades/rasgos.md)** (*Always Hungry* · Rasgo · Activa (obligatoria)): En **Lanzar compañero**, **antes** del chequeo de Pase: **1D6** **2+** OK; **1** intenta comérselo → **1D6** **2+** pifia de lanzamiento; **1** **devorado** (se retira de la plantilla; sin apo ni regen); si el compañero llevaba el balón, rebota desde **su** casilla. El texto dice «se produce cambio de turno», pero la FAQ aclara que solo si el devorado llevaba el balón.
 
 <!-- habilidades-roster:fin -->
-
-
 
 
 ## Skill Gold

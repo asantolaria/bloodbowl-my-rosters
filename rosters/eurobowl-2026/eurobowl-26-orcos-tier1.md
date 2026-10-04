@@ -1,8 +1,8 @@
-# Orcos — EuroBowl 2026 FINAL (Tier 1)
+# Orcos — EuroBowl 2026 (Tier 1)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/orcos.md`](../../source/teams/orcos.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/orcos.md`](../../source/teams/orcos.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL (Tier 2 → Tier 1).
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual (Tier 2 → Tier 1).
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -76,8 +76,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -94,5 +92,5 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 ## Notas de la build
 
 - Big Uns con Placar y Troll con Defensa: línea de choque fiable.
-- Cambio FINAL: los Orcos bajan a Tier 1 (Skill Gold 140k → 120k, Flowing 20k → 10k). Se elimina Defensa del segundo Orco Blitzer (−30k) para cuadrar 130k de Skill Gold.
+- Cambio: los Orcos bajan a Tier 1 (Skill Gold 140k → 120k, Flowing 20k → 10k). Se elimina Defensa del segundo Orco Blitzer (−30k) para cuadrar 130k de Skill Gold.
 - El presupuesto de equipo (1070k) no cambia: se mantienen Mascota, ayudante, apotecario y 2 segundas oportunidades.

@@ -4,9 +4,9 @@
 
 Repositorio para guardar y consultar **rosters de Blood Bowl** en Markdown, enfocado en **Blood Bowl Third Season (2025)**.
 
-> **EuroBowl 2026:** las [31 listas FINAL](rosters/eurobowl-2026/README.md) (7 tiers) están validadas con `_build_final.py`.
+> **EuroBowl 2026:** las [31 listas](rosters/eurobowl-2026/README.md) (7 tiers) están validadas con `_build_rosters.py`.
 
-**Torneos NAF recientes:** el formato **EuroBowl 2026** (#euro26) usa **Skill Gold** y presupuestos por tier descritos en la [referencia FINAL](source/tiers/eurobowl-2026-final.md). Listas FINAL validadas en [`rosters/eurobowl-2026/`](rosters/eurobowl-2026/README.md). Para presupuestos genéricos Season 3 (p. ej. **~1.000k–1.100k** Unión Élfica, **~1.060k–1.100k** No Muertos, **~1.000k–1.060k** Skavens, **~1.100k** Orcos Negros con paquete de skills, **~1.100k–1.135k** Elegidos del Caos (variantes Big Guy), **~1.150k–1.155k** Nobleza Imperial (1 o 2 Throwers), **~1.150k–1.200k** Hombres Lagarto), ver [`rosters/torneos-season-3/`](rosters/torneos-season-3/). Otros torneos: reglamento del evento + si aplica oro escalado, [`source/tiers/oro-presupuesto.md`](source/tiers/oro-presupuesto.md).
+**Torneos NAF recientes:** el formato **EuroBowl 2026** (#euro26) usa **Skill Gold** y presupuestos por tier descritos en la [referencia](source/tiers/eurobowl-2026.md). Listas validadas en [`rosters/eurobowl-2026/`](rosters/eurobowl-2026/README.md). Para presupuestos genéricos Season 3 (p. ej. **~1.000k–1.100k** Unión Élfica, **~1.060k–1.100k** No Muertos, **~1.000k–1.060k** Skavens, **~1.100k** Orcos Negros con paquete de skills, **~1.100k–1.135k** Elegidos del Caos (variantes Big Guy), **~1.150k–1.155k** Nobleza Imperial (1 o 2 Throwers), **~1.150k–1.200k** Hombres Lagarto), ver [`rosters/torneos-season-3/`](rosters/torneos-season-3/). Otros torneos: reglamento del evento + si aplica oro escalado, [`source/tiers/oro-presupuesto.md`](source/tiers/oro-presupuesto.md).
 
 ---
 
@@ -59,7 +59,7 @@ Toda la referencia de equipos, habilidades, jugadores estrella, tablas y tiers e
 | **Equipos** | [Índice (Equipos)](source/index.md#equipos) · [Carpeta `teams/`](source/teams/) | Posiciones, costes, estadísticas (MV, FU, AG, PS, AR), habilidades y progresión por equipo. |
 | **Habilidades** | [Habilidades](docs/habilidades.md) · [Carpeta `habilidades/`](source/habilidades/) | Descripción oficial por categoría (Agilidad, Fuerza, General, Mutaciones, Pase, Rasgos, Triquiñuelas). |
 | **Jugadores estrella** | [Jugadores estrella](source/jugadores-estrella/README.md) · [Carpeta `jugadores-estrella/`](source/jugadores-estrella/) | Coste, estadísticas, habilidades y equipos para los que juegan. |
-| **Tiers** | [README tiers](source/tiers/README.md) · [EuroBowl 2026 FINAL](source/tiers/eurobowl-2026-final.md) · [Oro / presupuesto](source/tiers/oro-presupuesto.md) | #euro26: Team Budget + Skill Gold + Flowing. Otros: oro por tier genérico en `oro-presupuesto.md`. |
+| **Tiers** | [README tiers](source/tiers/README.md) · [EuroBowl 2026](source/tiers/eurobowl-2026.md) · [Oro / presupuesto](source/tiers/oro-presupuesto.md) | #euro26: Team Budget + Skill Gold + Flowing. Otros: oro por tier genérico en `oro-presupuesto.md`. |
 | **Tablas de juego** | [Tablas de juego](source/tablas/README.md) · [Carpeta `tablas/`](source/tablas/) | Heridas y lesiones, clima, patada inicial, Plegarias a Nuffle, experiencia y SPP. |
 | **Reglamento GW (Season 3)** | [referencias-reglamento-bb3.md](source/referencias-reglamento-bb3.md) · PDF *(copia local, no publicada)* | Texto oficial de reglas (3ª temporada / 2025); contenido © Games Workshop. |
 | **Plantilla y más** | [Plantilla roster](source/plantilla-roster.md) · [Convenciones](source/README.md) | Plantilla para crear rosters y convenciones del repo (coste en k, CTD, etc.). |

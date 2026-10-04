@@ -1,12 +1,12 @@
-# EuroBowl 2026 — Reglamento FINAL (#euro26)
+# EuroBowl 2026 — Reglamento (#euro26)
 
-**EuroBowl 2026 · Living Ruleset — versión FINAL.** Varsovia (Polonia), 17–18 de octubre de 2026. *Blood Bowl Temporada 3 / BB2025.*
+**EuroBowl 2026 · Living Ruleset (versión definitiva).** Varsovia (Polonia), 17–18 de octubre de 2026. *Blood Bowl Temporada 3 / BB2025.*
 
 ## Origen: lámina oficial del organizador
 
-Toda esta página transcribe la **lámina FINAL** publicada por la organización en la [web oficial de EuroBowl](https://www.eurobowl.eu/entrance-options/) («tras semanas de pruebas y consultas con el comité de la EB, los capitanes y la comunidad»). En caso de duda, manda la lámina.
+Toda esta página transcribe la **lámina oficial** publicada por la organización en la [web oficial de EuroBowl](https://www.eurobowl.eu/entrance-options/) («tras semanas de pruebas y consultas con el comité de la EB, los capitanes y la comunidad»). En caso de duda, manda la lámina.
 
-[![Lámina oficial EuroBowl 2026 FINAL](https://81ccd0e8d4.clvaw-cdnwnd.com/5c60ea6ad06557d471522410634695d3/200000051-e21a7e21a9/rules%20final.webp?ph=81ccd0e8d4){ width="420" }](https://81ccd0e8d4.clvaw-cdnwnd.com/5c60ea6ad06557d471522410634695d3/200000051-e21a7e21a9/rules%20final.webp?ph=81ccd0e8d4)
+[![Lámina oficial EuroBowl 2026](https://81ccd0e8d4.clvaw-cdnwnd.com/5c60ea6ad06557d471522410634695d3/200000051-e21a7e21a9/rules%20final.webp?ph=81ccd0e8d4){ width="420" }](https://81ccd0e8d4.clvaw-cdnwnd.com/5c60ea6ad06557d471522410634695d3/200000051-e21a7e21a9/rules%20final.webp?ph=81ccd0e8d4)
 
 *Pulsa la imagen para verla a tamaño completo. Fuente: [lámina «rules final» (eurobowl.eu)](https://81ccd0e8d4.clvaw-cdnwnd.com/5c60ea6ad06557d471522410634695d3/200000051-e21a7e21a9/rules%20final.webp?ph=81ccd0e8d4). Comprobada el 3 de octubre de 2026.*
 
@@ -97,4 +97,4 @@ Solo estos (precios y efectos en [incentivos](../tablas/incentivos.md)):
 
 ## Listas del repositorio
 
-Las [31 listas FINAL](../../rosters/eurobowl-2026/README.md) están **validadas** contra esta página con `rosters/eurobowl-2026/_build_final.py` (presupuestos, Skill Gold, Flowing Funds, cupos, secundarias y stacks, estrellas).
+Las [31 listas](../../rosters/eurobowl-2026/README.md) están **validadas** contra esta página con `rosters/eurobowl-2026/_build_rosters.py` (presupuestos, Skill Gold, Flowing Funds, cupos, secundarias y stacks, estrellas).

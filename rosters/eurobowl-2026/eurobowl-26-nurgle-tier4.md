@@ -1,8 +1,8 @@
-# Nurgle — EuroBowl 2026 FINAL (Tier 4)
+# Nurgle — EuroBowl 2026 (Tier 4)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/nurgle.md`](../../source/teams/nurgle.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/nurgle.md`](../../source/teams/nurgle.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -67,8 +67,6 @@
 - **[Tentáculos](../../source/habilidades/mutaciones.md)** (*Tentacles* · Mutaciones · Activa): Rival que **esquiva, brinca o salta** desde su zona de defensa: **1D6 + FU tuya − FU rival**; **≥6** o **6 natural** = no sale y **termina activación**; **≤5** o **1 natural** = sin efecto. **Solo uno** por intento de salida.
 
 <!-- habilidades-roster:fin -->
-
-
 
 
 ## Skill Gold

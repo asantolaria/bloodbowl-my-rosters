@@ -1,10 +1,10 @@
-# Gnomos — EuroBowl 2026 FINAL (Tier 6)
+# Gnomos — EuroBowl 2026 (Tier 6)
 
 ![Gnomos](../../source/images/equipos/gnomos.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/gnomos.md`](../../source/teams/gnomos.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/gnomos.md`](../../source/teams/gnomos.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA); el tier 6 no cambia en la FINAL y la lista se mantiene igual.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar); el tier 6 no cambia en el reglamento actual y la lista se mantiene igual.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -75,8 +75,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -99,4 +97,4 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 
 - Cinco rerolls a 50k: el equipo depende de repetir tiradas.
 - Esquivar en siete gnomos y Ojo de halcón en un Hombre Árbol para lanzar compañeros.
-- Sin cambios frente a la BETA: el tier 6 conserva las cifras (1.140k / 240k / 40k). Los 40k de Flowing van al Skill Gold.
+- Sin cambios frente al reglamento de abril: el tier 6 conserva las cifras (1.140k / 240k / 40k). Los 40k de Flowing van al Skill Gold.

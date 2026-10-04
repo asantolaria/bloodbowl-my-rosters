@@ -1,10 +1,10 @@
-# Nobleza Imperial — EuroBowl 2026 FINAL (Tier 5)
+# Nobleza Imperial — EuroBowl 2026 (Tier 5)
 
 ![Nobleza Imperial](../../source/images/equipos/nobleza-imperial.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/nobleza-imperial.md`](../../source/teams/nobleza-imperial.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/nobleza-imperial.md`](../../source/teams/nobleza-imperial.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL (sube de tier 4 a tier 5).
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual (sube de tier 4 a tier 5).
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -68,8 +68,6 @@
 - **[Zafarse](../../source/habilidades/general.md)** (*Fend* · General · Activa): Si es **empujado** por Placaje **contra él**, el rival **no** puede **impulso**. **No** contra **Bola con cadena** ni **Imparable** en **Penetración**.
 
 <!-- habilidades-roster:fin -->
-
-
 
 
 ## Skill Gold

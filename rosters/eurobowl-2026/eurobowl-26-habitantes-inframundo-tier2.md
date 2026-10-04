@@ -1,10 +1,10 @@
-# Habitantes del Inframundo — EuroBowl 2026 FINAL (Tier 2)
+# Habitantes del Inframundo — EuroBowl 2026 (Tier 2)
 
 ![Habitantes del Inframundo](../../source/images/equipos/habitantes-inframundo.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/habitantes-inframundo.md`](../../source/teams/habitantes-inframundo.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/habitantes-inframundo.md`](../../source/teams/habitantes-inframundo.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), ajustada con el cambio que propone el propio AndyDavo.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), ajustada con el cambio que propone el propio AndyDavo.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -78,8 +78,6 @@
 - **[Solitario](../../source/habilidades/rasgos.md)** (*Loner* · Rasgo · Pasiva (obligatoria)): Para usar **Segunda oportunidad**: **1D6** vs número entre paréntesis; si falla **no** repite pero **gasta** el reroll.
 
 <!-- habilidades-roster:fin -->
-
-
 
 
 ## Skill Gold

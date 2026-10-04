@@ -1,8 +1,8 @@
-# Enanos del Caos — EuroBowl 2026 FINAL (Tier 5)
+# Enanos del Caos — EuroBowl 2026 (Tier 5)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/enanos-del-caos.md`](../../source/teams/enanos-del-caos.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/enanos-del-caos.md`](../../source/teams/enanos-del-caos.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA); mismo tier y presupuesto en la FINAL, se mantiene sin cambios.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar); mismo tier y presupuesto en el reglamento actual, se mantiene sin cambios.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -70,8 +70,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **2/3**.
@@ -91,4 +89,4 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **2/3**.
 
 - Bull Centaurs con stack Abrirse paso + Forcejear: corredores FU4 difíciles de parar.
 - Defensa en Minotauro y tres Blockers; Golpe mortífero en el cuarto. Los Flamesmith aportan Exhalar fuego.
-- Sin cambios: tier 5 en BETA y en FINAL (1120k/220k/30k).
+- Sin cambios: tier 5 en el reglamento de abril y en el actual (1120k/220k/30k).

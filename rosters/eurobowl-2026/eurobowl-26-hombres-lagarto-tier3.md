@@ -1,10 +1,10 @@
-# Hombres Lagarto — EuroBowl 2026 FINAL (Tier 3)
+# Hombres Lagarto — EuroBowl 2026 (Tier 3)
 
 ![Hombres Lagarto](../../source/images/equipos/hombres-lagarto.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/hombres-lagarto.md`](../../source/teams/hombres-lagarto.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -64,8 +64,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -83,5 +81,5 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 ## Notas de la build
 
 - Seis Saurios: cuatro con Placar, uno con Forcejear y uno con Furia para limpiar el campo.
-- Sin cambios respecto a la build de AndyDavo: el Tier 3 FINAL mantiene 1.080k/160k y los 30k de Flowing cubren el exceso del equipo (1.110k).
+- Sin cambios respecto a la build de AndyDavo: el Tier 3 actual mantiene 1.080k/160k y los 30k de Flowing cubren el exceso del equipo (1.110k).
 - Solo 11 jugadores: el apotecario es imprescindible.

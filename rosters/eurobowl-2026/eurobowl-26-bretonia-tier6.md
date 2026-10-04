@@ -1,10 +1,10 @@
-# Bretonia — EuroBowl 2026 FINAL (Tier 6)
+# Bretonia — EuroBowl 2026 (Tier 6)
 
 ![Bretonia](../../source/images/equipos/bretonia.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/bretonia.md`](../../source/teams/bretonia.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/bretonia.md`](../../source/teams/bretonia.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -65,8 +65,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **2/3**.
@@ -85,5 +83,5 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **2/3**.
 ## Notas de la build
 
 - Los seis caballeros llevan el peso: Defensa en los del Grial y stack Placar + Esquivar en los Receptores.
-- Cambio frente a la BETA: Bretonia pasa al tier 6 (+20k de equipo y +20k de Skill Gold). Los 30k de Flowing Funds que sobran pagan Placar para un Escudero.
+- Cambio frente al reglamento de abril: Bretonia pasa al tier 6 (+20k de equipo y +20k de Skill Gold). Los 30k de Flowing Funds que sobran pagan Placar para un Escudero.
 - Los 20k de equipo sobrantes van a 2 animadoras: no alcanzan para un cuarto reroll.

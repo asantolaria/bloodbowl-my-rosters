@@ -1,10 +1,10 @@
-# Elfos Silvanos — EuroBowl 2026 FINAL (Tier 1)
+# Elfos Silvanos — EuroBowl 2026 (Tier 1)
 
 ![Elfos Silvanos](../../source/images/equipos/elfos-silvanos.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/elfos-silvanos.md`](../../source/teams/elfos-silvanos.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/elfos-silvanos.md`](../../source/teams/elfos-silvanos.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -64,8 +64,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -83,4 +81,4 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 ## Notas de la build
 
 - Dos Wardancers (Placaje defensivo y Robar balón) para defender; Catcher con Echarse a un lado y Thrower con Líder.
-- Cambio FINAL: con 1070k el equipo (1065k) ya cabe sin Flowing, así que los 10k de Flowing pasan a Skill Gold: un Línea cambia Forcejear por Placar.
+- Cambio: con 1070k el equipo (1065k) ya cabe sin Flowing, así que los 10k de Flowing pasan a Skill Gold: un Línea cambia Forcejear por Placar.

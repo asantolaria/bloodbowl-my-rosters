@@ -1,10 +1,10 @@
-# Alianza del Viejo Mundo — EuroBowl 2026 FINAL (Tier 1)
+# Alianza del Viejo Mundo — EuroBowl 2026 (Tier 1)
 
 ![Alianza del Viejo Mundo](../../source/images/equipos/alianza-viejo-mundo.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/alianza-viejo-mundo.md`](../../source/teams/alianza-viejo-mundo.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/alianza-viejo-mundo.md`](../../source/teams/alianza-viejo-mundo.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -73,8 +73,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -92,4 +90,4 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 
 - Núcleo enano (3 Blockers + Blitzer con Defensa) y Hombre Árbol para aguantar; Humano Blitzer con Golpe mortífero para pegar.
 - Catcher con Placar y Thrower con Líder (3.ª segunda oportunidad efectiva).
-- Cambio FINAL: el presupuesto sube de 1060k a 1070k; los 15k libres pagan un ayudante del entrenador. Los 10k de Flowing siguen en Skill Gold.
+- Cambio: el presupuesto sube de 1060k a 1070k; los 15k libres pagan un ayudante del entrenador. Los 10k de Flowing siguen en Skill Gold.

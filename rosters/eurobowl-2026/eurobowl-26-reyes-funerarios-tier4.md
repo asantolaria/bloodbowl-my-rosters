@@ -1,10 +1,10 @@
-# Reyes Funerarios — EuroBowl 2026 FINAL (Tier 4)
+# Reyes Funerarios — EuroBowl 2026 (Tier 4)
 
 ![Reyes Funerarios](../../source/images/equipos/reyes-funerarios.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/reyes-funerarios.md`](../../source/teams/reyes-funerarios.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/reyes-funerarios.md`](../../source/teams/reyes-funerarios.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA); mismo tier y presupuesto en la FINAL, se mantiene sin cambios.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar); mismo tier y presupuesto en el reglamento actual, se mantiene sin cambios.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -64,8 +64,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -86,4 +84,4 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 
 - Cuatro Guardianes (tres con Defensa, uno con Golpe mortífero) forman el muro; Regeneración en todo el equipo y sin apotecario (Señores de los No Muertos).
 - Placar en los dos Throwers para que el portador aguante; los 30k de Flowing van íntegros al Skill Gold.
-- Sin cambios respecto a la build de AndyDavo: el tier 4 conserva 1100k/190k/30k en la FINAL.
+- Sin cambios respecto a la build de AndyDavo: el tier 4 conserva 1100k/190k/30k en el reglamento actual.

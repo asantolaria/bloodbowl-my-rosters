@@ -1,10 +1,10 @@
-# Rosters — EuroBowl 2026 FINAL (#euro26)
+# Rosters — EuroBowl 2026 (#euro26)
 
-Listas para la copa NAF **EuroBowl 2026** (17–18 de octubre de 2026, Varsovia) según el reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md) (7 tiers). **Blood Bowl Temporada 3 / BB2025.**
+Listas para la copa NAF **EuroBowl 2026** (17–18 de octubre de 2026, Varsovia) según el [reglamento](../../source/tiers/eurobowl-2026.md) (7 tiers). **Blood Bowl Temporada 3 / BB2025.**
 
-**Origen de las reglas:** [lámina oficial FINAL del organizador](https://81ccd0e8d4.clvaw-cdnwnd.com/5c60ea6ad06557d471522410634695d3/200000051-e21a7e21a9/rules%20final.webp?ph=81ccd0e8d4) ([eurobowl.eu](https://www.eurobowl.eu/entrance-options/)), transcrita en [EuroBowl 2026 FINAL](../../source/tiers/eurobowl-2026-final.md).
+**Origen de las reglas:** [lámina oficial del organizador](https://81ccd0e8d4.clvaw-cdnwnd.com/5c60ea6ad06557d471522410634695d3/200000051-e21a7e21a9/rules%20final.webp?ph=81ccd0e8d4) ([eurobowl.eu](https://www.eurobowl.eu/entrance-options/)), transcrita en [EuroBowl 2026](../../source/tiers/eurobowl-2026.md).
 
-Cada lista está **validada** con [`_build_final.py`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/rosters/eurobowl-2026/_build_final.py): presupuesto de equipo, Skill Gold y Flowing Funds del tier, cupos de cada posición, categoría primaria/secundaria de cada avance, máx. 3 secundarias y 3 stacks, estrellas y regla de Insignificantes.
+Cada lista está **validada** con [`_build_rosters.py`](https://github.com/asantolaria/bloodbowl-my-rosters/blob/main/rosters/eurobowl-2026/_build_rosters.py): presupuesto de equipo, Skill Gold y Flowing Funds del tier, cupos de cada posición, categoría primaria/secundaria de cada avance, máx. 3 secundarias y 3 stacks, estrellas y regla de Insignificantes.
 
 | Tier | Equipo | Skill Gold | Flowing | Listas |
 |------|--------|-----------|---------|--------|
@@ -18,16 +18,16 @@ Cada lista está **validada** con [`_build_final.py`](https://github.com/asantol
 
 ## Origen de las builds
 
-- **Base:** capturas del builder del vídeo [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptadas al presupuesto FINAL (cada lista explica el cambio en «Notas de la build»).
+- **Base:** capturas del builder del vídeo [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptadas al presupuesto actual (cada lista explica el cambio en «Notas de la build»).
 - **Ajustes:** [Artemis Black — Road to Eurobowl 2026](https://www.youtube.com/@ArtemisBlackBB) (sept. 2026) en Altos Elfos, Humanos y Unión Élfica.
 - **Goblins:** diseño propio (sin captura).
 - Inventario completo de fuentes: [fuentes de rosters](../../source/referencias-rosters-torneos.md).
 
 !!! warning "Antes del torneo"
-    Listas **válidas en cifras** según la lámina FINAL (incentivos y estrellas incluidos), sin revisión táctica propia.
+    Listas **válidas en cifras** según la lámina oficial (incentivos y estrellas incluidos), sin revisión táctica propia.
 
 ## Cómo modificar una lista
 
-1. Editar el equipo en `_final_data_g1.py` … `_final_data_g4.py` (posiciones y habilidades con los nombres exactos de `source/teams/` y `source/habilidades/`).
-2. Validar: `python3 rosters/eurobowl-2026/_build_final.py` (o `--check <slug>`).
-3. Generar los `.md`: `python3 rosters/eurobowl-2026/_build_final.py --write`.
+1. Editar el equipo en `_datos_g1.py` … `_datos_g4.py` (posiciones y habilidades con los nombres exactos de `source/teams/` y `source/habilidades/`).
+2. Validar: `python3 rosters/eurobowl-2026/_build_rosters.py` (o `--check <slug>`).
+3. Generar los `.md`: `python3 rosters/eurobowl-2026/_build_rosters.py --write`.

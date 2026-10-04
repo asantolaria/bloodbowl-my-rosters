@@ -1,10 +1,10 @@
-# No Muertos — EuroBowl 2026 FINAL (Tier 3)
+# No Muertos — EuroBowl 2026 (Tier 3)
 
 ![No Muertos](../../source/images/equipos/no-muertos.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/no-muertos.md`](../../source/teams/no-muertos.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/no-muertos.md`](../../source/teams/no-muertos.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -63,8 +63,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -82,5 +80,5 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 ## Notas de la build
 
 - Momias con Defensa, un Caballero con Golpe mortífero y otro con Defensa, Necrófagos con Forcejear: avances de AndyDavo intactos.
-- Pasa de Tier 2 a Tier 3: 70k más de equipo y 20k más de Skill Gold que cubren el exceso de la BETA.
+- Pasa de Tier 2 a Tier 3: 70k más de equipo y 20k más de Skill Gold que cubren el exceso que tenía con el reglamento de abril.
 - El presupuesto extra paga una cuarta segunda oportunidad (70k) con Flowing; equipo lento sin apotecario que vive de las RR.

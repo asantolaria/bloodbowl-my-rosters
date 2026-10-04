@@ -2,7 +2,7 @@
 
 Datos de referencia según [NuffleZone.com](https://nufflezone.com/) (Blood Bowl 3ª Temporada, 11-2025).
 
-**Revisión 08/09/2026:** [hallazgos y prioridades](revision-2026-09-08.md) · [EuroBowl 2026 FINAL](tiers/eurobowl-2026-final.md). Las fichas y rosters conservan discrepancias pendientes; su fecha no certifica que incorporen todas las actualizaciones GW/NAF.
+**Revisión 08/09/2026:** [hallazgos y prioridades](revision-2026-09-08.md) · [EuroBowl 2026](tiers/eurobowl-2026.md). Las fichas y rosters conservan discrepancias pendientes; su fecha no certifica que incorporen todas las actualizaciones GW/NAF.
 
 ## Índice unificado
 

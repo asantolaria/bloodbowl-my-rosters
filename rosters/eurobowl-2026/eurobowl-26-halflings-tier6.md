@@ -1,10 +1,10 @@
-# Halflings — EuroBowl 2026 FINAL (Tier 6)
+# Halflings — EuroBowl 2026 (Tier 6)
 
 ![Halflings](../../source/images/equipos/halflings.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/halflings.md`](../../source/teams/halflings.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/halflings.md`](../../source/teams/halflings.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA) (opción Veterans), adaptada al presupuesto FINAL.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar) (opción Veterans), adaptada al presupuesto actual.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -81,8 +81,6 @@
 - **[¡Tronco va!](../../source/habilidades/rasgos.md)** (*Timmm-ber!* · Rasgo · Pasiva): Si **MV ≤ 2**, **+1** por cada compañero **desmarcado y en pie** adyacente al **intentar levantarse**; **1 natural** sigue fallando.
 
 <!-- habilidades-roster:fin -->
-
-
 
 
 ## Skill Gold

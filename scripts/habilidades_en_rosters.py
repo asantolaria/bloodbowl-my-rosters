@@ -22,6 +22,20 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 import audit_rosters as audit  # noqa: E402
 
+def escribir(path, texto, newline=""):
+    """Escribe con reintentos: en WSL, /mnt/c puede fallar (EINVAL) si Windows tiene el fichero abierto."""
+    import time
+    for intento in range(8):
+        try:
+            with open(path, "w", encoding="utf-8", newline=newline) as fh:
+                fh.write(texto)
+            return
+        except OSError:
+            if intento == 7:
+                raise
+            time.sleep(0.5)
+
+
 START, END = "<!-- habilidades-roster:inicio -->", "<!-- habilidades-roster:fin -->"
 CATS = {"general": "General", "agilidad": "Agilidad", "fuerza": "Fuerza", "pase": "Pase",
         "triquinuelas": "Triquiñuelas", "mutaciones": "Mutaciones", "rasgos": "Rasgo"}
@@ -178,7 +192,7 @@ def process(path, dry=False):
     new = lines[:ins] + [""] + section(path, skills) + [""] + lines[ins:]
     out = nl.join(new)
     if not dry:
-        open(path, "w", encoding="utf-8", newline="").write(out)
+        escribir(path, out)
     return len(skills)
 
 

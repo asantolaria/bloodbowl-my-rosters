@@ -1,8 +1,8 @@
-# Vampiros — EuroBowl 2026 FINAL (Tier 3)
+# Vampiros — EuroBowl 2026 (Tier 3)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/vampiros.md`](../../source/teams/vampiros.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/vampiros.md`](../../source/teams/vampiros.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -63,8 +63,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -83,5 +81,5 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 ## Notas de la build
 
 - Seis vampiros sin Vargheist; siete Thralls para alimentar la Sed de sangre.
-- Sin cambios: el Tier 3 FINAL coincide con la BETA y los 30k de Flowing cubren 20k de equipo y 10k de Skill Gold.
+- Sin cambios: el Tier 3 actual coincide con el de abril y los 30k de Flowing cubren 20k de equipo y 10k de Skill Gold.
 - Sin apotecario (no cabe); Regeneración en todos los vampiros.

@@ -1,10 +1,10 @@
-# Enanos — EuroBowl 2026 FINAL (Tier 5)
+# Enanos — EuroBowl 2026 (Tier 5)
 
 ![Enanos](../../source/images/equipos/enanos.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/enanos.md`](../../source/teams/enanos.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/enanos.md`](../../source/teams/enanos.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), adaptada al presupuesto FINAL (sube de tier 4 a tier 5).
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), adaptada al presupuesto actual (sube de tier 4 a tier 5).
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -64,8 +64,6 @@
 - **[Romper defensas](../../source/habilidades/agilidad.md)** (*Defensive* · Agilidad · Activa): En **turnos rivales**, rivales que esté **marcando** no pueden usar **Defensa** ni **Meter la bota**.
 
 <!-- habilidades-roster:fin -->
-
-
 
 
 ## Skill Gold

@@ -1,13 +1,13 @@
-"""Genera y valida los rosters EuroBowl 2026 (reglamento FINAL, 7 tiers).
+"""Genera y valida los rosters EuroBowl 2026 (reglamento, 7 tiers).
 
 Uso:
-    python3 rosters/eurobowl-2026/_build_final.py            # valida todos los equipos
-    python3 rosters/eurobowl-2026/_build_final.py --check X  # valida solo el slug X
-    python3 rosters/eurobowl-2026/_build_final.py --write    # valida y escribe los .md
+    python3 rosters/eurobowl-2026/_build_rosters.py            # valida todos los equipos
+    python3 rosters/eurobowl-2026/_build_rosters.py --check X  # valida solo el slug X
+    python3 rosters/eurobowl-2026/_build_rosters.py --write    # valida y escribe los .md
 
-Los datos de cada lista están en `_final_data.py`. Posiciones, costes, Pri/Sec y rerolls
+Los datos de cada lista están en `_datos.py`. Posiciones, costes, Pri/Sec y rerolls
 se leen de `source/teams/`; categoría y élite de cada habilidad, de `source/habilidades/`.
-Reglas: `source/tiers/eurobowl-2026-final.md`.
+Reglas: `source/tiers/eurobowl-2026.md`.
 """
 from __future__ import annotations
 
@@ -19,8 +19,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(os.path.dirname(HERE))
 sys.path.insert(0, HERE)
 
-# Tier FINAL: (presupuesto equipo, Skill Gold, Flowing Funds) en k
-FINAL = {1: (1070, 120, 10), 2: (1070, 140, 20), 3: (1080, 160, 30), 4: (1100, 190, 30),
+# Tiers EuroBowl 2026: (presupuesto equipo, Skill Gold, Flowing Funds) en k
+TIERS = {1: (1070, 120, 10), 2: (1070, 140, 20), 3: (1080, 160, 30), 4: (1100, 190, 30),
          5: (1120, 220, 30), 6: (1140, 240, 40), 7: (1150, 270, 50)}
 TIER = {
     "alianza-viejo-mundo": 1, "orcos": 1, "elfos-silvanos": 1,
@@ -32,7 +32,7 @@ TIER = {
     "ogros": 7,
 }
 # Recargo en Skill Gold por estrella: tier -> (Veteran, Legend); tiers 1-4 no permiten estrellas
-STAR_TAX = {5: (50, 100), 6: (40, 80), 7: (40, 80)}  # lámina FINAL
+STAR_TAX = {5: (50, 100), 6: (40, 80), 7: (40, 80)}  # lámina oficial
 # Incentivos: nombre -> (coste, coste con Sobornos y corrupción)
 INDUC = {
     "Sobornos": (100, 50),
@@ -99,7 +99,7 @@ def build(team):
     slug = team["slug"]
     tier = TIER[slug]
     rows, rr, apo_ok, sac, title, thimble = team_sheet(slug)
-    b, sg, ff = FINAL[tier]
+    b, sg, ff = TIERS[tier]
     errs = []
     players, count = [], {}
     for name, n, skills in team["players"]:
@@ -156,11 +156,11 @@ def gp(k):
 
 def emit(team, r):
     slug, tier, name = r["slug"], r["tier"], team.get("name", r["title"])
-    L = [f"# {name} — EuroBowl 2026 FINAL (Tier {tier})", ""]
+    L = [f"# {name} — EuroBowl 2026 (Tier {tier})", ""]
     img = team.get("img")
     if img:
         L += [f"![{name}](../../source/images/equipos/{img})", ""]
-    L += [f"> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/{slug}.md`](../../source/teams/{slug}.md). Generado con `_build_final.py`.", ">",
+    L += [f"> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/{slug}.md`](../../source/teams/{slug}.md). Generado con `_build_rosters.py`.", ">",
           f"> **Origen de la build:** {team['fuente']}", ">",
           "> **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.", ""]
     if team.get("nota"):
@@ -205,8 +205,13 @@ def emit(team, r):
     return "\n".join(L)
 
 
+sys.path.insert(0, os.path.join(REPO, "scripts"))
+import habilidades_en_rosters  # noqa: E402  sección «Habilidades del roster»
+habilidades_en_rosters_escribir = lambda p, t: habilidades_en_rosters.escribir(p, t, newline="\n")  # noqa: E731
+
+
 def main():
-    from _final_data import TEAMS
+    from _datos import TEAMS
     only = sys.argv[sys.argv.index("--check") + 1] if "--check" in sys.argv else None
     bad = 0
     for t in TEAMS:
@@ -225,9 +230,7 @@ def main():
         bad += bool(r["errs"])
         if "--write" in sys.argv and not r["errs"]:
             p = os.path.join(HERE, f"eurobowl-26-{t['slug']}-tier{r['tier']}.md")
-            open(p, "w", encoding="utf-8", newline="\n").write(emit(t, r))
-            sys.path.insert(0, os.path.join(REPO, "scripts"))
-            import habilidades_en_rosters  # sección «Habilidades del roster»
+            habilidades_en_rosters_escribir(p, emit(t, r))
             habilidades_en_rosters.process(p)
     sys.exit(1 if bad else 0)
 

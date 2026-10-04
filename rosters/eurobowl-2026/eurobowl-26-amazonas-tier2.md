@@ -1,10 +1,10 @@
-# Amazonas — EuroBowl 2026 FINAL (Tier 2)
+# Amazonas — EuroBowl 2026 (Tier 2)
 
 ![Amazonas](../../source/images/equipos/amazonas.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/amazonas.md`](../../source/teams/amazonas.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/amazonas.md`](../../source/teams/amazonas.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA); mismo tier y presupuesto en FINAL, sin cambios.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar); mismo tier y presupuesto en el reglamento actual, sin cambios.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -66,8 +66,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -86,4 +84,4 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 
 - Placar en las Pirañas y en una Jaguar; Defensa en la otra Jaguar; Líder en la Pitón.
 - 13 jugadores con Esquivar de base; 2 ayudantes del entrenador.
-- Tier 2 igual en BETA y FINAL (1070k / 140k / 20k): la lista se mantiene.
+- Tier 2 igual en el reglamento de abril y en el actual (1070k / 140k / 20k): la lista se mantiene.

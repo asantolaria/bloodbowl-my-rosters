@@ -1,10 +1,10 @@
-# Altos Elfos — EuroBowl 2026 FINAL (Tier 3)
+# Altos Elfos — EuroBowl 2026 (Tier 3)
 
 ![Altos Elfos](../../source/images/equipos/altos-elfos.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/altos-elfos.md`](../../source/teams/altos-elfos.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/altos-elfos.md`](../../source/teams/altos-elfos.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), con el ajuste de [Artemis Black — Road to Eurobowl 2026](https://www.youtube.com/watch?v=yI7pBwzeecE) (sept. 2026).
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), con el ajuste de [Artemis Black — Road to Eurobowl 2026](https://www.youtube.com/watch?v=yI7pBwzeecE) (sept. 2026).
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -64,8 +64,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **1/3**.
@@ -84,4 +82,4 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **1/3**.
 
 - Esquivar en los 2 Dragon Warriors y los 2 White Lions, Líder en el Phoenix; 2 segundas oportunidades + apotecario + ayudante (patrón de Artemis Black).
 - Cambio: el stack del White Lion pasa de Esquivar + Robar balón a Esquivar + Placaje defensivo, la preferencia de Artemis Black; mismo coste (60k).
-- Tier 3 igual en BETA y FINAL: presupuesto y Skill Gold idénticos (Flowing 30k → Skill Gold).
+- Tier 3 igual en el reglamento de abril y en el actual: presupuesto y Skill Gold idénticos (Flowing 30k → Skill Gold).

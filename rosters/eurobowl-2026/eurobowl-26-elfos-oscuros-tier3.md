@@ -1,10 +1,10 @@
-# Elfos Oscuros — EuroBowl 2026 FINAL (Tier 3)
+# Elfos Oscuros — EuroBowl 2026 (Tier 3)
 
 ![Elfos Oscuros](../../source/images/equipos/elfos-oscuros.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/elfos-oscuros.md`](../../source/teams/elfos-oscuros.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/elfos-oscuros.md`](../../source/teams/elfos-oscuros.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA); mismo tier y presupuesto en FINAL, sin cambios.
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar); mismo tier y presupuesto en el reglamento actual, sin cambios.
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -63,8 +63,6 @@
 <!-- habilidades-roster:fin -->
 
 
-
-
 ## Skill Gold
 
 Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
@@ -85,4 +83,4 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **0/3**.
 
 - Esquivar en Blitzers y Asesino; Forcejear en Brujas y 2 Líneas; Runner con Líder.
 - Los 30k de Flowing van íntegros a Skill Gold (190k); sobran 5k de equipo.
-- Tier 3 igual en BETA y FINAL: la lista se mantiene.
+- Tier 3 igual en el reglamento de abril y en el actual: la lista se mantiene.

@@ -1,10 +1,10 @@
-# Unión Élfica — EuroBowl 2026 FINAL (Tier 5)
+# Unión Élfica — EuroBowl 2026 (Tier 5)
 
 ![Unión Élfica](../../source/images/equipos/union-elfica.webp)
 
-> **#euro26 · reglamento [FINAL](../../source/tiers/eurobowl-2026-final.md).** Posiciones y costes: [`source/teams/union-elfica.md`](../../source/teams/union-elfica.md). Generado con `_build_final.py`.
+> **#euro26 · [reglamento EuroBowl 2026](../../source/tiers/eurobowl-2026.md).** Posiciones y costes: [`source/teams/union-elfica.md`](../../source/teams/union-elfica.md). Generado con `_build_rosters.py`.
 >
-> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, BETA), ajustada con [Artemis Black — Road to Eurobowl: Elven Union & HE](https://www.youtube.com/watch?v=GgfTtYKR3Ec) (sep. 2026, roster real de selección).
+> **Origen de la build:** [AndyDavo — Eurobowl Ruleset Review 2026](https://www.youtube.com/watch?v=wrmKRBFNqcM) (abr. 2026, reglamento preliminar), ajustada con [Artemis Black — Road to Eurobowl: Elven Union & HE](https://www.youtube.com/watch?v=GgfTtYKR3Ec) (sep. 2026, roster real de selección).
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
@@ -64,8 +64,6 @@
 - **[Recepción heroica](../../source/habilidades/agilidad.md)** (*Diving Catch* · Agilidad · Activa): Puede intentar atrapar si el balón **cae** en su zona de defensa por **pase**, **patada inicial** o **devolución** (**no** si solo **rebota** ahí). **+1** al AG al atrapar como parte de un **Pase** si está en la **casilla objetivo**.
 
 <!-- habilidades-roster:fin -->
-
-
 
 
 ## Skill Gold

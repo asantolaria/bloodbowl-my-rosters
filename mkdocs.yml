@@ -145,7 +145,7 @@ nav:
       - Experiencia y PE: source/tablas/experiencia-y-spp.md
       - Juego igualado y exhibición: source/tablas/juego-igualado.md
       - Tiers y presupuestos: source/tiers/README.md
-      - EuroBowl 2026 FINAL: source/tiers/eurobowl-2026-final.md
+      - Reglamento EuroBowl 2026: source/tiers/eurobowl-2026.md
       - Oro por tier (genérico): source/tiers/oro-presupuesto.md
       - Blood Bowl Sevens: source/tablas/sevens.md
       - Copas temáticas (Spike!): source/tablas/copas-tematicas-spike.md
@@ -153,7 +153,7 @@ nav:
       - rosters/README.md
       - Iniciales 1.000k: rosters/iniciales/README.md
       - Torneos Temporada 3: rosters/torneos-season-3/README.md
-      - EuroBowl 2026 FINAL: rosters/eurobowl-2026/README.md
+      - EuroBowl 2026: rosters/eurobowl-2026/README.md
       - Fuentes de rosters: source/referencias-rosters-torneos.md
       - Plantilla de roster: source/plantilla-roster.md
       - Nombres de equipo: source/nombres-equipos-sugeridos.md
@@ -161,7 +161,6 @@ nav:
       - Glosario oficial: source/glosario-oficial.md
       - Mapa del contenido: source/index.md
       - Reglamento y fuentes: source/referencias-reglamento-bb3.md
-      - Revisión 2026-09-08: source/revision-2026-09-08.md
 
 extra_css:
   - assets/extra.css
