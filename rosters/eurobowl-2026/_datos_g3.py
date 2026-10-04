@@ -68,6 +68,10 @@ TEAMS = [
                   ("Elfo Línea", 1, ["Esquivar"]),
                   ("Elfo Línea", 1, ["Forcejear"]),
                   ("Elfo Línea", 5, [])],
+         # Dorsales de las miniaturas: Blitzers 2 y 5, Catchers 4 y 3, Lanzador 1 (el 11 es el otro Lanzador),
+         # Líneas 6, 7, 8, 9, 10, 12 y 13 (el 13 no tiene miniatura numerada)
+         dorsales=[2, 5, 4, 3, 1, 6, 7, 8, 9, 10, 12, 13],
+         nota="Dorsales de las miniaturas: Lanzador 1 (el 11 es el otro Lanzador), Blitzers 2 y 5, Catchers 3 y 4, Líneas 6, 7, 8, 9, 10 y 12; el 7.º Línea lleva el 13.",
          tactica=["Esquivar en los dos Blitzers y los dos Catchers, y Líder en el Lanzador (con solo 2 rerolls), como en el roster real comentado por Artemis Black.",
                   "Stack Esquivar + Echarse a un lado en un Catcher (Artemis) y Esquivar + Placaje heroico en un Blitzer (AndyDavo).",
                   "Cambio frente a AndyDavo: se sustituyen los stacks Placar + Esquivar y Furia + Forcejear de los Catchers por más Esquivar (también en un Línea); mismo tier y presupuesto."]),

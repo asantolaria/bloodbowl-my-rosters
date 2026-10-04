@@ -8,6 +8,9 @@
 >
 > **Estado competitivo:** válida en cifras; revisión táctica propia pendiente.
 
+!!! note "Nota"
+    Dorsales de las miniaturas: Lanzador 1 (el 11 es el otro Lanzador), Blitzers 2 y 5, Catchers 3 y 4, Líneas 6, 7, 8, 9, 10 y 12; el 7.º Línea lleva el 13.
+
 ## Presupuesto
 
 | Concepto | Disponible | Usado |
@@ -22,18 +25,18 @@
 
 | Nº | Nombre | Posición | Coste | MV | FU | AG | PS | AR | Habilidades | Skill Gold |
 |----|--------|----------|-------|----|----|----|----|----|-------------|------------|
-| 1 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Echarse a un lado, Placar, **Esquivar** | Primaria élite 30k |
-| 2 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Echarse a un lado, Placar, **Esquivar**, **Placaje heroico** | Stack 60k |
-| 3 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de acero, Recepción heroica, **Esquivar**, **Echarse a un lado** | Stack 60k |
-| 4 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de acero, Recepción heroica, **Esquivar** | Primaria élite 30k |
-| 5 | ____ | Elfo Lanzador | 75k | 6 | 3 | 2+ | 2+ | 8+ | Pasar, Pase a lo loco, **Líder** | Primaria 20k |
+| 1 | ____ | Elfo Lanzador | 75k | 6 | 3 | 2+ | 2+ | 8+ | Pasar, Pase a lo loco, **Líder** | Primaria 20k |
+| 2 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Echarse a un lado, Placar, **Esquivar** | Primaria élite 30k |
+| 3 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de acero, Recepción heroica, **Esquivar** | Primaria élite 30k |
+| 4 | ____ | Elfo Catcher | 100k | 8 | 3 | 2+ | 4+ | 8+ | Atrapar, Nervios de acero, Recepción heroica, **Esquivar**, **Echarse a un lado** | Stack 60k |
+| 5 | ____ | Elfo Blitzer | 115k | 7 | 3 | 2+ | 3+ | 9+ | Echarse a un lado, Placar, **Esquivar**, **Placaje heroico** | Stack 60k |
 | 6 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada, **Esquivar** | Primaria élite 30k |
 | 7 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada, **Forcejear** | Primaria 20k |
 | 8 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada | – |
 | 9 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada | – |
 | 10 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada | – |
-| 11 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada | – |
 | 12 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada | – |
+| 13 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada | – |
 
 **Total jugadores:** 12
 
@@ -72,11 +75,11 @@ Un avance por jugador. Secundarias: **0/3** · Stacks: **2/3**.
 
 | Jugador (Nº) | Avance | Tipo | Coste |
 |--------------|--------|------|-------|
-| 1 Elfo Blitzer | Esquivar | Primaria élite | 30.000 |
-| 2 Elfo Blitzer | Esquivar + Placaje heroico | Stack | 60.000 |
-| 3 Elfo Catcher | Esquivar + Echarse a un lado | Stack | 60.000 |
-| 4 Elfo Catcher | Esquivar | Primaria élite | 30.000 |
-| 5 Elfo Lanzador | Líder | Primaria | 20.000 |
+| 1 Elfo Lanzador | Líder | Primaria | 20.000 |
+| 2 Elfo Blitzer | Esquivar | Primaria élite | 30.000 |
+| 3 Elfo Catcher | Esquivar | Primaria élite | 30.000 |
+| 4 Elfo Catcher | Esquivar + Echarse a un lado | Stack | 60.000 |
+| 5 Elfo Blitzer | Esquivar + Placaje heroico | Stack | 60.000 |
 | 6 Elfo Línea | Esquivar | Primaria élite | 30.000 |
 | 7 Elfo Línea | Forcejear | Primaria | 20.000 |
 | **Total** | | | **250.000** |

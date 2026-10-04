@@ -125,10 +125,16 @@ def build(team):
     ind = [(k, n, INDUC[k][1 if (thimble if k == "Chef Maestro Halfling" else sac) else 0]) for k, n in team.get("induc", [])]
     staff = team["rr"] * rr + (50 if team.get("apo") else 0) + 10 * team.get("ac", 0) + 10 * team.get("cheer", 0)
     budget_used = psum + star_cost + staff + sum(n * c for _, n, c in ind)
+    # Dorsales: opcionales (`dorsales`, en el mismo orden que los jugadores); si no, 1, 2, 3…
+    dorsales = team.get("dorsales") or list(range(1, len(players) + 1))
+    if len(dorsales) != len(players) or len(set(dorsales)) != len(dorsales):
+        errs.append(f"dorsales: {len(dorsales)} números (únicos) para {len(players)} jugadores")
+        dorsales = list(range(1, len(players) + 1))
     adv = []
-    for i, p in enumerate(players):
-        cost, kind = advance_cost(p[2], p[1], f"{slug} #{i + 1} {p[0]}")
-        adv.append((i + 1, p, cost, kind))
+    for n, p in zip(dorsales, players):
+        cost, kind = advance_cost(p[2], p[1], f"{slug} #{n} {p[0]}")
+        adv.append((n, p, cost, kind))
+    adv.sort(key=lambda a: a[0])
     tax = sum(STAR_TAX.get(tier, (0, 0))[0 if k == "Veteran" else 1] for _, _, k in stars)
     sg_used = sum(a[2] for a in adv) + tax
     nsec = sum(1 for a in adv if a[3].startswith("Secundaria"))
@@ -177,7 +183,7 @@ def emit(team, r):
         base = "" if row["sk"] in ("–", "-", "") else row["sk"]
         skills = ", ".join(x for x in (base, extra) if x) or "–"
         L.append(f"| {i} | ____ | {pos} | {row['cost']}k | {row['ma']} | {row['st']} | {row['ag']} | {row['pa']} | {row['ar']} | {skills} | {kind + ' ' + str(cost) + 'k' if cost else '–'} |")
-    for j, (sname, scost, kind) in enumerate(r["stars"], len(r["adv"]) + 1):
+    for j, (sname, scost, kind) in enumerate(r["stars"], max(a[0] for a in r["adv"]) + 1):
         L.append(f"| {j} | {sname} | Jugador estrella ({kind}) | {scost}k | | | | | | Ver [jugadores estrella](../../source/jugadores-estrella/README.md) | Recargo {STAR_TAX[tier][0 if kind == 'Veteran' else 1]}k |")
     L += ["", f"**Total jugadores:** {len(r['players']) + len(r['stars'])}", "", "| Concepto | Coste |", "|----------|--------|",
           f"| Jugadores | {gp(r['psum'])} |"]
