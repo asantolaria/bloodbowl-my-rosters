@@ -38,7 +38,7 @@
 | 12 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada | – |
 | 13 | ____ | Elfo Línea | 65k | 6 | 3 | 2+ | 3+ | 8+ | Dejada | – |
 
-**Total jugadores:** 12
+**Total jugadores:** 13
 
 | Concepto | Coste |
 |----------|--------|

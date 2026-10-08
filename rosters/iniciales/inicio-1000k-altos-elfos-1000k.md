@@ -2,11 +2,11 @@
 
 ![Altos Elfos](../../source/images/equipos/altos-elfos.webp)
 
-> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/altos-elfos.md`](../../source/teams/altos-elfos.md) (lista **2026** / 3ª temporada en Nuffle). Reglamento: `reglamento-bb3-season3.pdf` *(copia local, no publicada)*. Con la hoja vigente pueden encajar **2** piezas receptores según costes del roster oficial.
+> **BB 3ª temporada / BB2025.** Roster de inicio a **1.000k** según [`source/teams/altos-elfos.md`](../../source/teams/altos-elfos.md) (lista **2026** / 3ª temporada en Nuffle). Reglamento: `reglamento-bb3-season3.pdf` *(copia local, no publicada)*. 
 
 ## Alineación
 
-*Roster inicial sin habilidades de progresión. Lista **2026** en fuente: White Lion Blitzer → Dragon Warrior → Línea. Sin Thrower para cerrar a 1000k.*
+*Roster inicial sin habilidades de progresión. Lista **2026** en fuente: White Lion Blitzer → Dragon Warrior → Línea. La plantilla mantiene 11 jugadores y tres rerolls.*
 
 | Nº | Nombre | Posición     | Coste | MV | FU | AG | PS | AR | Habilidades |
 |----|--------|--------------|-------|----|----|----|----|----|-------------|
@@ -14,23 +14,23 @@
 | ____ | ____________________ | Alto Elfo White Lion Blitzer | 110k | 7 | 3 | 2+ | 3+ | 9+ | Forcejear, Garras |
 | ____ | ____________________ | Alto Elfo Dragon Warrior | 110k | 8 | 3 | 2+ | 4+ | 9+ | El balón es mío, Equilibrio firme, Placar |
 | ____ | ____________________ | Alto Elfo Dragon Warrior | 110k | 8 | 3 | 2+ | 4+ | 9+ | El balón es mío, Equilibrio firme, Placar |
-| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
-| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
-| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
-| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
-| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
-| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | —  | 9  | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
 
-**Total jugadores:** 10 | **TV:** 1.000k
+**Total jugadores:** 11 | **TV:** 1.000k
 
 **Desglose TV (todo lo que tiene precio):** Referencia de precios: Reroll 50.000 | Apotecario 50.000 | Hinchas 10.000 c/u.
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (2 White Lion 220k, 2 Dragon Warrior 220k, 6 Línea 390k) | 830.000 |
+| Jugadores (2 White Lion 220k, 1 Dragon Warrior 110k, 8 Línea 520k) | 830.000 |
 | Rerolls (3 × 50.000) | 150.000 |
-| Hinchas (2 × 10.000) | 20.000 |
-| **Total TV** | **1.000.000** |
+| | **Total TV** | **1.000.000** |
 
 <!-- habilidades-roster:inicio -->
 ## Habilidades del roster
@@ -52,12 +52,12 @@
 |----------|--------|
 | **Tier NAF** | Tier 1 |
 | **Valoración del equipo (TV)** | 1.000k |
-| **Total plantilla** | 10 jugadores |
+| **Total plantilla** | 11 jugadores |
 | **Tesorería actual** | 0 |
 | **Rerolls** | 3 |
 | **Asistentes de entrenador** | 0 |
 | **Animadoras** | 0 |
-| **Hinchas** | 7 |
+| **Hinchas** | 0 |
 | **Apotecario** | No (incluible como inducement) |
 
 
