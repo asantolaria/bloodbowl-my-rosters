@@ -28,7 +28,7 @@
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (1 Troll 115k, 3 Guerreros Caos 300k, 7 Beastmen 385k) | 790.000 |
+| Jugadores (1 Troll 115k, 3 Guerreros Caos 300k, 7 Beastmen 385k) | 800.000 |
 | Rerolls (3 × 50.000) | 150.000 |
 | Hinchas (5 × 10.000) | 50.000 |
 | **Total TV** | **1.000.000** |

@@ -21,6 +21,7 @@
 | ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
 | ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
 | ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
+| ____ | ____________________ | Alto Elfo Línea | 65k | 6  | 3  | 2+ | 3+ | 9+ | — |
 
 **Total jugadores:** 11 | **TV:** 1.000k
 
@@ -28,7 +29,7 @@
 
 | Concepto | Coste |
 |----------|--------|
-| Jugadores (2 White Lion 220k, 1 Dragon Warrior 110k, 8 Línea 520k) | 830.000 |
+| Jugadores (2 White Lion 220k, 1 Dragon Warrior 110k, 8 Línea 520k) | 850.000 |
 | Rerolls (3 × 50.000) | 150.000 |
 | | **Total TV** | **1.000.000** |
 
